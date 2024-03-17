@@ -18,6 +18,20 @@ app.get("/", (c) => {
     font-family: Arial, sans-serif;
   `
 
+  const footer = css`
+    background-color: #f5f5f5;
+    margin-top: 12px;
+    border-top: 2px solid #000;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+
+    p {
+      margin: 0;
+    }
+  `
   return c.html(
     <html>
       <head>
@@ -48,6 +62,12 @@ app.get("/", (c) => {
             </pre>
             <p>Replace <code>:section</code> with the section name (<code>/vocab/animals</code>)</p>
           </section>
+          <footer class={footer}>
+            <p>
+              Made by <a href="https://github.com/selmetwa" target="_blank">Sherif Elmetwally</a>
+            </p>
+            <a href="https://github.com/selmetwa/egyptian-arabic-vocab" target="_blank">Source Code</a>
+          </footer>
         </main>
       </body>
     </html>
