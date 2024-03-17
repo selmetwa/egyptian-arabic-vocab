@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import pluralize from "pluralize";
 import fs from "fs";
 
 // nouns for now
@@ -8,7 +9,7 @@ const pages = [
   'time', 'work', 'm_gen', 'm_gen2', 'm_gen3', 'm_crime', 'm_govt', 'm_war',
 ]
 
-const scrapePage = async(page, index) => {
+const scrapePage = async(page) => {
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: null,
@@ -19,31 +20,6 @@ const scrapePage = async(page, index) => {
   await webpage.goto(`https://arabic.desert-sky.net/${page}.html`, {
     waitUntil: "domcontentloaded",
   });
-
-  const title = await webpage.title();
-
-  function cleanAndConvertToSnakeCase(inputText, wordsToRemove) {
-    const nonEnglishRegex = /[^a-zA-Z\s]/g;
-
-    // Remove non-English text
-    let cleanedText = inputText.replace(nonEnglishRegex, '');
-
-    // Remove specified words
-    wordsToRemove.forEach(word => {
-      const wordRegex = new RegExp('\\b' + word + '\\b', 'gi');
-      cleanedText = cleanedText.replace(wordRegex, '');
-    });
-
-    // Convert to snake case
-    let snakeCaseText = cleanedText.toLowerCase().replace(/\s/g, '_');
-
-    // Remove leading and trailing underscores
-    snakeCaseText = snakeCaseText.replace(/^_+|_+$/g, '');
-
-    return snakeCaseText;
-  }
-
-  const anglifiedTitle = cleanAndConvertToSnakeCase(title, ['Arabic', 'vocabulary']);
 
   // Wait for the table to be rendered
   await webpage.waitForSelector('table');
@@ -91,7 +67,7 @@ const scrapePage = async(page, index) => {
     return ''
   }
 
-  function generateEgyptianArabic(standardArabic, egyptianArabic) {
+  function generateEgyptianArabic(egyptianArabic, standardArabic) {
     if (egyptianArabic && !isEmpty(egyptianArabic.trim())) {
       return egyptianArabic.trim().replace(/\([^()]*\)/g, '');
     }
@@ -103,7 +79,7 @@ const scrapePage = async(page, index) => {
     return ''
   }
 
-  function generateEgyptianArabicTransliteration(standardArabic, egyptianArabic) {
+  function generateEgyptianArabicTransliteration(egyptianArabic, standardArabic) {
     if (egyptianArabic && !isEmpty(egyptianArabic.trim())) {
       return egyptianArabic.trim().replace(/\([^()]*\)/g, '');
     }
@@ -116,7 +92,7 @@ const scrapePage = async(page, index) => {
   }
 
   for (const row of data) {
-    const english = row[0];
+    const english = row[0].split(',')[0];
     const standardArabic = row[1];
     const standardArabicTransliteration = row[2];
     const egyptianArabic = row[3];
@@ -140,8 +116,8 @@ const scrapePage = async(page, index) => {
       let splitEgyptianArabic = egyptianArabic && egyptianArabic.split("(ج)");
       let splitEgyptianArabicTransliteration = egyptianArabicTransliteration && egyptianArabicTransliteration.split("(pl.)");
 
-      firstObj.english = english;
-      firstObj.standardArabic = generateStandardArabic((splitEgyptianArabic && splitStandardArabic[0]), (splitEgyptianArabic && splitStandardArabic[0]));
+      firstObj.english = english.replace(/\([^()]*\)/g, '');
+      firstObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[0]), (splitEgyptianArabic && splitStandardArabic[0]));
       firstObj.standardArabicTransliteration = generateStandardArabicTransliteration(
         (splitStandardArabicTransliteration && splitStandardArabicTransliteration[0]),
         (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[0])
@@ -153,7 +129,7 @@ const scrapePage = async(page, index) => {
       );
 
       // assign plural values
-      secondObj.english = english + 's';
+      secondObj.english = pluralize(english.replace(/\([^()]*\)/g, ''));
       secondObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[1]), (splitEgyptianArabic && splitEgyptianArabic[1]));
       secondObj.standardArabicTransliteration = generateStandardArabicTransliteration(
         (splitStandardArabicTransliteration && splitStandardArabicTransliteration[1]),
@@ -173,10 +149,10 @@ const scrapePage = async(page, index) => {
       }
     } else if (!shouldIgnore) {
       const obj = {};
-      obj.english = english;
+      obj.english = english.replace(/\([^()]*\)/g, '');
       obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
       obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
-      obj.egyptianArabic = generateEgyptianArabic(standardArabic, egyptianArabic);
+      obj.egyptianArabic = generateEgyptianArabic(egyptianArabic, standardArabic);
       obj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
 
       if (obj.english !== '' && obj.english !== 's') {
@@ -195,7 +171,7 @@ const scrapePage = async(page, index) => {
 
   const csv = convertToCSV(output);
 
-  fs.writeFile(`csv/${anglifiedTitle}_${index}.csv`, csv, function(err) {
+  fs.writeFile(`csv/${page}.csv`, csv, function(err) {
     if (err) return console.log(err);
     console.log(`file saved ${page}.csv`);
   });
@@ -204,5 +180,5 @@ const scrapePage = async(page, index) => {
 };
 
 for (const page of pages) {
-  await scrapePage(page, pages.indexOf(page));
+  await scrapePage(page);
 }

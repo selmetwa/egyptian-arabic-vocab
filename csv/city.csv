@@ -1,0 +1,184 @@
+English,Standard Arabic,Transliteration,Egyptian Arabic,Transliteration
+city,مدينة,madiina,مدينة,madiina
+cities,مدن,mudun,مدن,mudun
+street,شارع,šaari3,شارع,šaari3
+streets,شوارع,šawaari3,شوارع,šawaari3
+road,طريق,Tariiq,طريق,Tarii'
+roads,طرق,Turuq,طرق,Turu'
+highway,طريق  سريع,Tariiq sarii3,طريق اتوستراد,Tariiq sarii3
+alley; lane,حارة,Haara,حارة,Haara
+alley; lanes,حارات,Haaraat,حارات,Haaraat
+corner ,ناصية,naaSiya,ناصية,naSya
+corner s,نواص,nawaaSin,نواصي,nawaaSi
+corner ,ركن,rukn,ركن,rukn
+corner s,أركان,arkaan,أركان,arkaan
+tunnel,نفق,nafaq,نفق,nafa'
+tunnels,انفاق,anfaaq,انفاق,anfaa'
+building,عمارة,3imaara,عمارة,3omaara
+buildings,عمارات,3imaaraat,عمارات,3omaaraat
+real estate,عقار,3aqaar,عقار,3aqaar
+real estates,عقارات,3aqaaraat,عقارات,3aqaaraat
+house,بيت,beit,بيت,beit
+houses,بيوت,buyuut,بيوت,buyuut
+apartment,شقة,šaqqa,شقة,ša''a
+apartments,شقق,šiqaq,شقق,šu'a'
+bridge,جسر,jisr,كوبري,kobri
+bridges,جسور,jusuur,كباري,kabaari
+fence,سور,suur,سور,suur
+fences,أسوار,aswaar,أسوار,aswaar
+square,ميدان,meidaan,ميدان,miidaan
+squares,ميادين,mayaadiin,ميادين,mayadiin
+company,شركة,šarika,شركة,širka
+companies,شركات,šarikaat,شركات,širakaat
+center,مركز,markaz,مركز,markaz
+centers,مراكز,maraakiz,مراكز,maraakiz
+shop,محلّ,maHall,محلّ,maHall
+shops,محلات,maHallaat,محلات,maHallaat
+small grocery shop,بقالة,baqqaala,بقالة,bi''aala
+small grocery shops,بقالات,baqqaalaat,بقالات,bi''aalaat
+cafe,مقهى,maqha,قهوة,'ahwa
+cafes,مقهاة,maqhaah,قهاوي,'ahaawi
+club,نادي,naadii,نادي,naadii
+clubs,نوادي,nawaadii,نوادي,nawaadii
+bar,حانة,Haana,بار,baar
+bars,حانات,Haanaat,بارات,baraat
+movie theater,سينما,sinima,سينما,sinima
+movie theaters,سينمات,sinimaat,سينمات,sinimaat
+theater,مسرح,masraH,مسرح,masraH
+theaters,مسارح,masaariH,مسارح,masaariH
+gallery,معرض,ma3riD,معرض,ma3riD
+galleries,معارض,ma3aariD,معارض,ma3aariD
+fair,مهرجان,mihrajaan,مهرجان,mahragaan
+fairs,مهرجانات,mihrajaanaat,مهرجانات,mahraganaat
+park,حديقة,Hadiiqa,جنينة,gineina
+parks,حدائق,Hadaa'iq,جناين,ganaayin
+bench,مقعد,maq3ad,دكّة,dikka
+benches,مقاعد,maqaa3id,دكك,dikak
+restaurant,مطعم,maT3am,مطعم,maT3am
+restaurants,مطاعم,maTaa3im,مطاعم,maTaa3im
+school,مدرسة,madrasa,مدرسة,madrasa
+schools,مدارس,madaaris,مدارس,madaaris
+university,جامعة,jaami3a,جامعة,gam3a
+universities,جامعات,jaami3aat,جامعات,gam3aat
+mosque,جامع,jaami3,جامع,gaami3
+mosques,جوامع,jawaami3,جوامع,gawaami3
+church,كنيسة,kaniisa,كنيسة,kiniisa
+churches,كنائس,kanaa'is,كنايس,kanaayis
+synagogue,كنيس,kaniis,كنيس,kaniis
+temple,معبد,ma3bad,معبد,ma3bad
+temples,معابد,ma3aabid,معابد,ma3aabid
+tower,برج,burj,برج,burg
+towers,أبراج,abraaj,أبراج,abraag
+graveyard,جبّانة,jabbaana,جبّانة,gabbaana
+graveyards,جبّانات,jabbaanaat,جبّانات,gabbanaat
+brick,طوب,Tuub,طوب,Tuub
+tin,صفيح,SafiiH,صفيح,SafiiH
+tourism,سياحة,siyaaHa,سياحة,siyaaHa
+insurance,تأمين,ta'miin,تأمين,ta'miin
+ exchange,صرافة,Siraafa,صرافة,Siraafa
+bank,بنك,bank,بنك,bank
+banks,بنوك,bunuuk,بنوك,bunuuk
+ATM,صرّاف آلي,Sarraaf aali,آي تي ام,Sarraaf aali
+library; bookstore,مكتبة,maktaba,مكتبة,maktaba
+library; bookstores,مكتبات,maktabaat,مكتبات,maktabaat
+station,محطة,maHaTTa,محطة,maHaTTa
+stations,محطات,maHaTTaat,محطات,maHaTTaat
+airport,مطار,maTaar,مطار,maTaar
+airports,مطارات,maTaaraat,مطارات,maTaaraat
+hotel,فندق,funduq,فندق,fundu'
+hotels,فنادق,fanaadiq,فنادق,fanaadi'
+museum,متحف,matHaf,متحف,matHaf
+museums,متاحف,mataaHif,متاحف,mataaHif
+palace,قصر,qaSr,قصر,'aSr
+palaces,قصور,quSuur,قصور,'uSuur
+citadel,قلعة,qal3a,قلعة,'al3a
+citadels,قلوع,quluu3,قلوع,'uluu3
+hospital,مستشفى,mustašfa,مستشفى,mustašfa
+hospitals,مستشفيات,mustašfayaat,مستشفيات,mustašfayaat
+clinic,عيادة,3iyaada,عيادة,3iyaada
+clinics,عيادات,3iyaadaat,عيادات,3iyaadaat
+bakery,مخبز,maxbaz,مخبز,maxbaz
+bakeries,مخابز,maxaabiz,مخابز,maxaabiz
+pharmacy,صيدلية,Saydaliyya,صيدلية,Saydaliyya
+pharmacies,صيدليات,Saydaliyyaat,صيدليات,Saydaliyyaat
+fountain,ينبوع,yanbuu3,نافورة,nafuura
+fountains,ينابيع,yanaabii3,نوافير,nawafiir
+auditorium,مدرّج,mudarraj,مدرّج,mudarrag
+auditoriums,مدرّجات,mudarrajaat,مدرّجات,mudarragaat
+sidewalk,رصيف,raSiif,رصيف,raSiif
+covered in asphalt,متسفلت,mitsaflit,متسفلت,mitsaflit
+pothole; speed bump,مطبّ,maTabb,مطبّ,maTabb
+pothole; speed bumps,مطبّات,maTabbaat,مطبّات,maTabbaat
+sewer,بلاعة,ballaa3a,بلاعة,ballaa3a
+sewers,بلاعات,ballaa3aat,بلاعات,ballaa3aat
+sewage,مجاري,majaari,مجاري,majaari
+hole,حفرة,Hufra,حفرة,Hofra
+holes,حفر,Hufar,حفر,Hofar
+sign,يافطة,yaafiTa,يافطة,yafTa
+signs,يافطات,yaafiTaat,يفط,yufaT
+public transportation,مواصلات,muwaaSlaat,مواصلات,muwaaSlaat
+traffic,مرور,muruur,مرور,muruur
+crowdedness,ازدحام,izdiHaam,زحمة,izdiHaam
+noise,ضجّة,Dajja,دوشة,Dajja
+pollution,تلوث,tilawwat,تلوث,tilawwat
+mess,هرجلة,harjala,هرجلة,harjala
+trash,نفاية,nufaaya,زبالة,nufaaya
+queue,طابور,Taabuur,طابور,Tabuur
+queues,طوابير,Tawaabiir,طوابير,Tawabiir
+car,سيارة,sayyaara,عربية,3arabiyya
+cars,سيارات,sayyaaraat,عربيات,3arabiyyaat
+bus,حافلة,Haafila,اتوبيس,otobiis
+buses,حوافل,Hawaafil,اتوبيسات,otobiisaat
+bicycle,درّاجة,darraaja,عجلة,3agala
+bicycles,درّاجات,darraajaat,عجل,3agal
+motorcycle,درّاجة نارية,darraaja naariyya,موتوسيكل,darraaja naariyya
+truck,شاحنة,šaaHina,لوري,luuri
+trucks,شاحنات,šaaHinaat,لوريات,luriyyaat
+taxi,تاكسي,taksi,تاكسي,taksi
+taxis,تاكسيات,taksiyaat,تاكسيات,taksiyaat
+meter,عدّاد,3addaad,عدّاد,3addaad
+meters,عدّادات,3addaadaat,عدّادات,3addaadaat
+tire,اطار,iTaar,كوتش,kawitš
+tires,اطارات,iTaaraat,كوتشات,kawitšaat
+wheel,اطار,iTaar,عجلة,3agala
+wheels,اطارات,iTaaraat,عجلات,3agalaat
+brakes,فرامل,faraamil,فرامل,faraamil
+car hood,,kabbuut,كبوت,kabbuut
+car hoods,كبابيت,kababiit,كبابيت,kababiit
+clutch,,dibriyaaž,دبرياج,dibriyaaž
+clutches,دبرياجات,dibriyažaat,دبرياجات,dibriyažaat
+car trunk,شنطة العربية,šanTit il-3arabiyya,شنطة العربية,šanTit il-3arabiyya
+workshop,,warša,ورشة,warša
+workshops,ورش,wiraš,ورش,wiraš
+gas,بنزين,binziin,بنزين,binziin
+driver's license,رخصة,ruxSa,رخصة سواقة,ruxSit siwaa'a
+driver's licenses,رخص قيادة,ruxaS qiyaada,رخص قيادة,ruxaS qiyaada
+car horn,بوق,buuq,زمّارة,zummaara
+car horns,أبواق,abwaaq,زمامير,zamamiir
+accident,حادثة,Haadita,حادثة,Hadsa
+accidents,حوادث,Hawaadit,حوادث,Hawaadis
+driver,سائق,saa'iq,سوّاق,sawwaa'
+drivers,سائقون,saa'iquun,سوّاقين,sawwaa'iin
+train,قطار,qiTaar,قطر,'aTr
+trains,قطارات,qiTaaraat,قطرة,'uTura
+a train/metro pass for a month or several months,أبونيه,'aboneih,أبونيه,'aboneih
+boat,مركب,markab,مركب,markab
+boats,مراكب,maraakib,مراكب,maraakib
+boat ,قارب,qaarib,قارب,'aarib
+boat s,قوارب,qawaarib,قوارب,'awaarib
+ship,سفينة,safiina,سفينة,safiina
+ships,سفن,sufun,سفن,sufun
+liner,عبّارة,3abbaara,عبّارة,3abbaara
+liners,عبّارات,3abbaaraat,عبّارات,3abbaaraat
+plane,طائرة,Taa'ira,طيّارة,Tayyaara
+planes,طائرات,Taa'iraat,طيّارات,Tayyaaraat
+passport,جواز,jawaaz,جواز,gawaaz 
+passports,جوازات السفر,jawaazaat as-safar,جوازات السفر,jawaazaat as-safar
+visa,تأشيرة,ta'šiira,فيزا,viiza
+visas,تأشيرات,ta'šiiraat,فيزات,viizaat
+helicopter,مروحية,marwaHiyya,مروحية,marwaHiyya
+trip,رحلة,riHla,رحلة,riHla
+trips,رحلات,riHalaat,رحلات,riHalaat
+to be cancelled ,اتلغى - يتلغي ,itlaġa - yitliġi ,اتلغى - يتلغي ,itlaġa - yitliġi 
+tour,جولة,jawla,جولة,gawla
+tours,جولات,jawlaat,جولات,gawlaat
