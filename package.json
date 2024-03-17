@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "tsx watch src/index.ts",
+    "dev": "tsx watch src/index.tsx",
     "scrape": "node scripts/scrape.js"
   },
   "type": "module",
