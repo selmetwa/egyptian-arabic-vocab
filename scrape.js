@@ -3,13 +3,14 @@ import pluralize from "pluralize";
 import fs from "fs";
 
 // nouns for now
+// const pages = ['animals']
 const pages = [
   'animals', 'house', 'city', 'clothes', 'colors', 'education', 'emotions_pers', 'food',
   'geog', 'body', 'mankind', 'arts', 'medicine', 'nature', 'religion', 'sports', 'tech',
   'time', 'work', 'm_gen', 'm_gen2', 'm_gen3', 'm_crime', 'm_govt', 'm_war',
 ]
 
-const scrapePage = async(page) => {
+const scrapePage = async(page, index) => {
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: null,
@@ -20,6 +21,14 @@ const scrapePage = async(page) => {
   await webpage.goto(`https://arabic.desert-sky.net/${page}.html`, {
     waitUntil: "domcontentloaded",
   });
+
+  // const pageTitle = await webpage.waitForSelector('h1').textContent.trim();
+  const pageTitle = await webpage.$$eval('h1', element => element[0].textContent.trim());
+  console.log({ pageTitle })
+  const cleanPageTitle = pageTitle.toLowerCase()
+    .replace(/ /g, '_')
+    .replace(/\//g, '_and_')
+    .replace(/&/g, '_and_');
 
   // Wait for the table to be rendered
   await webpage.waitForSelector('table');
@@ -169,16 +178,33 @@ const scrapePage = async(page) => {
     }).join('\n')
   }
 
+
+  function generateTitle(pageTitle) {
+    if (pageTitle.includes('m_gen') && pageTitle !== 'm_gen') {
+      const numberMatch = inputString.match(/\d+/);
+      return `${pageTitle.replace(/arabic_/i, "")}_${parseInt(numberMatch[0])}`;
+    }
+
+    return pageTitle.replace(/arabic_/i, "");
+  }
+  const formattedPageTitle = generateTitle(cleanPageTitle);
+
+  const jsonString = JSON.stringify(output)
+  fs.writeFile(`json/${formattedPageTitle}.json`, jsonString, function(err) {
+    if (err) return console.log(err);
+    console.log(`file saved ${formattedPageTitle}.json`);
+  });
+
   const csv = convertToCSV(output);
 
-  fs.writeFile(`csv/${page}.csv`, csv, function(err) {
+  fs.writeFile(`csv/${formattedPageTitle}.csv`, csv, function(err) {
     if (err) return console.log(err);
-    console.log(`file saved ${page}.csv`);
+    console.log(`file saved ${formattedPageTitle}.csv`);
   });
 
   await browser.close();
 };
 
 for (const page of pages) {
-  await scrapePage(page);
+  await scrapePage(page, pages.indexOf(page));
 }
