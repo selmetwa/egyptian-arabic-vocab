@@ -182,10 +182,10 @@ const scrapePage = async(page, index) => {
   function generateTitle(pageTitle) {
     if (pageTitle.includes('m_gen') && pageTitle !== 'm_gen') {
       const numberMatch = inputString.match(/\d+/);
-      return `${pageTitle.replace(/arabic_/i, "")}_${parseInt(numberMatch[0])}`;
+      return `${pageTitle.replace(/arabic_|_vocabulary/gi, '')}_${parseInt(numberMatch[0])}`;
     }
 
-    return pageTitle.replace(/arabic_/i, "");
+    return pageTitle.replace(/arabic_|_vocabulary/gi, '');
   }
   const formattedPageTitle = generateTitle(cleanPageTitle);
 
