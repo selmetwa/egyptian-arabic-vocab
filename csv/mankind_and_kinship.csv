@@ -18,7 +18,7 @@ young s,صغار,Suġaar,صغار,Suġaar
 old,كبير,kabiir,كبير,kibiir
 olds,كبار السنّ,kubaar as-sinn,كبار السنّ,kobaar is-sinn
 age,عمر,3omr,عمر,3omr
-How old are you?,كم عمرك؟,kam 3omrak?,عندك كم سنة؟,kam 3omrak?
+How old are you?,كم عمرك؟,kam 3omrak?,عندك كم سنة؟,3andak kam sana?
 baby,طفل رضيع,Tifl raDii3,بيبي,beibi
 babies,أطفال رضاع,aTfaal ruDaa3,بيبيهات,beibiihaat
 child,طفل,Tifl,طفل,Tifl
@@ -47,7 +47,7 @@ young man,شاب,šaabb,شاب,šabb
 young men,شبان,šubbaan,شبان,šubbaan
 young woman,شابة,šaabba,شابة,šabba
 young women,شابات,šaabbaat,شابات,šabbaat
-minor,قاصر,qaaSir,قاصر,qaaSir
+minor,قاصر,qaaSir,قاصر,'aaSir
 adult,بالغ,baaliġ,بالغ,baaliġ
 man,رجل,rajul,راجل,raagil
 men,رجال,rijaal,رجالة,riggaala
@@ -111,8 +111,8 @@ brother-in-law ,عديل,3adiil,عديل,3adiil
 brother-in-law s,عدائل,3adaa'il,عدايل,3adaayil
 sister-in-law,سلفة,silfa,سلفة,silfa
 sister-in-laws,,salaayif,,salaayif
-single,أعزب,a3zab,عازب,a3zab
-marriage,زواج,zawaaj,جواز,zawaaj
+single,أعزب,a3zab,عازب,3aazib
+marriage,زواج,zawaaj,جواز,gawaaz
 wedding,زفاف,zifaaf,فرح,faraH
 weddings,أفراح,afraaH,أفراح,afraaH
 * used by Christians in Egypt *,إكليل,ikliil,إكليل,ikliil
@@ -132,7 +132,7 @@ husbands,أزواج,azwaaj,أجواز,agwaaz
 wife,زوجة,zawja,مراة,miraah
 wives,زوجات,zawjaat,زوجات,zawjaat
 pregnant,حامل,Haamil,حامل,Haamil
-divorce,طلاق,Talaaq,طلاق,Talaaq
+divorce,طلاق,Talaaq,طلاق,Talaa'
 widower - widow,أرمل - أرملة,armal - armala,أرمل - أرملة,armal - armala
 widower - widows,أرامل,araamil,أرامل,araamil
 society or community,مجتمع,mujtama3,مجتمع,mugtama3

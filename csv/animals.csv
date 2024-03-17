@@ -64,7 +64,7 @@ amphibian,برمائية,barmaa'iyya,برمائية,barmaa'iyya
 amphibians,برمائيات,barmaa'iyyaat,برمائيات,barmaa'iyyaat
 snake,ثعبان,tu3baan,تعبان,ti3baan
 snakes,ثعابين,ta3aabiin,تعبين,ta3abiin
-Sarahan horned viper,حية قرناء,Hayya qarnaa',طريشة,Hayya qarnaa'
+Sarahan horned viper,حية قرناء,Hayya qarnaa',طريشة,Tureiša
 turtle,سلحفاة,sulHufaah,سلحفة,sulHifa
 turtles,سلاحف,salaaHif,سلاحف,salaaHif
 lizard,سحلية,siHliyya,سحلية,siHliyya
@@ -81,8 +81,8 @@ hippopotamus,فرس,faras,فرس,faras
 hippopotamuses,افراس النهر,afraas an-nahar,افراس البحر,afraas il-baHr
 giraffe,زرافة,zaraafa,زرافة,zaraafa
 giraffes,زرافات,zaraafaat,زرافات,zaraafaat
-zebra,حمار وحشي,Himaar waHši,حمار وحشي,Himaar waHši
-kangaroo,كنغر,kanġar,كنجر,kanġar
+zebra,حمار وحشي,Himaar waHši,حمار وحشي,Homaar waHši
+kangaroo,كنغر,kanġar,كنجر,kongor
 hyena,ضبع,Dab3,ضبع,Dab3
 hyenas,ضباع,Dibaa3,ضبعة,Dubu3a
 panther,فهد,fahd,فهد,fahd
@@ -99,7 +99,7 @@ monkey,قرد,qird,قرد,'ird
 monkeys,قرود,quruud,قرود,'uruud
 bat,خفاش,xuffaaš,وطواط,wuTwaaT
 bats,خفافيش,xafaafiiš,وطاويط,waTawiiT
-squirrel,سنجاب,sinjaab,سنجاب,sinjaab
+squirrel,سنجاب,sinjaab,سنجاب,singaab
 fox,ثعلب,ta3lab,تعلب,ta3lab
 foxes,ثعالب,ta3aalib,تعالب,ta3aalib
 deer,غزال,ġazaal,غزال,ġazaal
@@ -108,24 +108,24 @@ fish,سمك,samak,سمك,samak
 fish,أسماك,asmaak,أسماك,asmaak
 whale,حوت,Huut,حوت,Huut
 whales,حيتان,Hiitaan,حيتان,Hitaan
-shark,قرش,qirš,سمك القرش,qirš
+shark,قرش,qirš,سمك القرش,samak il-'irš
 dolphin,دخس,duxas,درفيل,darfiil
 dolphins,درافيل,darafiil,درافيل,darafiil
 octopus,أخطبوط,uxTubuuT,أخطبوط,uxTubuuT
 octopuses,اخطبوطات,uxTubuuTaat,اخطبوطات,uxTubuTaat
-squid,حبّار,Habbaar,توتيا,Habbaar
+squid,حبّار,Habbaar,توتيا,tutya
 swordfish,أبو سيف,abu seif,أبو سيف,abu seif
-shrimp,روبيان,ruubiyaan,جمبري,ruubiyaan
-lobster,سرطان بحري,saraTaan baHri,استاكوزا,saraTaan baHri
+shrimp,روبيان,ruubiyaan,جمبري,gambari
+lobster,سرطان بحري,saraTaan baHri,استاكوزا,istakooza
 crab,سرطان,saraTaan,كابوريا \ أبو جلمبو,kaburya/abu galambo
 crabs,سرطانات,saraTaanaat,سرطانات,saraTaanaat
 walrus,فظّ,faZZ,فيل البحر,fiil il-baHr
 walruses,أفظاظ,afZaaZ,أفظاظ,afZaaZ
-salmon,سالمون,salamuun,سالمون,salamuun
+salmon,سالمون,salamuun,سالمون,salamun
 catfish,قرموط,qarmuuT,قرموط,'armuuT
 catfish,قراميط,qaraamiiT,قراميط,'aramiiT
-tuna,تنّ,tunn,تونا,tunn
-oysters,محار,maHaar,جندوفلي,maHaar
+tuna,تنّ,tunn,تونا,tuuna
+oysters,محار,maHaar,جندوفلي,gandofli
 insect,حشرة,Hašara,حشرة,Hašara
 insects,حشرات,Hašaraat,حشرات,Hašaraat
 cockroach,صرصور,SurSuur,صرصار,SurSaar

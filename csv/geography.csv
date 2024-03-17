@@ -1,24 +1,24 @@
 English,Standard Arabic,Transliteration,Egyptian Arabic,Transliteration
 north,شمال,šamaal,شمال,šamaal
-south,جنوب,januub,جنوب,januub
-east,شرق,šarq,شرق,šarq
+south,جنوب,januub,جنوب,ganuub
+east,شرق,šarq,شرق,šar'
 west,غرب,ġarb,غرب,ġarb
-direction,اتجاة,ittijaah,اتجاة,ittijaah
-left,يسار,yasaar,شمال,yasaar
-right,يمين,yamiin,يمين,yamiin
-behind,وراء,waraa',ورا,waraa'
-in front of,أمام,amaam,قدّام,amaam
-next to,بجانب,bijaanib,جنب,bijaanib
-above,فوق,fooqa,فوق,fooqa
+direction,اتجاة,ittijaah,اتجاة,ittigaah
+left,يسار,yasaar,شمال,šimaal
+right,يمين,yamiin,يمين,yimiin
+behind,وراء,waraa',ورا,wara
+in front of,أمام,amaam,قدّام,'uddaam
+next to,بجانب,bijaanib,جنب,gamb
+above,فوق,fooqa,فوق,foo'
 below,تحت,taHt,تحت,taHt
 far ,بعيد عن,ba3iid 3an,بعيد عن,ba3iid 3an
-near ,قريب من,qariib min,قريب من,qariib min
-opposite,مقابل,muqaabil,قصاد,muqaabil
-between,بين,beina,بين,beina
-inside,داخل,daaxil,جوة,daaxil
-outside,خارج,xaarij,برّة,xaarij
-here,هنا,huna,هنا,huna
-there,هناك,hunaaka,هناك,hunaaka
+near ,قريب من,qariib min,قريب من,'ariib/'urayyib min
+opposite,مقابل,muqaabil,قصاد,'uSaad
+between,بين,beina,بين,bein
+inside,داخل,daaxil,جوة,guwwa
+outside,خارج,xaarij,برّة,barra
+here,هنا,huna,هنا,hina
+there,هناك,hunaaka,هناك,hinaak
 map,خريطة,xariiTa,خريطة,xariiTa
 maps,خرائط,xaraa'iT,خرائط,xaraayiT
 compass,بوصلة,boSla,بوصلة,boSla
@@ -48,20 +48,20 @@ country,بلد,balad ,بلد,balad
 countries,بلاد,bilaad,بلاد,bilaad
 homeland,وطن,waTan,وطن,waTan
 homelands,أوطان,awTaan,أوطان,awTaan
-Europe,أوروبا,urubba,أوروبا,urubba
-Africa,أفريقيا,afriiqiya,أفريقيا,afriiqiya
-Asia,أسيا,aasiya,أسيا,aasiya
-Australia,أستراليا,usturaaliya,أستراليا,usturaaliya
+Europe,أوروبا,urubba,أوروبا,uruppa
+Africa,أفريقيا,afriiqiya,أفريقيا,afriqya
+Asia,أسيا,aasiya,أسيا,asya
+Australia,أستراليا,usturaaliya,أستراليا,usturalya
 the United States,أمريكا,amriika,أمريكا,amriika
 England,انجلترا,inglitira,انجلترا,inglitira
 Austria,نمسا,nimsa,نمسا,nimsa
-Germany,ألمانيا,almaaniya,ألمانيا,almaaniya
-Greece,يونان,yuunaan,يونان,yuunaan
-Japan,يابان,yaabaan,يابان,yaabaan
-North Africa,شمال أفريقيا,šamaal afriiqiya,شمال أفريقيا,šamaal afriiqiya
-Egypt,مصر,miSr,مصر,miSr
+Germany,ألمانيا,almaaniya,ألمانيا,almanya
+Greece,يونان,yuunaan,يونان,yunaan
+Japan,يابان,yaabaan,يابان,yabaan
+North Africa,شمال أفريقيا,šamaal afriiqiya,شمال أفريقيا,šamaal afriqya
+Egypt,مصر,miSr,مصر,maSr
 Aswan,أسوان,aswaan,أسوان,aswaan
-Sinai,سيناء,siinaa',سيناء,siinaa'
+Sinai,سيناء,siinaa',سيناء,siina
 Fez,فاس,faas,فاس,faas
 Marrakesh,مراكش,marraakeš,مراكش,marraakeš
 Oran,وهران,wahraan,وهران,wahraan
@@ -71,20 +71,20 @@ Libya,ليبيا,liibiyaa,ليبيا,liibiyaa
 Tripoli,طرابلس,Taraabulus,طرابلس,Taraabulus
 Benghazi,بنغازي,benġaazi,بنغازي,benġaazi
 Amman,عمّان,3ammaan,عمّان,3ammaan
-Palestine,فلسطين,filasTiin,فلسطين,filasTiin
+Palestine,فلسطين,filasTiin,فلسطين,filisTiin
 Gaza Strip,قطاع غزة,qiTaa3 ġazza,قطاع غزة,qiTaa3 ġazza
 Bethlehem,بيت لحم,beitalaHm,بيت لحم,beitalaHm
 Jericho,أريحا,ariiHa,أريحا,ariiHa
 Jaffa,يافة,yaafa,يافة,yaafa
-Israel,إسرائيل,israa'iil,إسرائيل,israa'iil
-Lebanon,لبنان,lubnaan ,لبنان,lubnaan 
+Israel,إسرائيل,israa'iil,إسرائيل,isra'iil
+Lebanon,لبنان,lubnaan ,لبنان,libnaan
 Beirut,بيروت,beiruut,بيروت,beiruut
-Syria,سوريا,suuriya,سوريا,suuriya
-Damascus,دمشق,dimašq,دمشق,dimašq
+Syria,سوريا,suuriya,سوريا,surya
+Damascus,دمشق,dimašq,دمشق,dimaš' | dimiš'
 Baghdad,بغداد,baġdaad,بغداد,baġdaad
 Qatar,قطر,qaTar,قطر,qaTar
 Abu Dhabi,أبو ظبي,abu Zabi ,أبو ظبي,abu Zabi 
 Dubai,دبيّ,dubayy,دبيّ,dubayy
 Oman,عمان,3umaan,عمان,3umaan
 Muscat,مسقط,masqaT,مسقط,masqaT
-Sana'a,صنعاء,San3aa',صنعاء,San3aa'
+Sana'a,صنعاء,San3aa',صنعاء,San3a

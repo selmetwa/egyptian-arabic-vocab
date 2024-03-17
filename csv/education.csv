@@ -9,7 +9,7 @@ department,قسم,qism,قسم,'ism
 departments,اقسام,aqsaam,اقسام,a'saam
 program,برنامج,barnaamaj,برنامج,barnaamag
 programs,برامج,baraamij,برامج,baraamig
-studies,دراسات,diraasaat,دراسات,diraasaat
+studies,دراسات,diraasaat,دراسات,dirasaat
 curriculum,منهج,manhaj,منهج,manhag
 curricula,مناهج,manaahij,مناهج,manaahig
 school subject (or material,مادّة,maadda,مادّة,madda
@@ -21,8 +21,8 @@ institutes,معاهد,ma3aahid,معاهد,ma3aahid
 diploma,شهادة,šahaada,شهادة,šahaada
 with distinction,بامتياز,bimtiyaaz,بامتياز,bimtiyaaz
 baccalaureate,بكالوريا,bakalooriyaa,بكالوريا,bakalooriyaa
-BA ,?,?,ليسانس,?
-BS ,?,?,بكالوريوس,?
+BA ,?,?,ليسانس,lesaans
+BS ,?,?,بكالوريوس,bakaloriyoos
 masters',ماجستير,majisteir,ماجستير,majisteir
 doctorate,دكتوراه,doctooraah,دكتوراه,doctooraah
 professor,أستاذ,ustaad,أستاذ,ustaaz
@@ -42,9 +42,9 @@ exam,امتحان,imtiHaan,امتحان,imtiHaan
 exams,امتحانات,imtiHaanaat,امتحانات,imtiHanaat
 test,اختبار,ixtibaar,اختبار,ixtibaar
 tests,اختبارات,ixtibaaraat,اختبارات,ixtibaraat
-lecture,محاضرة,muHaaDara,محاضرة,muHaaDara
-discussion,مناقشة,munaaqaša,مناقشة,munaaqaša
-research,أبحاث,abHaat,أبحاث,abHaat
+lecture,محاضرة,muHaaDara,محاضرة,muHaDra
+discussion,مناقشة,munaaqaša,مناقشة,muna'ša
+research,أبحاث,abHaat,أبحاث,abHaas
 analysis,تحليل,taHliil,تحليل,taHliil
 analyses,تحاليل,taHaaliil,تحاليل,taHaliil
  exercise,تمرين,tamriin,تمرين,tamriin
@@ -77,14 +77,14 @@ notebooks,دفاتر,dafaatir,كرّاسات,kurrasaat
  notebooks,كشاكيل,kašakiil,كشاكيل,kašakiil
 pen,قلم,qalam,قلم,'alam
 pens,أقلام,aqlaam,أقلام,a'laam
-pencil,قلم رصاص,qalam raSaaS,قلم رصاص,qalam raSaaS
+pencil,قلم رصاص,qalam raSaaS,قلم رصاص,'alam raSaaS
 paper,ورقة,waraqa,ورقة,wara'a
 papers,أوراق,awraaq,أوراق,awraa'
 eraser,ممحاة,mimHaah,أستيكة,astiika
 erasers,أساتيك,asatiik,أساتيك,asatiik
 blackboard,سبورة,sabbuura,تختة,tuxta
 blackboards,سبورات,sabbuuraat,تخت,tuxat
-chalk,طباشير,Tabaašiir,طباشير,Tabaašiir
+chalk,طباشير,Tabaašiir,طباشير,Tabašiir
 calculator,آلة حاسبة,aala Haasiba,آلة حاسبة,aala Hasba
 calculators,آلات حاسبة,aalaat Haasiba,آلات حاسبة,alaat Hasba
  ruler,مسطرة,misTara,مسطرة,masTara
@@ -95,13 +95,13 @@ dictionary,قاموس,qaamuus,قاموس,qamuus
 dictionaries,قواميس,qawaamiis,قواميس,qawamiis
 grade,درجة,daraja,درجة,daraga
 grades,درجات,darajaat,درجات,daragaat
-good grades,درجات عالية,darajaat 3aaliya,درجات عالية,darajaat 3aaliya
+good grades,درجات عالية,darajaat 3aaliya,درجات عالية,daragaat 3alya
 right,صح,SaHH,صح,SaHH
-wrong,خطأ,xaTa',غلط,xaTa'
-__ plus __ is __,__ زائد __ يساوي __,__ zaa'id __ yusaawi __,__ زائد __ يساوي __,__ zaa'id __ yusaawi __
-__ minus __ is __,__ ناقص __ يساوي __,__ naaqiS __ yusaawi __,__ ناقص __ يساوي __,__ naaqiS __ yusaawi __
-__ times __ is __,__ في __ يساوي __,__ fi __ yusaawi __,__ في __ يساوي __,__ fi __ yusaawi __
-__  by __ is __,__ على __ يساوي __,__ 3ala __ yusaawi __,__ على __ يساوي __,__ 3ala __ yusaawi __
+wrong,خطأ,xaTa',غلط,ġalaT
+__ plus __ is __,__ زائد __ يساوي __,__ zaa'id __ yusaawi __,__ زائد __ يساوي __,__ zaa'id __ yisaawi __
+__ minus __ is __,__ ناقص __ يساوي __,__ naaqiS __ yusaawi __,__ ناقص __ يساوي __,__ naa'iS __ yisaawi __
+__ times __ is __,__ في __ يساوي __,__ fi __ yusaawi __,__ في __ يساوي __,__ fi __ yisaawi __
+__  by __ is __,__ على __ يساوي __,__ 3ala __ yusaawi __,__ على __ يساوي __,__ 3ala __ yisaawi __
 equation,معادلة,mu3aadala,معادلة,mu3adla
 equations,معادلات,mu3aadalaat,معادلات,mu3adlaat
 fraction,كسر,kasr,كسر,kasr
@@ -132,7 +132,7 @@ grammar,قواعد,qawaa3id,قواعد,qawaa3id
 vocabulary,مفردات,mufradaat,مفردات,mufradaat
 synonym,مرادف,muraadif,مرادف,muraadif
 synonyms,مرادفات,muraadifaat,مرادفات,muradifaat
-spelling,تهجئة,tahji'a,تهجية,tahji'a
+spelling,تهجئة,tahji'a,تهجية,tahgiyya
 pronunciation,لفظ,lafZ,لفظ,lafZ
 pronunciations,ألفاظ,alfaaZ,ألفاظ,alfaaZ
 style ,أسلوب,usluub,أسلوب,usluub

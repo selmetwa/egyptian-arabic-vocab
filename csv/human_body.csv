@@ -14,12 +14,12 @@ skulls,جماجم,jamaajim,جماجم,gamaagim
 brain,دماغ,dimaaġ,مخ,muxx
 brains,ادمغة,admiġa,امخاخ,amxaax
 hair,شَعر,ša3r,شَعر,ša3r
-bangs,قصّة,quSSa,قصّة,quSSa
+bangs,قصّة,quSSa,قصّة,'oSSa
 straight ,ناعم,naa3im,ناعم,naa3im
-curly,مجعد,muja33ad,مجعد,muja33ad
+curly,مجعد,muja33ad,مجعد,mga33ad
 wavy,متموج,mutamawwij,متموج,mutamawwij
-dry,جاف,jaaf,جاف,jaaf
-coarse,خشن,xašin,خشن,xašin
+dry,جاف,jaaf,جاف,gaaf
+coarse,خشن,xašin,خشن,xišin
 greasy,دهني,duhni,دهني,duhni
 thick,سميك,samiik,سميك,samiik
 thinning ,خفيف,xafiif,خفيف,xafiif
@@ -29,8 +29,8 @@ beard,لحية,liHya,دقن,da'n
 beards,لحى,luHa,دقون,du'uun
 bald,أصلع,aSla3,أصلع,aSla3
 completely bald,زلبطّة,zalabaTTa,زلبطّة,zalabaTTa
-wig,شعر مستعار,ša3r musta3aar,باروكة,ša3r musta3aar
-dandruff,قشرة,qišra,قشرة,qišra
+wig,شعر مستعار,ša3r musta3aar,باروكة,baruuka
+dandruff,قشرة,qišra,قشرة,'išra
 face,وجه,wajh,وشّ,wišš
 faces,وجوه,wujuuh,وشوش,wišuuš
 forehead,جبين,jabiin,جبين,gibiin
@@ -55,8 +55,8 @@ eyelash,رمش,rimš,رمش,rimš
 eyelashes,رموش,rumuuš,رموش,rumuuš
 eyeball,مقلة,muqla,مقلة,muqla
 eyeballs,مقل العين,muqal al-3ein,مقل العين,muqal al-3ein
-pupil,بؤبؤ,bu'bu',ننّي,bu'bu'
-iris,قزحية,quzaHiya,سواد العين,quzaHiya
+pupil,بؤبؤ,bu'bu',ننّي,ninni
+iris,قزحية,quzaHiya,سواد العين,sawaad il-3ein
 lens,عدسة,3adasa,عدسة,3adasa
 lens,عدسات العين,3adasaat al-3ein,عدسات العين,3adasaat al-3ein
 cornea,قرنية,qarniya,قرنية,qarniya
@@ -70,7 +70,7 @@ nostril,منخار,minxaar,منخار,minxaar
 nostrils,مناخير,manaaxiir,مناخير,manaaxiir
 mouth,فم,fam,بق,bo''
 mouths,افواه,afwaah,بقاق,bi'aa'
-tonsils,لوزتان,loozataan,لوزتين | لوز,loozataan
+tonsils,لوزتان,loozataan,لوزتين | لوز,loztein | liwaz
 saliva,لعاب,lu3aab,لعاب,lu3aab
 lip,شفة,šafa,شفّة,šiffa
 lips,شفاه,šifaah,شفايف,šafaayif
@@ -80,7 +80,7 @@ tongue,لسان,lisaan,لسان,lisaan
 tongues,السنة,alsina,السنة,alsina
 tooth,سن,sinn,سنّة,sinna
 teeth,اسنان,asnaan,سنان,sinaan
-gums,لثة,litta,لثة,litta
+gums,لثة,litta,لثة,lissa
 chin,ذقن,daqan,دقن,da'n
 chins,ذقون,duquun,دقون,du'uun
 jaw,فك,fakk,فك,fakk
@@ -198,23 +198,23 @@ hearing,سمع,sam3,سمع,sam3
 breath,نفس,nafas,نفس,nafas
 breaths,أنفاس,anfaas,أنفاس,anfaas
 to tickle,زغزغ - يزغزغ ,zaġzaġ - yizaġzaġ ,زغزغ - يزغزغ ,zaġzaġ - yizaġzaġ 
-hiccups,فواق,fuwaaq,زغطة,fuwaaq
+hiccups,فواق,fuwaaq,زغطة,zuġuTTa
 to fart/break wind silently,فسي - يفسي ,fisi - yifsi ,فسي - يفسي ,fisi - yifsi 
 a silent fart,,fasya,فسى,fasya
 a silent farts,فسيات,fasyaat,فسيات,fasyaat
 a loud fart,ضرطة,DarTa,ظرطة,ZarTa
 a loud farts,ظرطات,ZarTaat,ظرطات,ZarTaat
-fat,سمين,samiin,تخين,samiin
-thin,نحيف,naHiif,رفيع,naHiif
+fat,سمين,samiin,تخين,tixiin
+thin,نحيف,naHiif,رفيع,rofayya3
 tall,طويل,Tawiil,طويل,Tawiil
 talls,طوال,Tuwaal,طوال,Tuwaal
 short,قصير,qaSiir,قصير,'oSayyar
 shorts,قصار,quSaar,قصار,'oSaar
-beautiful ,جميل ,jamiil ,جميل ,jamiil 
+beautiful ,جميل ,jamiil ,جميل ,gamiil 
 handsome,وسيم,wasiim,وسيم,wasiim
 ugly,بشع,baši3,وحش,weHiš
 uglies,وحشين,weHšiin,وحشين,weHšiin
-dye,صبغة,Sibġa,صبغة,Sibġa
+dye,صبغة,Sibġa,صبغة,Sabġa
 tattoo,وشم,wašm,وشم,wašm
 tattoos,وشوم,wušuum,وشوم,wušuum
 scar,ندبة,nadba,ندبة,nadba

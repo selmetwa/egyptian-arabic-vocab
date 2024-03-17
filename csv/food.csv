@@ -1,6 +1,6 @@
 English,Standard Arabic,Transliteration,Egyptian Arabic,Transliteration
-food,طعام,Ta3aam,اكل,Ta3aam
-foods,مأكولات,ma'kuulaat,مأكولات,ma'kuulaat
+food,طعام,Ta3aam,اكل,akl
+foods,مأكولات,ma'kuulaat,مأكولات,ma'kulaat
 meal,وجبة,wajba,اكلة,akla
 meals,وجبات,wajabaat,اكلات,akalaat
 delivery,توصيل,tawSiil,توصيل,tawSiil
@@ -8,9 +8,9 @@ restaurant,مطعم,maT3am,مطعم,maT3am
 restaurants,مطاعم,maTaa3im,مطاعم,maTaa3im
 waiter,نادل,naadil,متر | جرسون,metre | garsoon
 waiters,ندل,nudul,ندل,nudul
-breakfast,فطور,faTuur,فطار,faTuur
-lunch,غداء,ġadaa',غدا,ġadaa'
-dinner,عشاء,3ašaa',عشا,3ašaa'
+breakfast,فطور,faTuur,فطار,fiTaar
+lunch,غداء,ġadaa',غدا,ġada
+dinner,عشاء,3ašaa',عشا,3aša
 recipe,وصفة,waSfa,وصفة,waSfa
 recipes,وصفات,waSafaat,وصفات,waSafaat
 ingredient,مقدار,miqdaar,محتويات,muHtawiyaat
@@ -35,31 +35,31 @@ drink,مشروب,mašruub,مشروب,mašruub
 drinks,مشروبات,mašruubaat,مشروبات,mašruubaat
 juice,عصير,3aSiir,عصير,3aSiir
 juices,عصائر,3aSaa'ir,عصائر,3aSaayir
-water,ماء,maa',ميّة,maa'
+water,ماء,maa',ميّة,mayya
 tea,شاي,šaay,شاي,šaay
-coffee,قهوة,qahwa,قهوة,qahwa
-milk,حليب,Haliib,لبن,Haliib
+coffee,قهوة,qahwa,قهوة,'ahwa
+milk,حليب,Haliib,لبن,laban
 alcohol,خمر,xamr,خمر,xamr
-wine,نبيذ,nabiid,نبيت,nabiid
+wine,نبيذ,nabiid,نبيت,nibiit
 champagne,شامبنية,šampanya,شامبنية,šampanya
 beer,بيرة,biira,بيرة,biira
 fruit,فاكهة,faakiha,فاكهة,fakha
 fruits,فواكه,fawaakih,فواكه,fawaakih
 apple,تفّاح,tuffaaH,تفّاح,tuffaaH
-orange,برتقال,burtuqaal,برتقان,burtuqaal
+orange,برتقال,burtuqaal,برتقان,burtu'aan
 banana,موز,mooz,موز,mooz
-lemon,ليمون,laymuun,لمون,laymuun
-lime,ليمون حامض,laymuun HaamiD,لمون,laymuun HaamiD
+lemon,ليمون,laymuun,لمون,lamuun
+lime,ليمون حامض,laymuun HaamiD,لمون,lamuun
 watermelon,بطّيخ,baTTiix,بطّيخ,baTTiix
-cantaloupe,بطّيخ أصفر,baTTiix aSfar,شمّام,baTTiix aSfar
+cantaloupe,بطّيخ أصفر,baTTiix aSfar,شمّام,šammaam
 strawberry,فراولة,farawla,فراولة,farawla
-cherry,كرز,karaz,كريز,karaz
+cherry,كرز,karaz,كريز,kireiz
 grape,عنب,3inab,عنب,3inab
-raisin,زبيب,zabiib,زبيب,zabiib
-pear,كمثرى,kummatra,كمترى,kummatra
+raisin,زبيب,zabiib,زبيب,zibiib
+pear,كمثرى,kummatra,كمترى,kommetra
 peach,خوخ,xoox,خوخ,xoox
-plum,برقوق,barquuq,برقوق,barquuq
-prune,برقوق ناشف,barquuq naašif,برقوق ناشف,barquuq naašif
+plum,برقوق,barquuq,برقوق,bar'uu'
+prune,برقوق ناشف,barquuq naašif,برقوق ناشف,bar'uu' naashif
 pomegranate,رمّان,rummaan,رمّان,rummaan
 apricot,مشمش,mišmiš,مشمش,mišmiš
 guava,جوافة,guwaafa,جوافة,guwaafa
@@ -67,28 +67,28 @@ dates ,بلح,balaH,بلح,balaH
 dates ,تمر,tamr,تمر,tamr
 pineapple,اناناس,ananaas,اناناس,ananaas
 berry,توت,tuut,توت,tuut
-blueberry,توت أزرق,tuut azraq,توت أزرق,tuut azraq
-mango,مانجو,mango,مانجة,mango
+blueberry,توت أزرق,tuut azraq,توت أزرق,tuut azra'
+mango,مانجو,mango,مانجة,manga
 fig,تين,tiin,تين,tiin
-olive,زيتون,zeituun,زتون,zeituun
-popcorn,بوشار,bušaar,فشار,bušaar
+olive,زيتون,zeituun,زتون,zatuun
+popcorn,بوشار,bušaar,فشار,fišaar
 nuts,مكسّرات,mikassaraat,مكسّرات,mikassaraat
 almonds,لوز,looz,لوز,looz
-hazelnuts,بندق,bunduq,بندق,bunduq
-peanuts,سوداني,suudaani,سوداني,suudaani
-vegetables,خضراوات,xaDrawaat,خضروات | خضار,xaDrawaat
-carrot,جزر,jazar,جزر,jazar
-cauliflower,قرنبيط,qarnabiiT,قرنبيط,qarnabiiT
+hazelnuts,بندق,bunduq,بندق,bondo'
+peanuts,سوداني,suudaani,سوداني,sudaani
+vegetables,خضراوات,xaDrawaat,خضروات | خضار,xuDrawaat | xuDaar
+carrot,جزر,jazar,جزر,gazar
+cauliflower,قرنبيط,qarnabiiT,قرنبيط,'arnabiiT
 lettuce,خسّ,xass,خسّ,xass
 cucumber,خيار,xiyaar,خيار,xiyaar
-zucchini,كوسا,kuusa,كوسا,kuusa
-cabbage,كرمب,krumb,كرمب,krumb
-peas,بازلاء,baazilaa',بسلة,baazilaa'
+zucchini,كوسا,kuusa,كوسا,koosa
+cabbage,كرمب,krumb,كرمب,kurumb
+peas,بازلاء,baazilaa',بسلة,bisilla
 radish,فجل,fujl,فجل,figl
 radishes,فجول,fujuul,فجول,fujuul
 celery,كرفس,karafs,كرفس,karafs
-okra,بامية,baamiya,بامية,baamiya
-eggplant,باذنجان,badinjaan,بدنجان,badinjaan
+okra,بامية,baamiya,بامية,bamya
+eggplant,باذنجان,badinjaan,بدنجان,bidingaan
 artichoke,خرشوف,xuršuuf,خرشوف,xaršuuf
 artichokes,خراشيف,xaraašiif,خراشيف,xaraašiif
 spinach,سبانخ,sabaanix,سبانخ,sabaanix
@@ -96,100 +96,100 @@ potato,بطاطا,baTaaTa,بطاطس,baTaaTis
 potatoes,بطاطس,baTaaTis,بطاطس,baTaaTis
 tomato,طماطم,TamaaTim,طماطم,TamaaTim
 onion,بصل,baSal,بصل,baSal
-garlic,ثوم,tuum,توم,tuum
+garlic,ثوم,tuum,توم,toom
 clove,فص,faSS,فص,faSS
 cloves,فصوص,fuSuuS,فصوص,fuSuuS
 corn,ذرة,dura,درة,dura
-mushroom,فطر,fuTr,شمبنيون,fuTr
-pumpkin,قرعة,qar3a,عرق عسلي,qar3a
+mushroom,فطر,fuTr,شمبنيون,šampinyoon
+pumpkin,قرعة,qar3a,عرق عسلي,3ar' 3asali
 beans,فول,fuul,فول,fuul
-chickpeas,حمص,HummuS,حمص,HummuS
-lentils,عدس,3adas,عدس,3adas
-soup,حساء,Hisaa',شربة,Hisaa'
+chickpeas,حمص,HummuS,حمص,HommoS
+lentils,عدس,3adas,عدس,3ads
+soup,حساء,Hisaa',شربة,šurba
 salad,سلطة,salaTa,سلطة,salaTa
 meat,لحم,laHm,لحمة,laHma
 meats,لحوم,luHuum,لحوم,luHuum
-poultry,طيور,Tuyuur,ظفر,Tuyuur
-chicken,دجاج,dajaaj,فراخ,dajaaj
+poultry,طيور,Tuyuur,ظفر,Zafar
+chicken,دجاج,dajaaj,فراخ,firaax
 turkey,ديك رومي,diik ruumi,ديك رومي,diik ruumi
 fish,سمك,samak,سمك,samak
 shrimp,جمبري,gambari,جمبري,gambari
-crab,أبو جلمبو,abu galambo,كابوريا,abu galambo
-lobster,كركند,karkand,استاكوزا,karkand
-clam,حلزون صدفي,Halazuun Sadafi,جندوفلي,Halazuun Sadafi
+crab,أبو جلمبو,abu galambo,كابوريا,kaburiya
+lobster,كركند,karkand,استاكوزا,istakooza
+clam,حلزون صدفي,Halazuun Sadafi,جندوفلي,gandofli
 oyster,محار,maHaar,محار,maHaar
-octopus,اخطبوط,ixTabuuT,اخطبوط,ixTabuuT
-bread,خبز,xubz,عيش,xubz
+octopus,اخطبوط,ixTabuuT,اخطبوط,uxTabuuT
+bread,خبز,xubz,عيش,3eiš
 loaf of bread*,رغيف,raġiif,رغيف,raġiif
 loaf of bread*s,أرغفة,arġifa,أرغفة,arġifa
 * Note that a رغيف refers to something different than what Americans would typically think of as a loaf of bread. A رغيف is a whole pita bread or عيش بلدي. Here's a photo of a boy carrying a bunch of أرغفة.,,,,
 a long,عيش فينو,3eiš fiinu,عيش فينو,3eiš fiinu
 a round bread roll ,عيش كيزر,3eiš kayzar,عيش كيزر,3eiš kayzar
 yeast,خميرة,xamiira,خميرة,xamiira
-dough,عجين,3ajiin,عجين,3ajiin
-cheese,جبن,jubn,جبنة,jubn
-butter,زبدة,zubda,زبدة,zubda
-jam,مربّى,murabba,مربّى,murabba
-yogurt,لبن زبادي,laban zabaadi,زبادي,laban zabaadi
+dough,عجين,3ajiin,عجين,3agiin
+cheese,جبن,jubn,جبنة,gibna
+butter,زبدة,zubda,زبدة,zibda
+jam,مربّى,murabba,مربّى,mirabba
+yogurt,لبن زبادي,laban zabaadi,زبادي,zabaadi
 honey,عسل ,3asal ,عسل ,3asal 
-molasses,عسل اسود,3asal aswad,عسل اسود,3asal aswad
-rice,أرزّ,aruzz,رزّ,aruzz
-pasta,مكرونة,makaruuna,مكرونة,makaruuna
+molasses,عسل اسود,3asal aswad,عسل اسود,3asal iswid
+rice,أرزّ,aruzz,رزّ,ruzz
+pasta,مكرونة,makaruuna,مكرونة,makaroona
 egg,بيض,beiD,بيض,beiD
 desserts,حلويات,Helawiyaat,حلويات,Helawiyaat
 ice cream,آيس كريم,aayis kriim,آيس كريم,aayis kriim
 scoop,بولة,boola,بولة,boola
-cake,كعك,ka3k,جاتيه,ka3k
-gum,علك,3ilk,لبان,3ilk
+cake,كعك,ka3k,جاتيه,gatooh
+gum,علك,3ilk,لبان,libaan
 sugar,سكّر,sukkar,سكّر,sukkar
-salt,ملح,milH,ملح,milH
-pepper,فلفل,fulful,فلفل,fulful
+salt,ملح,milH,ملح,malH
+pepper,فلفل,fulful,فلفل,filfil
 oil,زيت,zeit,زيت,zeit
 olive oil,زيت زيتون,zeit zeituun,زيت زيتون,zeit zeituun
 vinegar,خلّ,xall,خلّ,xall
-spices,بهارات,bahaaraat,بهرات,bahaaraat
-flour,دقيق,daqiiq,دقيق,daqiiq
-wheat,قمح,qamH,قمح,qamH
-oats,شوفان,šuufaan,شوفان,šuufaan
+spices,بهارات,bahaaraat,بهرات,buharaat
+flour,دقيق,daqiiq,دقيق,di'ii'
+wheat,قمح,qamH,قمح,'amH
+oats,شوفان,šuufaan,شوفان,šufaan
 barley,شعير,ša3iir,شعير,ša3iir
-mint,نعناع,na3naa3,نعناع,na3naa3
-parsley,بقدونس,baqduunis,بقدونس,baqduunis
-cinnamon,قرفة,qirfa,قرفة,qirfa
-ginger,زنجبيل,zanjabiil,جنزبيل,zanjabiil
+mint,نعناع,na3naa3,نعناع,ni3naa3
+parsley,بقدونس,baqduunis,بقدونس,ba'duunis
+cinnamon,قرفة,qirfa,قرفة,'irfa
+ginger,زنجبيل,zanjabiil,جنزبيل,ganzabiil
 cumin,كمون,kammuun,كمون,kammuun
 turmeric,كركم,kurkum,كركم,kurkum
 coriander,كزبرة,kuzbara,كزبرة,kuzbara
-cloves,قرنفل,qurunfil,قرنفل,qurunfil
+cloves,قرنفل,qurunfil,قرنفل,'oronfil
 saffron,زعفران,za3faraan,زعفران,za3faraan
 thyme,زعتر,za3tar,زعتر,za3tar
 vegetarian,نباتي,nabaati,نباتي,nabaati
-nutrition,غذاء,ġidaa',غذاء,ġidaa'
-appetite,شهية,šahiyya,نفس للأكل,šahiyya
-boiled,مسلوق,masluuq,مسلوق,masluuq
-fried,مقلي,maqli,مقلي,maqli
-grilled,شوي,šawiiy,مشوي,šawiiy
-roasted,محمّر,muHammar,رستو,muHammar
+nutrition,غذاء,ġidaa',غذاء,ġiza
+appetite,شهية,šahiyya,نفس للأكل,nifs lil-akl
+boiled,مسلوق,masluuq,مسلوق,masluu'
+fried,مقلي,maqli,مقلي,ma'li
+grilled,شوي,šawiiy,مشوي,mešwi
+roasted,محمّر,muHammar,رستو,rosto
 stuffed,محشي,maHši,محشي,maHši
 minced,مفروم,mafruum,مفروم,mafruum
-crunchy,مقرمش,muqarmiš,مقرمش,muqarmiš
-raw,نئ,nii',نيّ,nii'
-delicious,لذيذ,ladiid,لذيذ,ladiid
+crunchy,مقرمش,muqarmiš,مقرمش,mi'armiš
+raw,نئ,nii',نيّ,nayy
+delicious,لذيذ,ladiid,لذيذ,laziiz
 delicious,شهي,šahi,شهي,šahi
-fresh,طازج,Taazaj,طازة,Taazaj
+fresh,طازج,Taazaj,طازة,Taaza
 natural,طبيعي,Tabii3i,طبيعي,Tabii3i
-tender,ليّن,layyin,طري,layyin
+tender,ليّن,layyin,طري,Tari
 dry,ناشف,naašif,ناشف,naašif
 sweet,حلو,Helw,حلو,Helw
-hot ,حارّ,Haarr,حامي | حرّاق | مشطّة,Haarr
-hot ,ساخن,saaxin,سخن,saaxin
+hot ,حارّ,Haarr,حامي | حرّاق | مشطّة,Haami | Harraa' | mešaTTa
+hot ,ساخن,saaxin,سخن,suxn
 cold,بارد,baarid,بارد,baarid
 taste,طعم,Ta3m,طعم,Ta3m
 tastes,طعوم,Tu3uum,طعوم,Tu3uum
 flavor,نكهة,nakha,نكهة,nakha
 bitter,مرّ,murr,مرّ,murr
-sour,حامض,HaamiD,مزز,HaamiD
-spoiled,فاسد,faasid,خسران,faasid
+sour,حامض,HaamiD,مزز,miziz
+spoiled,فاسد,faasid,خسران,xasraan
 to go sour ,حمض - يحمض ,HimiD - yiHmaD ,حمض - يحمض ,HimiD - yiHmaD 
-rotten,متعفّن,muta3affin,معفّن,muta3affin
-burned,محروق,maHruuq,محروق,maHruuq
+rotten,متعفّن,muta3affin,معفّن,mi3affin
+burned,محروق,maHruuq,محروق,maHruu'
 undercooked,معجّن,mi3aggin,معجّن,mi3aggin

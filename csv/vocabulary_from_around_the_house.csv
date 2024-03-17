@@ -25,10 +25,10 @@ floor,أرضية,arDiyya,أرضية,arDiyya
 floors,أرضيات,arDiyyaat,أرضيات,arDiyyaat
 roof,سطح,saTH,سطح,saTH
 roofs,سطوح,suTuuH,سطوح,suTuuH
-electricity,كهرباء,kahrabaa',كهرباء,kahrabaa'
+electricity,كهرباء,kahrabaa',كهرباء,kahraba
 pipe,ماسورة,maasuura,ماسورة,masuura
 pipes,مواسير,mawaasiir,مواسير,mawasiir
-valve,محبس,miHbas,محبس,miHbas
+valve,محبس,miHbas,محبس,maHbas
 electrical outlet,مخرج كهرباء,maxraj kahrabaa',فيشة,fiiša
 electrical outlets,فيشات,fiišaat,فيشات,fiišaat
 electrical plug,قابس,qaabis,كبس,kobs
@@ -42,8 +42,8 @@ balcony,شرفة,šurfa,بلكونة,balkoona
 balconies,شرف,šuraf,بلكونات,balkoonaat
 neighbor,جار,jaar,جار,gaar
 neighbors,جيران,jiiraan,جيران,giiraan
-rent or lease,ايجار,iijaar,ايجار,iijaar
-vacant,فارغ,faariġ,فاضي,faariġ
+rent or lease,ايجار,iijaar,ايجار,igaar
+vacant,فارغ,faariġ,فاضي,faaDi
 furnished,مفروش,mafruuš,مفروش,mafruuš
 room,غرفة,ġurfa,أوضة,ooDa
 rooms,غرف,ġuraf,أوض,owaD
@@ -51,8 +51,8 @@ hall,ممرّ,mamarr,طرقة,Tor'a
 halls,ممرّات,mamarraat,طرق,Tora'
 living room,غرفة جلوس,ġurfat juluus,صلون,Saloon
 living rooms,صلونات,Saloonaat,صلونات,Saloonaat
-furniture,أثاث,ataat,أساس,ataat
-upholstery,تنجيد,tanjiid,تنجيد,tanjiid
+furniture,أثاث,ataat,أساس,asaas
+upholstery,تنجيد,tanjiid,تنجيد,tangiid
 chair,كرسي,kursi,كرسي,kursi
 chairs,كراسي,karaasi,كراسي,karaasi
 armchair,,foteyy,فتيّ,foteyy
@@ -67,7 +67,7 @@ curtain/blinds,ستارة,sitaara,ستارة,sitaara
 curtain/blinds,ستائر,sataa'ir,ستاير,sataayir
 television,تلفزيون,televizyoon,تلفزيون,televizyoon
 televisions,تلفزيونات,televizyoonaat,تلفزيونات,televizyoonaat
-remote control,حاكم عن بعد,Haakim 3an bo3d,ريموت ,Haakim 3an bo3d
+remote control,حاكم عن بعد,Haakim 3an bo3d,ريموت ,riimoot 
 telephone,تلفون,tilifoon,تلفون,tilifoon
 telephones,تلفونات,tilifoonaat,تلفونات,tilifoonaat
 lamp,مصباح,miSbaaH,ابجورة,abažoora
@@ -87,7 +87,7 @@ fan,مروحة,mirwaHa,مروحة,marwaHa
 fans,مراوح,maraawiH,مراوح,maraawiH
 heater,,daffaaya,دفّاية,daffaaya
 heaters,دفّايات,daffaayaat,دفّايات,daffaayaat
-cigarette lighter,قداحة,qaddaaHa,ولاعة,qaddaaHa
+cigarette lighter,قداحة,qaddaaHa,ولاعة,wallaa3a
 broom,مقشّة,miqašša,مقشّة,mi'ašša
 brooms,مقشّات,miqaššaat,مقشّات,mi'aššaat
 mop,ممسحة,mimsaHa,مكنسة,maknasa
@@ -100,7 +100,7 @@ clothes drying rack,,manšafa,منشفة,manšafa
 clothes drying racks,مناشف,manaašif,مناشف,manaašif
 scissors,مقصّ,miqaSS,مقصّ,ma'aSS
 scissors,مقاصّ,maqaaSS,مقصّات,ma'aSSaat
-bedroom,غرفة نوم,ġurfat noom,أوضة نوم,ġurfat noom
+bedroom,غرفة نوم,ġurfat noom,أوضة نوم,ooDit noom
 bed,سرير,sariir,سرير,siriir
 beds,سرائر,saraa'ir,سراير,saraayir
 mattress,مرتبة,martaba,مرتبة,martaba
@@ -143,7 +143,7 @@ bathtub,حوض,HooD,بانيو,banyu
 bathtubs,احواض الاستحمام,aHwaaD al-istiHmaam,بانيوهات,banyuhaat
 shower,دوش,duuš,دش,duš
 showers,دوشات,duušaat,دشاش,dišaash
-toilet paper,مرق تواليت,waraq tuwalitt,مرق تواليت,waraq tuwalitt
+toilet paper,مرق تواليت,waraq tuwalitt,مرق تواليت,wara' tuwalitt
 sink,مغسلة,maġsala,حوض,HooD
 sinks,مغاسل,maġaasil,احواض,aHwaaD
 faucet,صنبور,Sunbuur,حنفية,Hanafiyya
@@ -158,20 +158,20 @@ soap,صابون,Sabuun,صابون,Sabuun
 soaps,صابونات,Sabuunaat,صابونات,Sabuunaat
 shampoo,شامبو,šaambuu,شامبو,šaambuu
 sponge,لوفة,luufa,لوفة,luufa
-toothbrush,فرشاة اسنان,furšaat asnaan,فرشة السنان,furšaat asnaan
-toothpaste,معجون اسنان,ma3juun asnaan,معجون السنان,ma3juun asnaan
+toothbrush,فرشاة اسنان,furšaat asnaan,فرشة السنان,furšit is-sinaan
+toothpaste,معجون اسنان,ma3juun asnaan,معجون السنان,ma3guun is-sinaan
 razor,شفرة,šafra,موس,muus
 razors,شفرات حلاقة,šafaraat Hilaaqa,أمواس الحلاقة,amwaas il-Hilaa'a
-shaving cream,صابون حلاقة,Sabuun Hilaaqa,صابون حلاقة,Sabuun Hilaaqa
+shaving cream,صابون حلاقة,Sabuun Hilaaqa,صابون حلاقة,Sabuun Hilaa'a
 washing machine,غسّالة,ġassaala,غسّالة,ġassaala
 washing machines,غسّالات,ġassaalaat,غسّالات,ġassaalaat
 iron,مكواة,mikwaah,مكوى,makwa
 irons,مكاوٍ,makaawin,مكاوي,makaawi
-makeup,ماكياج,maakiyaaž,ماكياج,maakiyaaž
+makeup,ماكياج,maakiyaaž,ماكياج,makyaaž
 powder,بودرة,buudra,بودرة,buudra
-eyeshadow,ظلّ,Zill,كحل,Zill
-dining room,غرفة طعام,ġurfat Ta3aam,أوضة سفرة,ġurfat Ta3aam
-dining table,مائدة,maa'ida,سفرة,maa'ida
+eyeshadow,ظلّ,Zill,كحل,kuHl
+dining room,غرفة طعام,ġurfat Ta3aam,أوضة سفرة,ooDit sufra
+dining table,مائدة,maa'ida,سفرة,sufra
 dish,طبق,Tabaq,طبق,Taba'
 dishes,أطباق,aTbaaq,أطباق,aTbaa'
 bowl,زبدية,zabdiya,سلطنية,sulTaniyya
@@ -196,7 +196,7 @@ can,علبة,3ulba,علبة,3elba
 cans,علب,3ulab,علب,3elab
  napkin,منديل,mandiil,كلينكس,kliinex
  napkins,مناديل ورق,manaadiil waraq,مناديل ورق,manaadiil waraq
-toothpick,عود أسنان,3uud asnaan,سلكّة سنان,3uud asnaan
+toothpick,عود أسنان,3uud asnaan,سلكّة سنان,salekkit sinaan
 kitchen,مطبخ,maTbax,مطبخ,maTbax
 kitchens,مطابخ,maTaabix,مطابخ,maTaabix
 dishwasher,غسّالة صحون,ġassaalat SuHuun,غسّالة صحون,ġassaalat SuHuun
@@ -208,10 +208,10 @@ stove,موقد,mawqid,بتجاز,butagaaz
 stoves,مواقد,mawaaqid,بتجازات,butagaazaat
 flame ,شعلة,šu3la,شعلة,šu3la
 flame s,شعلات,šu3alaat,شعلات,šu3alaat
-matches,ثقاب,tiqaab,كبريت,tiqaab
+matches,ثقاب,tiqaab,كبريت,kabriit
 pot,قدرة,qidra,حلّة,Halla
 pots,قدور,quduur,حلل,Hilal
-frying pan,قلاية,qallaaya,قلاية,qallaaya
+frying pan,قلاية,qallaaya,قلاية,'allaaya
 mixer/blender,خلاط,xallaaT,خلاط,xallaaT
 mixer/blenders,خلاطات,xallaaTaat,خلاطات,xallaaTaat
 strainer,مصفاة,miSfaah,مصفى,maSfa
@@ -236,18 +236,18 @@ pump,طلمبة,Tulumba,طرمبة,Toromba
 pumps,طلمبات,Tulumbaat,طرمبات,Torombaat
 paint,دهان,dihaan,دهان,dihaan
 paints,دهانات,dihaanaat,دهانات,dihaanaat
-glue ,غراء,ġiraa',غراء,ġiraa'
-glue,صمغ,Samġ,سمغ,Samġ
-tape,شريط لصق,šariiT laSq,شريط لصق,šariiT laSq
+glue ,غراء,ġiraa',غراء,ġira
+glue,صمغ,Samġ,سمغ,samġ
+tape,شريط لصق,šariiT laSq,شريط لصق,širiiT laS'
 ladder,سلّم,sullam,سلّم,sillim
 ladders,سلالم,salaalim,سلالم,salaalim
 metal,معدن,ma3din,معدن,ma3dan
 metals,معادن,ma3aadin,معادن,ma3aadin
 material,مادة,maadda,مادة,madda
 materials,مواد,mawaadd,مواد,mawaadd
-copper,نحاس,nuHaas,نحاس,nuHaas
+copper,نحاس,nuHaas,نحاس,niHaas
 iron,حديد,Hadiid,حديد,Hadiid
-steel,صلب,Sulb,صلب,Sulb
+steel,صلب,Sulb,صلب,Solb
 marble,رخام,ruxaam,رخام,ruxaam
 to turn on (a light,ولّع - يولّع ,walla3 - yiwalla3 ,ولّع - يولّع ,walla3 - yiwalla3 
 to turn off,طفى - يطفي ,Tafa - yiTfi ,طفى - يطفي ,Tafa - yiTfi 

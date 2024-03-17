@@ -5,7 +5,7 @@ street,شارع,šaari3,شارع,šaari3
 streets,شوارع,šawaari3,شوارع,šawaari3
 road,طريق,Tariiq,طريق,Tarii'
 roads,طرق,Turuq,طرق,Turu'
-highway,طريق  سريع,Tariiq sarii3,طريق اتوستراد,Tariiq sarii3
+highway,طريق  سريع,Tariiq sarii3,طريق اتوستراد,Tarii' otostraad
 alley; lane,حارة,Haara,حارة,Haara
 alley; lanes,حارات,Haaraat,حارات,Haaraat
 corner ,ناصية,naaSiya,ناصية,naSya
@@ -78,7 +78,7 @@ insurance,تأمين,ta'miin,تأمين,ta'miin
  exchange,صرافة,Siraafa,صرافة,Siraafa
 bank,بنك,bank,بنك,bank
 banks,بنوك,bunuuk,بنوك,bunuuk
-ATM,صرّاف آلي,Sarraaf aali,آي تي ام,Sarraaf aali
+ATM,صرّاف آلي,Sarraaf aali,آي تي ام,ATM
 library; bookstore,مكتبة,maktaba,مكتبة,maktaba
 library; bookstores,مكتبات,maktabaat,مكتبات,maktabaat
 station,محطة,maHaTTa,محطة,maHaTTa
@@ -111,18 +111,18 @@ pothole; speed bump,مطبّ,maTabb,مطبّ,maTabb
 pothole; speed bumps,مطبّات,maTabbaat,مطبّات,maTabbaat
 sewer,بلاعة,ballaa3a,بلاعة,ballaa3a
 sewers,بلاعات,ballaa3aat,بلاعات,ballaa3aat
-sewage,مجاري,majaari,مجاري,majaari
+sewage,مجاري,majaari,مجاري,magaari
 hole,حفرة,Hufra,حفرة,Hofra
 holes,حفر,Hufar,حفر,Hofar
 sign,يافطة,yaafiTa,يافطة,yafTa
 signs,يافطات,yaafiTaat,يفط,yufaT
 public transportation,مواصلات,muwaaSlaat,مواصلات,muwaaSlaat
 traffic,مرور,muruur,مرور,muruur
-crowdedness,ازدحام,izdiHaam,زحمة,izdiHaam
-noise,ضجّة,Dajja,دوشة,Dajja
-pollution,تلوث,tilawwat,تلوث,tilawwat
-mess,هرجلة,harjala,هرجلة,harjala
-trash,نفاية,nufaaya,زبالة,nufaaya
+crowdedness,ازدحام,izdiHaam,زحمة,zaHma
+noise,ضجّة,Dajja,دوشة,dawša
+pollution,تلوث,tilawwat,تلوث,tilawwas
+mess,هرجلة,harjala,هرجلة,hargala
+trash,نفاية,nufaaya,زبالة,zebaala
 queue,طابور,Taabuur,طابور,Tabuur
 queues,طوابير,Tawaabiir,طوابير,Tawabiir
 car,سيارة,sayyaara,عربية,3arabiyya
@@ -131,7 +131,7 @@ bus,حافلة,Haafila,اتوبيس,otobiis
 buses,حوافل,Hawaafil,اتوبيسات,otobiisaat
 bicycle,درّاجة,darraaja,عجلة,3agala
 bicycles,درّاجات,darraajaat,عجل,3agal
-motorcycle,درّاجة نارية,darraaja naariyya,موتوسيكل,darraaja naariyya
+motorcycle,درّاجة نارية,darraaja naariyya,موتوسيكل,motosikl
 truck,شاحنة,šaaHina,لوري,luuri
 trucks,شاحنات,šaaHinaat,لوريات,luriyyaat
 taxi,تاكسي,taksi,تاكسي,taksi

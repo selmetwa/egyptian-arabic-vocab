@@ -33,20 +33,20 @@ wave,موج,mooj,موج,moog
 waves,امواج,amwaaj,امواج,amwaag
 tide,تيّار,tayyaar,تيّار,tayyaar
 tides,تيّارات,tayyaaraat,تيّارات,tayyaraat
-coral,مرجان,murjaan,مرجان,murjaan
+coral,مرجان,murjaan,مرجان,murgaan
 reef,شعبة,ši3ba,شعبة,ši3ba
 reefs,شعب,ši3ab,شعب,ši3ab
 inlet,شرم,šarm,شرم,šarm
 inlets,شروم,šuruum,شروم,šuruum
-peninsula,شبة جزيرة,šibhu jaziira,شبة جزيرة,šibhu jaziira
+peninsula,شبة جزيرة,šibhu jaziira,شبة جزيرة,šibh gaziira
 waterfall,شلال,šallaal,شلال,šallaal
 waterfalls,شلالات,šallaalaat,شلالات,šallalaat
 mountain,جبل,jabal,جبل,gabal
 mountains,جبال,jibaal,جبال,gibaal
 peak,قمة,qimma,قمة,'imma
 peaks,قمم,qimam,قمم,'imam
-Mt. Sinai,جبل موسى,jabal muusa,جبل موسى,jabal muusa
-mountain range,سلسلة جبلية,silsila jabaliyya,سلسلة جبلية,silsila jabaliyya
+Mt. Sinai,جبل موسى,jabal muusa,جبل موسى,gabal muusa
+mountain range,سلسلة جبلية,silsila jabaliyya,سلسلة جبلية,silsila gabaliyya
 hill,تلّ,tall,تلّ,tall
 hills,تلال,tilaal,تلال,tilaal
 valley,وادي,waadi,وادي,waadi
@@ -113,20 +113,20 @@ earth,أرض,arD,أرض,arD
 earths,أراض,araaDin ,أراض,araaDi 
 horizon,افق,ufuq,افق,ufuq
 horizons,آفاق,aafaaq,آفاق,afaaq
-weather forecast,نشرة جوية,našra jawwiyya,نشرة جوية,našra jawwiyya
+weather forecast,نشرة جوية,našra jawwiyya,نشرة جوية,našra gawwiyya
 degree,درجة,daraja,درجة,daraga
 degrees,درجات,darajaat,درجات,daragaat
 climate,مناخ,manaax,مناخ,manaax
-hot ,حار    حرارة,Haar ,حرّ  ,Haar 
+hot ,حار    حرارة,Haar ,حرّ  ,Harr 
 cold - adj. ,بارد ,baarid ,بارد ,baarid 
-warm ,دافئ ,daafi' ,دافي ,daafi' 
-clear,صحو,SaHw,صافي,SaHw
+warm ,دافئ ,daafi' ,دافي ,daafi 
+clear,صحو,SaHw,صافي,Saafi
 moderate,معتدل,mu3tadil,معتدل,mu3tadil
 rainy,ممطر,mumTir,ممطر,mumTir
-cloudy,غائم,ġaa'im,مغيّم,ġaa'im
+cloudy,غائم,ġaa'im,مغيّم,miġayyim
 sunny,مشمس,mušmis,مشمس,mušmis
-snowy,مثلّج,mutallaj,مثلّج,mutallaj
-humid,رطب,raTb,رطب,raTb
+snowy,مثلّج,mutallaj,مثلّج,mitallig
+humid,رطب,raTb,رطب,riTib
 stormy,عاصف,3aaSif,عاصف,3aaSif
 dusty,ترابي,turaabi,ترابي,turaabi
 cloud,غيمة,ġeima,غيمة,ġeim
@@ -139,7 +139,7 @@ star,نجم,najm,نجم,nigm
 stars,نجوم,nujuum,نجوم,nuguum
 rain,مطر,maTar,مطر,maTar
 rain,أمطار,amTaar,أمطار,amTaar
-snow,ثلج,talj,تلج,talj
+snow,ثلج,talj,تلج,talg
 frost,صقيع,Saqii3,صقيع,Saqii3
 wind,ريح,riiH,ريح,riiH
 winds,رياح,riyaaH ,رياح,riyaaH 
@@ -164,10 +164,10 @@ volcano,بركان,burkaan,بركان,burkaan
 volcanoes,براكين,baraakiin,براكين,barakiin
 dust storm,عاصفة ترابية,3aaSifa turaabiyya,زعبوبة,za3buuba
 dust storms,زعابيب,za3abiib,زعابيب,za3abiib
-rainbow,قوس قزج,qoos quzaH,قوس قزج,qoos quzaH
+rainbow,قوس قزج,qoos quzaH,قوس قزج,'oos 'uzaH
 season,فصل,faSl,فصل,faSl
 seasons,فصول,fuSuul,فصول,fuSuul
 spring,ربيع,rabii3,ربيع,rabii3
 summer,صيف,Seif,صيف,Seif
 fall,خريف,xariif,خريف,xariif
-winter,شتاء,šitaa',شتا,šitaa'
+winter,شتاء,šitaa',شتا,šita

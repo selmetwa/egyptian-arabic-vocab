@@ -23,24 +23,24 @@ contagious,معد,mu3d,معد,mu3d
 infection,عدوى,3adwa,عدوى,3adwa
 parasite,طفيلي,Tufaili,طفيلي,Tufaili
 parasites,طفيليات,Tufailiyaat,طفيليات,Tufailiyaat
-asthma,ربو,rabw,ازمة,rabw
+asthma,ربو,rabw,ازمة,azma
 heart attack,أزمة قلبية,azma qalbiyya,أزمة قلبية,azma qalbiyya
 coma,غيبوبة,ġaibuuba,غيبوبة,ġaibuuba
 clot,جلطة,jalTa,جلطة,galTa
 clots,جلطات,jalaTaat,جلطات,galaTaat
-stroke,جلطة دماغية,jalTa dimaaġiyya,جلطة في المخ,jalTa dimaaġiyya
+stroke,جلطة دماغية,jalTa dimaaġiyya,جلطة في المخ,galTa fil-moxx
 allergy ,حسّاسية من,Hassaasiyya min,حسّاسية من,Hassaasiyya min
-cold,باردة,baarida,برد,baarida
+cold,باردة,baarida,برد,bard
 cirrhosis,تليف,talayyuf,تليف,talayyuf
 autism,توحد,tawaHHud,توحد,tawaHHud
-leprosy,جذام,judaam,جذام,judaam
+leprosy,جذام,judaam,جذام,guzaam
 kidney stone,حصوة,HaSwa,حصوة,HaSwa
 kidney stones,حصيات الكلي,HaSayaat al-kulya,حصاوي كلوة,HaSaawi kilwa
-tuberculosis,درن,daran,سل,daran
+tuberculosis,درن,daran,سل,sull
 epilepsy,صرع,Sara3,صرع,Sara3
 symptom,عرض,3araD,عرض,3araD
 symptoms,أعراض,a3raaD,أعراض,a3raaD
-headache,صداع,Sudaa3,صداع,Sudaa3
+headache,صداع,Sudaa3,صداع,SuDaa3
 insomnia,أرق,araq,أرق,araq
 heartburn,حموضة,HumuuDa,حموضة,HumuuDa
 diarrhea,إسهال,ishaal,إسهال,ishaal
@@ -51,7 +51,7 @@ bruise,كدمة,kadma,كدمة,kadma
 bruises,كدمات,kadamaat,كدمات,kadamaat
 burn,حرق,Harq,حرق,Har'
 burns,حروق,Huruuq,حروق,Huruu'
-laceration,تمزّق,tamazzuq,تمزّق,tamazzuq
+laceration,تمزّق,tamazzuq,تمزّق,tamazzu'
 scratch,خدش,xadš,خدش,xadš
 scratches,خدوش,xuduuš,خدوش,xuduuš
 cut,قطع,qaT3,قطع,'aT3
@@ -64,15 +64,15 @@ swelling; tumor,ورم,waram,ورم,waram
 swelling; tumors,أورام,awraam,أورام,awraam
 inflammation; infection,تهاب,tihaab,تهاب,tihaab
 dizziness,دوخة,dawxa,دوخة,dawxa
-vomiting,قئ | تقيّؤ,qay'/taqayyu',طراش,qay'/taqayyu'
-nausea,غثيان,ġatayaan,جزع,ġatayaan
+vomiting,قئ | تقيّؤ,qay'/taqayyu',طراش,Turaaš
+nausea,غثيان,ġatayaan,جزع,gaza3
 shock,صدمة,Sadma,صدمة,Sadma
 shocks,صدمات,Sadamaat,صدمات,Sadamaat
 fever,حمّى,Humma,حمّى,Humma
 fevers,حمّيات,Hummayaat,حمّيات,Hummiyyaat
 degree,درجة,daraja,درجة,daraga
 degrees,درجات,darajaat,درجات,daragaat
-broken , مكسور, maksuur, مكسور, maksuur
+broken , مكسور, maksuur, مكسور,diraa3 maksuur
 thermometer,مقياس,miqyaas,مزان حرارة,mizaan Haraara
 thermometers,مقاييس الحرارة,maqaayiis al-Haraara,مقاييس الحرارة,maqaayiis al-Haraara
 stethoscope,سمّاعة,sammaa3a,سمّاعة,sammaa3a
@@ -86,12 +86,12 @@ tablet,قرص,qurS,برشامة,buršaama
 tablets,اقراص,aqraaS,برشام,buršaam
 syrup,شراب,šaraab,دوا شرب,dawa šurb
 syrups,اشربة,ašriba,اشربة,ašriba
-antibiotic,مضاد حيوي,muDaadd Hayawi,مضاد حيوي,muDaadd Hayawi
+antibiotic,مضاد حيوي,muDaadd Hayawi,مضاد حيوي,muDadd Hayawi
 dose ,جرعة,jar3a,جرعة,gur3a
 dose s,جرعات,jar3aat,جرعات,gur3aat
 ointment,مرهم,marham,مرهم,marham
 ointments,مراهم,maraahim,مراهم,maraahim
-vaccine,لقاح,laqaaH,تطعيم,laqaaH
+vaccine,لقاح,laqaaH,تطعيم,taT3iim
 gauze,شاش,šaaš,شاش,šaaš
 bandage,ضماد,Dimaad,رباط,rubaaT
 bandages,اربطة,arbiTa,اربطة,arbiTa
@@ -103,15 +103,15 @@ crutch,عكاز,3ukkaaz,عكاز,3ukkaaz
 crutches,عكازات,3ukkaazaat,عكازات,3ukkaazaat
 disinfectant,مطهّر,muTahhir,مطهّر,muTahhir
 disinfectants,مطهّرات,muTahhiraat,مطهّرات,muTahhiraat
-anesthesia,تخدير,taxdiir,بنج,taxdiir
+anesthesia,تخدير,taxdiir,بنج,bing
 operation,عملية,3amaliyya,عملية,3amaliyya
 operations,عمليات,3amaliyyaat,عمليات,3amaliyyaat
-surgery,جراحة,jiraaHa,جراحة,jiraaHa
+surgery,جراحة,jiraaHa,جراحة,giraaHa
 amputation,بتر,batr,بتر,batr
 autopsy,تشريح,tašriiH,تشريح,tašriiH
-abortion,اجهاض,ijhaaD,اجهاض,ijhaaD
-chemotherapy,علاج كيميائي,3ilaaj kiimiyaa'i,علاج كيميائي,3ilaaj kiimiyaa'i
-plastic surgery,عملية تجميل,3amaliyyat tajmiil,عملية تجميل,3amaliyyat tajmiil
+abortion,اجهاض,ijhaaD,اجهاض,ighaaD
+chemotherapy,علاج كيميائي,3ilaaj kiimiyaa'i,علاج كيميائي,3ilaag kimyaa'i
+plastic surgery,عملية تجميل,3amaliyyat tajmiil,عملية تجميل,3amaliyyit tagmiil
 health,صحة,SiHHa,صحة,SiHHa
 sick,مريض,mariid,مريض,mariid
 sicks,مرضى,marDa,مرضى,marDa
@@ -136,8 +136,8 @@ to be injured,اتعوّر - يتعوّر ,it3awwar - yit3awwar ,اتعوّر - 
 pain,وجع,waja3,وجع,waga3
 pains,أوجاع,awjaa3,أوجاع,awgaa3
  sneeze,عطسة,3aTsa,عطسة,3aTsa
- cough,سعلة,su3la,كحّة,su3la
-stuffed-up nose,أنف مزكم,anf muzkam,مناخير مسدودة,anf muzkam
+ cough,سعلة,su3la,كحّة,kuHHa
+stuffed-up nose,أنف مزكم,anf muzkam,مناخير مسدودة,manaxiir masduuda
 runny nose,مناخير بتخرّ\بتشرّ,manaxiir bitxorr/bitšorr,مناخير بتخرّ\بتشرّ,manaxiir bitxorr/bitšorr
 prevention of,وقاية من,wiqaaya min,وقاية من,wiqaaya min
 medical examination,فحص,faHS,فحص,faHS

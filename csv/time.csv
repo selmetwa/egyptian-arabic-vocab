@@ -21,29 +21,29 @@ second,ثانية,taanya,ثانية,tanya
 seconds,ثواني,tawaani,ثواني,tawaani
 moment,لحظة,laHZa,لحظة,laHZa
 moments,لحظات,laHaZaat,لحظات,laHaZaat
-dawn,فجر,fajr,فجر,fajr
-morning,صباح,SabaaH,صباح | صبح,SabaaH
-noon,ظهر,Zuhr,ضهر,Zuhr
-evening,مساء,masaa',مساء,masaa'
+dawn,فجر,fajr,فجر,fagr
+morning,صباح,SabaaH,صباح | صبح,SabaaH/SobH
+noon,ظهر,Zuhr,ضهر,Duhr
+evening,مساء,masaa',مساء,masaa'/masa
 night,ليلة,leila,ليلة,leila
 nights,ليالي,layaali,ليالي,layaali
-before,قبل,qabl,قبل,qabl
+before,قبل,qabl,قبل,'abl
 after,بعد,ba3d,بعد,ba3d
-then,ثم,tumma,بعدين,tumma
-until,حتى,Hatta,لغاية,Hatta
-now,الآن,al'aan,دلوقت,al'aan
-the day before yesterday,أول أمس,awwal ams,اول امبارح,awwal ams
-yesterday,أمس,ams,امبارح,ams
-last night,ليلة أمس,leilat ams,امبارح بالليل,leilat ams
-tomorrow,غدا,ġadan,بكرة,ġadan
-every day,كل يوم,kull yawm,كل يوم,kull yawm
-every other day,كل يومين,kull yawmein,يوم آه ويوم لا,kull yawmein
-day after day,يوما بعد يوم,yawman ba3d yawm,يوم ورا يوم,yawman ba3d yawm
-early,مبكر,mubakkir,بدري,mubakkir
-late,متأخر,muta'axxir,متأخر,muta'axxir
-after a while,بعد قليل,ba3d qaliil,بعد شوية,ba3d qaliil
-later on,لاحقا,laaHiqan,بعدين,laaHiqan
-always,دائما,daa'iman,دايما,daa'iman
+then,ثم,tumma,بعدين,ba3dein
+until,حتى,Hatta,لغاية,li-ġaayit
+now,الآن,al'aan,دلوقت,dilwa'ti/dilwa't
+the day before yesterday,أول أمس,awwal ams,اول امبارح,awwil imbaariH
+yesterday,أمس,ams,امبارح,imbaariH
+last night,ليلة أمس,leilat ams,امبارح بالليل,imbaariH bil-leil
+tomorrow,غدا,ġadan,بكرة,bukra
+every day,كل يوم,kull yawm,كل يوم,kulle yoom
+every other day,كل يومين,kull yawmein,يوم آه ويوم لا,yoom 'aah wa-yoom la
+day after day,يوما بعد يوم,yawman ba3d yawm,يوم ورا يوم,yoom wara yoom
+early,مبكر,mubakkir,بدري,badri
+late,متأخر,muta'axxir,متأخر,mit'axxar
+after a while,بعد قليل,ba3d qaliil,بعد شوية,ba3de šwayya
+later on,لاحقا,laaHiqan,بعدين,ba3dein
+always,دائما,daa'iman,دايما,dayman
 usually,عادةً,3aadatan,عادةً,3aadatan
 sometimes,أحيانا,aHyaanan,أحيانا,aHyaanan
 rarely,نادرا,naadiran,نادرا,naadiran
@@ -84,14 +84,14 @@ August,آب,aab,آب,aab
 September,أيلول,ayluul,أيلول,ayluul
 Muharram,محرم,muHarram,محرم,muHarram
 Safar,صفر,Safar,صفر,Safar
-Rajab,رجب,rajab,رجب,rajab
-Shaban,شعبان,ša3abaan,شعبان,ša3abaan
+Rajab,رجب,rajab,رجب,ragab
+Shaban,شعبان,ša3abaan,شعبان,ša3baan
 Ramadan,رمضان,ramaDaan,رمضان,ramaDaan
 Shawwal,شوال,šawwaal,شوال,šawwaal
 Thout ,توت,tuut,توت,tuut
 Paopi ,بابة,baaba,بابة,baaba
-Hathor ,هاتور,haatuur,هاتور,haatuur
-Koiak ,كياهك,kiyaahk,كياهك,kiyaahk
+Hathor ,هاتور,haatuur,هاتور,hatuur
+Koiak ,كياهك,kiyaahk,كياهك,kiyaak
 Tobi ,طوبة,Tuuba,طوبة,Tuuba
 Meshir ,أمشير,amšiir,أمشير,amšiir
 Paremhat ,برمهات,baramhaat,برمهات,baramhaat
@@ -100,4 +100,4 @@ Pashons ,بشنس,bašans,بشنس,bašans
 Paoni ,بؤونة,ba'uuna,بؤونة,ba'uuna
 Epip ,أبيب,abiib,أبيب,abiib
 Mesori ,مسرى,misra,مسرى,misra
-Pi Kogi Enavot ,نسئ,nasii',نسئ,nasii'
+Pi Kogi Enavot ,نسئ,nasii',نسئ,nasy

@@ -8,23 +8,23 @@ painter,رسام,rassaam,رسام,rassaam
 paint,طلاء,Tilaa',دهان,dihaan
 paints,دهانات,dihaanat,دهانات,dihaanat
 charcoal,فحم,faHm,فحم,faHm
-pottery,فخار,faxxaar,فخار,faxxaar
+pottery,فخار,faxxaar,فخار,fuxxaar
 ceramics,خزف,xazaf,خزف,xazaf
 clay,صلصال,SalSaal,صلصال,SalSaal
 statue,تمثال,timtaal,تمثال,timsaal
 statues,تماثيل,tamaatiil,تماثيل,tamasiil
 mosaics,فسيفساء,fuseifisaa',فسيفساء,fuseifisaa'
-weaving,نسيج,nasiij,نسيج,nasiij
-bellydance,رقص شرقي,raqS šarqi,رقص شرقي,raqS šarqi
-music,موسيقى,muusiiqa,موسيقى,muusiiqa
-singer,مغنٍ,muġannin,مغني,muġannin
+weaving,نسيج,nasiij,نسيج,nasiig
+bellydance,رقص شرقي,raqS šarqi,رقص شرقي,ra'S šar'i
+music,موسيقى,muusiiqa,موسيقى,musiiqa
+singer,مغنٍ,muġannin,مغني,muġanni
 rock star,نجم,najm,نجم,nagm
 rock stars,نجوم الروك,nujuum ar-rock,نجوم الروك,nuguum ar-rock
 band,فرقة,firqa,فرقة,fir'a
 bands,فرق,firaq,فرق,fira'
 choir,جوقة,jooqa,جوقة,goo'a
 choirs,جوقات,jooqaat,جوقات,goo'aat
-lead singer,مغنٍ رئيسي,muġannin ra'iisi,مغنٍ رئيسي,muġannin ra'iisi
+lead singer,مغنٍ رئيسي,muġannin ra'iisi,مغنٍ رئيسي,muġanni ra'iisi
 composer,ملحن,mulaHHin,ملحن,mulaHHin
 song,أغنية,uġniyya,أغنية,oġniyya
 songs,أغان,aġaanin,أغاني,aġaani
@@ -36,7 +36,7 @@ tape,شريط,šariiT,شريط,širiiT
 tapes,شرائط,šaraa'iT,شرايط,šaraayiT
 record,اسطوانة,usTuwaana,اسطوانة,isTiwaana
 records,اسطوانات,usTuwaanaat,اسطوانات,isTiwaanaat
-lyrics,كلمات أغنية | أغان,kalimaat uġniyya/aġaanin,كلمات أغنية | أغاني,kalimaat uġniyya/aġaanin
+lyrics,كلمات أغنية | أغان,kalimaat uġniyya/aġaanin,كلمات أغنية | أغاني,kelimaat oġniyya/aġaani
 melody,لحن,laHn,لحن,laHn
 melodies,ألحان,alHaan,ألحان,alHaan
 tune,نغم,naġm,نغم,naġm
@@ -45,10 +45,10 @@ music video,مقطع,maqTa3,فيديو كليب,viidiyo kliip
 music videos,مقاطع,maqaaTi3,فيديو كليبات,viidiyo kliipaat
 screenshot,لقطة,laqTa,لقطة,laqTa
 screenshots,لقطات,laqaTaat,لقطات,laqaTaat
-tour,جولة غنائية,joola ġanaa'iyya,جولة غنائية,joola ġanaa'iyya
-promotion,ترويج,tarwiij,ترويج,tarwiij
-concert,حفلة موسيقية,Hafla muusiiqiyya,حفلة موسيقية,Hafla muusiiqiyya
-fans,جمهور,jumhuur,جمهور,jumhuur
+tour,جولة غنائية,joola ġanaa'iyya,جولة غنائية,goola ġanaa'iyya
+promotion,ترويج,tarwiij,ترويج,tarwiig
+concert,حفلة موسيقية,Hafla muusiiqiyya,حفلة موسيقية,Hafla musiqiyya
+fans,جمهور,jumhuur,جمهور,gumhuur
 musical instrument,آلة,aala,آلة,aala
 musical instruments,آلات موسيقية,aalaat muusiiqiyya,آلات موسيقية,aalaat musiqiyya
 violin,كمان,kamaan,كمنجة,kamanga
@@ -63,22 +63,22 @@ voice ,صوت,Soot,صوت,Soot
 voice s,أصوات,aSwaat,أصوات,aSwaat
 movie,فيلم,film,فيلم,film
 movies,أفلام,aflaam,أفلام,aflaam
-actor,ممثل,mumattil,ممثل,mumattil
+actor,ممثل,mumattil,ممثل,mumassil
 star,نجم,najm,نجم,nagm
 stars,نجوم,nujuum,نجوم,nuguum
 famous ,مشهور,mašhuur,مشهور,mašhuur
 famous s,مشاهير ,mašaahiir ,مشاهير ,mašahiir 
-supporting actor,ممثل مساعد,mumattil musaa3id,ممثل مساعد,mumattil musaa3id
-child star,نجم طفل,najm Tifl,نجم طفل,najm Tifl
-director,مخرج,muxrij,مخرج,muxrij
-producer,منتج,muntij,منتج,muntij
+supporting actor,ممثل مساعد,mumattil musaa3id,ممثل مساعد,mumassil musaa3id
+child star,نجم طفل,najm Tifl,نجم طفل,nagm Tifl
+director,مخرج,muxrij,مخرج,muxrig
+producer,منتج,muntij,منتج,muntig
 script,سيناريو,siinaariyo,سيناريو,sinaryo
 scripts,سيناريوهات,siinaariyohaat,سيناريوهات,sinaryohaat
-original screenplay,سيناريو أصلي,siinaariyo aSli,سيناريو أصلي,siinaariyo aSli
-adapted screenplay,سيناريو مقتبس,siinaariyo muqtabas,سيناريو مقتبس,siinaariyo muqtabas
-special effects,مؤثرات ,mu'attiraat ,مؤثرات ,mu'attiraat 
-sound effects,مؤثرات صوتية,mu'attiraat Sootiyya,مؤثرات صوتية,mu'attiraat Sootiyya
-visual effects,مؤثرات بصرية,mu'attiraat baSariyya,مؤثرات بصرية,mu'attiraat baSariyya
+original screenplay,سيناريو أصلي,siinaariyo aSli,سيناريو أصلي,sinaryo aSli
+adapted screenplay,سيناريو مقتبس,siinaariyo muqtabas,سيناريو مقتبس,sinaryo muqtabas
+special effects,مؤثرات ,mu'attiraat ,مؤثرات ,mu'assiraat
+sound effects,مؤثرات صوتية,mu'attiraat Sootiyya,مؤثرات صوتية,mu'assiraat Sootiyya
+visual effects,مؤثرات بصرية,mu'attiraat baSariyya,مؤثرات بصرية,mu'assiraat baSariyya
 makeup,مكياج,makyaaž,مكياج,makyaaž
 cinematography,تصوير,taSwiir,تصوير,taSwiir
 editing,تحرير,taHriir,تحرير,taHriir
@@ -86,18 +86,18 @@ critic,ناقد,naaqid,ناقد,naaqid
 critics,نقّاد,nuqqaad,نقّاد,nuqqaad
 review,مراجعة,muraaja3a,مراجعة,muraaga3a
 reviews,مراجعات,muraaja3aat,مراجعات,muraaga3aat
-positive,ايجابي,iijaabi,ايجابي,iijaabi
+positive,ايجابي,iijaabi,ايجابي,iigaabi
 negative,سلبي,silbi,سلبي,silbi
 rating (G,تصنيف,taSniif,تصنيف,taSniif
 assessment; rating ,تقييم,taqyiim,تقييم,taqyiim
 Oscar award,جائزة,jaa'izat oscar,جايزة,gayzit oscar
 Oscar awards,جوائز أوسكار,jawaa'iz oscar,جوايز أوسكار,gawaayiz oscar
-starring...,بطولة,buTuula,بطولة,buTuula
+starring...,بطولة,buTuula,بطولة,biTuula
 role,دور,door,دور,door
 roles,أدوار,adwaar,أدوار,adwaar
 performance,أداء,adaa',أداء,adaa'
 performances,أداءات,adaa'aat,أداءات,adaa'aat
-portrayal,تجسيد,tajsiid,تجسيد,tajsiid
+portrayal,تجسيد,tajsiid,تجسيد,tagsiid
 showing,عرض,3arD,عرض,3arD
 showings,عروض,3uruuD,عروض,3uruuD
 character,شخصية,šaxSiyya,شخصية,šaxSiyya
@@ -112,9 +112,9 @@ record,رقم قياسي,raqam qiyaasi,رقم قياسي,raqam qiyaasi
 festival,مهرجان,mihrajaan,مهرجان,mahragaan
 festivals,مهرجانات,mihrajaanaat,مهرجانات,mahragaanaat
 failure,اخفاق,ixfaaq,اخفاق,ixfaaq
-success,نجاح,najaaH,نجاح,najaaH
+success,نجاح,najaaH,نجاح,nagaaH
 popular,شعبي,ša3bi,شعبي,ša3bi
-movie theater,سينما,siinima,سينما,siinima
+movie theater,سينما,siinima,سينما,siinema
 poster,ملصق,mulSaq,ملصق,mulSaq
 posters,ملصقات,mulSaqaat,ملصقات,mulSaqaat
 ticket,تذكرة,tadkara,تذكرة,tazkara
@@ -125,32 +125,32 @@ drama,دراما,draama,دراما,draama
 comedy,كوديدي,komedy,كوديدي,komedy
 action,أكشن,akšun,أكشن,akšun
 adventure,مغامرة,muġaamara,مغامرة,muġaamara
-crime,اجرام,ijraam,اجرام,ijraam
+crime,اجرام,ijraam,اجرام,igraam
 family,عائلي,3aa'ili,عائلي,3aa'ili
 fantasy,خيالي,xayaali,خيالي,xayaali
 science fiction,خيالي علمي,xayaali 3ilmi,خيالي علمي,xayaali 3ilmi
-horror,رعب,ru3b,رعب,ru3b
+horror,رعب,ru3b,رعب,ra3b
 mystery,لغز,luġz,لغز,luġz
 thriller,مشوق | تشويق,tašwiiq/mušawwiq,مشوق | تشويق,tašwiiq/mušawwiq
 romance,رومانسي,romaansi,رومانسي,romaansi
 musical,موسيقي,muusiiqi,موسيقي,muusiiqi
 war,حربي,Harbi,حربي,Harbi
-historical,تاريخي,taariixi,تاريخي,taariixi
-documentary,وثائقي,wataa'iqi,وثائقي,wataa'iqi
+historical,تاريخي,taariixi,تاريخي,tariixi
+documentary,وثائقي,wataa'iqi,وثائقي,wasaa'iqi
 cartoon,كرتون,kartuun,كرتون,kartuun
-dubbed,مدبلج,mudablaj,مدبلج,mudablaj
-subtitled,مترجم,mutarjam,مترجم,mutarjam
+dubbed,مدبلج,mudablaj,مدبلج,mudablag
+subtitled,مترجم,mutarjam,مترجم,mutargam
 entertainment,تسلية,tasliyya,تسلية,tasliyya
 relaxation,ترفيه,tarfiih,ترفيه,tarfiih
 epic,ملحمي,malHami,ملحمي,malHami
 cinematic masterpiece,تحفة,tuHfa,تحفة,tuHfa
 cinematic masterpieces,تحف سينمائية,tuHaf sinimaa'iyya,تحف سينمائية,tuHaf sinimaa'iyya
 devastating,مدمر,mudammir,مدمر,mudammir
-exciting ,مثير ,mutiir ,مثير ,mutiir 
-full of,ملئ بـ,malii' bi,مليان بـ,malii' bi
+exciting ,مثير ,mutiir ,مثير ,musiir 
+full of,ملئ بـ,malii' bi,مليان بـ,malyaan bi
 fun,مرح,maraH,مرح,maraH
 enjoyable,ممتع,mumti3,ممتع,mumti3
-entertaining,مسلٍ,musallin,مسلي,musallin
+entertaining,مسلٍ,musallin,مسلي,musalli
 excellent,رائع,raa'i3,رائع,raa'i3
 distinguished,مميز,mumayyaz,مميز,mumayyaz
 special,متميز,mutamayyiz,متميز,mutamayyiz
@@ -158,8 +158,8 @@ great,ممتاز,mumtaaz,ممتاز,mumtaaz
 unique,فريد,fariid,فريد,fariid
 rare,نادر,naadir,نادر,naadir
 marvellous,خارق,xaariq,خارق,xaariq
-astonishing,مذهل,mudhil,مذهل,mudhil
-attractive,جذاب,jaddaab,جذاب,jaddaab
+astonishing,مذهل,mudhil,مذهل,muzhil
+attractive,جذاب,jaddaab,جذاب,gazzaab
 funny,مضحك,muDHik,مضحك,muDHik
 boring,مملّ,mumill,مملّ,mumill
 ordinary,عادي,3aadi,عادي,3aadi
@@ -168,7 +168,7 @@ silly,سخيف,saxiif,سخيف,saxiif
 realistic,واقعي,waaqi3i,واقعي,waaqi3i
 mysterious,غامض,ġaamiD,غامض,ġaamiD
 terrifying,مفزع,mufzi3,مفزع,mufzi3
-disgusting,مقزز,muqazziz,مقرف,muqazziz
+disgusting,مقزز,muqazziz,مقرف,mo'rif
 literature,أدب,adab,أدب,adab
 literature,آداب,aadaab,آداب,aadaab
 novel,رواية,riwaaya,رواية,riwaaya
@@ -243,10 +243,10 @@ advertisement ,إعلان,i3laan,إعلان,i3laan
 advertisement s,إعلانات,i3laanaat,إعلانات,i3laanaat
 host,مقدّم,muqaddim,مقدّم,muqaddim
 correspondent,مراسل,muraasil,مراسل,muraasil
-broadcaster,مذيع,mudii3,مذيع,mudii3
+broadcaster,مذيع,mudii3,مذيع,muzii3
 live ,مباشر,mubaašir,مباشر,mubaašir
-breaking news,أخبار عاجلة,axbaar 3aajila,أخبار عاجلة,axbaar 3aajila
-coming up,بعد قليل,ba3d qaliil,بعد شوية,ba3d qaliil
+breaking news,أخبار عاجلة,axbaar 3aajila,أخبار عاجلة,axbaar 3aagila
+coming up,بعد قليل,ba3d qaliil,بعد شوية,ba3d šiwayya
 newspaper,جريدة,jariida,جريدة,gariida
 newspapers,جرائد,jaraa'id,جرائد,garaayid
 magazine,مجلة,majalla,مجلة,magalla
@@ -263,7 +263,7 @@ picture,صورة,Suura,صورة,Suura
 pictures,صور,Suwar,صور,Suwar
 camera,كاميرا,kamira,كاميرا,kamira
 cameras,كاميرات,kamiraat,كاميرات,kamiraat
-interview,مقابلة,muqaabala,مقابلة,muqaabala
+interview,مقابلة,muqaabala,مقابلة,mu'abla
 article,مقالة,maqaala,مقالة,maqaala
 articles,مقالات,maqaalaat,مقالات,maqaalaat
 column,عمود,3amuud,عمود,3amuud

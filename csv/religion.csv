@@ -23,7 +23,7 @@ Jew,يهودي,yahuudi,يهودي,yihuudi
 Jews,يهود,yahuud,يهود,yihuud
 Druze,دروزي,druuzi,دروزي,druuzi
 Druzes,دروز,druuz,دروز,druuz
-paganism ,وثنية ,wataniyya ,وثنية ,wataniyya 
+paganism ,وثنية ,wataniyya ,وثنية ,wasaniyya 
 secularism,علمانية,3ilmaaniyya,علمانية,3ilmaaniyya
 monotheism,توحيدية,tawHiidiyya,توحيدية,tawHiidiyya
 infidel,كافر,kaafir,كافر,kaafir
@@ -45,7 +45,7 @@ angels,ملائكة,malaa'ika,ملائكة,malayka
 cross,صليب,Saliib,صليب,Siliib
 crosses,صلبان,Sulbaan,صلبان,Sulbaan
 crescent,هلال,halaal,هلال,halaal
-star of David,نجمة داوود,najmat daawuud,نجمة داوود,najmat daawuud
+star of David,نجمة داوود,najmat daawuud,نجمة داوود,nigmit dawuud
 mosque,جامع,jaami3,جامع,gaami3
 mosques,جوامع,jawaami3,جوامع,gawaami3
 prayer niche in mosques,محراب,miHraab,محراب,miHraab
@@ -53,7 +53,7 @@ prayer niche in mosques,محاريب,maHaariib,محاريب,maHaariib
 minaret,مأذنة,ma'dana,مدنة,madna
 minarets,مآذن,ma'aadin,مدن,midan
 call to prayer,اذان,adaan,اذان,adaan
-muezzin,مؤذن,mu'addin,مؤذن,mu'addin
+muezzin,مؤذن,mu'addin,مؤذن,mu'azzin
 minbar ,منبر,minbar,منبر,mimbar
 minbar s,منابر,manaabir,منابر,manaabir
 Friday sermon,خطبة,xuTba,خطبة,xuTba
@@ -74,7 +74,7 @@ monastery,دير,deir,دير,deir
 monasteries,أديار,adyaar,أديار,adyira
 monk,راهب,raahib,راهب,raahib
 monks,رهبان,ruhbaan,رهبان,ruhbaan
-nun,راهبة,raahiba,راهبة,raahiba
+nun,راهبة,raahiba,راهبة,rahba
 priest,قسيس,qassiis,قسيس,'assiis
 priests,قسس,qusus,قسس,'usus
 bishop,أسقف,usquf,أسقف,us'uf
@@ -91,13 +91,13 @@ profession of faith,شهادة,šahaada,شهادة,šahaada
 prayer,صلاة,Salaah,صلاة,Salaah
 fasting,صوم,Soom,صوم,Soom
 alms-giving,زكاة,zakaah,زكاة,zakaah
-pilgrimage to Mecca,حج,Hajj,حج,Hajj
-minor pilgrimage,عمرة,3umra,عمرة,3umra
+pilgrimage to Mecca,حج,Hajj,حج,Hagg
+minor pilgrimage,عمرة,3umra,عمرة,3omra
 permitted by Islam,حلال,Halaal,حلال,Halaal
 forbidden by Islam,حرام,Haraam,حرام,Haraam
 mass,قداس,quddaas,قداس,'oddaas
 masses,قداديس,qadaadiis,قداديس,'adadiis
- saint,قديس,qiddiis,قديس,qiddiis
+ saint,قديس,qiddiis,قديس,'iddiis
 psalm,مزمور,mazmuur,مزمور,mazmuur
 psalms,مزامير,mazaamiir,مزامير,mazamiir
 hymn,ترنيمة,tarniima,ترنيمة,tarniima
@@ -114,18 +114,18 @@ forgiveness,غفران,ġufraan,غفران,ġufraan
 mercy,رحمة,raHma,رحمة,raHma
 fate,قدر,qadr,قدر,qadr
 fates,أقدار,aqdaar,أقدار,aqdaar
-morals,أخلاق,axlaaq,أخلاق,axlaaq
+morals,أخلاق,axlaaq,أخلاق,axlaa'
 soul,روح,ruuH,روح,ruuH
 souls,أرواح,arwaaH ,أرواح,arwaaH 
-holy,مقدس,muqaddas,مقدس,muqaddas
+holy,مقدس,muqaddas,مقدس,mu'addas
 missionary,داعية,daa3iya,داعية,daa3iya
 prosyletization,دعوى,da3wa,دعوى,da3wa
 sacrifice ,ضحية,DaHiya,ضحية,DaHiya
 sacrifice s,ضحايا,DaHaaya,ضحايا,DaHaaya
 good,خير,xeir,خير,xeir
 evil,شر,šarr,شر,šarr
-blasphemy,تجديف,tajdiif,تجديف,tajdiif
-resurrection,قيامة,qiyaama,قيامة,qiyaama
+blasphemy,تجديف,tajdiif,تجديف,tagdiif
+resurrection,قيامة,qiyaama,قيامة,'iyaama
 religious,متدين,mutadayyin,متدين,mutadayyin
 sin ,ذنب,danb,ذنب,zamb
 sin s,ذنوب,dunuub,ذنوب,zunuub

@@ -3,14 +3,13 @@ import pluralize from "pluralize";
 import fs from "fs";
 
 // nouns for now
-// const pages = ['animals']
 const pages = [
   'animals', 'house', 'city', 'clothes', 'colors', 'education', 'emotions_pers', 'food',
   'geog', 'body', 'mankind', 'arts', 'medicine', 'nature', 'religion', 'sports', 'tech',
   'time', 'work', 'm_gen', 'm_gen2', 'm_gen3', 'm_crime', 'm_govt', 'm_war',
 ]
 
-const scrapePage = async(page, index) => {
+const scrapePage = async(page) => {
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: null,
@@ -22,9 +21,7 @@ const scrapePage = async(page, index) => {
     waitUntil: "domcontentloaded",
   });
 
-  // const pageTitle = await webpage.waitForSelector('h1').textContent.trim();
   const pageTitle = await webpage.$$eval('h1', element => element[0].textContent.trim());
-  console.log({ pageTitle })
   const cleanPageTitle = pageTitle.toLowerCase()
     .replace(/ /g, '_')
     .replace(/\//g, '_and_')
@@ -162,7 +159,7 @@ const scrapePage = async(page, index) => {
       obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
       obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
       obj.egyptianArabic = generateEgyptianArabic(egyptianArabic, standardArabic);
-      obj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
+      obj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(egyptianArabicTransliteration, standardArabicTransliteration);
 
       if (obj.english !== '' && obj.english !== 's') {
         output.push(obj);
@@ -178,15 +175,15 @@ const scrapePage = async(page, index) => {
     }).join('\n')
   }
 
-
   function generateTitle(pageTitle) {
-    if (pageTitle.includes('m_gen') && pageTitle !== 'm_gen') {
-      const numberMatch = inputString.match(/\d+/);
+    if (page.includes('m_gen') && page !== 'm_gen') {
+      const numberMatch = page.match(/\d+/);
       return `${pageTitle.replace(/arabic_|_vocabulary/gi, '')}_${parseInt(numberMatch[0])}`;
     }
 
     return pageTitle.replace(/arabic_|_vocabulary/gi, '');
   }
+
   const formattedPageTitle = generateTitle(cleanPageTitle);
 
   const jsonString = JSON.stringify(output)
@@ -206,5 +203,5 @@ const scrapePage = async(page, index) => {
 };
 
 for (const page of pages) {
-  await scrapePage(page, pages.indexOf(page));
+  await scrapePage(page);
 }
