@@ -1,6 +1,6 @@
 # Egyptian Arabic Vocabulary API
 
-[Words scraped from Desert Sky](https://arabic.desert-sky.net/vocab.html)
+[4107 Words scraped from Desert Sky](https://arabic.desert-sky.net/vocab.html)
 
 ## Sections
 Sections include both Egyptian and Standard Arabic, as well as the respective transliteration
@@ -33,5 +33,18 @@ Sections include both Egyptian and Standard Arabic, as well as the respective tr
 ## API
 Use the following endpoint to get the vocabulary for a section:
 
+```
 GET /vocab/:section
+```
+
 Replace `:section` with the section name (`/vocab/animals`)
+```
+{
+  english: "cow",
+  standardArabic: "بقرة",
+  standardArabicTransliteration: "baqara",
+  egyptianArabic: "بقرة",
+  egyptianArabicTransliteration: "ba'ara",
+}
+...
+```
