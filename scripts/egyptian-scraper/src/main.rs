@@ -3,8 +3,11 @@ use scraper::{Html, Node, Selector};
 
 #[derive(serde::Serialize)]
 struct Proverb {
+    #[serde(rename = "Arabic proverb")]
     arabic_text: String,
+    #[serde(rename = "Phonetic Transcription")]
     phonetic_transcription: String,
+    #[serde(rename = "English Translation")]
     english_translation: String,
 }
 
@@ -48,6 +51,9 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                 .text()
                 .collect();
         }
+        // remove parenthesis
+        phonetic_transcription.pop();
+        phonetic_transcription.remove(0);
 
         let mut english_translation = String::new();
         let mut next_sibling = arabic_element.next_sibling();
@@ -77,7 +83,6 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // }
 
     let mut writer = Writer::from_path("proverbs.csv")?;
-    writer.write_record(&["Arabic proverb", "Translation", "English Translation"])?;
     for proverb in proverbs {
         writer.serialize(&proverb)?;
     }
