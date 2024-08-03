@@ -122,6 +122,7 @@ const scrapePage = async(page) => {
       let splitEgyptianArabic = egyptianArabic && egyptianArabic.split("(ج)");
       let splitEgyptianArabicTransliteration = egyptianArabicTransliteration && egyptianArabicTransliteration.split("(pl.)");
 
+      // singular values
       firstObj.english = english.replace(/\([^()]*\)/g, '');
       firstObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[0]), (splitEgyptianArabic && splitStandardArabic[0]));
       firstObj.standardArabicTransliteration = generateStandardArabicTransliteration(

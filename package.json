@@ -2,7 +2,8 @@
   "scripts": {
     "start": "tsx src/index.tsx",
     "dev": "tsx watch src/index.tsx",
-    "scrape": "node scripts/scrape.js"
+    "scrape": "node scripts/scrape.js",
+    "scrape_verbs": "node scripts/scrape-verbs.js"
   },
   "type": "module",
   "types": "module",

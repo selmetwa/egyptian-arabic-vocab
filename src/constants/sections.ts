@@ -1,4 +1,5 @@
 export const sections = [
+  'verbs',
   'animals',
   'vocabulary_from_around_the_house',
   'city_and_transportation',
