@@ -124,11 +124,11 @@ const scrapePage = async(page) => {
 
       // singular values
       firstObj.english = english.replace(/\([^()]*\)/g, '');
-      firstObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[0]), (splitEgyptianArabic && splitStandardArabic[0]));
-      firstObj.standardArabicTransliteration = generateStandardArabicTransliteration(
-        (splitStandardArabicTransliteration && splitStandardArabicTransliteration[0]),
-        (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[0])
-      );
+      // firstObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[0]), (splitEgyptianArabic && splitStandardArabic[0]));
+      // firstObj.standardArabicTransliteration = generateStandardArabicTransliteration(
+      //   (splitStandardArabicTransliteration && splitStandardArabicTransliteration[0]),
+      //   (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[0])
+      // );
       firstObj.egyptianArabic = generateEgyptianArabic((splitEgyptianArabic && splitEgyptianArabic[0]), (splitStandardArabic && splitStandardArabic[0]));
       firstObj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(
         (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[0]),
@@ -137,11 +137,11 @@ const scrapePage = async(page) => {
 
       // assign plural values
       secondObj.english = pluralize(english.replace(/\([^()]*\)/g, ''));
-      secondObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[1]), (splitEgyptianArabic && splitEgyptianArabic[1]));
-      secondObj.standardArabicTransliteration = generateStandardArabicTransliteration(
-        (splitStandardArabicTransliteration && splitStandardArabicTransliteration[1]),
-        (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[1])
-      );
+      // secondObj.standardArabic = generateStandardArabic((splitStandardArabic && splitStandardArabic[1]), (splitEgyptianArabic && splitEgyptianArabic[1]));
+      // secondObj.standardArabicTransliteration = generateStandardArabicTransliteration(
+      //   (splitStandardArabicTransliteration && splitStandardArabicTransliteration[1]),
+      //   (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[1])
+      // );
       secondObj.egyptianArabic = generateEgyptianArabic((splitEgyptianArabic && splitEgyptianArabic[1]), (splitStandardArabic && splitStandardArabic[1]));
       secondObj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(
         (splitEgyptianArabicTransliteration && splitEgyptianArabicTransliteration[1]),
@@ -157,8 +157,8 @@ const scrapePage = async(page) => {
     } else if (!shouldIgnore) {
       const obj = {};
       obj.english = english.replace(/\([^()]*\)/g, '');
-      obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
-      obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
+      // obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
+      // obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
       obj.egyptianArabic = generateEgyptianArabic(egyptianArabic, standardArabic);
       obj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(egyptianArabicTransliteration, standardArabicTransliteration);
 

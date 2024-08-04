@@ -95,8 +95,8 @@ const scrapePage = async(page) => {
 
     const obj = {};
     obj.english = english.replace(/\([^()]*\)/g, '');
-    obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
-    obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
+    // obj.standardArabic = generateStandardArabic(standardArabic, egyptianArabic);
+    // obj.standardArabicTransliteration = generateStandardArabicTransliteration(standardArabicTransliteration, egyptianArabicTransliteration);
     obj.egyptianArabic = generateEgyptianArabic(egyptianArabic, standardArabic);
     obj.egyptianArabicTransliteration = generateEgyptianArabicTransliteration(egyptianArabicTransliteration, standardArabicTransliteration);
 
