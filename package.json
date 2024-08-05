@@ -3,12 +3,15 @@
     "start": "tsx src/index.tsx",
     "dev": "tsx watch src/index.tsx",
     "scrape": "node scripts/scrape.js",
-    "scrape_verbs": "node scripts/scrape-verbs.js"
+    "scrape_verbs": "node scripts/scrape-verbs.js",
+    "join_words": "node scripts/join-files.js"
   },
   "type": "module",
   "types": "module",
   "dependencies": {
     "@hono/node-server": "^1.8.2",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
     "hono": "^4.1.1",
     "pluralize": "^8.0.0",
     "puppeteer": "^22.5.0"
