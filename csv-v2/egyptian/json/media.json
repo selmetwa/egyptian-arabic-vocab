@@ -1,0 +1,1262 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "news",
+    "transliteration": "xabar",
+    "arabic": "خبر"
+  },
+  {
+    "english": "news",
+    "transliteration": "axbaar",
+    "arabic": "أخبار"
+  },
+  {
+    "english": "current",
+    "transliteration": "Haali",
+    "arabic": "حالي"
+  },
+  {
+    "english": "latest",
+    "transliteration": "aaxir",
+    "arabic": "آخر"
+  },
+  {
+    "english": "development",
+    "transliteration": "taTawwur",
+    "arabic": "تطوّر"
+  },
+  {
+    "english": "developments",
+    "transliteration": "taTawwuraat",
+    "arabic": "تطوّرات"
+  },
+  {
+    "english": "event",
+    "transliteration": "Hadat",
+    "arabic": "حدث"
+  },
+  {
+    "english": "events",
+    "transliteration": "aHdaat",
+    "arabic": "أحداث"
+  },
+  {
+    "english": "situation",
+    "transliteration": "waD3",
+    "arabic": "وضع"
+  },
+  {
+    "english": "situations",
+    "transliteration": "awDaa3",
+    "arabic": "أوضاع"
+  },
+  {
+    "english": "state",
+    "transliteration": "Haal",
+    "arabic": "حال"
+  },
+  {
+    "english": "states",
+    "transliteration": "aHwaal",
+    "arabic": "أحوال"
+  },
+  {
+    "english": "circumstance",
+    "transliteration": "Zarf",
+    "arabic": "ظرف"
+  },
+  {
+    "english": "circumstances",
+    "transliteration": "Zuruuf",
+    "arabic": "ظروف"
+  },
+  {
+    "english": "topic",
+    "transliteration": "mawDuu3",
+    "arabic": "موضوع"
+  },
+  {
+    "english": "topics",
+    "transliteration": "mawaaDii3",
+    "arabic": "مواضيع"
+  },
+  {
+    "english": "phenomenon",
+    "transliteration": "Zaahira",
+    "arabic": "ظاهرة"
+  },
+  {
+    "english": "phenomena",
+    "transliteration": "Zawaahir",
+    "arabic": "ظواهر"
+  },
+  {
+    "english": "field",
+    "transliteration": "majaal",
+    "arabic": "مجال"
+  },
+  {
+    "english": "fields",
+    "transliteration": "majaalaat",
+    "arabic": "مجالات"
+  },
+  {
+    "english": "identity",
+    "transliteration": "hawiyya",
+    "arabic": "هوية"
+  },
+  {
+    "english": "identities",
+    "transliteration": "hawiyyaat",
+    "arabic": "هويات"
+  },
+  {
+    "english": "measure",
+    "transliteration": "ijraa'",
+    "arabic": "اجراء"
+  },
+  {
+    "english": "measures",
+    "transliteration": "ijraa'aat",
+    "arabic": "اجراءات"
+  },
+  {
+    "english": "list",
+    "transliteration": "qaa'ima",
+    "arabic": "قائمة"
+  },
+  {
+    "english": "lists",
+    "transliteration": "qawaa'im",
+    "arabic": "قوائم"
+  },
+  {
+    "english": "guest",
+    "transliteration": "Deif",
+    "arabic": "ضيف"
+  },
+  {
+    "english": "guests",
+    "transliteration": "Duyuuf",
+    "arabic": "ضيوف"
+  },
+  {
+    "english": "summit",
+    "transliteration": "qimma",
+    "arabic": "قمة"
+  },
+  {
+    "english": "summits",
+    "transliteration": "qimmaat",
+    "arabic": "قمات"
+  },
+  {
+    "english": "meeting",
+    "transliteration": "ijtimaa3",
+    "arabic": "اجتماع"
+  },
+  {
+    "english": "meetings",
+    "transliteration": "ijtimaa3aat",
+    "arabic": "اجتماعات"
+  },
+  {
+    "english": "conference",
+    "transliteration": "mu'tamar",
+    "arabic": "مؤتمر"
+  },
+  {
+    "english": "conferences",
+    "transliteration": "mu'tamaraat",
+    "arabic": "مؤتمرات"
+  },
+  {
+    "english": "symposium",
+    "transliteration": "nadwa",
+    "arabic": "ندوة"
+  },
+  {
+    "english": "symposia",
+    "transliteration": "nadawaat",
+    "arabic": "ندوات"
+  },
+  {
+    "english": "session or round",
+    "transliteration": "doora",
+    "arabic": "دورة"
+  },
+  {
+    "english": "session or rounds",
+    "transliteration": "dooraat",
+    "arabic": "دورات"
+  },
+  {
+    "english": "session",
+    "transliteration": "jalsa",
+    "arabic": "جلسة"
+  },
+  {
+    "english": "sessions",
+    "transliteration": "jalasaat",
+    "arabic": "جلسات"
+  },
+  {
+    "english": "to be held",
+    "transliteration": "in3aqada, yan3aqidu ",
+    "arabic": "انعقد – ينعقد "
+  },
+  {
+    "english": "contact",
+    "transliteration": "ittiSaal",
+    "arabic": "اتصال"
+  },
+  {
+    "english": "contacts",
+    "transliteration": "ittiSaalaat ma3a/bi",
+    "arabic": "اتصالات مع | بـ"
+  },
+  {
+    "english": "relations with",
+    "transliteration": "3alaqaat ma3a",
+    "arabic": "علاقات مع"
+  },
+  {
+    "english": "link",
+    "transliteration": "raabiT",
+    "arabic": "رابط"
+  },
+  {
+    "english": "links",
+    "transliteration": "rawaabiT bi",
+    "arabic": "روابط بـ"
+  },
+  {
+    "english": "number",
+    "transliteration": "3adad",
+    "arabic": "عدد"
+  },
+  {
+    "english": "numbers",
+    "transliteration": "a3daad",
+    "arabic": "أعداد"
+  },
+  {
+    "english": "common",
+    "transliteration": "muštarak",
+    "arabic": "مشترك"
+  },
+  {
+    "english": "mutual",
+    "transliteration": "mutabaadal",
+    "arabic": "متبادل"
+  },
+  {
+    "english": "means",
+    "transliteration": "sabiil",
+    "arabic": "سبيل"
+  },
+  {
+    "english": "means",
+    "transliteration": "subul",
+    "arabic": "سبل"
+  },
+  {
+    "english": "manner",
+    "transliteration": "Tariiqa",
+    "arabic": "طريقة"
+  },
+  {
+    "english": "manners",
+    "transliteration": "Taraa'iq",
+    "arabic": "طرائق"
+  },
+  {
+    "english": "beginning",
+    "transliteration": "bidaaya",
+    "arabic": "بداية"
+  },
+  {
+    "english": "end",
+    "transliteration": "nihaaya",
+    "arabic": "نهاية"
+  },
+  {
+    "english": "statement",
+    "transliteration": "taSriiH",
+    "arabic": "تصريح"
+  },
+  {
+    "english": "statements",
+    "transliteration": "taSriiHaat",
+    "arabic": "تصريحات"
+  },
+  {
+    "english": "announcement",
+    "transliteration": "i3laan",
+    "arabic": "اعلان"
+  },
+  {
+    "english": "announcements",
+    "transliteration": "i3laanaat",
+    "arabic": "اعلانات"
+  },
+  {
+    "english": "official ",
+    "transliteration": "rasmi",
+    "arabic": "رسمي"
+  },
+  {
+    "english": "decision; resolution",
+    "transliteration": "qaraar",
+    "arabic": "قرار"
+  },
+  {
+    "english": "decision; resolutions",
+    "transliteration": "qaraaraat",
+    "arabic": "قرارات"
+  },
+  {
+    "english": "petition",
+    "transliteration": "3ariiDa",
+    "arabic": "عريضة"
+  },
+  {
+    "english": "petitions",
+    "transliteration": "3araa'iD",
+    "arabic": "عرائض"
+  },
+  {
+    "english": "initiative",
+    "transliteration": "mubaadara",
+    "arabic": "مبادرة"
+  },
+  {
+    "english": "initiatives",
+    "transliteration": "mubaadaraat",
+    "arabic": "مبادرات"
+  },
+  {
+    "english": "suggestion",
+    "transliteration": "iqtiraaH",
+    "arabic": "اقتراح"
+  },
+  {
+    "english": "suggestions",
+    "transliteration": "iqtiraaHaat",
+    "arabic": "اقتراحات"
+  },
+  {
+    "english": "hypothetical",
+    "transliteration": "iftiraaDi",
+    "arabic": "افتراضي"
+  },
+  {
+    "english": "plan",
+    "transliteration": "xiTTa",
+    "arabic": "خطة"
+  },
+  {
+    "english": "plans",
+    "transliteration": "xuTaT",
+    "arabic": "خطط"
+  },
+  {
+    "english": "project",
+    "transliteration": "mašruu3",
+    "arabic": "مشروع"
+  },
+  {
+    "english": "projects",
+    "transliteration": "mašaarii3",
+    "arabic": "مشاريع"
+  },
+  {
+    "english": "speech",
+    "transliteration": "xiTaab",
+    "arabic": "خطاب"
+  },
+  {
+    "english": "speeches",
+    "transliteration": "xiTaabaat",
+    "arabic": "خطابات"
+  },
+  {
+    "english": "reply",
+    "transliteration": "radd",
+    "arabic": "ردّ"
+  },
+  {
+    "english": "replies",
+    "transliteration": "ruduud",
+    "arabic": "ردود"
+  },
+  {
+    "english": "reaction",
+    "transliteration": "radd fi3l",
+    "arabic": "ردّ فعل"
+  },
+  {
+    "english": "development",
+    "transliteration": "tanmiyya",
+    "arabic": "تنمية"
+  },
+  {
+    "english": "growth",
+    "transliteration": "numuww",
+    "arabic": "نمو"
+  },
+  {
+    "english": "continuing",
+    "transliteration": "mustamirr",
+    "arabic": "مستمر"
+  },
+  {
+    "english": "prepared",
+    "transliteration": "musta3idd",
+    "arabic": "مستعد"
+  },
+  {
+    "english": "agenda",
+    "transliteration": "barnaamaj 3amal",
+    "arabic": "برنامج عمل"
+  },
+  {
+    "english": "control",
+    "transliteration": "haymana",
+    "arabic": "هيمنة"
+  },
+  {
+    "english": "interest",
+    "transliteration": "maSlaHa",
+    "arabic": "مصلحة"
+  },
+  {
+    "english": "interests",
+    "transliteration": "maSaaliH",
+    "arabic": "مصالح"
+  },
+  {
+    "english": "will",
+    "transliteration": "iraada",
+    "arabic": "ارادة"
+  },
+  {
+    "english": "desire",
+    "transliteration": "raġba",
+    "arabic": "رغبة"
+  },
+  {
+    "english": "desires",
+    "transliteration": "raġabaat fi",
+    "arabic": "رغبات في"
+  },
+  {
+    "english": "observer",
+    "transliteration": "muraaqib",
+    "arabic": "مراقب"
+  },
+  {
+    "english": "observers",
+    "transliteration": "muraaqibuun",
+    "arabic": "مراقبون"
+  },
+  {
+    "english": "vision",
+    "transliteration": "ru'iya",
+    "arabic": "رؤية"
+  },
+  {
+    "english": "visions",
+    "transliteration": "ru'a",
+    "arabic": "رؤى"
+  },
+  {
+    "english": "comprehensive",
+    "transliteration": "šaamil",
+    "arabic": "شامل"
+  },
+  {
+    "english": "complete",
+    "transliteration": "kaamil",
+    "arabic": "كامل"
+  },
+  {
+    "english": "basis",
+    "transliteration": "asaas",
+    "arabic": "أساس"
+  },
+  {
+    "english": "bases",
+    "transliteration": "usus",
+    "arabic": "أسس"
+  },
+  {
+    "english": "accusation",
+    "transliteration": "ittihaam",
+    "arabic": "اتّهام"
+  },
+  {
+    "english": "accusations",
+    "transliteration": "ittihaamaat",
+    "arabic": "اتّهامات"
+  },
+  {
+    "english": "invalid",
+    "transliteration": "baaTil",
+    "arabic": "باطل"
+  },
+  {
+    "english": "demonstration",
+    "transliteration": "muZaahara",
+    "arabic": "مظاهرة"
+  },
+  {
+    "english": "demonstrations",
+    "transliteration": "muZaaharaat",
+    "arabic": "مظاهرات"
+  },
+  {
+    "english": "crowded",
+    "transliteration": "Haašid",
+    "arabic": "حاشد"
+  },
+  {
+    "english": "march",
+    "transliteration": "masiira",
+    "arabic": "مسيرة"
+  },
+  {
+    "english": "marches",
+    "transliteration": "masiiraat",
+    "arabic": "مسيرات"
+  },
+  {
+    "english": "parade",
+    "transliteration": "isti3raaD",
+    "arabic": "استعراض"
+  },
+  {
+    "english": "parades",
+    "transliteration": "isti3raaDaat",
+    "arabic": "استعراضات"
+  },
+  {
+    "english": "riot",
+    "transliteration": "šaġab",
+    "arabic": "شغب"
+  },
+  {
+    "english": "popular demand",
+    "transliteration": "iqbaal ša3bi",
+    "arabic": "اقبال شعبي"
+  },
+  {
+    "english": "sit-in",
+    "transliteration": "i3tiSaam",
+    "arabic": "اعتصام"
+  },
+  {
+    "english": "sit-ins",
+    "transliteration": "i3tiSaamaat",
+    "arabic": "اعتصامات"
+  },
+  {
+    "english": "strike",
+    "transliteration": "iDraab",
+    "arabic": "اضراب"
+  },
+  {
+    "english": "strikes",
+    "transliteration": "iDraabaat",
+    "arabic": "اضرابات"
+  },
+  {
+    "english": "protesting cry",
+    "transliteration": "hutaaf",
+    "arabic": "هتاف"
+  },
+  {
+    "english": "protesting cries",
+    "transliteration": "hutaafaat",
+    "arabic": "هتافات"
+  },
+  {
+    "english": "sign or leaflet",
+    "transliteration": "laafita",
+    "arabic": "لافتة"
+  },
+  {
+    "english": "sign or leaflets",
+    "transliteration": "laafitaat",
+    "arabic": "لافتات"
+  },
+  {
+    "english": "international",
+    "transliteration": "dawli",
+    "arabic": "دولي"
+  },
+  {
+    "english": "regional",
+    "transliteration": "iqliimi",
+    "arabic": "إقليمي"
+  },
+  {
+    "english": "local",
+    "transliteration": "maHalli",
+    "arabic": "محلي"
+  },
+  {
+    "english": "bilateral",
+    "transliteration": "tanaa'i",
+    "arabic": "تنائي"
+  },
+  {
+    "english": "choice",
+    "transliteration": "xiyaar",
+    "arabic": "خيار"
+  },
+  {
+    "english": "choices",
+    "transliteration": "xiyaaraat",
+    "arabic": "خيارات"
+  },
+  {
+    "english": "investigation",
+    "transliteration": "taHqiiq",
+    "arabic": "تحقيق"
+  },
+  {
+    "english": "investigations",
+    "transliteration": "taHqiiqaat",
+    "arabic": "تحقيقات"
+  },
+  {
+    "english": "position",
+    "transliteration": "mawqif",
+    "arabic": "موقف"
+  },
+  {
+    "english": "positions",
+    "transliteration": "mawaaqif",
+    "arabic": "مواقف"
+  },
+  {
+    "english": "operation; process",
+    "transliteration": "3amaliyya",
+    "arabic": "عملية"
+  },
+  {
+    "english": "operation; processes",
+    "transliteration": "3amaliyyaat",
+    "arabic": "عمليات"
+  },
+  {
+    "english": "pressure on",
+    "transliteration": "DaġT",
+    "arabic": "ضغط"
+  },
+  {
+    "english": "pressure ons",
+    "transliteration": "DuġuuT 3ala",
+    "arabic": "ضغوط على"
+  },
+  {
+    "english": "sudden",
+    "transliteration": "mufaaji'",
+    "arabic": "مفاجئ"
+  },
+  {
+    "english": "legitimate",
+    "transliteration": "mašruu3",
+    "arabic": "مشروع"
+  },
+  {
+    "english": "borders ",
+    "transliteration": "Huduud  Hadd",
+    "arabic": "حدود    حدّ"
+  },
+  {
+    "english": "wall",
+    "transliteration": "suur",
+    "arabic": "سور"
+  },
+  {
+    "english": "walls",
+    "transliteration": "aswaar",
+    "arabic": "أسوار"
+  },
+  {
+    "english": "letter",
+    "transliteration": "risaala",
+    "arabic": "رسالة"
+  },
+  {
+    "english": "letters",
+    "transliteration": "rasaa'il",
+    "arabic": "رسائل"
+  },
+  {
+    "english": "content",
+    "transliteration": "maDmuun",
+    "arabic": "مضمون"
+  },
+  {
+    "english": "contents",
+    "transliteration": "maDaamiin",
+    "arabic": "مضامين"
+  },
+  {
+    "english": "element ",
+    "transliteration": "3unSur",
+    "arabic": "عنصر"
+  },
+  {
+    "english": "element s",
+    "transliteration": "3anaaSir",
+    "arabic": "عناصر"
+  },
+  {
+    "english": "gang",
+    "transliteration": "3iSaaba",
+    "arabic": "عصابة"
+  },
+  {
+    "english": "gangs",
+    "transliteration": "3iSaabaat",
+    "arabic": "عصابات"
+  },
+  {
+    "english": "activist",
+    "transliteration": "naašiT",
+    "arabic": "ناشط"
+  },
+  {
+    "english": "activists",
+    "transliteration": "naašiTuun",
+    "arabic": "ناشطون"
+  },
+  {
+    "english": "volunteer",
+    "transliteration": "mutaTawwi3",
+    "arabic": "متطوع"
+  },
+  {
+    "english": "volunteers",
+    "transliteration": "mutaTawwi3a",
+    "arabic": "متطوعة"
+  },
+  {
+    "english": "charity (as a concept",
+    "transliteration": "xayriyya",
+    "arabic": "خيرية"
+  },
+  {
+    "english": "hiding place",
+    "transliteration": "maxba'",
+    "arabic": "مخبأ"
+  },
+  {
+    "english": "hiding places",
+    "transliteration": "maxaabi'",
+    "arabic": "مخابئ"
+  },
+  {
+    "english": "unknown",
+    "transliteration": "majhuul",
+    "arabic": "مجهول"
+  },
+  {
+    "english": "alert",
+    "transliteration": "istinfaar",
+    "arabic": "استنفار"
+  },
+  {
+    "english": "chain",
+    "transliteration": "silsila",
+    "arabic": "سلسلة"
+  },
+  {
+    "english": "chains",
+    "transliteration": "salaasil",
+    "arabic": "سلاسل"
+  },
+  {
+    "english": "source",
+    "transliteration": "maSdar",
+    "arabic": "مصدر"
+  },
+  {
+    "english": "sources",
+    "transliteration": "maSaadir",
+    "arabic": "مصادر"
+  },
+  {
+    "english": "personal",
+    "transliteration": "šaxSi",
+    "arabic": "شخصي"
+  },
+  {
+    "english": "area",
+    "transliteration": "saaHa",
+    "arabic": "ساحة"
+  },
+  {
+    "english": "areas",
+    "transliteration": "saaHaat",
+    "arabic": "ساحات"
+  },
+  {
+    "english": "framework",
+    "transliteration": "iTaar",
+    "arabic": "اطار"
+  },
+  {
+    "english": "frameworks",
+    "transliteration": "iTaaraat",
+    "arabic": "اطارات"
+  },
+  {
+    "english": "patrol",
+    "transliteration": "dawra",
+    "arabic": "دورة"
+  },
+  {
+    "english": "patrols",
+    "transliteration": "dawriyaat",
+    "arabic": "دوريات"
+  },
+  {
+    "english": "extensive",
+    "transliteration": "muwassa3",
+    "arabic": "موسع"
+  },
+  {
+    "english": "wide",
+    "transliteration": "waasi3",
+    "arabic": "واسع"
+  },
+  {
+    "english": "level",
+    "transliteration": "mustawa",
+    "arabic": "مستوى"
+  },
+  {
+    "english": "levels",
+    "transliteration": "mustawayaat",
+    "arabic": "مستويات"
+  },
+  {
+    "english": "guaranteeing",
+    "transliteration": "kafiil bi",
+    "arabic": "كفيل بـ"
+  },
+  {
+    "english": "character or stamp",
+    "transliteration": "Taabi3",
+    "arabic": "طابع"
+  },
+  {
+    "english": "character or stamps",
+    "transliteration": "Tawaabi3",
+    "arabic": "طوابع"
+  },
+  {
+    "english": "size",
+    "transliteration": "Hajm",
+    "arabic": "حجم"
+  },
+  {
+    "english": "sizes",
+    "transliteration": "aHjaam",
+    "arabic": "أحجام"
+  },
+  {
+    "english": "amount",
+    "transliteration": "HaSiila",
+    "arabic": "حصيلة"
+  },
+  {
+    "english": "amounts",
+    "transliteration": "HaSaa'il",
+    "arabic": "حصائل"
+  },
+  {
+    "english": "coming from",
+    "transliteration": "qaadiman min",
+    "arabic": "قادما من"
+  },
+  {
+    "english": "going to",
+    "transliteration": "mutawajjihan ila",
+    "arabic": "متوجها إلى"
+  },
+  {
+    "english": "extraordinary",
+    "transliteration": "istitnaa'i",
+    "arabic": "استثنائي"
+  },
+  {
+    "english": "influence",
+    "transliteration": "ta'tiir 3ala",
+    "arabic": "تأثير على"
+  },
+  {
+    "english": "checkpoint",
+    "transliteration": "nuqTat taftiiš",
+    "arabic": "نقطة تفتيش"
+  },
+  {
+    "english": "settlement",
+    "transliteration": "mustawTina",
+    "arabic": "مستوطنة"
+  },
+  {
+    "english": "settlements",
+    "transliteration": "mustawTinaat",
+    "arabic": "مستوطنات"
+  },
+  {
+    "english": "refugee",
+    "transliteration": "laaji'",
+    "arabic": "لاجئ"
+  },
+  {
+    "english": "refugees",
+    "transliteration": "laaji'uun",
+    "arabic": "لاجئون"
+  },
+  {
+    "english": "camp",
+    "transliteration": "muxayyam",
+    "arabic": "مخيم"
+  },
+  {
+    "english": "camps",
+    "transliteration": "muxayyamaat",
+    "arabic": "مخيمات"
+  },
+  {
+    "english": "total",
+    "transliteration": "ijmaali",
+    "arabic": "اجمالي"
+  },
+  {
+    "english": "certainty",
+    "transliteration": "tiqqa",
+    "arabic": "ثقة"
+  },
+  {
+    "english": "doubt",
+    "transliteration": "šakk",
+    "arabic": "شك"
+  },
+  {
+    "english": "doubts",
+    "transliteration": "šukuuk",
+    "arabic": "شكوك"
+  },
+  {
+    "english": "offer",
+    "transliteration": "3arD",
+    "arabic": "عرض"
+  },
+  {
+    "english": "offers",
+    "transliteration": "3uruuD",
+    "arabic": "عروض"
+  },
+  {
+    "english": "colonialism",
+    "transliteration": "isti3maar",
+    "arabic": "استعمار"
+  },
+  {
+    "english": "entity",
+    "transliteration": "kiyaan",
+    "arabic": "كيان"
+  },
+  {
+    "english": "renaissance",
+    "transliteration": "nahDa",
+    "arabic": "نهضة"
+  },
+  {
+    "english": "trend",
+    "transliteration": "tayyaar",
+    "arabic": "تيار"
+  },
+  {
+    "english": "trends",
+    "transliteration": "tayyaaraat",
+    "arabic": "تيارات"
+  },
+  {
+    "english": "ideological",
+    "transliteration": "3aqaa'idi",
+    "arabic": "عقائدي"
+  },
+  {
+    "english": "complementing",
+    "transliteration": "mukammil",
+    "arabic": "مكمّل"
+  },
+  {
+    "english": "aiming at",
+    "transliteration": "raami ila",
+    "arabic": "رامي إلى"
+  },
+  {
+    "english": "wealth",
+    "transliteration": "tarwa",
+    "arabic": "ثروة"
+  },
+  {
+    "english": "wealth",
+    "transliteration": "tarawaat",
+    "arabic": "ثروات"
+  },
+  {
+    "english": "effective",
+    "transliteration": "fa33aal",
+    "arabic": "فعال"
+  },
+  {
+    "english": "useful",
+    "transliteration": "mufiid",
+    "arabic": "مفيد"
+  },
+  {
+    "english": "flag",
+    "transliteration": "3alam",
+    "arabic": "علم"
+  },
+  {
+    "english": "flags",
+    "transliteration": "a3laam",
+    "arabic": "أعلام"
+  },
+  {
+    "english": "flag",
+    "transliteration": "raaya",
+    "arabic": "راية"
+  },
+  {
+    "english": "flags",
+    "transliteration": "raayaat",
+    "arabic": "رايات"
+  },
+  {
+    "english": "term ",
+    "transliteration": "fitra",
+    "arabic": "فترة"
+  },
+  {
+    "english": "term s",
+    "transliteration": "fitaraat",
+    "arabic": "فترات"
+  },
+  {
+    "english": "term  or state",
+    "transliteration": "wilaaya",
+    "arabic": "ولاية"
+  },
+  {
+    "english": "term  or states",
+    "transliteration": "wilaayaat",
+    "arabic": "ولايات"
+  },
+  {
+    "english": "oil",
+    "transliteration": "nafT",
+    "arabic": "نفط"
+  },
+  {
+    "english": "crude ",
+    "transliteration": "xaam",
+    "arabic": "خام"
+  },
+  {
+    "english": "blaze",
+    "transliteration": "Hariiq",
+    "arabic": "حريق"
+  },
+  {
+    "english": "fire",
+    "transliteration": "naar",
+    "arabic": "نار"
+  },
+  {
+    "english": "misunderstanding",
+    "transliteration": "suu' tafaahum",
+    "arabic": "سوء تفاهم"
+  },
+  {
+    "english": "through",
+    "transliteration": "3abr",
+    "arabic": "عبر"
+  },
+  {
+    "english": "by means of",
+    "transliteration": "min Tariiq",
+    "arabic": "من طريق"
+  },
+  {
+    "english": "almost",
+    "transliteration": "naHw",
+    "arabic": "نحو"
+  },
+  {
+    "english": "resulting from",
+    "transliteration": "jarraa'",
+    "arabic": "جراء"
+  },
+  {
+    "english": "in order to",
+    "transliteration": "min ajl",
+    "arabic": "من أجل"
+  },
+  {
+    "english": "during",
+    "transliteration": "xilaal",
+    "arabic": "خلال"
+  },
+  {
+    "english": "in the period of...",
+    "transliteration": "ibbaan",
+    "arabic": "إبان"
+  },
+  {
+    "english": "while",
+    "transliteration": "fiima",
+    "arabic": "فيما"
+  },
+  {
+    "english": "since",
+    "transliteration": "mundu",
+    "arabic": "منذ"
+  },
+  {
+    "english": "at",
+    "transliteration": "lada",
+    "arabic": "لدى"
+  },
+  {
+    "english": "within ",
+    "transliteration": "fi ġuDuun",
+    "arabic": "في غضون"
+  },
+  {
+    "english": "until or in order to",
+    "transliteration": "Hatta",
+    "arabic": "حتى"
+  },
+  {
+    "english": "immediately",
+    "transliteration": "fawran",
+    "arabic": "فورا"
+  },
+  {
+    "english": "recently",
+    "transliteration": "mu'axxiran",
+    "arabic": "مؤخرا"
+  },
+  {
+    "english": "previous",
+    "transliteration": "saabiq",
+    "arabic": "سابق"
+  },
+  {
+    "english": "next",
+    "transliteration": "qaadim",
+    "arabic": "قادم"
+  },
+  {
+    "english": "shortly before",
+    "transliteration": "qabiil",
+    "arabic": "قبيل"
+  },
+  {
+    "english": "as a prelude to",
+    "transliteration": "tamhiidan li",
+    "arabic": "تمهيدا لـ"
+  },
+  {
+    "english": "imminent",
+    "transliteration": "murtaqab",
+    "arabic": "مرتقب"
+  },
+  {
+    "english": "after",
+    "transliteration": "fi a3qaab",
+    "arabic": "في أعقاب"
+  },
+  {
+    "english": "immediately after",
+    "transliteration": "itra",
+    "arabic": "إثر"
+  },
+  {
+    "english": "later on",
+    "transliteration": "laaHiqan",
+    "arabic": "لاحقا"
+  },
+  {
+    "english": "accordingly",
+    "transliteration": "muqaabil daalik",
+    "arabic": "مقابل ذلك"
+  },
+  {
+    "english": "aside from",
+    "transliteration": "faDlan 3an",
+    "arabic": "فضلا عن"
+  },
+  {
+    "english": "either/whether __ or __",
+    "transliteration": "sawaa' __ am __",
+    "arabic": "سواء __ أم __"
+  },
+  {
+    "english": "in view of; with respect to",
+    "transliteration": "min Haytu ",
+    "arabic": "من حيث "
+  },
+  {
+    "english": "where",
+    "transliteration": "Haytu",
+    "arabic": "حيث"
+  },
+  {
+    "english": " when",
+    "transliteration": "Hiin",
+    "arabic": "حين"
+  },
+  {
+    "english": "considering",
+    "transliteration": "fi Doo'",
+    "arabic": "في ضوء"
+  },
+  {
+    "english": "considering ",
+    "transliteration": "3ala i3tibaar anna",
+    "arabic": "على اعتبار أن"
+  },
+  {
+    "english": "especially",
+    "transliteration": "xaaSSatan",
+    "arabic": "خاصة"
+  },
+  {
+    "english": "sooner or later",
+    "transliteration": "3aajilan am aajlan",
+    "arabic": "عاجل أم آجلا"
+  },
+  {
+    "english": "on another hand",
+    "transliteration": "min jiha uxra",
+    "arabic": "من جهة أخرى"
+  }
+]

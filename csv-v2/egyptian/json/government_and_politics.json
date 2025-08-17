@@ -1,0 +1,1127 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "government",
+    "transliteration": "Hukuuma",
+    "arabic": "حكومة"
+  },
+  {
+    "english": "governments",
+    "transliteration": "Hukuumaat",
+    "arabic": "حكومات"
+  },
+  {
+    "english": "political",
+    "transliteration": "siyaasi",
+    "arabic": "سياسي"
+  },
+  {
+    "english": "party",
+    "transliteration": "Hizb",
+    "arabic": "حزب"
+  },
+  {
+    "english": "parties",
+    "transliteration": "aHzaab",
+    "arabic": "أحزاب"
+  },
+  {
+    "english": "movement",
+    "transliteration": "Haraka",
+    "arabic": "حركة"
+  },
+  {
+    "english": "movements",
+    "transliteration": "Harakaat",
+    "arabic": "حركات"
+  },
+  {
+    "english": "faction",
+    "transliteration": "faSiila",
+    "arabic": "فصيلة"
+  },
+  {
+    "english": "factions",
+    "transliteration": "faSaa'il",
+    "arabic": "فصائل"
+  },
+  {
+    "english": "bloc",
+    "transliteration": "kutla",
+    "arabic": "كتلة"
+  },
+  {
+    "english": "blocs",
+    "transliteration": "kutal",
+    "arabic": "كتل"
+  },
+  {
+    "english": "liberal",
+    "transliteration": "liibiraali",
+    "arabic": "ليبرالي"
+  },
+  {
+    "english": "conservative",
+    "transliteration": "muHaafiZ",
+    "arabic": "محافظ"
+  },
+  {
+    "english": "neo-conservative",
+    "transliteration": "muHaafiZ jadiid",
+    "arabic": "محافظ جديد"
+  },
+  {
+    "english": "country",
+    "transliteration": "dawla",
+    "arabic": "دولة"
+  },
+  {
+    "english": "countries",
+    "transliteration": "duwal",
+    "arabic": "دول"
+  },
+  {
+    "english": "nation",
+    "transliteration": "waTan",
+    "arabic": "وطن"
+  },
+  {
+    "english": "nations",
+    "transliteration": "awTaan",
+    "arabic": "أوطان"
+  },
+  {
+    "english": "citizen",
+    "transliteration": "muwaaTin",
+    "arabic": "مواطن"
+  },
+  {
+    "english": "citizens",
+    "transliteration": "muwaaTinuun",
+    "arabic": "مواطنون"
+  },
+  {
+    "english": "immigrant",
+    "transliteration": "muhaajir",
+    "arabic": "مهاجر"
+  },
+  {
+    "english": "immigrants",
+    "transliteration": "muhaajiruun",
+    "arabic": "مهاجرون"
+  },
+  {
+    "english": "population",
+    "transliteration": "3adad sukkaan",
+    "arabic": "عدد سكان"
+  },
+  {
+    "english": "democracy",
+    "transliteration": "diimoqraaTiyya",
+    "arabic": "ديموقراطية"
+  },
+  {
+    "english": "republic",
+    "transliteration": "jumhuuriyya",
+    "arabic": "جمهورية"
+  },
+  {
+    "english": "kingdom",
+    "transliteration": "mamlaka",
+    "arabic": "مملكة"
+  },
+  {
+    "english": "kingdoms",
+    "transliteration": "mamaalik",
+    "arabic": "ممالك"
+  },
+  {
+    "english": "empire",
+    "transliteration": "imbraaTuuriyya",
+    "arabic": "امبراطورية"
+  },
+  {
+    "english": "empires",
+    "transliteration": "imbraaTuuriyyaat",
+    "arabic": "امبراطوريات"
+  },
+  {
+    "english": "mandate",
+    "transliteration": "intidaab",
+    "arabic": "انتداب"
+  },
+  {
+    "english": "colony",
+    "transliteration": "musta3mara",
+    "arabic": "مستعمرة"
+  },
+  {
+    "english": "colonies",
+    "transliteration": "musta3maraat",
+    "arabic": "مستعمرات"
+  },
+  {
+    "english": "dictatorship",
+    "transliteration": "diiktaatoriyya",
+    "arabic": "ديكتاتورية"
+  },
+  {
+    "english": "totalitarianism",
+    "transliteration": "šumuuliyya",
+    "arabic": "شمولية"
+  },
+  {
+    "english": "fascism",
+    "transliteration": "faašiyya",
+    "arabic": "فاشية"
+  },
+  {
+    "english": "communism",
+    "transliteration": "šuyuu3iyya",
+    "arabic": "شيوعية"
+  },
+  {
+    "english": "socialism",
+    "transliteration": "ištiraakiyya",
+    "arabic": "اشتراكية"
+  },
+  {
+    "english": "capitalism",
+    "transliteration": "ra'smaaliyya",
+    "arabic": "رأسمالية"
+  },
+  {
+    "english": "anarchism",
+    "transliteration": "fawDawiyya",
+    "arabic": "فوضوية"
+  },
+  {
+    "english": "patriotism",
+    "transliteration": "waTaniyya",
+    "arabic": "وطنية"
+  },
+  {
+    "english": "nationalism",
+    "transliteration": "qawmiyya",
+    "arabic": "قومية"
+  },
+  {
+    "english": "federal government",
+    "transliteration": "Hukuuma ittiHaadiyya",
+    "arabic": "حكومة اتحادية"
+  },
+  {
+    "english": "coalition government",
+    "transliteration": "Hukuuma i'tilaafiyya",
+    "arabic": "حكومة ائتلافية"
+  },
+  {
+    "english": "authority",
+    "transliteration": "sulTa",
+    "arabic": "سلطة"
+  },
+  {
+    "english": "authorities",
+    "transliteration": "sulaTaat",
+    "arabic": "سلطات"
+  },
+  {
+    "english": "legislative",
+    "transliteration": "tašrii3i",
+    "arabic": "تشريعي"
+  },
+  {
+    "english": "executive",
+    "transliteration": "tanfiidi",
+    "arabic": "تنفيذي"
+  },
+  {
+    "english": "judicial",
+    "transliteration": "qaDaa'i",
+    "arabic": "قضائي"
+  },
+  {
+    "english": "constitution",
+    "transliteration": "dustuur",
+    "arabic": "دستور"
+  },
+  {
+    "english": "constitutions",
+    "transliteration": "dasaatiir",
+    "arabic": "دساتير"
+  },
+  {
+    "english": "amendment",
+    "transliteration": "ta3diil",
+    "arabic": "تعديل"
+  },
+  {
+    "english": "amendments",
+    "transliteration": "ta3diilaat",
+    "arabic": "تعديلات"
+  },
+  {
+    "english": "veto",
+    "transliteration": "naqD",
+    "arabic": "نقض"
+  },
+  {
+    "english": "position",
+    "transliteration": "manSib",
+    "arabic": "منصب"
+  },
+  {
+    "english": "positions",
+    "transliteration": "manaaSib",
+    "arabic": "مناصب"
+  },
+  {
+    "english": "president; chairman",
+    "transliteration": "ra'iis",
+    "arabic": "رئيس"
+  },
+  {
+    "english": "president; chairmen",
+    "transliteration": "ru'asaa'",
+    "arabic": "رؤساء"
+  },
+  {
+    "english": "governor; ruler",
+    "transliteration": "Haakim",
+    "arabic": "حاكم"
+  },
+  {
+    "english": "governor; rulers",
+    "transliteration": "Hukkaam",
+    "arabic": "حكام"
+  },
+  {
+    "english": "mayor",
+    "transliteration": "3umda",
+    "arabic": "عمدة"
+  },
+  {
+    "english": "mayors",
+    "transliteration": "3umad",
+    "arabic": "عمد"
+  },
+  {
+    "english": "monarch",
+    "transliteration": "3aahil",
+    "arabic": "عاهل"
+  },
+  {
+    "english": "monarches",
+    "transliteration": "3awaahil",
+    "arabic": "عواهل"
+  },
+  {
+    "english": "king",
+    "transliteration": "malik",
+    "arabic": "ملك"
+  },
+  {
+    "english": "kings",
+    "transliteration": "muluuk",
+    "arabic": "ملوك"
+  },
+  {
+    "english": "prince",
+    "transliteration": "amiir",
+    "arabic": "أمير"
+  },
+  {
+    "english": "princes",
+    "transliteration": "umaraa'",
+    "arabic": "أمراء"
+  },
+  {
+    "english": "His Majesty",
+    "transliteration": "jalaalatuhu",
+    "arabic": "جلالته"
+  },
+  {
+    "english": "tyrant",
+    "transliteration": "mustabidd",
+    "arabic": "مستبدّ"
+  },
+  {
+    "english": "despot",
+    "transliteration": "Taaġiyya",
+    "arabic": "طاغية"
+  },
+  {
+    "english": "ambassador",
+    "transliteration": "safiir",
+    "arabic": "سفير"
+  },
+  {
+    "english": "ambassadors",
+    "transliteration": "sufaraa'",
+    "arabic": "سفراء"
+  },
+  {
+    "english": "minister",
+    "transliteration": "waziir",
+    "arabic": "وزير"
+  },
+  {
+    "english": "ministers",
+    "transliteration": "wuzaraa'",
+    "arabic": "وزراء"
+  },
+  {
+    "english": "deputy",
+    "transliteration": "naa'ib",
+    "arabic": "نائب"
+  },
+  {
+    "english": "deputies",
+    "transliteration": "nuwwaab",
+    "arabic": "نواب"
+  },
+  {
+    "english": "member",
+    "transliteration": "3uDw",
+    "arabic": "عضو"
+  },
+  {
+    "english": "members",
+    "transliteration": "a3Daa'",
+    "arabic": "أعضاء"
+  },
+  {
+    "english": "official",
+    "transliteration": "mas'uul",
+    "arabic": "مسؤول"
+  },
+  {
+    "english": "officials",
+    "transliteration": "mas'uuluun",
+    "arabic": "مسؤولون"
+  },
+  {
+    "english": "representative",
+    "transliteration": "mumattil",
+    "arabic": "ممثل"
+  },
+  {
+    "english": "representatives",
+    "transliteration": "mumattiluun",
+    "arabic": "ممثلون"
+  },
+  {
+    "english": "spokesman",
+    "transliteration": "mutaHaddit bism",
+    "arabic": "متحدث باسم"
+  },
+  {
+    "english": "delegate",
+    "transliteration": "mab3uut",
+    "arabic": "مبعوث"
+  },
+  {
+    "english": "delegates",
+    "transliteration": "mab3uutuun",
+    "arabic": "مبعوثون"
+  },
+  {
+    "english": "deputy",
+    "transliteration": "wakiil",
+    "arabic": "وكيل"
+  },
+  {
+    "english": "deputies",
+    "transliteration": "wukalaa'",
+    "arabic": "وكلاء"
+  },
+  {
+    "english": "councillor",
+    "transliteration": "mustašaar",
+    "arabic": "مستشار"
+  },
+  {
+    "english": "councillors",
+    "transliteration": "mustašaaruun",
+    "arabic": "مستشارون"
+  },
+  {
+    "english": "leader",
+    "transliteration": "za3iim",
+    "arabic": "زعيم"
+  },
+  {
+    "english": "leaders",
+    "transliteration": "zu3amaa'",
+    "arabic": "زعماء"
+  },
+  {
+    "english": "embassy",
+    "transliteration": "safaara",
+    "arabic": "سفارة"
+  },
+  {
+    "english": "embassies",
+    "transliteration": "safaaraat",
+    "arabic": "سفارات"
+  },
+  {
+    "english": "committee",
+    "transliteration": "lajna",
+    "arabic": "لجنة"
+  },
+  {
+    "english": "committees",
+    "transliteration": "lijaan",
+    "arabic": "لجان"
+  },
+  {
+    "english": "delegation",
+    "transliteration": "wafd",
+    "arabic": "وفد"
+  },
+  {
+    "english": "delegations",
+    "transliteration": "wufuud",
+    "arabic": "وفود"
+  },
+  {
+    "english": "council",
+    "transliteration": "majlis",
+    "arabic": "مجلس"
+  },
+  {
+    "english": "councils",
+    "transliteration": "majaalis",
+    "arabic": "مجالس"
+  },
+  {
+    "english": "parliament",
+    "transliteration": "barlamaan",
+    "arabic": "برلمان"
+  },
+  {
+    "english": "agency",
+    "transliteration": "wakaala",
+    "arabic": "وكالة"
+  },
+  {
+    "english": "agencies",
+    "transliteration": "wakaalaat",
+    "arabic": "وكالات"
+  },
+  {
+    "english": "institution",
+    "transliteration": "mu'assasa",
+    "arabic": "مؤسسة"
+  },
+  {
+    "english": "institutions",
+    "transliteration": "mu'assasaat",
+    "arabic": "مؤسسات"
+  },
+  {
+    "english": "organization",
+    "transliteration": "munaZZama",
+    "arabic": "منظمة"
+  },
+  {
+    "english": "organizations",
+    "transliteration": "munaZZamaat",
+    "arabic": "منظمات"
+  },
+  {
+    "english": "group",
+    "transliteration": "jamaa3a",
+    "arabic": "جماعة"
+  },
+  {
+    "english": "groups",
+    "transliteration": "jamaa3aat",
+    "arabic": "جماعات"
+  },
+  {
+    "english": "resolution ",
+    "transliteration": "qaraar",
+    "arabic": "قرار"
+  },
+  {
+    "english": "resolution s",
+    "transliteration": "qaraaraat",
+    "arabic": "قرارات"
+  },
+  {
+    "english": "session",
+    "transliteration": "jalsa",
+    "arabic": "جلسة"
+  },
+  {
+    "english": "sessions",
+    "transliteration": "jalasaat",
+    "arabic": "جلسات"
+  },
+  {
+    "english": "Doctors Without Borders",
+    "transliteration": "munaZZamat aTibaa' bilaa Huduud",
+    "arabic": "منظمة أطباء بلا حدود"
+  },
+  {
+    "english": "Hezbollah",
+    "transliteration": "Hizb allaah",
+    "arabic": "حزب الله"
+  },
+  {
+    "english": "administration",
+    "transliteration": "idaara",
+    "arabic": "ادارة"
+  },
+  {
+    "english": "administrations",
+    "transliteration": "idaaraat",
+    "arabic": "ادارات"
+  },
+  {
+    "english": "govt. agency or authority",
+    "transliteration": "hei'a",
+    "arabic": "هيئة"
+  },
+  {
+    "english": "govt. agency or authorities",
+    "transliteration": "hei'aat Hukuumiyya",
+    "arabic": "هيئات حكومية"
+  },
+  {
+    "english": "intelligence",
+    "transliteration": "muxaabaraat",
+    "arabic": "مخابرات"
+  },
+  {
+    "english": "ministry",
+    "transliteration": "wizaara",
+    "arabic": "وزارة"
+  },
+  {
+    "english": "ministries",
+    "transliteration": "wizaaraat",
+    "arabic": "وزارات"
+  },
+  {
+    "english": "election",
+    "transliteration": "intixaab",
+    "arabic": "انتخاب"
+  },
+  {
+    "english": "elections",
+    "transliteration": "intixaabaat",
+    "arabic": "انتخابات"
+  },
+  {
+    "english": "campaign",
+    "transliteration": "Hamla",
+    "arabic": "حملة"
+  },
+  {
+    "english": "campaigns",
+    "transliteration": "Hamalaat",
+    "arabic": "حملات"
+  },
+  {
+    "english": "candidate",
+    "transliteration": "muraššaH",
+    "arabic": "مرشح"
+  },
+  {
+    "english": "candidates",
+    "transliteration": "muraššaHHuun",
+    "arabic": "مرشحون"
+  },
+  {
+    "english": "competitor",
+    "transliteration": "munaafis",
+    "arabic": "منافس"
+  },
+  {
+    "english": "competitors",
+    "transliteration": "munaafisuun",
+    "arabic": "منافسون"
+  },
+  {
+    "english": "voter",
+    "transliteration": "naaxib",
+    "arabic": "ناخب"
+  },
+  {
+    "english": "voters",
+    "transliteration": "naaxibuun",
+    "arabic": "ناخبون"
+  },
+  {
+    "english": "clean",
+    "transliteration": "naziih",
+    "arabic": "نزيه"
+  },
+  {
+    "english": "transparency",
+    "transliteration": "šaffaafiyya",
+    "arabic": "شفافية"
+  },
+  {
+    "english": "contribution",
+    "transliteration": "musaahama",
+    "arabic": "مساهمة"
+  },
+  {
+    "english": "contributions",
+    "transliteration": "musaahamaat",
+    "arabic": "مساهمات"
+  },
+  {
+    "english": "referendum",
+    "transliteration": "istiftaa'",
+    "arabic": "استفتاء"
+  },
+  {
+    "english": "referendums",
+    "transliteration": "istiftaa'aat",
+    "arabic": "استفتاءات"
+  },
+  {
+    "english": "propaganda",
+    "transliteration": "da3aaya",
+    "arabic": "دعاية"
+  },
+  {
+    "english": "slogan",
+    "transliteration": "ša3aar",
+    "arabic": "شعار"
+  },
+  {
+    "english": "slogans",
+    "transliteration": "ša3aaraat",
+    "arabic": "شعارات"
+  },
+  {
+    "english": "empty slogan",
+    "transliteration": "ša3aar ajwaf",
+    "arabic": "شعار أجوف"
+  },
+  {
+    "english": "debate",
+    "transliteration": "munaaZara",
+    "arabic": "مناظرة"
+  },
+  {
+    "english": "debates",
+    "transliteration": "munaaZaraat",
+    "arabic": "مناظرات"
+  },
+  {
+    "english": "vote ",
+    "transliteration": "Soot",
+    "arabic": "صوت"
+  },
+  {
+    "english": "vote s",
+    "transliteration": "aSwaat",
+    "arabic": "أصوات"
+  },
+  {
+    "english": "poll",
+    "transliteration": "istiTlaa3",
+    "arabic": "استطلاع"
+  },
+  {
+    "english": "polls",
+    "transliteration": "istiTlaa3aat",
+    "arabic": "استطلاعات"
+  },
+  {
+    "english": "opinion",
+    "transliteration": "ra'i",
+    "arabic": "رأي"
+  },
+  {
+    "english": "opinions",
+    "transliteration": "aaraa'",
+    "arabic": "آراء"
+  },
+  {
+    "english": "analysis",
+    "transliteration": "taHliil",
+    "arabic": "تحليل"
+  },
+  {
+    "english": "statistics",
+    "transliteration": "iHSaa'aat",
+    "arabic": "احصاءات"
+  },
+  {
+    "english": "result",
+    "transliteration": "natiija",
+    "arabic": "نتيجة"
+  },
+  {
+    "english": "results",
+    "transliteration": "nataa'ij",
+    "arabic": "نتائج"
+  },
+  {
+    "english": "half",
+    "transliteration": "naSf",
+    "arabic": "نصف"
+  },
+  {
+    "english": "percentage",
+    "transliteration": "nisba",
+    "arabic": "نسبة"
+  },
+  {
+    "english": "percentages",
+    "transliteration": "nisab",
+    "arabic": "نسب"
+  },
+  {
+    "english": "majority",
+    "transliteration": "aġlabiyya/aktariyya",
+    "arabic": "أغلبية | أكثرية"
+  },
+  {
+    "english": "with ",
+    "transliteration": "ma3a",
+    "arabic": "مع"
+  },
+  {
+    "english": "against",
+    "transliteration": "Didd",
+    "arabic": "ضد"
+  },
+  {
+    "english": "issue",
+    "transliteration": "qaDiyya",
+    "arabic": "قضية"
+  },
+  {
+    "english": "issues",
+    "transliteration": "qaDaaya",
+    "arabic": "قضايا"
+  },
+  {
+    "english": "affair",
+    "transliteration": "ša'n",
+    "arabic": "شأن"
+  },
+  {
+    "english": "affairs",
+    "transliteration": "šu'uun",
+    "arabic": "شؤون"
+  },
+  {
+    "english": "law",
+    "transliteration": "qaanuun",
+    "arabic": "قانون"
+  },
+  {
+    "english": "laws",
+    "transliteration": "qawaaniin",
+    "arabic": "قوانين"
+  },
+  {
+    "english": "policy",
+    "transliteration": "siyaasa",
+    "arabic": "سياسة"
+  },
+  {
+    "english": "policies",
+    "transliteration": "siyaasaat",
+    "arabic": "سياسات"
+  },
+  {
+    "english": "restrictions ",
+    "transliteration": "quyuud 3ala",
+    "arabic": "قيود على"
+  },
+  {
+    "english": "reform",
+    "transliteration": "iSlaaH",
+    "arabic": "اصلاح"
+  },
+  {
+    "english": "reforms",
+    "transliteration": "iSlaaHaat",
+    "arabic": "اصلاحات"
+  },
+  {
+    "english": "controversy ",
+    "transliteration": "jadal Hawla",
+    "arabic": "جدل حول"
+  },
+  {
+    "english": "scandal",
+    "transliteration": "faDiiHa",
+    "arabic": "فضيحة"
+  },
+  {
+    "english": "scandals",
+    "transliteration": "faDaa'iH",
+    "arabic": "فضائح"
+  },
+  {
+    "english": "negligence",
+    "transliteration": "ihmaal",
+    "arabic": "اهمال"
+  },
+  {
+    "english": "theft",
+    "transliteration": "sariqa",
+    "arabic": "سرقة"
+  },
+  {
+    "english": "swindling",
+    "transliteration": "naSb",
+    "arabic": "نصب"
+  },
+  {
+    "english": "bribery",
+    "transliteration": "irtišaa'/rašwa",
+    "arabic": "ارتشاء | رشوة"
+  },
+  {
+    "english": "embezzlement",
+    "transliteration": "ixtilaas",
+    "arabic": "اختلاس"
+  },
+  {
+    "english": "fraud",
+    "transliteration": "iHtiyaal",
+    "arabic": "احتيال"
+  },
+  {
+    "english": "blackmail",
+    "transliteration": "ibtizaaz",
+    "arabic": "ابتزاز"
+  },
+  {
+    "english": "favoritism",
+    "transliteration": "muHaabaah",
+    "arabic": "محاباة"
+  },
+  {
+    "english": "nepotism",
+    "transliteration": "maHsuubiyya",
+    "arabic": "محسوبية"
+  },
+  {
+    "english": "connections",
+    "transliteration": "waasTa",
+    "arabic": "واسطة"
+  },
+  {
+    "english": "security",
+    "transliteration": "amn",
+    "arabic": "أمن"
+  },
+  {
+    "english": "safety",
+    "transliteration": "salaama",
+    "arabic": "سلامة"
+  },
+  {
+    "english": "peace",
+    "transliteration": "salaam",
+    "arabic": "سلام"
+  },
+  {
+    "english": "stability",
+    "transliteration": "istiqraar",
+    "arabic": "استقرار"
+  },
+  {
+    "english": "protection",
+    "transliteration": "Himaaya",
+    "arabic": "حماية"
+  },
+  {
+    "english": "unity",
+    "transliteration": "waHda",
+    "arabic": "وحدة"
+  },
+  {
+    "english": "equality",
+    "transliteration": "musaawaah",
+    "arabic": "مساواة"
+  },
+  {
+    "english": "independence",
+    "transliteration": "istiqlaal",
+    "arabic": "استقلال"
+  },
+  {
+    "english": "sovereignty",
+    "transliteration": "siyaada",
+    "arabic": "سيادة"
+  },
+  {
+    "english": "justice",
+    "transliteration": "3adl/3adaala",
+    "arabic": "عدل/عدالة"
+  },
+  {
+    "english": "tolerance",
+    "transliteration": "tasaamuH",
+    "arabic": "تسامح"
+  },
+  {
+    "english": "coexistence",
+    "transliteration": "ta3aayuš",
+    "arabic": "تعايش"
+  },
+  {
+    "english": "pluralism",
+    "transliteration": "ta3addud",
+    "arabic": "تعدد/تعددية"
+  },
+  {
+    "english": "diversity",
+    "transliteration": "tanawwu3",
+    "arabic": "تنوّع"
+  },
+  {
+    "english": "freedom",
+    "transliteration": "Hurriyya",
+    "arabic": "حرية"
+  },
+  {
+    "english": "dignity",
+    "transliteration": "karaama",
+    "arabic": "كرامة"
+  },
+  {
+    "english": "conscience",
+    "transliteration": "Damiir",
+    "arabic": "ضمير"
+  },
+  {
+    "english": "principle",
+    "transliteration": "mabda'",
+    "arabic": "مبدأ"
+  },
+  {
+    "english": "principles",
+    "transliteration": "mabaadi'",
+    "arabic": "مبادئ"
+  },
+  {
+    "english": "morals",
+    "transliteration": "axlaaq  xulq",
+    "arabic": "أخلاق    خلق"
+  },
+  {
+    "english": "standard",
+    "transliteration": "mi3yaar",
+    "arabic": "معيار"
+  },
+  {
+    "english": "standards",
+    "transliteration": "ma3aayiir",
+    "arabic": "معايير"
+  },
+  {
+    "english": "right",
+    "transliteration": "Haqq",
+    "arabic": "حق"
+  },
+  {
+    "english": "rights",
+    "transliteration": "Huquuq",
+    "arabic": "حقوق"
+  },
+  {
+    "english": "oppression",
+    "transliteration": "Zulm",
+    "arabic": "ظلم"
+  },
+  {
+    "english": "persecution",
+    "transliteration": "iDTihaad",
+    "arabic": "اضطهاد"
+  },
+  {
+    "english": "repression",
+    "transliteration": "qam3",
+    "arabic": "قمع"
+  },
+  {
+    "english": "tyranny",
+    "transliteration": "istibdaad",
+    "arabic": "استبداد"
+  },
+  {
+    "english": "prejudice",
+    "transliteration": "taHayyuz",
+    "arabic": "تحيّز"
+  },
+  {
+    "english": "discrimination",
+    "transliteration": "tamyiiz",
+    "arabic": "تمييز"
+  },
+  {
+    "english": "racism",
+    "transliteration": "3unSuriyya",
+    "arabic": "عنصرية"
+  },
+  {
+    "english": "torture",
+    "transliteration": "ta3diib",
+    "arabic": "تعذيب"
+  },
+  {
+    "english": "massacre",
+    "transliteration": "madbaHa",
+    "arabic": "مذبحة"
+  },
+  {
+    "english": "massacres",
+    "transliteration": "madaabiH",
+    "arabic": "مذابح"
+  },
+  {
+    "english": "genocide",
+    "transliteration": "ibaada ",
+    "arabic": "ابادة "
+  },
+  {
+    "english": "ethnic cleansing",
+    "transliteration": "taThiir 3irqi",
+    "arabic": "تطهير عرقي"
+  },
+  {
+    "english": "honor crime",
+    "transliteration": "jariimat šaraf",
+    "arabic": "جريمة"
+  },
+  {
+    "english": "honor crimes",
+    "transliteration": "jaraa'im šaraf",
+    "arabic": "جرائم شرف"
+  },
+  {
+    "english": "rape",
+    "transliteration": "iġtiSaab",
+    "arabic": "اغتصاب"
+  },
+  {
+    "english": "prostitution",
+    "transliteration": "da3aara",
+    "arabic": "دعارة"
+  },
+  {
+    "english": "slavery",
+    "transliteration": "3ubuudiyya",
+    "arabic": "عبودية"
+  }
+]

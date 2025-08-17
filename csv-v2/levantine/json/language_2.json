@@ -1,0 +1,758 @@
+[
+  {
+    "english": "language",
+    "transliteration": "lúɣa",
+    "arabic": "لُغة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-1.mp3"
+  },
+  {
+    "english": "foreign language",
+    "transliteration": "lúɣa ajnabíyyi",
+    "arabic": "لُغة أجْنبية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-2.mp3"
+  },
+  {
+    "english": "(foreign) accent",
+    "transliteration": "lákni",
+    "arabic": "لكْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-3.mp3"
+  },
+  {
+    "english": "native language",
+    "transliteration": "lúɣit umm",
+    "arabic": "لُغِة أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-4.mp3"
+  },
+  {
+    "english": "Chinese",
+    "transliteration": "ʂīni",
+    "arabic": "صيني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-5.mp3"
+  },
+  {
+    "english": "Dutch",
+    "transliteration": "holándi",
+    "arabic": "هوْلنْدي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-6.mp3"
+  },
+  {
+    "english": "English",
+    "transliteration": "inglīzi",
+    "arabic": "إنْكْليزي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-7.mp3"
+  },
+  {
+    "english": "Farsi",
+    "transliteration": "fērsi",
+    "arabic": "فارْسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-8.mp3"
+  },
+  {
+    "english": "French",
+    "transliteration": "frinsēwi",
+    "arabic": "فْرِنْساوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-9.mp3"
+  },
+  {
+    "english": "German",
+    "transliteration": "almāni",
+    "arabic": "ألْماني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-10.mp3"
+  },
+  {
+    "english": "Greek",
+    "transliteration": "yūnēni",
+    "arabic": "يوناني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-11.mp3"
+  },
+  {
+    "english": "Hebrew",
+    "transliteration": "3íbri",
+    "arabic": "عِبْري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-12.mp3"
+  },
+  {
+    "english": "Hindi",
+    "transliteration": "híndi",
+    "arabic": "هِنْدي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-13.mp3"
+  },
+  {
+    "english": "Italian",
+    "transliteration": "īʈāli",
+    "arabic": "إيطالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-14.mp3"
+  },
+  {
+    "english": "Japanese",
+    "transliteration": "yābāni",
+    "arabic": "ياباني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-15.mp3"
+  },
+  {
+    "english": "Korean",
+    "transliteration": "kūri",
+    "arabic": "كوري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-16.mp3"
+  },
+  {
+    "english": "Portuguese",
+    "transliteration": "burtuɣāli",
+    "arabic": "بُرْتُغالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-17.mp3"
+  },
+  {
+    "english": "Russian",
+    "transliteration": "rūsi",
+    "arabic": "روسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-18.mp3"
+  },
+  {
+    "english": "Spanish",
+    "transliteration": "isbāni",
+    "arabic": "إسْباني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-19.mp3"
+  },
+  {
+    "english": "Turkish",
+    "transliteration": "tírki",
+    "arabic": "تِرْكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-20.mp3"
+  },
+  {
+    "english": "Arabic",
+    "transliteration": "3árabi",
+    "arabic": "عربي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-21.mp3"
+  },
+  {
+    "english": "Classical Arabic",
+    "transliteration": "3árabi lqurʔān",
+    "arabic": "عربي القُرْآن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-22.mp3"
+  },
+  {
+    "english": "Modern Standard Arabic",
+    "transliteration": "lfúʂɧa",
+    "arabic": "الفُصْحى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-23.mp3"
+  },
+  {
+    "english": "dialect",
+    "transliteration": "láhji",
+    "arabic": "لهْجِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-24.mp3"
+  },
+  {
+    "english": "colloquial language",
+    "transliteration": "3ammíyyi",
+    "arabic": "عامّية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-25.mp3"
+  },
+  {
+    "english": "Egyptian Arabic",
+    "transliteration": "l3árabi lmáʂri",
+    "arabic": "العربي المصْري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-26.mp3"
+  },
+  {
+    "english": "Moroccan Arabic",
+    "transliteration": "l3árabi lmáɣribi",
+    "arabic": "العربي المغْرِبي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-27.mp3"
+  },
+  {
+    "english": "Levantine Arabic",
+    "transliteration": "l3arabi ššēmi",
+    "arabic": "العربي الشّامي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-28.mp3"
+  },
+  {
+    "english": "Gulf Arabic",
+    "transliteration": "l3arabi lxalīji",
+    "arabic": "العربي الخليجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-29.mp3"
+  },
+  {
+    "english": "to learn",
+    "transliteration": "t3állam, yit3állam",
+    "arabic": "تْعلم، يِتْعلّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-30.mp3"
+  },
+  {
+    "english": "practice, exercise",
+    "transliteration": "tadrīb",
+    "arabic": "تدْريب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-31.mp3"
+  },
+  {
+    "english": "practice, exercise",
+    "transliteration": "tamrīn (tamarīn)",
+    "arabic": "تمْرين (تمارين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-32.mp3"
+  },
+  {
+    "english": "to practice",
+    "transliteration": "ddárab 3ála, yiddárrab 3ála",
+    "arabic": "تْدرّب على، يِتْدرّب على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-33.mp3"
+  },
+  {
+    "english": "to practice",
+    "transliteration": "tmárran 3ála, yitmárran 3ála",
+    "arabic": "تْمرّن على، يِتْمرّن على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-34.mp3"
+  },
+  {
+    "english": "level",
+    "transliteration": "mústawa (mustawayēt)",
+    "arabic": "مُسْتَوى (مُسْتوَيات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-35.mp3"
+  },
+  {
+    "english": "beginner’s",
+    "transliteration": "mbállaš",
+    "arabic": "مْبلش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-36.mp3"
+  },
+  {
+    "english": "intermediate",
+    "transliteration": "wásaʈ",
+    "arabic": "وَسط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-37.mp3"
+  },
+  {
+    "english": "advanced",
+    "transliteration": "3āli",
+    "arabic": "عالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-38.mp3"
+  },
+  {
+    "english": "writing",
+    "transliteration": "kitēbi",
+    "arabic": "كِتابِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-39.mp3"
+  },
+  {
+    "english": "to write",
+    "transliteration": "kátab, yíktub",
+    "arabic": "كتب، يِكْتُب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-40.mp3"
+  },
+  {
+    "english": "reading",
+    "transliteration": "ʔrāyi",
+    "arabic": "قْراية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-41.mp3"
+  },
+  {
+    "english": "to read",
+    "transliteration": "ʔára, yíʔra",
+    "arabic": "قرا، يِقْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-42.mp3"
+  },
+  {
+    "english": "alphabet",
+    "transliteration": "liɧrūf ilʔabjadíyyi",
+    "arabic": "الِحْروف الابْجدية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-43.mp3"
+  },
+  {
+    "english": "letter",
+    "transliteration": "ɧárif (ɧrūf)",
+    "arabic": "حرِف (حْروف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-44.mp3"
+  },
+  {
+    "english": "Chinese characters",
+    "transliteration": "liɧrūf iʂʂīníyyi",
+    "arabic": "الِحْروف الصّينية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-45.mp3"
+  },
+  {
+    "english": "to spell",
+    "transliteration": "hájja, yhájji",
+    "arabic": "هجى، يِهجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-46.mp3"
+  },
+  {
+    "english": "spelling",
+    "transliteration": "ɧijēʔ",
+    "arabic": "هِجاء",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-47.mp3"
+  },
+  {
+    "english": "handwriting, penmanship",
+    "transliteration": "xaʈʈ",
+    "arabic": "خطّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-48.mp3"
+  },
+  {
+    "english": "I have such bad penmanship.",
+    "transliteration": "ána xáʈʈi bíši3.",
+    "arabic": "أنا خطّي بِشِع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-49.mp3"
+  },
+  {
+    "english": "is legible",
+    "transliteration": "byinʔára",
+    "arabic": "بْيِنْقرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-50.mp3"
+  },
+  {
+    "english": "is illegible",
+    "transliteration": "mā byinʔára",
+    "arabic": "ما بْيِنْقرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-51.mp3"
+  },
+  {
+    "english": "His handwriting is completely illegible.",
+    "transliteration": "xáʈʈu mā byinʔára ábadan.",
+    "arabic": "خطُّه ما بْيِنْقرا أبداً.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-52.mp3"
+  },
+  {
+    "english": "calligraphy",
+    "transliteration": "fann irrásim b-ilxaʈʈ",
+    "arabic": "فنّ الرّسِم بِالخطّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-53.mp3"
+  },
+  {
+    "english": "speaking, speech",
+    "transliteration": "ɧáki",
+    "arabic": "حكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-54.mp3"
+  },
+  {
+    "english": "I need to practice speaking more.",
+    "transliteration": "ána lēzim itmárran 3a-lɧáki áktar.",
+    "arabic": "أنا لازِم إتْمرّن عالحكي أكْتر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-55.mp3"
+  },
+  {
+    "english": "You can’t understand anything he says.",
+    "transliteration": "mā btíʔdir tífham ɧákyu.",
+    "arabic": "ما بْتِقْدِر تِفْهم حكْيو.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-56.mp3"
+  },
+  {
+    "english": "to speak",
+    "transliteration": "ɧíki [55]",
+    "arabic": "حِكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-57.mp3"
+  },
+  {
+    "english": "Can you speak Arabic?",
+    "transliteration": "btá3rif tíɧki 3árabi?",
+    "arabic": "بْتعْرِف تِحْكي عربي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-58.mp3"
+  },
+  {
+    "english": "I know a few words.",
+    "transliteration": "bá3rif kam kílmi.",
+    "arabic": "بعْرِف كم كِلْمِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-59.mp3"
+  },
+  {
+    "english": "I know some basic Arabic.",
+    "transliteration": "bá3rif ášya basīʈa b-il3árabi.",
+    "arabic": "بعْرِف أشْيا بسيطة بِالعربي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-60.mp3"
+  },
+  {
+    "english": "I can speak a little Arabic.",
+    "transliteration": "bá3rif íɧki 3árabi šwayy.",
+    "arabic": "بعْرِف اِحْكي عربي شْوَيّ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-61.mp3"
+  },
+  {
+    "english": "I can get by in Arabic.",
+    "transliteration": "bmárriʔ ɧāli b-il3árabi.",
+    "arabic": "بْمرِّق حالي بِالعربي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-62.mp3"
+  },
+  {
+    "english": "I speak Arabic pretty well.",
+    "transliteration": "bíɧki 3árabi mnīɧ.",
+    "arabic": "بِحْكي عربي مْنيِح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-63.mp3"
+  },
+  {
+    "english": "broken Arabic",
+    "transliteration": "3árabi mkássar",
+    "arabic": "عربي مْكسّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-64.mp3"
+  },
+  {
+    "english": "fluently",
+    "transliteration": "b-ʈalāʔa",
+    "arabic": "بْطلاقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-65.mp3"
+  },
+  {
+    "english": "I am fluent in Arabic.",
+    "transliteration": "ána ʈíliʔ b i-l3árabi.",
+    "arabic": "أنا طِلِق بِالعربي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-66.mp3"
+  },
+  {
+    "english": "pronunciation",
+    "transliteration": "nuʈuʔ",
+    "arabic": "نُطُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-67.mp3"
+  },
+  {
+    "english": "pronunciation",
+    "transliteration": "láfiʐ",
+    "arabic": "لفِظ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-68.mp3"
+  },
+  {
+    "english": "to pronounce",
+    "transliteration": "láfaʐ, yílfuʐ",
+    "arabic": "لفظ ، يِلْفُظ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-69.mp3"
+  },
+  {
+    "english": "How do you pronounce this word?",
+    "transliteration": "kīf btínʈuʔ ha-lkílmi?",
+    "arabic": "كيف بْتِنْطُق هالكِلْمِة؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-70.mp3"
+  },
+  {
+    "english": "Your Arabic pronunciation is quite good.",
+    "transliteration": "btílfuʐ 3árabi ktīr mnīɧ.",
+    "arabic": "بْتِلْفُظ عربي كْتير مْنيح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-71.mp3"
+  },
+  {
+    "english": "I need to work on my listening skills in Arabic.",
+    "transliteration": "lēzim ištíɣil 3ála tamārīn issamā3 b-il3árabi.",
+    "arabic": "لازِم اِشْتِغِل على تمارين السّماع بِالعربي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-73.mp3"
+  },
+  {
+    "english": "listening",
+    "transliteration": "smā3",
+    "arabic": "سْماع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-72.mp3"
+  },
+  {
+    "english": "to listen to",
+    "transliteration": "sími3, yísma3",
+    "arabic": "سِمِع، يِسْمع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-74.mp3"
+  },
+  {
+    "english": "vocabulary",
+    "transliteration": "mufradēt",
+    "arabic": "مُفْردات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-75.mp3"
+  },
+  {
+    "english": "word",
+    "transliteration": "kílmi (kalimēt)",
+    "arabic": "كِلْمِة (كلِمات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-76.mp3"
+  },
+  {
+    "english": "dictionary",
+    "transliteration": "ʔāmūs (ʔawamīs)",
+    "arabic": "قاموس (قواميس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-77.mp3"
+  },
+  {
+    "english": "to look up a word in the dictionary",
+    "transliteration": "dáwwar [9] 3ála kílmi min ilʔāmūs",
+    "arabic": "دوِّر على كِلْمِة مِن القاموس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-78.mp3"
+  },
+  {
+    "english": "flashcard",
+    "transliteration": "biʈāʔit istiskār",
+    "arabic": "بِطاقِة اِسْتِذْكار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-79.mp3"
+  },
+  {
+    "english": "to repeat",
+    "transliteration": "3ād, y3īd",
+    "arabic": "عاد، يْعيد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-80.mp3"
+  },
+  {
+    "english": "grammar",
+    "transliteration": "náɧu",
+    "arabic": "نحو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-82.mp3"
+  },
+  {
+    "english": "repetition",
+    "transliteration": "i3ādi",
+    "arabic": "إعادِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-81.mp3"
+  },
+  {
+    "english": "grammatical",
+    "transliteration": "náɧawi",
+    "arabic": "نَحَوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-83.mp3"
+  },
+  {
+    "english": "grammatical rule",
+    "transliteration": "qā3di naɧawíyyi (qawā3id naɧawíyyi)",
+    "arabic": "قاعْدِة نَحَوية (قَواعِد نَحَوية)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-84.mp3"
+  },
+  {
+    "english": "inflection, conjugation, declension",
+    "transliteration": "taʂrīf",
+    "arabic": "تصْريف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-86.mp3"
+  },
+  {
+    "english": "to inflect, conjugate, decline",
+    "transliteration": "ʂárraf, yʂárrif",
+    "arabic": "صرّف، يْصرِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-85.mp3"
+  },
+  {
+    "english": "prefix",
+    "transliteration": "ɧárif b-ʔáwwal ilkílmi",
+    "arabic": "حرِف بْأوَّل الكِلمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-88.mp3"
+  },
+  {
+    "english": "suffix",
+    "transliteration": "ɧárif b-ʔēxir ilkílmi",
+    "arabic": "حرِف بْآخِر الكِلْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-87.mp3"
+  },
+  {
+    "english": "case",
+    "transliteration": "ɧāli",
+    "arabic": "حالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-89.mp3"
+  },
+  {
+    "english": "tense",
+    "transliteration": "záman (azmēn)",
+    "arabic": "زمن (أزْمان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-90.mp3"
+  },
+  {
+    "english": "gender",
+    "transliteration": "jínis (ajnēs)",
+    "arabic": "جِنِس (أجْناس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-91.mp3"
+  },
+  {
+    "english": "singular",
+    "transliteration": "múfrad",
+    "arabic": "مُفْرد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-92.mp3"
+  },
+  {
+    "english": "dual",
+    "transliteration": "muŧánna",
+    "arabic": "مُثنّى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-93.mp3"
+  },
+  {
+    "english": "plural",
+    "transliteration": "jámi3",
+    "arabic": "جمِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-94.mp3"
+  },
+  {
+    "english": "feminine",
+    "transliteration": "muʔánnaŧ",
+    "arabic": "مُؤنّث",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-96.mp3"
+  },
+  {
+    "english": "masculine",
+    "transliteration": "muđákkar",
+    "arabic": "مُذكّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-95.mp3"
+  },
+  {
+    "english": "neuter",
+    "transliteration": "muɧāyid",
+    "arabic": "مُحايِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-97.mp3"
+  },
+  {
+    "english": "the present tense",
+    "transliteration": "záman ilmuɖāri3",
+    "arabic": "زمن المُضارِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-98.mp3"
+  },
+  {
+    "english": "the future tense",
+    "transliteration": "záman ilmustáʔbal",
+    "arabic": "زمن المُسْتقْبل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-100.mp3"
+  },
+  {
+    "english": "the past tense",
+    "transliteration": "záman ilmāɖi",
+    "arabic": "زمن الماضي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-99.mp3"
+  },
+  {
+    "english": "article",
+    "transliteration": "adēt ta3rīf",
+    "arabic": "أداة تعْريف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-101.mp3"
+  },
+  {
+    "english": "preposition",
+    "transliteration": "ɧárif jarr",
+    "arabic": "حرِف جرّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-102.mp3"
+  },
+  {
+    "english": "noun",
+    "transliteration": "ísim (asmēʔ)",
+    "arabic": "اِسِم (أسْماء)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-103.mp3"
+  },
+  {
+    "english": "verb",
+    "transliteration": "fí3il (af3āl)",
+    "arabic": "فِعِل (أفْعال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-104.mp3"
+  },
+  {
+    "english": "adjective",
+    "transliteration": "ʂífa",
+    "arabic": "صِفة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-105.mp3"
+  },
+  {
+    "english": "adverb",
+    "transliteration": "ʐárif (ʐurūf)",
+    "arabic": "ظرِف (ظُروف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-106.mp3"
+  },
+  {
+    "english": "subject",
+    "transliteration": "fā3il",
+    "arabic": "فاعِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-107.mp3"
+  },
+  {
+    "english": "object",
+    "transliteration": "maf3ūl bíhi",
+    "arabic": "مفْعول بِهِ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-108.mp3"
+  },
+  {
+    "english": "definite",
+    "transliteration": "mɧáddad",
+    "arabic": "مْحدّد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-109.mp3"
+  },
+  {
+    "english": "indefinite",
+    "transliteration": "ɣēr mɧáddad",
+    "arabic": "غيْر مْحدّد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-110.mp3"
+  },
+  {
+    "english": "sentence",
+    "transliteration": "jímli (jímal)",
+    "arabic": "جِمْلِة (جِمل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-112.mp3"
+  },
+  {
+    "english": "word order",
+    "transliteration": "tartīb ilkalimēt",
+    "arabic": "ترْتيب الكلِمات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-111.mp3"
+  },
+  {
+    "english": "paragraph",
+    "transliteration": "fáqara",
+    "arabic": "فقرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-113.mp3"
+  },
+  {
+    "english": "vowel",
+    "transliteration": "ɧárif mutaɧárrik",
+    "arabic": "حرِف مُتحرِّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-114.mp3"
+  },
+  {
+    "english": "consonant",
+    "transliteration": "ɧárif sēkin",
+    "arabic": "حرِف ساكِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-115.mp3"
+  },
+  {
+    "english": "syllable",
+    "transliteration": "máʔʈa3",
+    "arabic": "مقْطع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-116.mp3"
+  },
+  {
+    "english": "punctuation",
+    "transliteration": "tarʔīm",
+    "arabic": "ترْقيم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-117.mp3"
+  },
+  {
+    "english": "punctuation mark",
+    "transliteration": "3alēmit tarʔīm",
+    "arabic": "علامِة ترْقيم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-118.mp3"
+  },
+  {
+    "english": "period",
+    "transliteration": "núʔʈa (núʔaʈ)",
+    "arabic": "نُقْطة (نُقط)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-119.mp3"
+  },
+  {
+    "english": "comma",
+    "transliteration": "fāʂli",
+    "arabic": "فاصْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-120.mp3"
+  },
+  {
+    "english": "exclamation mark",
+    "transliteration": "3alēmit ta3ájjub",
+    "arabic": "علامِة تعجُّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-121.mp3"
+  },
+  {
+    "english": "question mark",
+    "transliteration": "3alēmit istifhēm",
+    "arabic": "علامِة اِسْتِفْهام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-122.mp3"
+  },
+  {
+    "english": "quotation marks",
+    "transliteration": "faʂiltēn [dual]",
+    "arabic": "فصِلْتيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-123.mp3"
+  },
+  {
+    "english": "colon",
+    "transliteration": "nuʔuʈtēn [dual]",
+    "arabic": "نُقُطْتيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-124.mp3"
+  },
+  {
+    "english": "parenthesis, bracket",
+    "transliteration": "ʔūs (aʔwēs)",
+    "arabic": "قوس (أقْواس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-125.mp3"
+  },
+  {
+    "english": "(a pair of) parentheses",
+    "transliteration": "ʔawsēn [dual]",
+    "arabic": "قَوْسيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav38-126.mp3"
+  }
+]

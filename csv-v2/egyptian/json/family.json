@@ -1,0 +1,596 @@
+[
+  {
+    "english": "(extended) family",
+    "transliteration": "3ēla",
+    "arabic": "عايْلة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-1.mp3"
+  },
+  {
+    "english": "(immediate) family",
+    "transliteration": "úsra (úsar)",
+    "arabic": "أُسْرة (أُسر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-2.mp3"
+  },
+  {
+    "english": "relative",
+    "transliteration": "ʔarīb (ʔarāyib)",
+    "arabic": "قُريِّب (قرايِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-3.mp3"
+  },
+  {
+    "english": "I have some relatives that live in New York.",
+    "transliteration": "ʔána 3ándi ʔarāyib 3ayšīn fi nyuyōrk.",
+    "arabic": "أنا عنْدي قرايِب عايْشين في نْيويوْرْك.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-4.mp3"
+  },
+  {
+    "english": "to be related to",
+    "transliteration": "yíʔrab [1s4] li-",
+    "arabic": "يِقْرب لِـ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-5.mp3"
+  },
+  {
+    "english": "Are you two related?",
+    "transliteration": "húwwa -ntu -lʔitnēn tiʔrábu l-ba3ɖ?",
+    "arabic": "هُوَّ إنْتو الاِتْنيْن تِقْربوا لْبعْض؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-6.mp3"
+  },
+  {
+    "english": "I’m not related to him.",
+    "transliteration": "ʔána maʔrablūš.",
+    "arabic": "أنا مقْربْلوش.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-7.mp3"
+  },
+  {
+    "english": "father",
+    "transliteration": "ʔabb (abbahāt)",
+    "arabic": "أبّ (أبّهات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-8.mp3"
+  },
+  {
+    "english": "father",
+    "transliteration": "wālid",
+    "arabic": "والِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-9.mp3"
+  },
+  {
+    "english": "mother",
+    "transliteration": "umm [f.] (ummahāt)",
+    "arabic": "أُمّ (أُمّهات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-10.mp3"
+  },
+  {
+    "english": "mother",
+    "transliteration": "wālída",
+    "arabic": "والِدة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-11.mp3"
+  },
+  {
+    "english": "my mother and father",
+    "transliteration": "úmmi w ʔabūya",
+    "arabic": "أُمّي و أبويا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-12.mp3"
+  },
+  {
+    "english": "dad",
+    "transliteration": "bāba [m.]",
+    "arabic": "بابا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-13.mp3"
+  },
+  {
+    "english": "mom (UK: mum)",
+    "transliteration": "māma [f.]",
+    "arabic": "ماما",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-14.mp3"
+  },
+  {
+    "english": "my mom and dad",
+    "transliteration": "mámti wi babāya",
+    "arabic": "مامْتي و بابايا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-15.mp3"
+  },
+  {
+    "english": "Hi, Dad!",
+    "transliteration": "ʔizzáyyak ya bāba!",
+    "arabic": "إزّيّك يا بابا!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-16.mp3"
+  },
+  {
+    "english": "Hi, Dad!",
+    "transliteration": "ʔizzáyyak ya ʔábi!",
+    "arabic": "إزّيّك يا أبي!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-17.mp3"
+  },
+  {
+    "english": "Where are you, Mom?",
+    "transliteration": "fēnik ya māma?",
+    "arabic": "فيْنِك يا ماما؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-18.mp3"
+  },
+  {
+    "english": "Where are you, Mom?",
+    "transliteration": "fēnik ya ʔúmmi?",
+    "arabic": "فيْنِك يا أُمّي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-19.mp3"
+  },
+  {
+    "english": "parents",
+    "transliteration": "ʔahl",
+    "arabic": "أهْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-20.mp3"
+  },
+  {
+    "english": "son, (male) child",
+    "transliteration": "ʔibn (wilād, ʔawlād)",
+    "arabic": "إبْن (وِلاد، أَوْلاد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-21.mp3"
+  },
+  {
+    "english": "daughter, (female) child",
+    "transliteration": "bint [f.] (banāt)",
+    "arabic": "بِنْت (بنات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-22.mp3"
+  },
+  {
+    "english": "Do you have any children?",
+    "transliteration": "3ándak ʔawlād?",
+    "arabic": "عنْدك أَوْلاد؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-23.mp3"
+  },
+  {
+    "english": "How many children do you have?",
+    "transliteration": "3ándak kam wálad?",
+    "arabic": "عنْدك كام وَلد؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-24.mp3"
+  },
+  {
+    "english": "to have (a child)",
+    "transliteration": "xállif [1s1]",
+    "arabic": "خلِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-25.mp3"
+  },
+  {
+    "english": "They had triplets.",
+    "transliteration": "xallífu tálat tawāʔim.",
+    "arabic": "خلِّفوا تلات تَوائِم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-26.mp3"
+  },
+  {
+    "english": "siblings",
+    "transliteration": "ʔixwāt [pl.]",
+    "arabic": "إخْوات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-27.mp3"
+  },
+  {
+    "english": "brother",
+    "transliteration": "ʔaxx (ixwāt wilād)",
+    "arabic": "أخّ (إخْوات وِلاد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-28.mp3"
+  },
+  {
+    "english": "My brother and my friend’s brother came with me.",
+    "transliteration": "ʔaxūya w ʔaxū ȿáɧbi gum ma3āya.",
+    "arabic": "أخويا و أخو صاحْبي جُم معايا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-29.mp3"
+  },
+  {
+    "english": "sister",
+    "transliteration": "uxt [f.] (ixwāt banāt)",
+    "arabic": "أُخْت (إخْوات بنات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-30.mp3"
+  },
+  {
+    "english": "older brother",
+    "transliteration": "ʔaxxə kbīr",
+    "arabic": "أخّ كْبير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-31.mp3"
+  },
+  {
+    "english": "younger sister",
+    "transliteration": "uxtə ȿɣayyára",
+    "arabic": "أُخْت صْغيّرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-32.mp3"
+  },
+  {
+    "english": "Do you have any brothers or sisters?",
+    "transliteration": "3ándak ʔixwāt?",
+    "arabic": "عنْدك إخْوات؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-33.mp3"
+  },
+  {
+    "english": "I have two older sisters and one younger brother.",
+    "transliteration": "3ándi ʔuxtēn ʔákbar mínni wi ʔaxxə ʔáȿɣar mínni.",
+    "arabic": "عنْدي أُخْتيْن أكْبر مِنّي و أخّ أصْغر مِنّي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-34.mp3"
+  },
+  {
+    "english": "I’m the youngest in my family.",
+    "transliteration": "ʔána ʔáȿɣar fardə fi-lʔúsra.",
+    "arabic": "أنا أصْغر فرْد في الأُسْرة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-35.mp3"
+  },
+  {
+    "english": "I’m the middle child/son.",
+    "transliteration": "ʔána -lʔaxx ilʔáwsaʈ.",
+    "arabic": "أنا الأخّ الأَوْسط.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-36.mp3"
+  },
+  {
+    "english": "I’m an only child.",
+    "transliteration": "ma-3andīš ʔixwāt.",
+    "arabic": "معنْديش إخْوات.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-37.mp3"
+  },
+  {
+    "english": "twin",
+    "transliteration": "táwʔam (tawāʔim)",
+    "arabic": "تَوْأم (تَوائِم)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-38.mp3"
+  },
+  {
+    "english": "Are you two twins?",
+    "transliteration": "húwwa -ntu -lʔitnēn táwʔam?",
+    "arabic": "هُوَّ إنْتو الاِتْنيْن تَوْأم؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-39.mp3"
+  },
+  {
+    "english": "I have a twin brother.",
+    "transliteration": "3ándi ʔaxxə táwʔam.",
+    "arabic": "عنْدي أخّ تَوْأم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-40.mp3"
+  },
+  {
+    "english": "half-brother (of same father)",
+    "transliteration": "ʔaxxə min ʔabb",
+    "arabic": "أخّ مِن أبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-41.mp3"
+  },
+  {
+    "english": "half-brother (of same mother)",
+    "transliteration": "ʔaxxə min ʔumm",
+    "arabic": "أخّ مِن أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-42.mp3"
+  },
+  {
+    "english": "half-sister (of same father)",
+    "transliteration": "uxtə min ʔabb",
+    "arabic": "أُخْت مِن أبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-43.mp3"
+  },
+  {
+    "english": "half-sister (of same mother)",
+    "transliteration": "uxtə min ʔumm",
+    "arabic": "أُخْت مِن أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-44.mp3"
+  },
+  {
+    "english": "He’s my half-brother.",
+    "transliteration": "húwwa (a)xūya min ʔabūya.",
+    "arabic": "هُوَّ أخويا مِن أبويا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-45.mp3"
+  },
+  {
+    "english": "husband",
+    "transliteration": "gōz (agwāz)",
+    "arabic": "جوْز (أجْواز)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-46.mp3"
+  },
+  {
+    "english": "husband",
+    "transliteration": "zōg (azwāg)",
+    "arabic": "زوْج (أزْواج)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-47.mp3"
+  },
+  {
+    "english": "wife",
+    "transliteration": "záwga (zawgāt)",
+    "arabic": "زَوْجة (زَوْجات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-48.mp3"
+  },
+  {
+    "english": "__’s wife",
+    "transliteration": "mirāt- __ [f.]",
+    "arabic": "مِرات __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-49.mp3"
+  },
+  {
+    "english": "__’s wife",
+    "transliteration": "issíttə btā3it __ [f.]",
+    "arabic": "السِّتّ بِتاعِةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-50.mp3"
+  },
+  {
+    "english": "His wife came with him.",
+    "transliteration": "mirātu gat ma3ā.",
+    "arabic": "مِراتُه جت معاه.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-51.mp3"
+  },
+  {
+    "english": "His wife came with him.",
+    "transliteration": "issíttə btá3tu gat ma3ā.",
+    "arabic": "السِّتّ بِتاعْتُه جت معاه.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-52.mp3"
+  },
+  {
+    "english": "stepfather",
+    "transliteration": "gōz ʔumm",
+    "arabic": "جوْز أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-53.mp3"
+  },
+  {
+    "english": "stepmother",
+    "transliteration": "mirāt ʔabb",
+    "arabic": "مِرات أبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-54.mp3"
+  },
+  {
+    "english": "stepbrother (mother's husband's son)",
+    "transliteration": "ʔibnə gōz ʔumm",
+    "arabic": "إبْن جوْز أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-55.mp3"
+  },
+  {
+    "english": "stepbrother (father's wife's son)",
+    "transliteration": "ʔibnə mrāt ʔabb",
+    "arabic": "إبْن مْرات أبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-56.mp3"
+  },
+  {
+    "english": "stepsister (mother's husband's daughter)",
+    "transliteration": "bintə gōz ʔumm",
+    "arabic": "بِنْت جوْز أُمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-57.mp3"
+  },
+  {
+    "english": "stepsister (father's wife's daughter)",
+    "transliteration": "bintə mrāt ʔabb",
+    "arabic": "بِنْت مْرات أبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-58.mp3"
+  },
+  {
+    "english": "stepson (husband's son)",
+    "transliteration": "ʔibnə gōz",
+    "arabic": "إبْن جوْز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-59.mp3"
+  },
+  {
+    "english": "stepson (wife's son)",
+    "transliteration": "ʔibnə mrāt-",
+    "arabic": "إبْن مْرات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-60.mp3"
+  },
+  {
+    "english": "stepdaughter (husband's daughter)",
+    "transliteration": "bintə gōz",
+    "arabic": "بِنْت جوْز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-61.mp3"
+  },
+  {
+    "english": "stepdaughter (wife's daughter)",
+    "transliteration": "bintə mrāt-",
+    "arabic": "بِنْت مْرات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-62.mp3"
+  },
+  {
+    "english": "grandfather",
+    "transliteration": "gidd (gudūd)",
+    "arabic": "جِدّ (جُدود)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-63.mp3"
+  },
+  {
+    "english": "grandmother",
+    "transliteration": "gídda",
+    "arabic": "جِدّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-64.mp3"
+  },
+  {
+    "english": "my grandparents",
+    "transliteration": "gíddi wi giddíti",
+    "arabic": "جِدّي و جِدِّتي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-65.mp3"
+  },
+  {
+    "english": "grandpa",
+    "transliteration": "gíddu",
+    "arabic": "جِدّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-66.mp3"
+  },
+  {
+    "english": "grandma",
+    "transliteration": "tēta",
+    "arabic": "تيْتة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-67.mp3"
+  },
+  {
+    "english": "great-grandfather",
+    "transliteration": "ʔabū gidd",
+    "arabic": "أبو جِدّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-68.mp3"
+  },
+  {
+    "english": "grandson",
+    "transliteration": "ɧafīd (aɧfād)",
+    "arabic": "حفيد (أحْفاد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-69.mp3"
+  },
+  {
+    "english": "granddaughter",
+    "transliteration": "ɧafīda",
+    "arabic": "حفيدة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-70.mp3"
+  },
+  {
+    "english": "grandchildren",
+    "transliteration": "ʔaɧfād [pl.]",
+    "arabic": "أحْفاد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-71.mp3"
+  },
+  {
+    "english": "uncle (father’s brother)",
+    "transliteration": "3amm (a3mām, 3imām)",
+    "arabic": "عمّ (أعْمام، عِمام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-72.mp3"
+  },
+  {
+    "english": "aunt (father’s brother’s wife)",
+    "transliteration": "mirāt 3amm",
+    "arabic": "مِرات عمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-73.mp3"
+  },
+  {
+    "english": "aunt (father’s sister)",
+    "transliteration": "3ámma",
+    "arabic": "عمّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-74.mp3"
+  },
+  {
+    "english": "uncle (father’s sister’s husband)",
+    "transliteration": "gōz 3ámma",
+    "arabic": "جوْز عمّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-75.mp3"
+  },
+  {
+    "english": "uncle (mother’s brother)",
+    "transliteration": "xāl (axwāl)",
+    "arabic": "خال (أخْوال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-76.mp3"
+  },
+  {
+    "english": "aunt (mother’s brother’s wife)",
+    "transliteration": "mirāt xāl",
+    "arabic": "مِرات خال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-77.mp3"
+  },
+  {
+    "english": "aunt (mother’s sister)",
+    "transliteration": "xāla",
+    "arabic": "خالة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-78.mp3"
+  },
+  {
+    "english": "uncle (mother’s sister’s husband)",
+    "transliteration": "gōz xāla",
+    "arabic": "جوْز خالة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-79.mp3"
+  },
+  {
+    "english": "cousin (father’s brother’s son)",
+    "transliteration": "ʔibnə 3amm",
+    "arabic": "إبْن عمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-80.mp3"
+  },
+  {
+    "english": "cousin (father’s brother’s daughter)",
+    "transliteration": "bintə 3amm",
+    "arabic": "بِنْت عمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-81.mp3"
+  },
+  {
+    "english": "cousin (father’s sister’s son)",
+    "transliteration": "ʔibnə 3ámma",
+    "arabic": "إبْن عمّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-82.mp3"
+  },
+  {
+    "english": "cousin (father’s sister’s daughter)",
+    "transliteration": "bintə 3ámma",
+    "arabic": "بِنْت عمّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-83.mp3"
+  },
+  {
+    "english": "cousin (mother’s brother’s son)",
+    "transliteration": "ʔibnə xāl",
+    "arabic": "إبْن خال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-84.mp3"
+  },
+  {
+    "english": "cousin (mother’s brother’s daughter)",
+    "transliteration": "bintə xāl",
+    "arabic": "بِنْت خال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-85.mp3"
+  },
+  {
+    "english": "cousin (mother’s sister’s son)",
+    "transliteration": "ʔibnə xāla",
+    "arabic": "إبْن خالة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-86.mp3"
+  },
+  {
+    "english": "cousin (mother’s sister’s daughter)",
+    "transliteration": "bintə xāla",
+    "arabic": "بِنْت خالة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-87.mp3"
+  },
+  {
+    "english": "We’re cousins.",
+    "transliteration": "ʔíɧna wlād 3amm.",
+    "arabic": "إحْنا وْلاد عمّ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-88.mp3"
+  },
+  {
+    "english": "orphan",
+    "transliteration": "yatīm (aytām)",
+    "arabic": "يَتيم (أَيْتام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-89.mp3"
+  },
+  {
+    "english": "orphanage",
+    "transliteration": "málgaʔ (malāgiʔ) ʔaytām",
+    "arabic": "ملْجأ (ملاجِئ) أَيْتام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-90.mp3"
+  },
+  {
+    "english": "to adopt",
+    "transliteration": "itbánna",
+    "arabic": "اِتْبنّى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-91.mp3"
+  },
+  {
+    "english": "adoption",
+    "transliteration": "tabánni",
+    "arabic": "تبنّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-92.mp3"
+  },
+  {
+    "english": "to be adopted",
+    "transliteration": "ɧadd itbannā [5d]",
+    "arabic": "حدّ اِتْبنّاه",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-93.mp3"
+  },
+  {
+    "english": "I was adopted.",
+    "transliteration": "ʔána mutabánni.",
+    "arabic": "أنا مُتبنّي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-94.mp3"
+  },
+  {
+    "english": "an adopted son",
+    "transliteration": "ʔibnə bi-ttabánni",
+    "arabic": "إبْن بِالتّبنّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-95.mp3"
+  },
+  {
+    "english": "adoptive parents",
+    "transliteration": "ʔahlə bi-ttabánni",
+    "arabic": "أهْل بِالتّبنّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-96.mp3"
+  },
+  {
+    "english": "birth parents",
+    "transliteration": "walidēn [dual]",
+    "arabic": "والِديْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-97.mp3"
+  },
+  {
+    "english": "ancestors, forefathers",
+    "transliteration": "ʔagdād [pl.]",
+    "arabic": "أجْداد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-98.mp3"
+  },
+  {
+    "english": "descendants",
+    "transliteration": "ʔaɧfād [pl.]",
+    "arabic": "أحْفاد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav02-99.mp3"
+  }
+]

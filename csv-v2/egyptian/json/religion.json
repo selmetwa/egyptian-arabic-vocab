@@ -1,0 +1,667 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "religion",
+    "transliteration": "diin",
+    "arabic": "دين"
+  },
+  {
+    "english": "religions",
+    "transliteration": "adyaan",
+    "arabic": "أديان"
+  },
+  {
+    "english": "sect",
+    "transliteration": "Tayfa",
+    "arabic": "طائفة"
+  },
+  {
+    "english": "sects",
+    "transliteration": "Tawaa'if",
+    "arabic": "طوائف"
+  },
+  {
+    "english": "denomination",
+    "transliteration": "mazhab",
+    "arabic": "مذهب"
+  },
+  {
+    "english": "denominations",
+    "transliteration": "mazaahib",
+    "arabic": "مذاهب"
+  },
+  {
+    "english": "Muslim",
+    "transliteration": "muslim",
+    "arabic": "مسلم"
+  },
+  {
+    "english": "Sunni",
+    "transliteration": "sunni",
+    "arabic": "سنّي"
+  },
+  {
+    "english": "Sunnis",
+    "transliteration": "sunna",
+    "arabic": "سنّة"
+  },
+  {
+    "english": "Shi'ite",
+    "transliteration": "šii3i",
+    "arabic": "شيعي"
+  },
+  {
+    "english": "Shi'ites",
+    "transliteration": "šii3a",
+    "arabic": "شيعة"
+  },
+  {
+    "english": "Alawite",
+    "transliteration": "3alawi",
+    "arabic": "علوي"
+  },
+  {
+    "english": "Christian",
+    "transliteration": "masiiHi",
+    "arabic": "مسيحي"
+  },
+  {
+    "english": "Copt",
+    "transliteration": "'ibTi",
+    "arabic": "قبطي"
+  },
+  {
+    "english": "Copts",
+    "transliteration": "a'baaT",
+    "arabic": "أقباط"
+  },
+  {
+    "english": "Maronite",
+    "transliteration": "maruuni",
+    "arabic": "ماروني"
+  },
+  {
+    "english": "Maronites",
+    "transliteration": "mawaarina",
+    "arabic": "موارنة"
+  },
+  {
+    "english": "Orthodox",
+    "transliteration": "ortodoks",
+    "arabic": "أورثودوكس"
+  },
+  {
+    "english": "Catholic",
+    "transliteration": "katoliik",
+    "arabic": "كاثوليك"
+  },
+  {
+    "english": "Protestant",
+    "transliteration": "brotestaant",
+    "arabic": "بروتستانت"
+  },
+  {
+    "english": "Jew",
+    "transliteration": "yihuudi",
+    "arabic": "يهودي"
+  },
+  {
+    "english": "Jews",
+    "transliteration": "yihuud",
+    "arabic": "يهود"
+  },
+  {
+    "english": "Druze",
+    "transliteration": "druuzi",
+    "arabic": "دروزي"
+  },
+  {
+    "english": "Druzes",
+    "transliteration": "druuz",
+    "arabic": "دروز"
+  },
+  {
+    "english": "paganism ",
+    "transliteration": "wasaniyya ",
+    "arabic": "وثنية "
+  },
+  {
+    "english": "secularism",
+    "transliteration": "3ilmaaniyya",
+    "arabic": "علمانية"
+  },
+  {
+    "english": "monotheism",
+    "transliteration": "tawHiidiyya",
+    "arabic": "توحيدية"
+  },
+  {
+    "english": "infidel",
+    "transliteration": "kaafir",
+    "arabic": "كافر"
+  },
+  {
+    "english": "infidels",
+    "transliteration": "kuffaar",
+    "arabic": "كفار"
+  },
+  {
+    "english": "creed",
+    "transliteration": "3aqiida",
+    "arabic": "عقيدة"
+  },
+  {
+    "english": "creeds",
+    "transliteration": "3aqaayid diiniyya",
+    "arabic": "عقائد دينية"
+  },
+  {
+    "english": " god",
+    "transliteration": "ilaah",
+    "arabic": "اله"
+  },
+  {
+    "english": " gods",
+    "transliteration": "aaliha",
+    "arabic": "آلهة"
+  },
+  {
+    "english": "God*",
+    "transliteration": "allaah",
+    "arabic": "الله"
+  },
+  {
+    "english": "lord",
+    "transliteration": "rabb",
+    "arabic": "رب"
+  },
+  {
+    "english": "lords",
+    "transliteration": "arbaab",
+    "arabic": "أرباب"
+  },
+  {
+    "english": "messiah",
+    "transliteration": "masiiH",
+    "arabic": "مسيح"
+  },
+  {
+    "english": "savior",
+    "transliteration": "muxalliS",
+    "arabic": "مخلّص"
+  },
+  {
+    "english": "Jesus",
+    "transliteration": "yasuu3 ; 3iisa ",
+    "arabic": "يسوع | عيسى"
+  },
+  {
+    "english": "angel",
+    "transliteration": "malaak",
+    "arabic": "ملاك"
+  },
+  {
+    "english": "angels",
+    "transliteration": "malayka",
+    "arabic": "ملائكة"
+  },
+  {
+    "english": "cross",
+    "transliteration": "Siliib",
+    "arabic": "صليب"
+  },
+  {
+    "english": "crosses",
+    "transliteration": "Sulbaan",
+    "arabic": "صلبان"
+  },
+  {
+    "english": "crescent",
+    "transliteration": "halaal",
+    "arabic": "هلال"
+  },
+  {
+    "english": "star of David",
+    "transliteration": "nigmit dawuud",
+    "arabic": "نجمة داوود"
+  },
+  {
+    "english": "mosque",
+    "transliteration": "gaami3",
+    "arabic": "جامع"
+  },
+  {
+    "english": "mosques",
+    "transliteration": "gawaami3",
+    "arabic": "جوامع"
+  },
+  {
+    "english": "prayer niche in mosques",
+    "transliteration": "miHraab",
+    "arabic": "محراب"
+  },
+  {
+    "english": "prayer niche in mosques",
+    "transliteration": "maHaariib",
+    "arabic": "محاريب"
+  },
+  {
+    "english": "minaret",
+    "transliteration": "madna",
+    "arabic": "مدنة"
+  },
+  {
+    "english": "minarets",
+    "transliteration": "midan",
+    "arabic": "مدن"
+  },
+  {
+    "english": "call to prayer",
+    "transliteration": "adaan",
+    "arabic": "اذان"
+  },
+  {
+    "english": "muezzin",
+    "transliteration": "mu'azzin",
+    "arabic": "مؤذن"
+  },
+  {
+    "english": "minbar ",
+    "transliteration": "mimbar",
+    "arabic": "منبر"
+  },
+  {
+    "english": "minbar s",
+    "transliteration": "manaabir",
+    "arabic": "منابر"
+  },
+  {
+    "english": "Friday sermon",
+    "transliteration": "xuTba",
+    "arabic": "خطبة"
+  },
+  {
+    "english": "imam",
+    "transliteration": "imaam",
+    "arabic": "امام"
+  },
+  {
+    "english": "imams",
+    "transliteration": "a'ima",
+    "arabic": "أئمة"
+  },
+  {
+    "english": "church",
+    "transliteration": "kiniisa",
+    "arabic": "كنيسة"
+  },
+  {
+    "english": "churches",
+    "transliteration": "kanaayis",
+    "arabic": "كنايس"
+  },
+  {
+    "english": "shrine",
+    "transliteration": "mazaar",
+    "arabic": "مزار"
+  },
+  {
+    "english": "shrines",
+    "transliteration": "mazaaraat",
+    "arabic": "مزارات"
+  },
+  {
+    "english": "altar",
+    "transliteration": "mazbaH",
+    "arabic": "مذبح"
+  },
+  {
+    "english": "altars",
+    "transliteration": "mazaabiH",
+    "arabic": "مذابح"
+  },
+  {
+    "english": "sanctuary",
+    "transliteration": "heikal",
+    "arabic": "هيكل"
+  },
+  {
+    "english": "sanctuaries",
+    "transliteration": "hayaakil",
+    "arabic": "هياكل"
+  },
+  {
+    "english": "synagogue",
+    "transliteration": "kaniis",
+    "arabic": "كنيس"
+  },
+  {
+    "english": "temple",
+    "transliteration": "ma3bad",
+    "arabic": "معبد"
+  },
+  {
+    "english": "temples",
+    "transliteration": "ma3aabid",
+    "arabic": "معابد"
+  },
+  {
+    "english": "monastery",
+    "transliteration": "deir",
+    "arabic": "دير"
+  },
+  {
+    "english": "monasteries",
+    "transliteration": "adyira",
+    "arabic": "أديار"
+  },
+  {
+    "english": "monk",
+    "transliteration": "raahib",
+    "arabic": "راهب"
+  },
+  {
+    "english": "monks",
+    "transliteration": "ruhbaan",
+    "arabic": "رهبان"
+  },
+  {
+    "english": "nun",
+    "transliteration": "rahba",
+    "arabic": "راهبة"
+  },
+  {
+    "english": "priest",
+    "transliteration": "'assiis",
+    "arabic": "قسيس"
+  },
+  {
+    "english": "priests",
+    "transliteration": "'usus",
+    "arabic": "قسس"
+  },
+  {
+    "english": "bishop",
+    "transliteration": "us'uf",
+    "arabic": "أسقف"
+  },
+  {
+    "english": "bishops",
+    "transliteration": "asa'fa",
+    "arabic": "أساقف"
+  },
+  {
+    "english": "rabbi",
+    "transliteration": "Haxaam",
+    "arabic": "حاخام"
+  },
+  {
+    "english": "rabbis",
+    "transliteration": "Haxamaat",
+    "arabic": "حاخامات"
+  },
+  {
+    "english": "prophet",
+    "transliteration": "nabi",
+    "arabic": "نبي"
+  },
+  {
+    "english": "prophets",
+    "transliteration": "anbiya",
+    "arabic": "أنبياء"
+  },
+  {
+    "english": "chapter from the Qur'an",
+    "transliteration": "suura",
+    "arabic": "سورة"
+  },
+  {
+    "english": "chapter from the Qur'ans",
+    "transliteration": "suwar",
+    "arabic": "سور"
+  },
+  {
+    "english": "verse from the Qur'an",
+    "transliteration": "aaya",
+    "arabic": "آية"
+  },
+  {
+    "english": "verse from the Qur'ans",
+    "transliteration": "aayaat",
+    "arabic": "آيات"
+  },
+  {
+    "english": "profession of faith",
+    "transliteration": "šahaada",
+    "arabic": "شهادة"
+  },
+  {
+    "english": "prayer",
+    "transliteration": "Salaah",
+    "arabic": "صلاة"
+  },
+  {
+    "english": "fasting",
+    "transliteration": "Soom",
+    "arabic": "صوم"
+  },
+  {
+    "english": "alms-giving",
+    "transliteration": "zakaah",
+    "arabic": "زكاة"
+  },
+  {
+    "english": "pilgrimage to Mecca",
+    "transliteration": "Hagg",
+    "arabic": "حج"
+  },
+  {
+    "english": "minor pilgrimage",
+    "transliteration": "3omra",
+    "arabic": "عمرة"
+  },
+  {
+    "english": "permitted by Islam",
+    "transliteration": "Halaal",
+    "arabic": "حلال"
+  },
+  {
+    "english": "forbidden by Islam",
+    "transliteration": "Haraam",
+    "arabic": "حرام"
+  },
+  {
+    "english": "mass",
+    "transliteration": "'oddaas",
+    "arabic": "قداس"
+  },
+  {
+    "english": "masses",
+    "transliteration": "'adadiis",
+    "arabic": "قداديس"
+  },
+  {
+    "english": " saint",
+    "transliteration": "'iddiis",
+    "arabic": "قديس"
+  },
+  {
+    "english": "psalm",
+    "transliteration": "mazmuur",
+    "arabic": "مزمور"
+  },
+  {
+    "english": "psalms",
+    "transliteration": "mazamiir",
+    "arabic": "مزامير"
+  },
+  {
+    "english": "hymn",
+    "transliteration": "tarniima",
+    "arabic": "ترنيمة"
+  },
+  {
+    "english": "hymns",
+    "transliteration": "taraniim",
+    "arabic": "ترانيم"
+  },
+  {
+    "english": "rosary",
+    "transliteration": "misbaHa",
+    "arabic": "مسبحة"
+  },
+  {
+    "english": "rosaries",
+    "transliteration": "masaabiH",
+    "arabic": "مسابح"
+  },
+  {
+    "english": " sermon",
+    "transliteration": "wa3Za",
+    "arabic": "وعظة"
+  },
+  {
+    "english": "feast",
+    "transliteration": "3iid",
+    "arabic": "عيد"
+  },
+  {
+    "english": "feasts",
+    "transliteration": "a3yaad",
+    "arabic": "أعياد"
+  },
+  {
+    "english": "blessing",
+    "transliteration": "baraka",
+    "arabic": "بركة"
+  },
+  {
+    "english": "blessings",
+    "transliteration": "barakaat",
+    "arabic": "بركات"
+  },
+  {
+    "english": "repentance",
+    "transliteration": "tooba",
+    "arabic": "توبة"
+  },
+  {
+    "english": "forgiveness",
+    "transliteration": "ġufraan",
+    "arabic": "غفران"
+  },
+  {
+    "english": "mercy",
+    "transliteration": "raHma",
+    "arabic": "رحمة"
+  },
+  {
+    "english": "fate",
+    "transliteration": "qadr",
+    "arabic": "قدر"
+  },
+  {
+    "english": "fates",
+    "transliteration": "aqdaar",
+    "arabic": "أقدار"
+  },
+  {
+    "english": "morals",
+    "transliteration": "axlaa'",
+    "arabic": "أخلاق"
+  },
+  {
+    "english": "soul",
+    "transliteration": "ruuH",
+    "arabic": "روح"
+  },
+  {
+    "english": "souls",
+    "transliteration": "arwaaH ",
+    "arabic": "أرواح"
+  },
+  {
+    "english": "holy",
+    "transliteration": "mu'addas",
+    "arabic": "مقدس"
+  },
+  {
+    "english": "missionary",
+    "transliteration": "daa3iya",
+    "arabic": "داعية"
+  },
+  {
+    "english": "prosyletization",
+    "transliteration": "da3wa",
+    "arabic": "دعوى"
+  },
+  {
+    "english": "sacrifice ",
+    "transliteration": "DaHiya",
+    "arabic": "ضحية"
+  },
+  {
+    "english": "sacrifice s",
+    "transliteration": "DaHaaya",
+    "arabic": "ضحايا"
+  },
+  {
+    "english": "good",
+    "transliteration": "xeir",
+    "arabic": "خير"
+  },
+  {
+    "english": "evil",
+    "transliteration": "šarr",
+    "arabic": "شر"
+  },
+  {
+    "english": "blasphemy",
+    "transliteration": "tagdiif",
+    "arabic": "تجديف"
+  },
+  {
+    "english": "resurrection",
+    "transliteration": "'iyaama",
+    "arabic": "قيامة"
+  },
+  {
+    "english": "religious",
+    "transliteration": "mutadayyin",
+    "arabic": "متدين"
+  },
+  {
+    "english": "sin ",
+    "transliteration": "zamb",
+    "arabic": "ذنب"
+  },
+  {
+    "english": "sin s",
+    "transliteration": "zunuub",
+    "arabic": "ذنوب"
+  },
+  {
+    "english": "sin",
+    "transliteration": "xaTiyya",
+    "arabic": "خطيئة"
+  },
+  {
+    "english": "sins",
+    "transliteration": "xaTaaya",
+    "arabic": "خطايا"
+  },
+  {
+    "english": "miracle",
+    "transliteration": "mo3giza",
+    "arabic": "معجزة"
+  },
+  {
+    "english": "miracles",
+    "transliteration": "mo3gizaat",
+    "arabic": "معجزات"
+  }
+]

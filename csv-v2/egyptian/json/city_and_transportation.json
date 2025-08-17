@@ -1,0 +1,912 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "city",
+    "transliteration": "madiina",
+    "arabic": "مدينة"
+  },
+  {
+    "english": "cities",
+    "transliteration": "mudun",
+    "arabic": "مدن"
+  },
+  {
+    "english": "street",
+    "transliteration": "šaari3",
+    "arabic": "شارع"
+  },
+  {
+    "english": "streets",
+    "transliteration": "šawaari3",
+    "arabic": "شوارع"
+  },
+  {
+    "english": "road",
+    "transliteration": "Tarii'",
+    "arabic": "طريق"
+  },
+  {
+    "english": "roads",
+    "transliteration": "Turu'",
+    "arabic": "طرق"
+  },
+  {
+    "english": "highway",
+    "transliteration": "Tarii' otostraad",
+    "arabic": "طريق اتوستراد"
+  },
+  {
+    "english": "alley; lane",
+    "transliteration": "Haara",
+    "arabic": "حارة"
+  },
+  {
+    "english": "alley; lanes",
+    "transliteration": "Haaraat",
+    "arabic": "حارات"
+  },
+  {
+    "english": "corner ",
+    "transliteration": "naSya",
+    "arabic": "ناصية"
+  },
+  {
+    "english": "corner s",
+    "transliteration": "nawaaSi",
+    "arabic": "نواصي"
+  },
+  {
+    "english": "corner ",
+    "transliteration": "rukn",
+    "arabic": "ركن"
+  },
+  {
+    "english": "corner s",
+    "transliteration": "arkaan",
+    "arabic": "أركان"
+  },
+  {
+    "english": "tunnel",
+    "transliteration": "nafa'",
+    "arabic": "نفق"
+  },
+  {
+    "english": "tunnels",
+    "transliteration": "anfaa'",
+    "arabic": "انفاق"
+  },
+  {
+    "english": "building",
+    "transliteration": "3omaara",
+    "arabic": "عمارة"
+  },
+  {
+    "english": "buildings",
+    "transliteration": "3omaaraat",
+    "arabic": "عمارات"
+  },
+  {
+    "english": "real estate",
+    "transliteration": "3aqaar",
+    "arabic": "عقار"
+  },
+  {
+    "english": "real estates",
+    "transliteration": "3aqaaraat",
+    "arabic": "عقارات"
+  },
+  {
+    "english": "house",
+    "transliteration": "beit",
+    "arabic": "بيت"
+  },
+  {
+    "english": "houses",
+    "transliteration": "buyuut",
+    "arabic": "بيوت"
+  },
+  {
+    "english": "apartment",
+    "transliteration": "ša''a",
+    "arabic": "شقة"
+  },
+  {
+    "english": "apartments",
+    "transliteration": "šu'a'",
+    "arabic": "شقق"
+  },
+  {
+    "english": "bridge",
+    "transliteration": "kobri",
+    "arabic": "كوبري"
+  },
+  {
+    "english": "bridges",
+    "transliteration": "kabaari",
+    "arabic": "كباري"
+  },
+  {
+    "english": "fence",
+    "transliteration": "suur",
+    "arabic": "سور"
+  },
+  {
+    "english": "fences",
+    "transliteration": "aswaar",
+    "arabic": "أسوار"
+  },
+  {
+    "english": "square",
+    "transliteration": "miidaan",
+    "arabic": "ميدان"
+  },
+  {
+    "english": "squares",
+    "transliteration": "mayadiin",
+    "arabic": "ميادين"
+  },
+  {
+    "english": "company",
+    "transliteration": "širka",
+    "arabic": "شركة"
+  },
+  {
+    "english": "companies",
+    "transliteration": "širakaat",
+    "arabic": "شركات"
+  },
+  {
+    "english": "center",
+    "transliteration": "markaz",
+    "arabic": "مركز"
+  },
+  {
+    "english": "centers",
+    "transliteration": "maraakiz",
+    "arabic": "مراكز"
+  },
+  {
+    "english": "shop",
+    "transliteration": "maHall",
+    "arabic": "محلّ"
+  },
+  {
+    "english": "shops",
+    "transliteration": "maHallaat",
+    "arabic": "محلات"
+  },
+  {
+    "english": "small grocery shop",
+    "transliteration": "bi''aala",
+    "arabic": "بقالة"
+  },
+  {
+    "english": "small grocery shops",
+    "transliteration": "bi''aalaat",
+    "arabic": "بقالات"
+  },
+  {
+    "english": "cafe",
+    "transliteration": "'ahwa",
+    "arabic": "قهوة"
+  },
+  {
+    "english": "cafes",
+    "transliteration": "'ahaawi",
+    "arabic": "قهاوي"
+  },
+  {
+    "english": "club",
+    "transliteration": "naadii",
+    "arabic": "نادي"
+  },
+  {
+    "english": "clubs",
+    "transliteration": "nawaadii",
+    "arabic": "نوادي"
+  },
+  {
+    "english": "bar",
+    "transliteration": "baar",
+    "arabic": "بار"
+  },
+  {
+    "english": "bars",
+    "transliteration": "baraat",
+    "arabic": "بارات"
+  },
+  {
+    "english": "movie theater",
+    "transliteration": "sinima",
+    "arabic": "سينما"
+  },
+  {
+    "english": "movie theaters",
+    "transliteration": "sinimaat",
+    "arabic": "سينمات"
+  },
+  {
+    "english": "theater",
+    "transliteration": "masraH",
+    "arabic": "مسرح"
+  },
+  {
+    "english": "theaters",
+    "transliteration": "masaariH",
+    "arabic": "مسارح"
+  },
+  {
+    "english": "gallery",
+    "transliteration": "ma3riD",
+    "arabic": "معرض"
+  },
+  {
+    "english": "galleries",
+    "transliteration": "ma3aariD",
+    "arabic": "معارض"
+  },
+  {
+    "english": "fair",
+    "transliteration": "mahragaan",
+    "arabic": "مهرجان"
+  },
+  {
+    "english": "fairs",
+    "transliteration": "mahraganaat",
+    "arabic": "مهرجانات"
+  },
+  {
+    "english": "park",
+    "transliteration": "gineina",
+    "arabic": "جنينة"
+  },
+  {
+    "english": "parks",
+    "transliteration": "ganaayin",
+    "arabic": "جناين"
+  },
+  {
+    "english": "bench",
+    "transliteration": "dikka",
+    "arabic": "دكّة"
+  },
+  {
+    "english": "benches",
+    "transliteration": "dikak",
+    "arabic": "دكك"
+  },
+  {
+    "english": "restaurant",
+    "transliteration": "maT3am",
+    "arabic": "مطعم"
+  },
+  {
+    "english": "restaurants",
+    "transliteration": "maTaa3im",
+    "arabic": "مطاعم"
+  },
+  {
+    "english": "school",
+    "transliteration": "madrasa",
+    "arabic": "مدرسة"
+  },
+  {
+    "english": "schools",
+    "transliteration": "madaaris",
+    "arabic": "مدارس"
+  },
+  {
+    "english": "university",
+    "transliteration": "gam3a",
+    "arabic": "جامعة"
+  },
+  {
+    "english": "universities",
+    "transliteration": "gam3aat",
+    "arabic": "جامعات"
+  },
+  {
+    "english": "mosque",
+    "transliteration": "gaami3",
+    "arabic": "جامع"
+  },
+  {
+    "english": "mosques",
+    "transliteration": "gawaami3",
+    "arabic": "جوامع"
+  },
+  {
+    "english": "church",
+    "transliteration": "kiniisa",
+    "arabic": "كنيسة"
+  },
+  {
+    "english": "churches",
+    "transliteration": "kanaayis",
+    "arabic": "كنايس"
+  },
+  {
+    "english": "synagogue",
+    "transliteration": "kaniis",
+    "arabic": "كنيس"
+  },
+  {
+    "english": "temple",
+    "transliteration": "ma3bad",
+    "arabic": "معبد"
+  },
+  {
+    "english": "temples",
+    "transliteration": "ma3aabid",
+    "arabic": "معابد"
+  },
+  {
+    "english": "tower",
+    "transliteration": "burg",
+    "arabic": "برج"
+  },
+  {
+    "english": "towers",
+    "transliteration": "abraag",
+    "arabic": "أبراج"
+  },
+  {
+    "english": "graveyard",
+    "transliteration": "gabbaana",
+    "arabic": "جبّانة"
+  },
+  {
+    "english": "graveyards",
+    "transliteration": "gabbanaat",
+    "arabic": "جبّانات"
+  },
+  {
+    "english": "brick",
+    "transliteration": "Tuub",
+    "arabic": "طوب"
+  },
+  {
+    "english": "tin",
+    "transliteration": "SafiiH",
+    "arabic": "صفيح"
+  },
+  {
+    "english": "tourism",
+    "transliteration": "siyaaHa",
+    "arabic": "سياحة"
+  },
+  {
+    "english": "insurance",
+    "transliteration": "ta'miin",
+    "arabic": "تأمين"
+  },
+  {
+    "english": " exchange",
+    "transliteration": "Siraafa",
+    "arabic": "صرافة"
+  },
+  {
+    "english": "bank",
+    "transliteration": "bank",
+    "arabic": "بنك"
+  },
+  {
+    "english": "banks",
+    "transliteration": "bunuuk",
+    "arabic": "بنوك"
+  },
+  {
+    "english": "ATM",
+    "transliteration": "ATM",
+    "arabic": "آي تي ام"
+  },
+  {
+    "english": "library; bookstore",
+    "transliteration": "maktaba",
+    "arabic": "مكتبة"
+  },
+  {
+    "english": "library; bookstores",
+    "transliteration": "maktabaat",
+    "arabic": "مكتبات"
+  },
+  {
+    "english": "station",
+    "transliteration": "maHaTTa",
+    "arabic": "محطة"
+  },
+  {
+    "english": "stations",
+    "transliteration": "maHaTTaat",
+    "arabic": "محطات"
+  },
+  {
+    "english": "airport",
+    "transliteration": "maTaar",
+    "arabic": "مطار"
+  },
+  {
+    "english": "airports",
+    "transliteration": "maTaaraat",
+    "arabic": "مطارات"
+  },
+  {
+    "english": "hotel",
+    "transliteration": "fundu'",
+    "arabic": "فندق"
+  },
+  {
+    "english": "hotels",
+    "transliteration": "fanaadi'",
+    "arabic": "فنادق"
+  },
+  {
+    "english": "museum",
+    "transliteration": "matHaf",
+    "arabic": "متحف"
+  },
+  {
+    "english": "museums",
+    "transliteration": "mataaHif",
+    "arabic": "متاحف"
+  },
+  {
+    "english": "palace",
+    "transliteration": "'aSr",
+    "arabic": "قصر"
+  },
+  {
+    "english": "palaces",
+    "transliteration": "'uSuur",
+    "arabic": "قصور"
+  },
+  {
+    "english": "citadel",
+    "transliteration": "'al3a",
+    "arabic": "قلعة"
+  },
+  {
+    "english": "citadels",
+    "transliteration": "'uluu3",
+    "arabic": "قلوع"
+  },
+  {
+    "english": "hospital",
+    "transliteration": "mustašfa",
+    "arabic": "مستشفى"
+  },
+  {
+    "english": "hospitals",
+    "transliteration": "mustašfayaat",
+    "arabic": "مستشفيات"
+  },
+  {
+    "english": "clinic",
+    "transliteration": "3iyaada",
+    "arabic": "عيادة"
+  },
+  {
+    "english": "clinics",
+    "transliteration": "3iyaadaat",
+    "arabic": "عيادات"
+  },
+  {
+    "english": "bakery",
+    "transliteration": "maxbaz",
+    "arabic": "مخبز"
+  },
+  {
+    "english": "bakeries",
+    "transliteration": "maxaabiz",
+    "arabic": "مخابز"
+  },
+  {
+    "english": "pharmacy",
+    "transliteration": "Saydaliyya",
+    "arabic": "صيدلية"
+  },
+  {
+    "english": "pharmacies",
+    "transliteration": "Saydaliyyaat",
+    "arabic": "صيدليات"
+  },
+  {
+    "english": "fountain",
+    "transliteration": "nafuura",
+    "arabic": "نافورة"
+  },
+  {
+    "english": "fountains",
+    "transliteration": "nawafiir",
+    "arabic": "نوافير"
+  },
+  {
+    "english": "auditorium",
+    "transliteration": "mudarrag",
+    "arabic": "مدرّج"
+  },
+  {
+    "english": "auditoriums",
+    "transliteration": "mudarragaat",
+    "arabic": "مدرّجات"
+  },
+  {
+    "english": "sidewalk",
+    "transliteration": "raSiif",
+    "arabic": "رصيف"
+  },
+  {
+    "english": "covered in asphalt",
+    "transliteration": "mitsaflit",
+    "arabic": "متسفلت"
+  },
+  {
+    "english": "pothole; speed bump",
+    "transliteration": "maTabb",
+    "arabic": "مطبّ"
+  },
+  {
+    "english": "pothole; speed bumps",
+    "transliteration": "maTabbaat",
+    "arabic": "مطبّات"
+  },
+  {
+    "english": "sewer",
+    "transliteration": "ballaa3a",
+    "arabic": "بلاعة"
+  },
+  {
+    "english": "sewers",
+    "transliteration": "ballaa3aat",
+    "arabic": "بلاعات"
+  },
+  {
+    "english": "sewage",
+    "transliteration": "magaari",
+    "arabic": "مجاري"
+  },
+  {
+    "english": "hole",
+    "transliteration": "Hofra",
+    "arabic": "حفرة"
+  },
+  {
+    "english": "holes",
+    "transliteration": "Hofar",
+    "arabic": "حفر"
+  },
+  {
+    "english": "sign",
+    "transliteration": "yafTa",
+    "arabic": "يافطة"
+  },
+  {
+    "english": "signs",
+    "transliteration": "yufaT",
+    "arabic": "يفط"
+  },
+  {
+    "english": "public transportation",
+    "transliteration": "muwaaSlaat",
+    "arabic": "مواصلات"
+  },
+  {
+    "english": "traffic",
+    "transliteration": "muruur",
+    "arabic": "مرور"
+  },
+  {
+    "english": "crowdedness",
+    "transliteration": "zaHma",
+    "arabic": "زحمة"
+  },
+  {
+    "english": "noise",
+    "transliteration": "dawša",
+    "arabic": "دوشة"
+  },
+  {
+    "english": "pollution",
+    "transliteration": "tilawwas",
+    "arabic": "تلوث"
+  },
+  {
+    "english": "mess",
+    "transliteration": "hargala",
+    "arabic": "هرجلة"
+  },
+  {
+    "english": "trash",
+    "transliteration": "zebaala",
+    "arabic": "زبالة"
+  },
+  {
+    "english": "queue",
+    "transliteration": "Tabuur",
+    "arabic": "طابور"
+  },
+  {
+    "english": "queues",
+    "transliteration": "Tawabiir",
+    "arabic": "طوابير"
+  },
+  {
+    "english": "car",
+    "transliteration": "3arabiyya",
+    "arabic": "عربية"
+  },
+  {
+    "english": "cars",
+    "transliteration": "3arabiyyaat",
+    "arabic": "عربيات"
+  },
+  {
+    "english": "bus",
+    "transliteration": "otobiis",
+    "arabic": "اتوبيس"
+  },
+  {
+    "english": "buses",
+    "transliteration": "otobiisaat",
+    "arabic": "اتوبيسات"
+  },
+  {
+    "english": "bicycle",
+    "transliteration": "3agala",
+    "arabic": "عجلة"
+  },
+  {
+    "english": "bicycles",
+    "transliteration": "3agal",
+    "arabic": "عجل"
+  },
+  {
+    "english": "motorcycle",
+    "transliteration": "motosikl",
+    "arabic": "موتوسيكل"
+  },
+  {
+    "english": "truck",
+    "transliteration": "luuri",
+    "arabic": "لوري"
+  },
+  {
+    "english": "trucks",
+    "transliteration": "luriyyaat",
+    "arabic": "لوريات"
+  },
+  {
+    "english": "taxi",
+    "transliteration": "taksi",
+    "arabic": "تاكسي"
+  },
+  {
+    "english": "taxis",
+    "transliteration": "taksiyaat",
+    "arabic": "تاكسيات"
+  },
+  {
+    "english": "meter",
+    "transliteration": "3addaad",
+    "arabic": "عدّاد"
+  },
+  {
+    "english": "meters",
+    "transliteration": "3addaadaat",
+    "arabic": "عدّادات"
+  },
+  {
+    "english": "tire",
+    "transliteration": "kawitš",
+    "arabic": "كوتش"
+  },
+  {
+    "english": "tires",
+    "transliteration": "kawitšaat",
+    "arabic": "كوتشات"
+  },
+  {
+    "english": "wheel",
+    "transliteration": "3agala",
+    "arabic": "عجلة"
+  },
+  {
+    "english": "wheels",
+    "transliteration": "3agalaat",
+    "arabic": "عجلات"
+  },
+  {
+    "english": "brakes",
+    "transliteration": "faraamil",
+    "arabic": "فرامل"
+  },
+  {
+    "english": "car hood",
+    "transliteration": "kabbuut",
+    "arabic": "كبوت"
+  },
+  {
+    "english": "car hoods",
+    "transliteration": "kababiit",
+    "arabic": "كبابيت"
+  },
+  {
+    "english": "clutch",
+    "transliteration": "dibriyaaž",
+    "arabic": "دبرياج"
+  },
+  {
+    "english": "clutches",
+    "transliteration": "dibriyažaat",
+    "arabic": "دبرياجات"
+  },
+  {
+    "english": "car trunk",
+    "transliteration": "šanTit il-3arabiyya",
+    "arabic": "شنطة العربية"
+  },
+  {
+    "english": "workshop",
+    "transliteration": "warša",
+    "arabic": "ورشة"
+  },
+  {
+    "english": "workshops",
+    "transliteration": "wiraš",
+    "arabic": "ورش"
+  },
+  {
+    "english": "gas",
+    "transliteration": "binziin",
+    "arabic": "بنزين"
+  },
+  {
+    "english": "driver's license",
+    "transliteration": "ruxSit siwaa'a",
+    "arabic": "رخصة سواقة"
+  },
+  {
+    "english": "driver's licenses",
+    "transliteration": "ruxaS qiyaada",
+    "arabic": "رخص قيادة"
+  },
+  {
+    "english": "car horn",
+    "transliteration": "zummaara",
+    "arabic": "زمّارة"
+  },
+  {
+    "english": "car horns",
+    "transliteration": "zamamiir",
+    "arabic": "زمامير"
+  },
+  {
+    "english": "accident",
+    "transliteration": "Hadsa",
+    "arabic": "حادثة"
+  },
+  {
+    "english": "accidents",
+    "transliteration": "Hawaadis",
+    "arabic": "حوادث"
+  },
+  {
+    "english": "driver",
+    "transliteration": "sawwaa'",
+    "arabic": "سوّاق"
+  },
+  {
+    "english": "drivers",
+    "transliteration": "sawwaa'iin",
+    "arabic": "سوّاقين"
+  },
+  {
+    "english": "train",
+    "transliteration": "'aTr",
+    "arabic": "قطر"
+  },
+  {
+    "english": "trains",
+    "transliteration": "'uTura",
+    "arabic": "قطرة"
+  },
+  {
+    "english": "a train/metro pass for a month or several months",
+    "transliteration": "'aboneih",
+    "arabic": "أبونيه"
+  },
+  {
+    "english": "boat",
+    "transliteration": "markab",
+    "arabic": "مركب"
+  },
+  {
+    "english": "boats",
+    "transliteration": "maraakib",
+    "arabic": "مراكب"
+  },
+  {
+    "english": "boat ",
+    "transliteration": "'aarib",
+    "arabic": "قارب"
+  },
+  {
+    "english": "boat s",
+    "transliteration": "'awaarib",
+    "arabic": "قوارب"
+  },
+  {
+    "english": "ship",
+    "transliteration": "safiina",
+    "arabic": "سفينة"
+  },
+  {
+    "english": "ships",
+    "transliteration": "sufun",
+    "arabic": "سفن"
+  },
+  {
+    "english": "liner",
+    "transliteration": "3abbaara",
+    "arabic": "عبّارة"
+  },
+  {
+    "english": "liners",
+    "transliteration": "3abbaaraat",
+    "arabic": "عبّارات"
+  },
+  {
+    "english": "plane",
+    "transliteration": "Tayyaara",
+    "arabic": "طيّارة"
+  },
+  {
+    "english": "planes",
+    "transliteration": "Tayyaaraat",
+    "arabic": "طيّارات"
+  },
+  {
+    "english": "visa",
+    "transliteration": "viiza",
+    "arabic": "فيزا"
+  },
+  {
+    "english": "visas",
+    "transliteration": "viizaat",
+    "arabic": "فيزات"
+  },
+  {
+    "english": "helicopter",
+    "transliteration": "marwaHiyya",
+    "arabic": "مروحية"
+  },
+  {
+    "english": "trip",
+    "transliteration": "riHla",
+    "arabic": "رحلة"
+  },
+  {
+    "english": "trips",
+    "transliteration": "riHalaat",
+    "arabic": "رحلات"
+  },
+  {
+    "english": "to be cancelled ",
+    "transliteration": "itlaġa - yitliġi ",
+    "arabic": "اتلغى - يتلغي "
+  },
+  {
+    "english": "tour",
+    "transliteration": "gawla",
+    "arabic": "جولة"
+  },
+  {
+    "english": "tours",
+    "transliteration": "gawlaat",
+    "arabic": "جولات"
+  }
+]

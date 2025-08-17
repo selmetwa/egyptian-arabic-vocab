@@ -1,0 +1,1072 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "feeling",
+    "transliteration": "ša3r",
+    "arabic": "شعر"
+  },
+  {
+    "english": "feelings",
+    "transliteration": "šu3uur",
+    "arabic": "شعور"
+  },
+  {
+    "english": "emotion",
+    "transliteration": "3aaTif",
+    "arabic": "عاطف"
+  },
+  {
+    "english": "emotions",
+    "transliteration": "3awaaTif",
+    "arabic": "عواطف"
+  },
+  {
+    "english": "emotional or sentimental",
+    "transliteration": "3aaTifi",
+    "arabic": "عاطفي"
+  },
+  {
+    "english": "to hide or repress one's feelings",
+    "transliteration": "katam - yiktim  fi nafsu",
+    "arabic": "كتم - يكتم  في نفسه"
+  },
+  {
+    "english": "passion",
+    "transliteration": "3išq",
+    "arabic": "عشق"
+  },
+  {
+    "english": "love",
+    "transliteration": "Hubb",
+    "arabic": "حبّ"
+  },
+  {
+    "english": "hate",
+    "transliteration": "karaahiyya",
+    "arabic": "كراهية"
+  },
+  {
+    "english": "yearning",
+    "transliteration": "Haniin",
+    "arabic": "حنين"
+  },
+  {
+    "english": "longing",
+    "transliteration": "šooq",
+    "arabic": "شوق"
+  },
+  {
+    "english": "despair",
+    "transliteration": "ya's",
+    "arabic": "يأس"
+  },
+  {
+    "english": "bitterness",
+    "transliteration": "maraara",
+    "arabic": "مرارة"
+  },
+  {
+    "english": "tear",
+    "transliteration": "dam3",
+    "arabic": "دمع"
+  },
+  {
+    "english": "tears",
+    "transliteration": "dumuu3",
+    "arabic": "دموع"
+  },
+  {
+    "english": "smiling ",
+    "transliteration": "bašuuš",
+    "arabic": "بشوش"
+  },
+  {
+    "english": "smiling ",
+    "transliteration": "bašuuš",
+    "arabic": "بشوش"
+  },
+  {
+    "english": "frowning ",
+    "transliteration": "mikaššar",
+    "arabic": "مكشّر"
+  },
+  {
+    "english": "to bellow at",
+    "transliteration": "ga3ar - yig3ar  fi",
+    "arabic": "جعر - يجعر  في"
+  },
+  {
+    "english": "to yell at",
+    "transliteration": "šaxaT - yušxoT  fi",
+    "arabic": "شخط - يشخط  في"
+  },
+  {
+    "english": "to belittle",
+    "transliteration": "hazza' - yihazza' ",
+    "arabic": "هزّأ - يهزّأ "
+  },
+  {
+    "english": "to speak rudely to s.o.",
+    "transliteration": "baggaH - yibaggaH  fi",
+    "arabic": "بجّح - يبجّح  في"
+  },
+  {
+    "english": "to to break off relations with s.o. because of a dispute",
+    "transliteration": "xaaSim - yixaaSim ",
+    "arabic": "خاصم - يخاصم "
+  },
+  {
+    "english": "a public disgrace",
+    "transliteration": "jursa",
+    "arabic": "جرسة"
+  },
+  {
+    "english": "a public disgraces",
+    "transliteration": "juras",
+    "arabic": "جرس"
+  },
+  {
+    "english": "to spread scandal/gossip maliciously",
+    "transliteration": "namm - yinimm ",
+    "arabic": "نم - ينم "
+  },
+  {
+    "english": "scandal-monger",
+    "transliteration": "nammaam",
+    "arabic": "نمام"
+  },
+  {
+    "english": "to excuse and sympathize with",
+    "transliteration": "3azar - yi3zur ",
+    "arabic": "عزر - يعزر "
+  },
+  {
+    "english": " kiss",
+    "transliteration": "qubla",
+    "arabic": "قبلة"
+  },
+  {
+    "english": " kisses",
+    "transliteration": "qubalaat",
+    "arabic": "قبلات"
+  },
+  {
+    "english": "to gasp",
+    "transliteration": "šihi' - \nyišha' ",
+    "arabic": "شهق - يشهق "
+  },
+  {
+    "english": "to moan",
+    "transliteration": "ann - \nya'inn ",
+    "arabic": "أن - يئن "
+  },
+  {
+    "english": " sigh",
+    "transliteration": "tanhiida",
+    "arabic": "تنهيدة"
+  },
+  {
+    "english": " sighs",
+    "transliteration": "tanaahiid",
+    "arabic": "تناهيد"
+  },
+  {
+    "english": "personality",
+    "transliteration": "šaxSiyya",
+    "arabic": "شخصية"
+  },
+  {
+    "english": "personalities",
+    "transliteration": "šaxSiyyaat",
+    "arabic": "شخصيات"
+  },
+  {
+    "english": "happy ",
+    "transliteration": "sa3iid",
+    "arabic": "سعيد"
+  },
+  {
+    "english": "happy s",
+    "transliteration": "su3adaa' ",
+    "arabic": "سعداء "
+  },
+  {
+    "english": "glad",
+    "transliteration": "farHaan ",
+    "arabic": "فرحان\n "
+  },
+  {
+    "english": "delighted ",
+    "transliteration": "masruur ",
+    "arabic": "مسرور \n"
+  },
+  {
+    "english": "cheerful ",
+    "transliteration": "mariH ",
+    "arabic": "مرح \n"
+  },
+  {
+    "english": "proud ",
+    "transliteration": "faxuur\n ",
+    "arabic": "فخور "
+  },
+  {
+    "english": "content",
+    "transliteration": "raaDi",
+    "arabic": "راضي"
+  },
+  {
+    "english": "to be really happy about s.t. or really enjoy it",
+    "transliteration": "insagam - \nyinsigim  min",
+    "arabic": "انسجم - ينسجم  من"
+  },
+  {
+    "english": "very happy/pleased",
+    "transliteration": "munsagim",
+    "arabic": "منسجم"
+  },
+  {
+    "english": "sad ",
+    "transliteration": "Haziin",
+    "arabic": "حزين "
+  },
+  {
+    "english": "sad s",
+    "transliteration": "Hazaana ",
+    "arabic": "حزانة "
+  },
+  {
+    "english": "regretful ",
+    "transliteration": "naadim\n ",
+    "arabic": "نادم "
+  },
+  {
+    "english": "depressed",
+    "transliteration": "mukta'ib",
+    "arabic": "مكتئب"
+  },
+  {
+    "english": "miserable",
+    "transliteration": "ta3iis",
+    "arabic": "تعيس"
+  },
+  {
+    "english": "miserables",
+    "transliteration": "tu3asaa'",
+    "arabic": "تعساء"
+  },
+  {
+    "english": "miserable",
+    "transliteration": "miskiin",
+    "arabic": "مسكين"
+  },
+  {
+    "english": "miserables",
+    "transliteration": "masakiin",
+    "arabic": "مساكين"
+  },
+  {
+    "english": "comfortable",
+    "transliteration": "murtaaH",
+    "arabic": "مرتاح"
+  },
+  {
+    "english": "busy",
+    "transliteration": "mašġuul",
+    "arabic": "مشغول"
+  },
+  {
+    "english": "hopeful ",
+    "transliteration": "3ašmaan ",
+    "arabic": "عشمان "
+  },
+  {
+    "english": "indifferent",
+    "transliteration": "miTanniš",
+    "arabic": "مطنش"
+  },
+  {
+    "english": "worried ",
+    "transliteration": "qalq\n ",
+    "arabic": "قلق  "
+  },
+  {
+    "english": "worries",
+    "transliteration": "humuum\n  hamm",
+    "arabic": "هموم    هم"
+  },
+  {
+    "english": "tense",
+    "transliteration": "mutawattar",
+    "arabic": "متوتر"
+  },
+  {
+    "english": "stressed",
+    "transliteration": "mašduud",
+    "arabic": "مشدود"
+  },
+  {
+    "english": "upset",
+    "transliteration": "za3laan",
+    "arabic": "زعلان"
+  },
+  {
+    "english": "to get upset",
+    "transliteration": "zi3il - yiz3al",
+    "arabic": "زعل - يزعل"
+  },
+  {
+    "english": "annoyed",
+    "transliteration": "mutaDaayiq",
+    "arabic": "متضايق"
+  },
+  {
+    "english": "to irritate s.o.",
+    "transliteration": "ġaaZ - yiġiiZ",
+    "arabic": "غاظ - يغيظ"
+  },
+  {
+    "english": "troublemaker",
+    "transliteration": "mušaaġib",
+    "arabic": "مشاغب"
+  },
+  {
+    "english": "frustrated",
+    "transliteration": "3andu iHbaaT",
+    "arabic": "عنده احباط"
+  },
+  {
+    "english": "fed up with",
+    "transliteration": "maxnuu' min",
+    "arabic": "مخنوق"
+  },
+  {
+    "english": "to get fed up with s.t.",
+    "transliteration": "zihi' - \nyizha' min",
+    "arabic": "زهق - يزهق من"
+  },
+  {
+    "english": "angry ",
+    "transliteration": "ġaaDib ",
+    "arabic": "غاضب "
+  },
+  {
+    "english": "furious ",
+    "transliteration": "maf'uu3 min",
+    "arabic": "مفقوع من"
+  },
+  {
+    "english": "to explode with anger at",
+    "transliteration": "Ta'' - \nyiTa'' min",
+    "arabic": "طقّ - يطقّ من"
+  },
+  {
+    "english": "His blood boiled ",
+    "transliteration": "dammu itHara'",
+    "arabic": "دمه اتحرق"
+  },
+  {
+    "english": "embarrassed",
+    "transliteration": "xajlaan",
+    "arabic": "خجلان"
+  },
+  {
+    "english": "bashful",
+    "transliteration": "xajuul",
+    "arabic": "خجول"
+  },
+  {
+    "english": "sensitive",
+    "transliteration": "Hassaas",
+    "arabic": "حساس"
+  },
+  {
+    "english": "quiet or calm",
+    "transliteration": "haadi'",
+    "arabic": "هادئ"
+  },
+  {
+    "english": "lonely",
+    "transliteration": "waHiid",
+    "arabic": "وحيد"
+  },
+  {
+    "english": "loneliness",
+    "transliteration": "wiHda",
+    "arabic": "وحدة"
+  },
+  {
+    "english": "unfriendly",
+    "transliteration": "minTiwi \n3ala nafsu",
+    "arabic": "منطوي على نفسه"
+  },
+  {
+    "english": "sociable",
+    "transliteration": "ijtimaa3i",
+    "arabic": "اجتماعي"
+  },
+  {
+    "english": "chatterbox ",
+    "transliteration": "raġġaay",
+    "arabic": "رغاي"
+  },
+  {
+    "english": "naughty",
+    "transliteration": "šaqi",
+    "arabic": "شقي"
+  },
+  {
+    "english": "naughties",
+    "transliteration": "ašqiyaa'",
+    "arabic": "اشقياء"
+  },
+  {
+    "english": "reckless",
+    "transliteration": "mutahawwir",
+    "arabic": "متهوّر"
+  },
+  {
+    "english": "amazed",
+    "transliteration": "mundahiš",
+    "arabic": "مندهش"
+  },
+  {
+    "english": "astonished",
+    "transliteration": "mustaġrib",
+    "arabic": "مستغرب"
+  },
+  {
+    "english": "to be taken aback",
+    "transliteration": "ittaaxid - \nyittaaxid/itxadd - yitxadd",
+    "arabic": "اتاخد - يتاخد"
+  },
+  {
+    "english": "shocked",
+    "transliteration": "madhuul",
+    "arabic": "مذهول"
+  },
+  {
+    "english": "to give s.o. a shock",
+    "transliteration": "Sa3a' - \nyiS3a' ",
+    "arabic": "صعق - يصعق "
+  },
+  {
+    "english": "confused ",
+    "transliteration": "Haa'ir ",
+    "arabic": "حائر \n"
+  },
+  {
+    "english": "to confuse",
+    "transliteration": "laxbaT\n - yilaxbaT ",
+    "arabic": "لخبط - يلخبط "
+  },
+  {
+    "english": "hesitant",
+    "transliteration": "mutaraddid",
+    "arabic": "متردّد"
+  },
+  {
+    "english": "firm",
+    "transliteration": "Haazim",
+    "arabic": "حازم"
+  },
+  {
+    "english": "decisive",
+    "transliteration": "Haasim",
+    "arabic": "حاسم"
+  },
+  {
+    "english": "afraid ",
+    "transliteration": "xaa'if\n ",
+    "arabic": "خائف "
+  },
+  {
+    "english": "panic",
+    "transliteration": "du3r",
+    "arabic": "ذعر"
+  },
+  {
+    "english": "jealous ",
+    "transliteration": "ġayuur",
+    "arabic": "غيور"
+  },
+  {
+    "english": "jealous s",
+    "transliteration": "ġuyur ",
+    "arabic": "غير "
+  },
+  {
+    "english": "envious ",
+    "transliteration": "Hasuud",
+    "arabic": "حسود"
+  },
+  {
+    "english": "envious s",
+    "transliteration": "Husud ",
+    "arabic": "حسد\n "
+  },
+  {
+    "english": "disgusted ",
+    "transliteration": "mušma'izz\n min",
+    "arabic": "مشمئز من"
+  },
+  {
+    "english": "confident ",
+    "transliteration": "waatiq\n bi",
+    "arabic": "واثق بـ"
+  },
+  {
+    "english": "tired",
+    "transliteration": "mut3ab",
+    "arabic": "متعب"
+  },
+  {
+    "english": "sleepy",
+    "transliteration": "na3saan",
+    "arabic": "نعسان"
+  },
+  {
+    "english": "stubborn",
+    "transliteration": "3aniid",
+    "arabic": "عنيد"
+  },
+  {
+    "english": "stubborns",
+    "transliteration": "3unud",
+    "arabic": "عند"
+  },
+  {
+    "english": "hard-headed",
+    "transliteration": "raasu našfa",
+    "arabic": "راسه ناشفة"
+  },
+  {
+    "english": "greedy",
+    "transliteration": "Tammaa3",
+    "arabic": "طماع"
+  },
+  {
+    "english": "gluttonous",
+    "transliteration": "faj3aan",
+    "arabic": "فجعان"
+  },
+  {
+    "english": "selfish",
+    "transliteration": "anaani",
+    "arabic": "أناني"
+  },
+  {
+    "english": "selfless",
+    "transliteration": "ġeiri",
+    "arabic": "غيري"
+  },
+  {
+    "english": "generous",
+    "transliteration": "kariim",
+    "arabic": "كريم"
+  },
+  {
+    "english": "generous",
+    "transliteration": "karaam",
+    "arabic": "كرام"
+  },
+  {
+    "english": "spendthrift",
+    "transliteration": "musrif",
+    "arabic": "مسرف"
+  },
+  {
+    "english": "to spend too much money",
+    "transliteration": "farraT\n - yifarraT  fi fluusu",
+    "arabic": "فرّط - يفرّط  في فلوسه"
+  },
+  {
+    "english": "stingy",
+    "transliteration": "baxiil",
+    "arabic": "بخيل"
+  },
+  {
+    "english": "frugal",
+    "transliteration": "muqtaSid",
+    "arabic": "مقتصد"
+  },
+  {
+    "english": "careful",
+    "transliteration": "HariiS",
+    "arabic": "حريص"
+  },
+  {
+    "english": "carefuls",
+    "transliteration": "HuraSa 3ala",
+    "arabic": "حرصاء على"
+  },
+  {
+    "english": "careless",
+    "transliteration": "muhmil",
+    "arabic": "مهمل"
+  },
+  {
+    "english": "affectionate ",
+    "transliteration": "Hanuun ",
+    "arabic": "حنون\n "
+  },
+  {
+    "english": "loving",
+    "transliteration": "muHibb",
+    "arabic": "محبّ"
+  },
+  {
+    "english": "kind",
+    "transliteration": "Tayyib ",
+    "arabic": "طيّب "
+  },
+  {
+    "english": "kind",
+    "transliteration": "šafuuq",
+    "arabic": "شفوق"
+  },
+  {
+    "english": "kinds",
+    "transliteration": "šufa'a",
+    "arabic": "شفقاء"
+  },
+  {
+    "english": "kind",
+    "transliteration": "samH",
+    "arabic": "سمح"
+  },
+  {
+    "english": "nice",
+    "transliteration": "laTiif",
+    "arabic": "لطيف"
+  },
+  {
+    "english": "nices",
+    "transliteration": "liTaaf ",
+    "arabic": "لطاف "
+  },
+  {
+    "english": "pleasant",
+    "transliteration": "Zariif",
+    "arabic": "ظريف"
+  },
+  {
+    "english": "pleasants",
+    "transliteration": "Zurafaa' ",
+    "arabic": "ظرفاء "
+  },
+  {
+    "english": "tolerant",
+    "transliteration": "Haliim",
+    "arabic": "حليم"
+  },
+  {
+    "english": "tolerants",
+    "transliteration": "Hulamaa'",
+    "arabic": "حلماء"
+  },
+  {
+    "english": "gentle",
+    "transliteration": "raqiiq",
+    "arabic": "رقيق"
+  },
+  {
+    "english": "gentles",
+    "transliteration": "ruqaaq",
+    "arabic": "رقاق"
+  },
+  {
+    "english": "polite",
+    "transliteration": "mu'addab",
+    "arabic": "مؤدب"
+  },
+  {
+    "english": "impolite",
+    "transliteration": "ġeir\n mu'addab",
+    "arabic": "غير مؤدب"
+  },
+  {
+    "english": "shameless",
+    "transliteration": "'aliil/3adiim\n il-Haya",
+    "arabic": "قليل \\ عديم الحياء"
+  },
+  {
+    "english": "lazy",
+    "transliteration": "kusuul",
+    "arabic": "كسول"
+  },
+  {
+    "english": "hardworking",
+    "transliteration": "mujtahid",
+    "arabic": "مجتهد"
+  },
+  {
+    "english": "determined",
+    "transliteration": "muSammim",
+    "arabic": "مصمم"
+  },
+  {
+    "english": "alert",
+    "transliteration": "faa'iq",
+    "arabic": "فائق"
+  },
+  {
+    "english": "active",
+    "transliteration": "našiiT",
+    "arabic": "نشيط"
+  },
+  {
+    "english": "actives",
+    "transliteration": "nušaTaa'",
+    "arabic": "نشطاء"
+  },
+  {
+    "english": "picky",
+    "transliteration": "miwaswis",
+    "arabic": "موسوس"
+  },
+  {
+    "english": "fussy",
+    "transliteration": "nimaki",
+    "arabic": "نمكي"
+  },
+  {
+    "english": "irritable",
+    "transliteration": "3aSabi",
+    "arabic": "عصبي"
+  },
+  {
+    "english": "to get on s.o.'s nerves",
+    "transliteration": "narviz\n - yinarviz ",
+    "arabic": "نرفز - ينرفز "
+  },
+  {
+    "english": "brave",
+    "transliteration": "šujaa3",
+    "arabic": "شجاع"
+  },
+  {
+    "english": "braves",
+    "transliteration": "šug3aan",
+    "arabic": ""
+  },
+  {
+    "english": "bold",
+    "transliteration": "jari'",
+    "arabic": "جرئ"
+  },
+  {
+    "english": "bolds",
+    "transliteration": "gura'a",
+    "arabic": ""
+  },
+  {
+    "english": "cowardly",
+    "transliteration": "jabaan",
+    "arabic": "جبان"
+  },
+  {
+    "english": "cowardlies",
+    "transliteration": "jubanaa'",
+    "arabic": "جبناء"
+  },
+  {
+    "english": "curious",
+    "transliteration": "fuDuuli",
+    "arabic": "فضولي"
+  },
+  {
+    "english": "egotistical",
+    "transliteration": "maġruur",
+    "arabic": "مغرور"
+  },
+  {
+    "english": "conceited",
+    "transliteration": "'aliiT",
+    "arabic": "قليط"
+  },
+  {
+    "english": "pompous",
+    "transliteration": "mutakabbir",
+    "arabic": "متكبّر"
+  },
+  {
+    "english": "to make false boasts or claims",
+    "transliteration": "hagaS - yihguS ",
+    "arabic": "هجص - يهجص "
+  },
+  {
+    "english": "to show off",
+    "transliteration": "itmanZar\n - yitmanZar  3ala",
+    "arabic": "اتمنظر - يتمنظر  على"
+  },
+  {
+    "english": "humble",
+    "transliteration": "mutawaaDi3",
+    "arabic": "متواضع"
+  },
+  {
+    "english": "sensible",
+    "transliteration": "3aaqil",
+    "arabic": "عاقل"
+  },
+  {
+    "english": "sensibles",
+    "transliteration": "3uqalaa'",
+    "arabic": "عقلاء"
+  },
+  {
+    "english": "insane",
+    "transliteration": "majnuun",
+    "arabic": "مجنون"
+  },
+  {
+    "english": "insanes",
+    "transliteration": "majaaniin",
+    "arabic": "مجانين"
+  },
+  {
+    "english": "crazy",
+    "transliteration": "mahwuus",
+    "arabic": "مهووس"
+  },
+  {
+    "english": "crazies",
+    "transliteration": "mahawiis",
+    "arabic": "مهاويس"
+  },
+  {
+    "english": "ignorant",
+    "transliteration": "jaahil",
+    "arabic": "جاهل"
+  },
+  {
+    "english": "ignorants",
+    "transliteration": "juhalaa'",
+    "arabic": "جهلاء"
+  },
+  {
+    "english": "petty",
+    "transliteration": "haayif",
+    "arabic": "هايف"
+  },
+  {
+    "english": "stupid",
+    "transliteration": "saxiif",
+    "arabic": "سخيف"
+  },
+  {
+    "english": "stupids",
+    "transliteration": "suxafaa'",
+    "arabic": "سخفاء"
+  },
+  {
+    "english": "stupid",
+    "transliteration": "ġabi",
+    "arabic": "غبي"
+  },
+  {
+    "english": "stupids",
+    "transliteration": "aġbiyaa'",
+    "arabic": "أغبياء"
+  },
+  {
+    "english": "smart",
+    "transliteration": "daki",
+    "arabic": "ذكي"
+  },
+  {
+    "english": "smarts",
+    "transliteration": "adkiyaa'",
+    "arabic": "أذكياء"
+  },
+  {
+    "english": "clever",
+    "transliteration": "šaaTir",
+    "arabic": "شاطر"
+  },
+  {
+    "english": "clevers",
+    "transliteration": "šaaTiruun",
+    "arabic": "شاطرون"
+  },
+  {
+    "english": "smart",
+    "transliteration": "nabiih",
+    "arabic": "نبيه"
+  },
+  {
+    "english": "smarts",
+    "transliteration": "nubahaa'",
+    "arabic": "نبهاء"
+  },
+  {
+    "english": "clever",
+    "transliteration": "naaSiH",
+    "arabic": "ناصح"
+  },
+  {
+    "english": "clevers",
+    "transliteration": "nuSaHa",
+    "arabic": "نصحاء"
+  },
+  {
+    "english": "wise ",
+    "transliteration": "Hakiim",
+    "arabic": "حكيم"
+  },
+  {
+    "english": "wise s",
+    "transliteration": "Hukamaa' ",
+    "arabic": "حكماء "
+  },
+  {
+    "english": "genius",
+    "transliteration": "3abqari",
+    "arabic": "عبقري"
+  },
+  {
+    "english": "geniuses",
+    "transliteration": "3abaaqira",
+    "arabic": "عباقرة"
+  },
+  {
+    "english": "noble",
+    "transliteration": "nabiil",
+    "arabic": "نبيل"
+  },
+  {
+    "english": "nobles",
+    "transliteration": "nubalaa'",
+    "arabic": "نبلاء"
+  },
+  {
+    "english": "honorable",
+    "transliteration": "šariif",
+    "arabic": "شريف"
+  },
+  {
+    "english": "honorables",
+    "transliteration": "šurafaa'",
+    "arabic": "شرفاء"
+  },
+  {
+    "english": "honest",
+    "transliteration": "amiin",
+    "arabic": "أمين"
+  },
+  {
+    "english": "honests",
+    "transliteration": "umanaa' ",
+    "arabic": "أمناء "
+  },
+  {
+    "english": "truthful",
+    "transliteration": "Saadiq",
+    "arabic": "صادق"
+  },
+  {
+    "english": "honest",
+    "transliteration": "naziih",
+    "arabic": "نزيه"
+  },
+  {
+    "english": "honests",
+    "transliteration": "nuzahaa'",
+    "arabic": "نزهاء"
+  },
+  {
+    "english": "straightfoward",
+    "transliteration": "doġri",
+    "arabic": "دغري"
+  },
+  {
+    "english": "liar",
+    "transliteration": "kaddaab",
+    "arabic": "كذاب"
+  },
+  {
+    "english": "treacherous",
+    "transliteration": "ġaddaar",
+    "arabic": "غدار"
+  },
+  {
+    "english": "swindler",
+    "transliteration": "naSSaab",
+    "arabic": "نصاب"
+  },
+  {
+    "english": "someone who tells tall tales",
+    "transliteration": "faššaar",
+    "arabic": "فشار"
+  },
+  {
+    "english": "cunning",
+    "transliteration": "makkaar",
+    "arabic": "مكّار"
+  },
+  {
+    "english": "cruel ",
+    "transliteration": "qaasin",
+    "arabic": "قاس"
+  },
+  {
+    "english": "cruel s",
+    "transliteration": "qusaah ",
+    "arabic": "قساة "
+  },
+  {
+    "english": "sophisticated",
+    "transliteration": "midardaH",
+    "arabic": "مدردح"
+  },
+  {
+    "english": "naive",
+    "transliteration": "saadij",
+    "arabic": "ساذج"
+  },
+  {
+    "english": "naives",
+    "transliteration": "suddaaj",
+    "arabic": "سذاج"
+  },
+  {
+    "english": "optimistic",
+    "transliteration": "mutafaa'il",
+    "arabic": "متفائل"
+  },
+  {
+    "english": "pessimistic",
+    "transliteration": "mutašaa'im",
+    "arabic": "متشائم"
+  },
+  {
+    "english": "unique",
+    "transliteration": "fariid",
+    "arabic": "فريد"
+  },
+  {
+    "english": "fun to be around",
+    "transliteration": "dammu xafiif",
+    "arabic": "دمه خفيف"
+  },
+  {
+    "english": "funny",
+    "transliteration": "muDaHHik",
+    "arabic": "مضحّك"
+  },
+  {
+    "english": "dull",
+    "transliteration": "dammu ti'iil",
+    "arabic": "دمه تقيل"
+  },
+  {
+    "english": "tedious",
+    "transliteration": "baayix/dammu baayix",
+    "arabic": "بايخ \\ دمه بايخ"
+  }
+]

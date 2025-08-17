@@ -1,0 +1,852 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "war",
+    "transliteration": "Harb",
+    "arabic": "حرب"
+  },
+  {
+    "english": "wars",
+    "transliteration": "Huruub ",
+    "arabic": "حروب"
+  },
+  {
+    "english": "civil war",
+    "transliteration": "Harb ahliyya",
+    "arabic": "حرب أهلية"
+  },
+  {
+    "english": "revolution",
+    "transliteration": "tawra",
+    "arabic": "ثورة"
+  },
+  {
+    "english": "revolutions",
+    "transliteration": "tawraat",
+    "arabic": "ثورات"
+  },
+  {
+    "english": "coup",
+    "transliteration": "inqilaab",
+    "arabic": "انقلاب"
+  },
+  {
+    "english": "bloodless coup",
+    "transliteration": "inqilaab abyaD",
+    "arabic": "انقلاب أبيض"
+  },
+  {
+    "english": "conflict",
+    "transliteration": "Siraa3",
+    "arabic": "صراع"
+  },
+  {
+    "english": "strife",
+    "transliteration": "nizaa3",
+    "arabic": "نزاع"
+  },
+  {
+    "english": "fight",
+    "transliteration": "niDaal",
+    "arabic": "نضال"
+  },
+  {
+    "english": "resistance",
+    "transliteration": "muqaawama",
+    "arabic": "مقاومة"
+  },
+  {
+    "english": "insurrection",
+    "transliteration": "3iSyaan",
+    "arabic": "عصيان"
+  },
+  {
+    "english": "rebellion",
+    "transliteration": "tamarrud",
+    "arabic": "تمرّد"
+  },
+  {
+    "english": "military ",
+    "transliteration": "3askari",
+    "arabic": "عسكري"
+  },
+  {
+    "english": "alliance",
+    "transliteration": "Hilf",
+    "arabic": "حلف"
+  },
+  {
+    "english": "alliances",
+    "transliteration": "aHlaaf",
+    "arabic": "أحلاف"
+  },
+  {
+    "english": "ally",
+    "transliteration": "Haliif",
+    "arabic": "حليف"
+  },
+  {
+    "english": "allies",
+    "transliteration": "Hulafaa'",
+    "arabic": "حلفاء"
+  },
+  {
+    "english": "defense ",
+    "transliteration": "difaa3 3an",
+    "arabic": "دفاع عن"
+  },
+  {
+    "english": "pre-emptive strike",
+    "transliteration": "Darba wiqaa'iyya",
+    "arabic": "ضربة وقائية"
+  },
+  {
+    "english": "occupation",
+    "transliteration": "iHtilaal",
+    "arabic": "احتلال"
+  },
+  {
+    "english": "weapon",
+    "transliteration": "silaaH",
+    "arabic": "سلاح"
+  },
+  {
+    "english": "weapons",
+    "transliteration": "asliHa",
+    "arabic": "أسلحة"
+  },
+  {
+    "english": "machine gun",
+    "transliteration": "raššaaš",
+    "arabic": "رشاش"
+  },
+  {
+    "english": "machine guns",
+    "transliteration": "raššaašaat",
+    "arabic": "رشاشات"
+  },
+  {
+    "english": "heavy",
+    "transliteration": "taqiil",
+    "arabic": "ثقيل"
+  },
+  {
+    "english": "light",
+    "transliteration": "xafiif",
+    "arabic": "خفيف"
+  },
+  {
+    "english": "rifle",
+    "transliteration": "bunduqiyya",
+    "arabic": "بندقية"
+  },
+  {
+    "english": "rifles",
+    "transliteration": "banaadiq",
+    "arabic": "بنادق"
+  },
+  {
+    "english": "sniper rifle",
+    "transliteration": "bunduqiyya qannaaSa",
+    "arabic": "بندقية قناصة"
+  },
+  {
+    "english": "pistol",
+    "transliteration": "musaddas",
+    "arabic": "مسدس"
+  },
+  {
+    "english": "pistols",
+    "transliteration": "musaddasaat",
+    "arabic": "مسدسات"
+  },
+  {
+    "english": "sword",
+    "transliteration": "seif",
+    "arabic": "سيف"
+  },
+  {
+    "english": "swords",
+    "transliteration": "suyuuf",
+    "arabic": "سيوف"
+  },
+  {
+    "english": "spear",
+    "transliteration": "rumH",
+    "arabic": "رمح"
+  },
+  {
+    "english": "spears",
+    "transliteration": "rimaaH",
+    "arabic": "رماح"
+  },
+  {
+    "english": "bullet",
+    "transliteration": "raSaaSa",
+    "arabic": "رصاصة"
+  },
+  {
+    "english": "bullets",
+    "transliteration": "ruSuuS",
+    "arabic": "رصوص"
+  },
+  {
+    "english": "rubber bullets",
+    "transliteration": "raSaaS maTTaaTi",
+    "arabic": "رصاص مطاطي"
+  },
+  {
+    "english": "live ammunition",
+    "transliteration": "raSaaS Hayy",
+    "arabic": "رصاص حي"
+  },
+  {
+    "english": "weapons that are not firearms (e.g. knives",
+    "transliteration": "asliHa beiDaa' ",
+    "arabic": "أسلحة بيضاء"
+  },
+  {
+    "english": "baton",
+    "transliteration": "hiraawa",
+    "arabic": "هراوة"
+  },
+  {
+    "english": "batons",
+    "transliteration": "hiraawaat",
+    "arabic": "هراوات"
+  },
+  {
+    "english": "firearm",
+    "transliteration": "silaaH naari",
+    "arabic": "سلاح ناري"
+  },
+  {
+    "english": "medium-range weapons",
+    "transliteration": "asliHa mutawassiTa",
+    "arabic": "أسلحة متوسطة"
+  },
+  {
+    "english": "nuclear weapons",
+    "transliteration": "asliHa nawawiyya",
+    "arabic": "أسلحة نووية"
+  },
+  {
+    "english": "chemical weapons",
+    "transliteration": "asliHa kiimaawiyya",
+    "arabic": "أسلحة كيماوية"
+  },
+  {
+    "english": "atomic bomb",
+    "transliteration": "qunbula darriyya",
+    "arabic": "قنبلة ذرية"
+  },
+  {
+    "english": "smart bomb",
+    "transliteration": "qunbula dakiyya",
+    "arabic": "قنبلة ذكية"
+  },
+  {
+    "english": "cluster bomb",
+    "transliteration": "qunbula 3unquudiyya",
+    "arabic": "قنبلة عنقودية"
+  },
+  {
+    "english": "land mine",
+    "transliteration": "laġam arDi",
+    "arabic": "لغم أرضي"
+  },
+  {
+    "english": "land mines",
+    "transliteration": "alġaam arDiyya",
+    "arabic": "ألغام أرضية"
+  },
+  {
+    "english": "mortar",
+    "transliteration": "haawun",
+    "arabic": "هاون"
+  },
+  {
+    "english": "mortars",
+    "transliteration": "hawaawiin",
+    "arabic": "هواوين"
+  },
+  {
+    "english": "bomb",
+    "transliteration": "qunbula",
+    "arabic": "قنبلة"
+  },
+  {
+    "english": "bombs",
+    "transliteration": "qanaabil",
+    "arabic": "قنابل"
+  },
+  {
+    "english": "Molotov cocktail",
+    "transliteration": "3ubuuwa naasifa",
+    "arabic": "عبوة ناسفة"
+  },
+  {
+    "english": "car bomb",
+    "transliteration": "sayyaara mufaxxaxa",
+    "arabic": "سيارة مفخخة"
+  },
+  {
+    "english": "missile",
+    "transliteration": "qadiifa",
+    "arabic": "قذيفة"
+  },
+  {
+    "english": "missiles",
+    "transliteration": "qadaa'if",
+    "arabic": "قذائف"
+  },
+  {
+    "english": "missile",
+    "transliteration": "Saaruux",
+    "arabic": "صاروخ"
+  },
+  {
+    "english": "missiles",
+    "transliteration": "Sawaariix",
+    "arabic": "صواريخ"
+  },
+  {
+    "english": "bombing",
+    "transliteration": "qaSf",
+    "arabic": "قصف"
+  },
+  {
+    "english": "explosion",
+    "transliteration": "infijaar",
+    "arabic": "انفجار"
+  },
+  {
+    "english": "explosions",
+    "transliteration": "infijaaraat",
+    "arabic": "انفجارات"
+  },
+  {
+    "english": "explosive ",
+    "transliteration": "mutafajjir",
+    "arabic": "متفجر"
+  },
+  {
+    "english": "explosive",
+    "transliteration": "mufarqi3a",
+    "arabic": "مفرقعة"
+  },
+  {
+    "english": "explosives",
+    "transliteration": "mufarqi3aat",
+    "arabic": "مفرقعات"
+  },
+  {
+    "english": "battle",
+    "transliteration": "ma3raka",
+    "arabic": "معركة"
+  },
+  {
+    "english": "battles",
+    "transliteration": "ma3aarik",
+    "arabic": "معارك"
+  },
+  {
+    "english": "clash",
+    "transliteration": "ištibaak",
+    "arabic": "اشتباك"
+  },
+  {
+    "english": "clashes",
+    "transliteration": "ištibaakaat",
+    "arabic": "اشتباكات"
+  },
+  {
+    "english": "attack",
+    "transliteration": "hujuum",
+    "arabic": "هجوم"
+  },
+  {
+    "english": "attack",
+    "transliteration": "i3tidaa'",
+    "arabic": "اعتداء"
+  },
+  {
+    "english": "attacks",
+    "transliteration": "i3tidaa'aat",
+    "arabic": "اعتداءات"
+  },
+  {
+    "english": "ambush",
+    "transliteration": "kamiin",
+    "arabic": "كمين"
+  },
+  {
+    "english": "ambushes",
+    "transliteration": "kumanaa'",
+    "arabic": "كمناء"
+  },
+  {
+    "english": "raid",
+    "transliteration": "ġaara",
+    "arabic": "غارة"
+  },
+  {
+    "english": "raids",
+    "transliteration": "ġaaraat 3ala",
+    "arabic": "غارات على"
+  },
+  {
+    "english": "aggression",
+    "transliteration": "3udwaan 3ala",
+    "arabic": "عدوان على"
+  },
+  {
+    "english": "suicide bombing",
+    "transliteration": "3amaliyya intiHaariyya",
+    "arabic": "عملية انتحارية"
+  },
+  {
+    "english": "siege",
+    "transliteration": "HiSaar",
+    "arabic": "حصار"
+  },
+  {
+    "english": "invasion",
+    "transliteration": "ġazw",
+    "arabic": "غزو"
+  },
+  {
+    "english": "incursion",
+    "transliteration": "tawaġġul fi",
+    "arabic": "توغل في"
+  },
+  {
+    "english": "injury",
+    "transliteration": "jurH",
+    "arabic": "جرح"
+  },
+  {
+    "english": "injuries",
+    "transliteration": "jiraaH",
+    "arabic": "جراح"
+  },
+  {
+    "english": "injured",
+    "transliteration": "jariiH",
+    "arabic": "جريح"
+  },
+  {
+    "english": "injureds",
+    "transliteration": "jarHa",
+    "arabic": "جرحى"
+  },
+  {
+    "english": "killed",
+    "transliteration": "qatiil",
+    "arabic": "قتيل"
+  },
+  {
+    "english": "killeds",
+    "transliteration": "qatla",
+    "arabic": "قتلى"
+  },
+  {
+    "english": "to meet one's death",
+    "transliteration": "laqiya Hatfahu/maSra3ahu",
+    "arabic": "لقى حتفه | مصرعه"
+  },
+  {
+    "english": "death",
+    "transliteration": "wafaah/moot/Hatf/maSra3",
+    "arabic": "وفاة | موت | حتف | مصرع"
+  },
+  {
+    "english": "victim",
+    "transliteration": "DaHiyya",
+    "arabic": "ضحية"
+  },
+  {
+    "english": "victims",
+    "transliteration": "DaHaaya",
+    "arabic": "ضحايا"
+  },
+  {
+    "english": "martyr",
+    "transliteration": "šahiid",
+    "arabic": "شهيد"
+  },
+  {
+    "english": "martyrs",
+    "transliteration": "šuhadaa'",
+    "arabic": "شهداء"
+  },
+  {
+    "english": "civilian",
+    "transliteration": "madani",
+    "arabic": "مدني"
+  },
+  {
+    "english": "civilians",
+    "transliteration": "madaniyuun",
+    "arabic": "مدنيون"
+  },
+  {
+    "english": "innocent",
+    "transliteration": "bari'",
+    "arabic": "برئ"
+  },
+  {
+    "english": "innocents",
+    "transliteration": "abriyaa'",
+    "arabic": "أبرياء"
+  },
+  {
+    "english": "unarmed",
+    "transliteration": "a3zal",
+    "arabic": "أعزل"
+  },
+  {
+    "english": "unarmeds",
+    "transliteration": "3uzl",
+    "arabic": "عزل"
+  },
+  {
+    "english": "corpse",
+    "transliteration": "jutta",
+    "arabic": "جثة"
+  },
+  {
+    "english": "corpses",
+    "transliteration": "jutat",
+    "arabic": "جثث"
+  },
+  {
+    "english": "funeral",
+    "transliteration": "janaaza",
+    "arabic": "جنازة"
+  },
+  {
+    "english": "funerals",
+    "transliteration": "janaazaat",
+    "arabic": "جنازات"
+  },
+  {
+    "english": "graveyard",
+    "transliteration": "jabbaana",
+    "arabic": "جبانة"
+  },
+  {
+    "english": "graveyards",
+    "transliteration": "jabbaanaat",
+    "arabic": "جبانات"
+  },
+  {
+    "english": "grave",
+    "transliteration": "qabr",
+    "arabic": "قبر"
+  },
+  {
+    "english": "graves",
+    "transliteration": "qubuur",
+    "arabic": "قبور"
+  },
+  {
+    "english": "deceased",
+    "transliteration": "marHuum",
+    "arabic": "مرحوم"
+  },
+  {
+    "english": "late lamented",
+    "transliteration": "ma'suuf",
+    "arabic": "مأسوف"
+  },
+  {
+    "english": "departed ",
+    "transliteration": "raaHil",
+    "arabic": "راحل"
+  },
+  {
+    "english": "army",
+    "transliteration": "jeiš",
+    "arabic": "جيش"
+  },
+  {
+    "english": "armies",
+    "transliteration": "juyuuš",
+    "arabic": "جيوش"
+  },
+  {
+    "english": " forces",
+    "transliteration": "quwwaat musallaHa",
+    "arabic": "قوات "
+  },
+  {
+    "english": "air force",
+    "transliteration": "quwwaat jawwiyya",
+    "arabic": "قوات جوية"
+  },
+  {
+    "english": "regiment",
+    "transliteration": "fawj",
+    "arabic": "فوج"
+  },
+  {
+    "english": "regiments",
+    "transliteration": "afwaaj",
+    "arabic": "أفواج"
+  },
+  {
+    "english": "tank",
+    "transliteration": "dabbaaba",
+    "arabic": "دبابة"
+  },
+  {
+    "english": "tanks",
+    "transliteration": "dabbaabaat",
+    "arabic": "دبابات"
+  },
+  {
+    "english": "armored car",
+    "transliteration": "mudarra3a",
+    "arabic": "مدرّعة"
+  },
+  {
+    "english": "armored cars",
+    "transliteration": "mudarra3aat",
+    "arabic": "مدرّعات"
+  },
+  {
+    "english": "gunman",
+    "transliteration": "musallaH",
+    "arabic": "مسلح"
+  },
+  {
+    "english": "gunmen",
+    "transliteration": "musallaHuun",
+    "arabic": "مسلحون"
+  },
+  {
+    "english": "rank",
+    "transliteration": "rutba",
+    "arabic": "رتبة"
+  },
+  {
+    "english": "ranks",
+    "transliteration": "rutab",
+    "arabic": "رتب"
+  },
+  {
+    "english": "soldier",
+    "transliteration": "jundi",
+    "arabic": "جندي"
+  },
+  {
+    "english": "soldiers",
+    "transliteration": "junuud",
+    "arabic": "جنود"
+  },
+  {
+    "english": "officer",
+    "transliteration": "DaabiT",
+    "arabic": "ضابط"
+  },
+  {
+    "english": "officers",
+    "transliteration": "DubbaaT",
+    "arabic": "ضباط"
+  },
+  {
+    "english": "sniper",
+    "transliteration": "qannaaS",
+    "arabic": "قناص"
+  },
+  {
+    "english": "snipers",
+    "transliteration": "qanaaSa",
+    "arabic": "قناصة"
+  },
+  {
+    "english": "commando",
+    "transliteration": "miġwaar",
+    "arabic": "مغوار"
+  },
+  {
+    "english": "commandos",
+    "transliteration": "maġaawiir",
+    "arabic": "مغاوير"
+  },
+  {
+    "english": "private",
+    "transliteration": "3askari",
+    "arabic": "عسكري"
+  },
+  {
+    "english": "corporal",
+    "transliteration": "3ariif",
+    "arabic": "عريف"
+  },
+  {
+    "english": "sergeant",
+    "transliteration": "raqiib",
+    "arabic": "رقيب"
+  },
+  {
+    "english": "lieutenant",
+    "transliteration": "mulaazim",
+    "arabic": "ملازم"
+  },
+  {
+    "english": "major",
+    "transliteration": "raa'id",
+    "arabic": "رائد"
+  },
+  {
+    "english": "colonel",
+    "transliteration": "3aqiid",
+    "arabic": "عقيد"
+  },
+  {
+    "english": "brigadier general",
+    "transliteration": "3amiid",
+    "arabic": "عميد"
+  },
+  {
+    "english": "general",
+    "transliteration": "liwaa'",
+    "arabic": "لواء"
+  },
+  {
+    "english": "enemy",
+    "transliteration": "3aduuww",
+    "arabic": "عدو"
+  },
+  {
+    "english": "enemies",
+    "transliteration": "a3daa'",
+    "arabic": "أعداء"
+  },
+  {
+    "english": "defeat",
+    "transliteration": "haziima",
+    "arabic": "هزيمة"
+  },
+  {
+    "english": "defeats",
+    "transliteration": "hazaa'im",
+    "arabic": "هزائم"
+  },
+  {
+    "english": "loss",
+    "transliteration": "xusaara",
+    "arabic": "خسارة"
+  },
+  {
+    "english": "victory",
+    "transliteration": "naSr",
+    "arabic": "نصر"
+  },
+  {
+    "english": "victory",
+    "transliteration": "intiSaar",
+    "arabic": "انتصار"
+  },
+  {
+    "english": "victories",
+    "transliteration": "intiSaaraat",
+    "arabic": "انتصارات"
+  },
+  {
+    "english": "treaty; charter",
+    "transliteration": "miitaaq",
+    "arabic": "ميثاق"
+  },
+  {
+    "english": "treaty; charters",
+    "transliteration": "mawaatiiq",
+    "arabic": "مواثيق"
+  },
+  {
+    "english": "treaty",
+    "transliteration": "mu3aahada",
+    "arabic": "معاهدة"
+  },
+  {
+    "english": "treaties",
+    "transliteration": "mu3aahadaat",
+    "arabic": "معاهدات"
+  },
+  {
+    "english": "treaty; agreement",
+    "transliteration": "ittifaaqiyya",
+    "arabic": "اتفاقية"
+  },
+  {
+    "english": "treaty; agreements",
+    "transliteration": "ittifaaqiyyaat",
+    "arabic": "اتفاقيات"
+  },
+  {
+    "english": "agreement",
+    "transliteration": "ittifaaq",
+    "arabic": "اتفاق"
+  },
+  {
+    "english": "agreements",
+    "transliteration": "ittifaaqaat",
+    "arabic": "اتفاقات"
+  },
+  {
+    "english": "armistice",
+    "transliteration": "hudna",
+    "arabic": "هدنة"
+  },
+  {
+    "english": "armistices",
+    "transliteration": "hudanaat",
+    "arabic": "هدنات"
+  },
+  {
+    "english": "solution",
+    "transliteration": "Hall",
+    "arabic": "حل"
+  },
+  {
+    "english": "solutions",
+    "transliteration": "Huluul",
+    "arabic": "حلول"
+  },
+  {
+    "english": "compromise",
+    "transliteration": "Hall wasaT",
+    "arabic": "حل وسط"
+  },
+  {
+    "english": "negotiations",
+    "transliteration": "mufaawaDaat",
+    "arabic": "مفاوضات"
+  },
+  {
+    "english": "talks",
+    "transliteration": "muHaadataat",
+    "arabic": "محادثات"
+  },
+  {
+    "english": "dialogue",
+    "transliteration": "Hiwaar",
+    "arabic": "حوار"
+  },
+  {
+    "english": "mediator",
+    "transliteration": "wasiiT",
+    "arabic": "وسيط"
+  },
+  {
+    "english": "mediators",
+    "transliteration": "wusaTaa'",
+    "arabic": "وسطاء"
+  }
+]

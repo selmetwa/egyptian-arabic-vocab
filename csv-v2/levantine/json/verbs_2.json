@@ -1,0 +1,776 @@
+[
+  {
+    "english": "to abandon, desert",
+    "transliteration": "hájar, yíhjur",
+    "arabic": "هجر، يِهْجُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-1.mp3"
+  },
+  {
+    "english": "to accept",
+    "transliteration": "ʔíbil, yíʔbal",
+    "arabic": "قِبِل، يِقْبل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-2.mp3"
+  },
+  {
+    "english": "to accompany",
+    "transliteration": "rāɧ ma3, yrūɧ ma3",
+    "arabic": "راح مع، يْروح مع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-3.mp3"
+  },
+  {
+    "english": "to accompany",
+    "transliteration": "ijā ma3, yíji ma3",
+    "arabic": "إجا مع، يِجي مع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-4.mp3"
+  },
+  {
+    "english": "to adjust; fix",
+    "transliteration": "ʐábbaʈ, yʐábbiʈ",
+    "arabic": "ظبّط، يْظبِّط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-5.mp3"
+  },
+  {
+    "english": "to admit",
+    "transliteration": "3táraf, yí3tirif",
+    "arabic": "عْترف، يِعْتِرِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-6.mp3"
+  },
+  {
+    "english": "to advise, recommend",
+    "transliteration": "náʂaɧ, yínʂaɧ",
+    "arabic": "نصح، يِنْصح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-7.mp3"
+  },
+  {
+    "english": "to affect",
+    "transliteration": "ássar 3ála, yʔássir 3ála",
+    "arabic": "أثّر على، يْأثِّر على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-8.mp3"
+  },
+  {
+    "english": "to allow",
+    "transliteration": "xálla, yxálli",
+    "arabic": "خلّا، يْخلّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-9.mp3"
+  },
+  {
+    "english": "to allow",
+    "transliteration": "sámaɧ, yísmaɧ",
+    "arabic": "سمح، يِسْمح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-10.mp3"
+  },
+  {
+    "english": "to answer, respond, reply",
+    "transliteration": "radd 3ála, yridd 3ála",
+    "arabic": "ردّ على، يْرِدّ على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-11.mp3"
+  },
+  {
+    "english": "to answer, respond, reply",
+    "transliteration": "jēwab 3ála, yjēwib 3ála",
+    "arabic": "جاوَب على، يْجاوِب على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-12.mp3"
+  },
+  {
+    "english": "to apologize for",
+    "transliteration": "3tázar 3ála, yi3tízir 3ála",
+    "arabic": "عْتذر على، يِعْتِذِر على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-13.mp3"
+  },
+  {
+    "english": "to appear",
+    "transliteration": "báyyan, ybáyyin",
+    "arabic": "بيَّن، يْبيِّن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-14.mp3"
+  },
+  {
+    "english": "to appreciate",
+    "transliteration": "ʔáddar, yʔáddir",
+    "arabic": "قدّر، يْقدِّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-15.mp3"
+  },
+  {
+    "english": "to approve of",
+    "transliteration": "wēfaʔ, ywēfiʔ",
+    "arabic": "وافق، يْوافِق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-16.mp3"
+  },
+  {
+    "english": "to arrange, organize",
+    "transliteration": "náʐʐam, ynáʐʐim",
+    "arabic": "نظّم، يْنظِّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-17.mp3"
+  },
+  {
+    "english": "to ask",
+    "transliteration": "sáʔal, yísʔal",
+    "arabic": "سأل، يِسْأل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-18.mp3"
+  },
+  {
+    "english": "to attend; watch, view",
+    "transliteration": "ɧúɖir, yíɧɖar",
+    "arabic": "حُضِر، يِحْضر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-19.mp3"
+  },
+  {
+    "english": "to be",
+    "transliteration": "kēn, ykūn",
+    "arabic": "كان، يْكون",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-20.mp3"
+  },
+  {
+    "english": "to be able to, can",
+    "transliteration": "ʔídir, yíʔdir",
+    "arabic": "قِدِر، يِقْدِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-21.mp3"
+  },
+  {
+    "english": "to be able to, can",
+    "transliteration": "3írif, yá3rif",
+    "arabic": "عِرِف، يَعْرِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-22.mp3"
+  },
+  {
+    "english": "Can you swim?",
+    "transliteration": "btá3rif tísbaɧ?",
+    "arabic": "بْتعْرِف تِسْبح؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-23.mp3"
+  },
+  {
+    "english": "I can’t understand a word you said.",
+    "transliteration": "mā fhímit šī min yálli ʔíltu.",
+    "arabic": "ما فْهِمِت شي مِن يَلّي قِلْتو.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-24.mp3"
+  },
+  {
+    "english": "to become, be; to happen",
+    "transliteration": "ʂār, yʂīr",
+    "arabic": "صار، يْصير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-25.mp3"
+  },
+  {
+    "english": "to beg, plead",
+    "transliteration": "trájja, yitrájja",
+    "arabic": "تْرجّى، يِتْرجّى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-26.mp3"
+  },
+  {
+    "english": "to begin, start",
+    "transliteration": "bállaš, ybálliš",
+    "arabic": "بلّش، يْبلِّش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-27.mp3"
+  },
+  {
+    "english": "to behave",
+    "transliteration": "tʔáddab, yitʔáddab",
+    "arabic": "تْأدّب، يِتْأدّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-28.mp3"
+  },
+  {
+    "english": "to bet",
+    "transliteration": "rāhan, yrāhin",
+    "arabic": "راهن، يْراهِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-29.mp3"
+  },
+  {
+    "english": "to blame __ for",
+    "transliteration": "lām __ 3ála, ylūm __ 3ála",
+    "arabic": "لام __ على، يْلوم __ على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-30.mp3"
+  },
+  {
+    "english": "to bother, disturb",
+    "transliteration": "ɖāyaʔ, yɖāyiʔ",
+    "arabic": "ضايَق، يْضايِق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-31.mp3"
+  },
+  {
+    "english": "to break",
+    "transliteration": "kásar, yíksur",
+    "arabic": "كسر، يِكْسُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-32.mp3"
+  },
+  {
+    "english": "to bring, get",
+    "transliteration": "jāb, yjīb",
+    "arabic": "جاب، يْجيب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-33.mp3"
+  },
+  {
+    "english": "to burn",
+    "transliteration": "ɧáraʔ, yíɧruʔ",
+    "arabic": "حرق، يِحْرُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-34.mp3"
+  },
+  {
+    "english": "to care",
+    "transliteration": "htamm, yihtámm",
+    "arabic": "هْتمّ، يِهْتمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-35.mp3"
+  },
+  {
+    "english": "to carry, lift, pick up",
+    "transliteration": "ɧímil, yíɧmul",
+    "arabic": "حِمِل، يِحْمُل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-36.mp3"
+  },
+  {
+    "english": "She carried the box to the kitchen.",
+    "transliteration": "ɧímlit iʂʂandūʔ íla lmáʈbax.",
+    "arabic": "حِمْلِت الصّنْدوق اِلى المطْبخ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-37.mp3"
+  },
+  {
+    "english": "He lifted the child up.",
+    "transliteration": "ɧímil ilwálad.",
+    "arabic": "حِمِل الوَلد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-38.mp3"
+  },
+  {
+    "english": "to change (something)",
+    "transliteration": "ɣáyyar, yɣáyyir",
+    "arabic": "غيَّر، يْغيِّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-39.mp3"
+  },
+  {
+    "english": "to change (become different)",
+    "transliteration": "tɣáyyar, yitɣáyyar",
+    "arabic": "تْغيَّر، يِتْغيَّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-40.mp3"
+  },
+  {
+    "english": "to chase, pursue",
+    "transliteration": "lāɧaʔ, ylāɧiʔ",
+    "arabic": "لاحق، يْلاحِق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-41.mp3"
+  },
+  {
+    "english": "to cheat, deceive",
+    "transliteration": "ɣašš, yɣišš",
+    "arabic": "غشّ، يْغِشّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-42.mp3"
+  },
+  {
+    "english": "to cheer, encourage",
+    "transliteration": "šájja3, yšájji3",
+    "arabic": "شجّع، يْشجِّع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-43.mp3"
+  },
+  {
+    "english": "to choose",
+    "transliteration": "ixtār, yixtār",
+    "arabic": "خْتار، يِخْتار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-44.mp3"
+  },
+  {
+    "english": "to climb, ascend, go up",
+    "transliteration": "ʈúli3, yúʈla3",
+    "arabic": "طُلِع، يِطْلع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-45.mp3"
+  },
+  {
+    "english": "to close, lock",
+    "transliteration": "ʔáfal, yíʔful",
+    "arabic": "قفل، يِقْفُل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-46.mp3"
+  },
+  {
+    "english": "to come",
+    "transliteration": "ijā, yíji",
+    "arabic": "إجا، يِجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-47.mp3"
+  },
+  {
+    "english": "to compare",
+    "transliteration": "ʔāran, yʔārin",
+    "arabic": "قارن، يْقارِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-48.mp3"
+  },
+  {
+    "english": "to contact",
+    "transliteration": "ttáʂal bi-, yuttúʂil bi-",
+    "arabic": "تّصل بْـ، يُتُّصِل بْـ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-49.mp3"
+  },
+  {
+    "english": "to continue",
+    "transliteration": "kámmal, ykámmil",
+    "arabic": "كمّل، يْكمِّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-50.mp3"
+  },
+  {
+    "english": "to cut",
+    "transliteration": "ʔaʂʂ, yʔuʂʂ",
+    "arabic": "قصّ، يْقُصّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-51.mp3"
+  },
+  {
+    "english": "to decline",
+    "transliteration": "ráfaɖ, yírfuɖ",
+    "arabic": "رفض، يِرْفُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-52.mp3"
+  },
+  {
+    "english": "to decrease, reduce",
+    "transliteration": "ʔall, yʔill",
+    "arabic": "قلّ، يْقِلّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-53.mp3"
+  },
+  {
+    "english": "to demand",
+    "transliteration": "ʈálab, yúʈlub",
+    "arabic": "طلب، يُِطْلُب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-54.mp3"
+  },
+  {
+    "english": "to deny",
+    "transliteration": "ánkar, yínkur",
+    "arabic": "أنْكر، يِنْكُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-55.mp3"
+  },
+  {
+    "english": "to descend, go down",
+    "transliteration": "nízil, yínzal",
+    "arabic": "نِزِل، يِنْزل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-56.mp3"
+  },
+  {
+    "english": "to describe",
+    "transliteration": "wáʂaf, yūʂuf",
+    "arabic": "وَصف، يوصُف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-57.mp3"
+  },
+  {
+    "english": "to design",
+    "transliteration": "ʂámmam, yʂámmim",
+    "arabic": "صمّم، يْصمِّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-58.mp3"
+  },
+  {
+    "english": "to differ",
+    "transliteration": "xtálaf, yíxtilif",
+    "arabic": "خْتلف، يِخْتِلِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-59.mp3"
+  },
+  {
+    "english": "to disappear",
+    "transliteration": "xtáfa, yíxtifi",
+    "arabic": "خْتفى، يِخْتِفي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-60.mp3"
+  },
+  {
+    "english": "to do, make",
+    "transliteration": "3ímil, yá3mil",
+    "arabic": "عِمِل، يَعْمِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-61.mp3"
+  },
+  {
+    "english": "to drop",
+    "transliteration": "wáʔʔa3, ywáʔʔi3",
+    "arabic": "وَقّع، يْوَقِّع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-62.mp3"
+  },
+  {
+    "english": "He dropped his book.",
+    "transliteration": "wáʔʔa3 ktēbu.",
+    "arabic": "وَقّع كْتابو.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-63.mp3"
+  },
+  {
+    "english": "to edit, correct",
+    "transliteration": "ʂállaɧ, yʂálliɧ",
+    "arabic": "صلّح، يِصلِّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-64.mp3"
+  },
+  {
+    "english": "to express",
+    "transliteration": "3ábbar 3an, y3ábbir 3an",
+    "arabic": "عبّر عن، يْعبِّر عن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-65.mp3"
+  },
+  {
+    "english": "to fall",
+    "transliteration": "wáʔa3, yūʔa3",
+    "arabic": "وَقع، يوقع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-66.mp3"
+  },
+  {
+    "english": "to find",
+    "transliteration": "lēʔa, ylēʔi",
+    "arabic": "لاقى، يْلاقي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-67.mp3"
+  },
+  {
+    "english": "to finish, come to an end",
+    "transliteration": "xúliʂ, yíxlaʂ",
+    "arabic": "خُلِص، يِخْلص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-67b.mp3"
+  },
+  {
+    "english": "to finish, end, complete, accomplish",
+    "transliteration": "xállaʂ, yxálliʂ",
+    "arabic": "خلّص، يِخلِّص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-68.mp3"
+  },
+  {
+    "english": "to float",
+    "transliteration": "ʈáfa, yúʈfu",
+    "arabic": "طفا، يُطْفو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-69.mp3"
+  },
+  {
+    "english": "The ball is floating in the water.",
+    "transliteration": "ʈʈābi 3am tíʈfu 3a sáʈiɧ ilmāy.",
+    "arabic": "الطّابِة عم تُطْفي ع سطِح الماي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-70.mp3"
+  },
+  {
+    "english": "to get, take, receive, obtain; pick up, grab",
+    "transliteration": "áxad, yēxud",
+    "arabic": "أخد، ياخُد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-71.mp3"
+  },
+  {
+    "english": "He picked the book up from the table.",
+    "transliteration": "áxad liktēb 3an iʈʈāwli.",
+    "arabic": "أخد الِكْتاب عن الطّاوْلِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-72.mp3"
+  },
+  {
+    "english": "to give",
+    "transliteration": "3áʈa, yá3ʈi",
+    "arabic": "عطى، يَعْطي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-73.mp3"
+  },
+  {
+    "english": "to go",
+    "transliteration": "rāɧ, yrūɧ",
+    "arabic": "راح، يروح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-74.mp3"
+  },
+  {
+    "english": "to have",
+    "transliteration": "kēn 3índu, 3índu",
+    "arabic": "كان عِنْدو، عِنْدو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-75.mp3"
+  },
+  {
+    "english": "to help",
+    "transliteration": "sē3ad, ysē3id",
+    "arabic": "ساعد، يْساعِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-76.mp3"
+  },
+  {
+    "english": "to hit",
+    "transliteration": "ɖárab, yíɖrub",
+    "arabic": "ضرب، يِضْرُب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-77.mp3"
+  },
+  {
+    "english": "to imagine",
+    "transliteration": "txáyyal, yitxáyyal",
+    "arabic": "تْخيَّل، يِتْخيَّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-78.mp3"
+  },
+  {
+    "english": "to intend to",
+    "transliteration": "náwa, yínwi",
+    "arabic": "نَوى، يِنْوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-79.mp3"
+  },
+  {
+    "english": "I intend to succeed at my job.",
+    "transliteration": "ána nēwi ínjaɧ b-šíɣli.",
+    "arabic": "أنا ناوي إنْجح بْشِغْلي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-80.mp3"
+  },
+  {
+    "english": "to jump",
+    "transliteration": "naʈʈ, ynuʈʈ",
+    "arabic": "نطّ، يْنُطّ",
+    "audioUrl": ""
+  },
+  {
+    "english": "to leave; quit",
+    "transliteration": "tárak, yítruk",
+    "arabic": "ترك، يِتْرُك",
+    "audioUrl": ""
+  },
+  {
+    "english": "to lie",
+    "transliteration": "kázzab, ykázzib",
+    "arabic": "كزّب، يْكزِّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-83.mp3"
+  },
+  {
+    "english": "to look",
+    "transliteration": "šēf, yšūf",
+    "arabic": "شاف، يْشوف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-84.mp3"
+  },
+  {
+    "english": "to look",
+    "transliteration": "ʈʈálla3, yiʈʈálla3",
+    "arabic": "تْطلّع، يِتْطلّع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-85.mp3"
+  },
+  {
+    "english": "to lose",
+    "transliteration": "xúsir, yíxsar",
+    "arabic": "خُسِر، يِخْسر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-86.mp3"
+  },
+  {
+    "english": "to mean",
+    "transliteration": "ʔáʂad, yíʔʂud",
+    "arabic": "قصد، يِقْصُد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-87.mp3"
+  },
+  {
+    "english": "to move",
+    "transliteration": "tɧárrak, yitɧárrak",
+    "arabic": "تْحرّك، يِتْحرّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-88.mp3"
+  },
+  {
+    "english": "to move (something)",
+    "transliteration": "ɧárrak, yɧárrik",
+    "arabic": "حرّك، يْحرِّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-89.mp3"
+  },
+  {
+    "english": "I can’t move my leg!",
+    "transliteration": "mánni ʔādir ɧárrik íjri.",
+    "arabic": "منّي قادِر حرِّك إجْري.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-90.mp3"
+  },
+  {
+    "english": "to offer",
+    "transliteration": "3áraɖ, yú3ruɖ",
+    "arabic": "عرض، يُعْرُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-91.mp3"
+  },
+  {
+    "english": "to open",
+    "transliteration": "fátaɧ, yíftaɧ",
+    "arabic": "فتح، يِفْتح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-92.mp3"
+  },
+  {
+    "english": "to order, command",
+    "transliteration": "ámir, yíʔmur",
+    "arabic": "أمر، يِأْمُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-93.mp3"
+  },
+  {
+    "english": "to order, request",
+    "transliteration": "ʈálab, yúʈlub",
+    "arabic": "طلب، يُطْلُب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-94.mp3"
+  },
+  {
+    "english": "to pass, go past",
+    "transliteration": "máraʔ, yímruʔ",
+    "arabic": "مرق، يِمْرُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-95.mp3"
+  },
+  {
+    "english": "to pay",
+    "transliteration": "dáfa3, yídfa3",
+    "arabic": "دفع، يِدْفع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-96.mp3"
+  },
+  {
+    "english": "to play",
+    "transliteration": "lí3ib, yíl3ab",
+    "arabic": "لِعِب، يِلْعب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-97.mp3"
+  },
+  {
+    "english": "to prepare",
+    "transliteration": "ɧáɖɖar, yɧáɖɖir",
+    "arabic": "حضّر، يْحضِّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-98.mp3"
+  },
+  {
+    "english": "to prohibit",
+    "transliteration": "mána3, yímna3",
+    "arabic": "منع، يِمْنع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-99.mp3"
+  },
+  {
+    "english": "to punish",
+    "transliteration": "jēza, yjēzi",
+    "arabic": "جازى، يْجازي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-100.mp3"
+  },
+  {
+    "english": "to return, go back",
+    "transliteration": "ríji3, yírja3",
+    "arabic": "رِجِع، يِرْجع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-103.mp3"
+  },
+  {
+    "english": "to say, tell",
+    "transliteration": "ʔāl, yʔūl",
+    "arabic": "قال، يْقول",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-104.mp3"
+  },
+  {
+    "english": "to show",
+    "transliteration": "fárja, yfárji",
+    "arabic": "فرْجى، يْفرْجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-105.mp3"
+  },
+  {
+    "english": "to sink",
+    "transliteration": "ɣíriʔ, yíɣraʔ",
+    "arabic": "غِرِق، يِغْرق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-106.mp3"
+  },
+  {
+    "english": "The Titanic sank over a hundred years ago.",
+    "transliteration": "ttāytēnik ɣírʔit min áktar min mīt síni.",
+    "arabic": "التّايْتانيك غِرْقِت مِن أكْتر مِن مية سِنِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-107.mp3"
+  },
+  {
+    "english": "to sit",
+    "transliteration": "ʔá3ad, yíʔ3ud",
+    "arabic": "قعد، يِقْعُد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-108.mp3"
+  },
+  {
+    "english": "to stay",
+    "transliteration": "bíʔi, yíbʔa",
+    "arabic": "بِقِى، يِبْقى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-109.mp3"
+  },
+  {
+    "english": "to stop, make stop",
+    "transliteration": "wáʔʔaf, ywáʔʔif",
+    "arabic": "وَقّف، يْوَقِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-110.mp3"
+  },
+  {
+    "english": "to succeed",
+    "transliteration": "níjiɧ, yínjaɧ",
+    "arabic": "نِجِح، يِنْجح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-111.mp3"
+  },
+  {
+    "english": "to suggest, propose",
+    "transliteration": "qtáraɧ, yiqtúriɧ",
+    "arabic": "اقْترح، يِقْتِرِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-112.mp3"
+  },
+  {
+    "english": "to talk",
+    "transliteration": "ɧíki, yíɧki",
+    "arabic": "حِكي، يِحْكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-113.mp3"
+  },
+  {
+    "english": "to tear",
+    "transliteration": "xázzaʔ, yxázziʔ",
+    "arabic": "خزّق، يْخزِّق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-114.mp3"
+  },
+  {
+    "english": "to thank",
+    "transliteration": "šákar, yíškur",
+    "arabic": "شكر، يِشْكُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-115.mp3"
+  },
+  {
+    "english": "to tie",
+    "transliteration": "rábaʈ, yúrbuʈ",
+    "arabic": "ربط، يُرْبُط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-116.mp3"
+  },
+  {
+    "english": "to touch",
+    "transliteration": "lámas, yílmus",
+    "arabic": "لمس، يِلْمُس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-117.mp3"
+  },
+  {
+    "english": "to try, attempt",
+    "transliteration": "ɧāwal, yɧāwil",
+    "arabic": "حاوَل، يْحاوِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-118.mp3"
+  },
+  {
+    "english": "to try, try out",
+    "transliteration": "járrab, yjárrib",
+    "arabic": "جرّب، يْجرِّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-119.mp3"
+  },
+  {
+    "english": "to use",
+    "transliteration": "stá3mal, yistá3mil",
+    "arabic": "سْتعمل، يِسْتعْمِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-120.mp3"
+  },
+  {
+    "english": "to use",
+    "transliteration": "stáxdam, yistáxdim",
+    "arabic": "سْتخْدم، يِسْتخْدِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-121.mp3"
+  },
+  {
+    "english": "to wait",
+    "transliteration": "náʈar, yúnʈur",
+    "arabic": "نطر، يُنْطُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-122.mp3"
+  },
+  {
+    "english": "to wait",
+    "transliteration": "ntáʐar, yuntúʐir",
+    "arabic": "نْتظر، يُنْتُظِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-123.mp3"
+  },
+  {
+    "english": "to wait",
+    "transliteration": "stánna, yistánna",
+    "arabic": "سْتنّى، يِسْتنّى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-124.mp3"
+  },
+  {
+    "english": "to walk, go, leave",
+    "transliteration": "míši, yímši",
+    "arabic": "مِشي، يِمْشي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-125.mp3"
+  },
+  {
+    "english": "to wash",
+    "transliteration": "ɣással, yɣássil",
+    "arabic": "غسّل، يْغسِّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-126.mp3"
+  },
+  {
+    "english": "to watch, view",
+    "transliteration": "tfárraj 3ála, yitfárraj 3ála",
+    "arabic": "تْفرّج على، يِتْفرّج على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-127.mp3"
+  },
+  {
+    "english": "to welcome, greet",
+    "transliteration": "stáʔbal, yistáʔbil",
+    "arabic": "سْتقْبل، يِسْتقْبِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-128.mp3"
+  },
+  {
+    "english": "He set down the book on the table.",
+    "transliteration": "ɧaʈʈ liktēb 3a-ʈʈāwli.",
+    "arabic": "حطّ الِكْتاب عالطّاوْلِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-102.mp3"
+  },
+  {
+    "english": "to put, set (down)",
+    "transliteration": "ɧaʈʈ, yɧuʈʈ",
+    "arabic": "حطّ، يْحُطّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav55-101.mp3"
+  }
+]

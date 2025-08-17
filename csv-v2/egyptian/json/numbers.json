@@ -1,0 +1,710 @@
+[
+  {
+    "english": "number, numeral",
+    "transliteration": "ráqam (arqām)",
+    "arabic": "رقم (أرْقام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-1.mp3"
+  },
+  {
+    "english": "number (quantity)",
+    "transliteration": "3ádad (a3dād)",
+    "arabic": "عدد (أعْداد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-2.mp3"
+  },
+  {
+    "english": "to count",
+    "transliteration": "3add [1g3]",
+    "arabic": "عدّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-3.mp3"
+  },
+  {
+    "english": "odd",
+    "transliteration": "fárdi",
+    "arabic": "فرْدي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-4.mp3"
+  },
+  {
+    "english": "even",
+    "transliteration": "záwgi",
+    "arabic": "زَوْجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-5.mp3"
+  },
+  {
+    "english": "zero",
+    "transliteration": "ȿifr",
+    "arabic": "صِفْر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-6.mp3"
+  },
+  {
+    "english": "cardinal number",
+    "transliteration": "3ádad ʔáȿli",
+    "arabic": "عدد أصْلي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-7.mp3"
+  },
+  {
+    "english": "one",
+    "transliteration": "__ واحِد،__ واحْدة        __ wāɧid [m.]; __ wáɧda [f.]",
+    "arabic": "__ واحِد، واحْدة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-8.mp3"
+  },
+  {
+    "english": "two",
+    "transliteration": "itnēn",
+    "arabic": "اِتْنيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-9.mp3"
+  },
+  {
+    "english": "two tables and two chairs",
+    "transliteration": "ʈarabiztēn wi kursiyēn",
+    "arabic": "طرابيزْتيْن و كُرْسِييْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-10.mp3"
+  },
+  {
+    "english": "three",
+    "transliteration": "talāta; tálat __",
+    "arabic": "تلاتة،  تلات __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-11.mp3"
+  },
+  {
+    "english": "four",
+    "transliteration": "ʔarbá3a; ʔárba3 __",
+    "arabic": "أرْبعة،  أرْبع __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-12.mp3"
+  },
+  {
+    "english": "five",
+    "transliteration": "xámsa; xámas __",
+    "arabic": "خمْسة،  خمس __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-13.mp3"
+  },
+  {
+    "english": "six",
+    "transliteration": "sítta; sitt __",
+    "arabic": "سِتّة،  سِتّ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-14.mp3"
+  },
+  {
+    "english": "seven",
+    "transliteration": "sáb3a; sába3 __",
+    "arabic": "سبْعة،  سبع __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-15.mp3"
+  },
+  {
+    "english": "eight",
+    "transliteration": "tamánya; táman __",
+    "arabic": "تمانْيَة،  تمان __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-16.mp3"
+  },
+  {
+    "english": "nine",
+    "transliteration": "tís3a; tísa3 __",
+    "arabic": "تِسْعة،  تِسع __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-17.mp3"
+  },
+  {
+    "english": "ten",
+    "transliteration": "3ášara; 3ášar __",
+    "arabic": "عشرة،  عشر __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-18.mp3"
+  },
+  {
+    "english": "eleven",
+    "transliteration": "ɧidāšar",
+    "arabic": "حِداشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-19.mp3"
+  },
+  {
+    "english": "twelve",
+    "transliteration": "itnāšar",
+    "arabic": "اِتْناشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-20.mp3"
+  },
+  {
+    "english": "thirteen",
+    "transliteration": "talattāšar",
+    "arabic": "تلاتّاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-21.mp3"
+  },
+  {
+    "english": "fourteen",
+    "transliteration": "ʔarba3tāšar",
+    "arabic": "أرْبعْتاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-22.mp3"
+  },
+  {
+    "english": "fifteen",
+    "transliteration": "xamastāšar",
+    "arabic": "خمسْتاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-23.mp3"
+  },
+  {
+    "english": "sixteen",
+    "transliteration": "sittāšar",
+    "arabic": "سِتّاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-24.mp3"
+  },
+  {
+    "english": "seventeen",
+    "transliteration": "saba3tāšar",
+    "arabic": "سبعْتاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-25.mp3"
+  },
+  {
+    "english": "eighteen",
+    "transliteration": "tamantāšar",
+    "arabic": "تمانْتاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-26.mp3"
+  },
+  {
+    "english": "nineteen",
+    "transliteration": "tisa3tāšar",
+    "arabic": "تِسعْتاشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-27.mp3"
+  },
+  {
+    "english": "twenty",
+    "transliteration": "3išrīn",
+    "arabic": "عِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-28.mp3"
+  },
+  {
+    "english": "twenty-one",
+    "transliteration": "wāɧid wi 3išrīn",
+    "arabic": "واحِد و عِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-29.mp3"
+  },
+  {
+    "english": "twenty-two",
+    "transliteration": "itnēn wi 3išrīn",
+    "arabic": "اِتْنيْن و عِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-30.mp3"
+  },
+  {
+    "english": "twenty-three",
+    "transliteration": "talāta w 3išrīn",
+    "arabic": "تلاتة و عِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-31.mp3"
+  },
+  {
+    "english": "thirty",
+    "transliteration": "talatīn",
+    "arabic": "تلاتين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-32.mp3"
+  },
+  {
+    "english": "forty",
+    "transliteration": "ʔarbi3īn",
+    "arabic": "أرْبِعين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-33.mp3"
+  },
+  {
+    "english": "fifty",
+    "transliteration": "xamsīn",
+    "arabic": "خمْسين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-34.mp3"
+  },
+  {
+    "english": "sixty",
+    "transliteration": "sittīn",
+    "arabic": "سِتّين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-35.mp3"
+  },
+  {
+    "english": "seventy",
+    "transliteration": "sab3īn",
+    "arabic": "سبْعين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-36.mp3"
+  },
+  {
+    "english": "eighty",
+    "transliteration": "tamanīn",
+    "arabic": "تمانين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-37.mp3"
+  },
+  {
+    "english": "ninety",
+    "transliteration": "tis3īn",
+    "arabic": "تِسْعين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-38.mp3"
+  },
+  {
+    "english": "one hundred",
+    "transliteration": "míyya; mīt __",
+    "arabic": "مية،  ميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-39.mp3"
+  },
+  {
+    "english": "two hundred",
+    "transliteration": "mitēn",
+    "arabic": "ميتيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-40.mp3"
+  },
+  {
+    "english": "three hundred",
+    "transliteration": "tultumíyya; tultumīt __",
+    "arabic": "تُلْتُمية، تُلْتُميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-41.mp3"
+  },
+  {
+    "english": "four hundred",
+    "transliteration": "rub3umíyya; rub3umīt __",
+    "arabic": "رُبْعُمية، رُبْعُميةْ__",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-42.mp3"
+  },
+  {
+    "english": "five hundred",
+    "transliteration": "xumsumíyya; xumsumīt __",
+    "arabic": "خُمْسُمية، خُمْسُمية __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-43.mp3"
+  },
+  {
+    "english": "six hundred",
+    "transliteration": "suttumíyya; suttumīt __",
+    "arabic": "سُتُّمية، سُتُّميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-44.mp3"
+  },
+  {
+    "english": "seven hundred",
+    "transliteration": "sub3umíyya; sub3umīt __",
+    "arabic": "سُبْعُمية، سُبْعُميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-45.mp3"
+  },
+  {
+    "english": "eight hundred",
+    "transliteration": "tumnumíyya; tumnumīt __",
+    "arabic": "تُمْنُمية، تُمْنُميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-46.mp3"
+  },
+  {
+    "english": "nine hundred",
+    "transliteration": "tus3umíyya; tus3umīt __",
+    "arabic": "تُسْعُمية، تُسْعُميةْ __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-47.mp3"
+  },
+  {
+    "english": "one thousand",
+    "transliteration": "ʔalf",
+    "arabic": "ألْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-48.mp3"
+  },
+  {
+    "english": "two thousand",
+    "transliteration": "ʔalfēn",
+    "arabic": "ألْفيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-49.mp3"
+  },
+  {
+    "english": "three thousand",
+    "transliteration": "tálat-talāf",
+    "arabic": "تلاتّلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-50.mp3"
+  },
+  {
+    "english": "four thousand",
+    "transliteration": "ʔárba3-talāf",
+    "arabic": "أرْبعْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-51.mp3"
+  },
+  {
+    "english": "five thousand",
+    "transliteration": "xámas-talāf",
+    "arabic": "خمسْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-52.mp3"
+  },
+  {
+    "english": "six thousand",
+    "transliteration": "sit-talāf",
+    "arabic": "سِتّلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-53.mp3"
+  },
+  {
+    "english": "seven thousand",
+    "transliteration": "sába3-talāf",
+    "arabic": "سبعْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-54.mp3"
+  },
+  {
+    "english": "eight thousand",
+    "transliteration": "táman-talāf",
+    "arabic": "تمنْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-55.mp3"
+  },
+  {
+    "english": "nine thousand",
+    "transliteration": "tísa3-talāf",
+    "arabic": "تِسعْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-56.mp3"
+  },
+  {
+    "english": "ten thousand",
+    "transliteration": "3ášar-talāf",
+    "arabic": "عشرْتلاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-57.mp3"
+  },
+  {
+    "english": "eleven thousand",
+    "transliteration": "ɧidāšar ʔalf",
+    "arabic": "حِداشر ألْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-58.mp3"
+  },
+  {
+    "english": "twenty thousand",
+    "transliteration": "3išrīn ʔalf",
+    "arabic": "عِشْرين ألْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-59.mp3"
+  },
+  {
+    "english": "one hundred thousand",
+    "transliteration": "mīt ʔalf",
+    "arabic": "ميةْ ألْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-60.mp3"
+  },
+  {
+    "english": "million",
+    "transliteration": "milyōn",
+    "arabic": "ميلْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-61.mp3"
+  },
+  {
+    "english": "billion",
+    "transliteration": "bilyōn",
+    "arabic": "بيلْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-62.mp3"
+  },
+  {
+    "english": "arithmetic, calculation",
+    "transliteration": "ɧisāb",
+    "arabic": "حِساب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-63.mp3"
+  },
+  {
+    "english": "to calculate, to work out",
+    "transliteration": "ɧásab [1s2]",
+    "arabic": "حسب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-64.mp3"
+  },
+  {
+    "english": "calculator",
+    "transliteration": "ʔāla ɧásba",
+    "arabic": "آلة حاسْبة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-65.mp3"
+  },
+  {
+    "english": "calculator",
+    "transliteration": "[calculator]",
+    "arabic": "كلْكوليْتر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-66.mp3"
+  },
+  {
+    "english": "How did you work that out in your head? I need a calculator!",
+    "transliteration": "ʔínta ɧasábtə da b-dimāɣak izzāy? ʔána miɧtāg ʔāla ɧásba!",
+    "arabic": "إنْتَ حسبْت ده بِدِماغك إزّايْ؟ أنا مِحْتاج آلة حاسْبة!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-67.mp3"
+  },
+  {
+    "english": "to add, add up",
+    "transliteration": "gáma3 [1s1]",
+    "arabic": "جمع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-68.mp3"
+  },
+  {
+    "english": "Add up the price of all the items to get the total.",
+    "transliteration": "ígma3 si3rə kull ilɧagāt 3ašān tí3raf ʔigmāli -ssi3r.",
+    "arabic": "اِجْمع سِعْر كُلّ الحاجات عشان تِعْرف إجْمالي السِّعْر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-69.mp3"
+  },
+  {
+    "english": "to subtract",
+    "transliteration": "ʈáraɧ [1s1]",
+    "arabic": "طرح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-70.mp3"
+  },
+  {
+    "english": "Subtract the smaller amount from the larger one to find the difference.",
+    "transliteration": "íʈraɧ irráqam iȿȿuɣáyyar min ilkibīr 3ašān tí3raf ilfárʔ.",
+    "arabic": "اِطْرح الرّقم الصُّغيّر مِن الكِبير عشان تِعْرف الفرْق.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-71.mp3"
+  },
+  {
+    "english": "to multiply by",
+    "transliteration": "ɖárab [1s1] fi",
+    "arabic": "ضرب في",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-72.mp3"
+  },
+  {
+    "english": "Multiply the length and width to find the area of the rectangle.",
+    "transliteration": "íɖrab iʈʈūl fi -l3arɖ 3ašān tíɧsib misáɧt ilmustaʈīl.",
+    "arabic": "اِضْرب الطّول في العرْض عشان تِحْسِب مِساحْةْ المُسْتطيل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-73.mp3"
+  },
+  {
+    "english": "to divide by",
+    "transliteration": "ʔásam [1s2] 3ála",
+    "arabic": "قسم على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-74.mp3"
+  },
+  {
+    "english": "Divide the total by the number of people to find the average.",
+    "transliteration": "íʔsim irráqam 3ála 3ádad innās 3ašān tí3raf ilmutawássiʈ.",
+    "arabic": "اِقْسِم الرّقم على عدد النّاس عشان تِعْرف المُتَوَسِّط.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-75.mp3"
+  },
+  {
+    "english": "to equal, be equal to",
+    "transliteration": "sāwa [3d]",
+    "arabic": "ساوى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-76.mp3"
+  },
+  {
+    "english": "equals, is",
+    "transliteration": "yisāwi",
+    "arabic": "يِساوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-77.mp3"
+  },
+  {
+    "english": "equals, is",
+    "transliteration": "yíbʔa",
+    "arabic": "يِبْقى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-78.mp3"
+  },
+  {
+    "english": "equals, is",
+    "transliteration": "bi",
+    "arabic": "بِـ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-79.mp3"
+  },
+  {
+    "english": "plus, and",
+    "transliteration": "zāʔid",
+    "arabic": "زائِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-80.mp3"
+  },
+  {
+    "english": "plus, and",
+    "transliteration": "wi",
+    "arabic": "و",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-81.mp3"
+  },
+  {
+    "english": "Three plus two equals five.",
+    "transliteration": "talāta zāʔid itnēn yisāwi xámsa.",
+    "arabic": "تلاتة زائِد اِتْنيْن يِساوي خمْسة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-82.mp3"
+  },
+  {
+    "english": "minus",
+    "transliteration": "nāʔiȿ",
+    "arabic": "ناقِص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-83.mp3"
+  },
+  {
+    "english": "minus",
+    "transliteration": "min",
+    "arabic": "مِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-84.mp3"
+  },
+  {
+    "english": "Ten minus nine equals one.",
+    "transliteration": "3ášara nāʔiȿ tís3a ysāwi wāɧid.",
+    "arabic": "عشرة ناقِص تِسْعة يِساوي واحِد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-85.mp3"
+  },
+  {
+    "english": "Ten minus nine equals one.",
+    "transliteration": "tís3a min 3ášara ysāwi wāɧid.",
+    "arabic": "تِسْعة مِن عشرة يِساوي واحِد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-86.mp3"
+  },
+  {
+    "english": "times",
+    "transliteration": "fi",
+    "arabic": "في",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-87.mp3"
+  },
+  {
+    "english": "Three times four equals twelve.",
+    "transliteration": "talāta f- ʔarbá3a bi-tnāšar.",
+    "arabic": "تلاتة في أرْبعة بِاتْناشر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-88.mp3"
+  },
+  {
+    "english": "divided by",
+    "transliteration": "3ála",
+    "arabic": "على",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-89.mp3"
+  },
+  {
+    "english": "Twenty divided by four equals five.",
+    "transliteration": "bití3raf tí3zif 3ála ʔayyə ʔāla?",
+    "arabic": "عِشْرين على أرْبعة بِخمْسة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-90.mp3"
+  },
+  {
+    "english": "ordinal number",
+    "transliteration": "3ádad tartībi",
+    "arabic": "عدد ترْتيبي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-91.mp3"
+  },
+  {
+    "english": "first",
+    "transliteration": "ʔáwwal [m.]; ʔūla [f.]",
+    "arabic": "أوّل، أولى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-92.mp3"
+  },
+  {
+    "english": "second",
+    "transliteration": "tāni [m.]; tánya [f.]",
+    "arabic": "تاني، تانْيَة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-93.mp3"
+  },
+  {
+    "english": "third",
+    "transliteration": "tālit [m.]; tálta [f.]",
+    "arabic": "تالِت، تالْتة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-94.mp3"
+  },
+  {
+    "english": "fourth",
+    "transliteration": "rābi3 [m.]; ráb3a [f.]",
+    "arabic": "رابِع، رابْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-95.mp3"
+  },
+  {
+    "english": "fifth",
+    "transliteration": "xāmis [m.]; xámsa [f.]",
+    "arabic": "خامِس، خامْسة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-96.mp3"
+  },
+  {
+    "english": "sixth",
+    "transliteration": "sādis [m.]; sádsa [f.]",
+    "arabic": "سادِس، سادْسة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-97.mp3"
+  },
+  {
+    "english": "seventh",
+    "transliteration": "sābi3 [m.]; sáb3a [f.]",
+    "arabic": "سابِع، سابْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-98.mp3"
+  },
+  {
+    "english": "eighth",
+    "transliteration": "tāmin [m.]; támna [f.]",
+    "arabic": "تامِن، تامْنة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-99.mp3"
+  },
+  {
+    "english": "ninth",
+    "transliteration": "tāsi3 [m.]; tás3a [f.]",
+    "arabic": "تاسِع، تاسْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-100.mp3"
+  },
+  {
+    "english": "tenth",
+    "transliteration": "3āšir [m.]; 3ášra [f.]",
+    "arabic": "عاشِر، عاشْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-101.mp3"
+  },
+  {
+    "english": "There are twenty books, and the twentieth book is mine.",
+    "transliteration": "fī 3išrīn kitāb w ilkitāb il3išrīn bitā3i.",
+    "arabic": "فيه عِشْرين كِتاب و الكِتاب العِشْرين بِتاعي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-102.mp3"
+  },
+  {
+    "english": "the last __",
+    "transliteration": "ʔāxir __",
+    "arabic": "آخِر __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-103.mp3"
+  },
+  {
+    "english": "fraction",
+    "transliteration": "guzʔ (agzāʔ)",
+    "arabic": "جُزْء (أجْزاء)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-104.mp3"
+  },
+  {
+    "english": "whole",
+    "transliteration": "kull",
+    "arabic": "كُلّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-105.mp3"
+  },
+  {
+    "english": "half",
+    "transliteration": "nuȿȿ (anȿāȿ)",
+    "arabic": "نُصّ (أنْصاص)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-106.mp3"
+  },
+  {
+    "english": "Two halves make a whole.",
+    "transliteration": "innuȿȿēn yi3mílu guzʔə kāmil.",
+    "arabic": "النُّصّيْن يِعْمِلوا جُزْء كامِل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-107.mp3"
+  },
+  {
+    "english": "a third",
+    "transliteration": "tilt (atlāt)",
+    "arabic": "تِلْت (أتْلات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-108.mp3"
+  },
+  {
+    "english": "a fourth, a quarter",
+    "transliteration": "rub3 (arbā3)",
+    "arabic": "رُبْع (أرْباع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-109.mp3"
+  },
+  {
+    "english": "a fifth",
+    "transliteration": "xums (axmās)",
+    "arabic": "خُمْس (أخْماس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-110.mp3"
+  },
+  {
+    "english": "three fifths",
+    "transliteration": "tálat ʔaxmās",
+    "arabic": "تلات أخْماس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-111.mp3"
+  },
+  {
+    "english": "one twelfth (1/12)",
+    "transliteration": "wāɧid 3ála -tnāšar",
+    "arabic": "واحِد على اتْناشر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-112.mp3"
+  },
+  {
+    "english": "three twentieths (3/20)",
+    "transliteration": "talāta 3ála 3išrīn",
+    "arabic": "تلاتة على عِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-113.mp3"
+  },
+  {
+    "english": "percentage",
+    "transliteration": "nísba (nísab) miʔawíyya",
+    "arabic": "نِسْبة (نِسب) مِئَوية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-114.mp3"
+  },
+  {
+    "english": "a large percentage",
+    "transliteration": "nísba kbīra",
+    "arabic": "نِسْبة كْبيرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-115.mp3"
+  },
+  {
+    "english": "what percentage of __",
+    "transliteration": "kām fi -lmíyya min __",
+    "arabic": "كام في المية مِن __",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-116.mp3"
+  },
+  {
+    "english": "percent",
+    "transliteration": "fi -lmíyya",
+    "arabic": "في المية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-117.mp3"
+  },
+  {
+    "english": "fifty percent of people",
+    "transliteration": "xamsīn fi -lmíyya min iššá3b",
+    "arabic": "خمْسين في المية مِن الشّعْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav49-118.mp3"
+  }
+]

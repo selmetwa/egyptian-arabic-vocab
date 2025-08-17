@@ -1,0 +1,1850 @@
+[
+  {
+    "english": "body",
+    "transliteration": "jísim (ajsām)",
+    "arabic": "جِسِم (أجْسام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-1.mp3"
+  },
+  {
+    "english": "head",
+    "transliteration": "rās (rwēs)",
+    "arabic": "راس (رْواس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-2.mp3"
+  },
+  {
+    "english": "brain",
+    "transliteration": "dmēɣ (ádmiɣa)",
+    "arabic": "دْماغ (أدْمِغة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-3.mp3"
+  },
+  {
+    "english": "mind",
+    "transliteration": "3aʔl (3ʔūl)",
+    "arabic": "عقْل (عْقول)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-4.mp3"
+  },
+  {
+    "english": "skull",
+    "transliteration": "jímjmi (jamējim)",
+    "arabic": "جِمْجْمِة (جماجِم)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-5.mp3"
+  },
+  {
+    "english": "face",
+    "transliteration": "wijj (wjūh)",
+    "arabic": "وِجّ (وْجوه)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-6.mp3"
+  },
+  {
+    "english": "He has a round face.",
+    "transliteration": "wíjju mdáwwar",
+    "arabic": "وِجّو مْدوّر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-7.mp3"
+  },
+  {
+    "english": "She has a oblong face.",
+    "transliteration": "3índa wijj ʈawīl.",
+    "arabic": "عِنْدا وِجّ طَويل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-8.mp3"
+  },
+  {
+    "english": "I have a square face.",
+    "transliteration": "wíjji mrábba3.",
+    "arabic": "وِجّي مْربّع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-9.mp3"
+  },
+  {
+    "english": "You have an oval face.",
+    "transliteration": "3índak wijj bayɖāwi.",
+    "arabic": "عِنْدك وِجّ بَيْضاوي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-10.mp3"
+  },
+  {
+    "english": "to wash one’s face",
+    "transliteration": "ɣással [55] wíjju",
+    "arabic": "غسّل وِجّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-11.mp3"
+  },
+  {
+    "english": "forehead",
+    "transliteration": "jbīn",
+    "arabic": "جْبين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-12.mp3"
+  },
+  {
+    "english": "He has a big forehead.",
+    "transliteration": "jbīnu kbīr.",
+    "arabic": "جْبينو كْبير.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-13.mp3"
+  },
+  {
+    "english": "brow",
+    "transliteration": "ɧwējib [pl.]",
+    "arabic": "حْواجِب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-14.mp3"
+  },
+  {
+    "english": "to frown, knit one’s brow, scowl",
+    "transliteration": "šadd ɧwējbu, yšidd ɧwējbu",
+    "arabic": "شدّ حْواجْبو، يْشِدّ حْواجْبو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-15.mp3"
+  },
+  {
+    "english": "to frown, knit one’s brow, scowl",
+    "transliteration": "3ábas, yí3bus",
+    "arabic": "عبس، يِعْبُس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-16.mp3"
+  },
+  {
+    "english": "cheek",
+    "transliteration": "xadd (xdūd)",
+    "arabic": "خدّ (خْدود)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-17.mp3"
+  },
+  {
+    "english": "chin",
+    "transliteration": "dáʔin (dʔūn)",
+    "arabic": "دقِن (دْقون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-18.mp3"
+  },
+  {
+    "english": "jaw",
+    "transliteration": "ɧának (ɧnēk)",
+    "arabic": "حنك (حْناك)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-19.mp3"
+  },
+  {
+    "english": "eye",
+    "transliteration": "3ēn (3yūn)",
+    "arabic": "عيْن (عْيون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-20.mp3"
+  },
+  {
+    "english": "My eyes itch.",
+    "transliteration": "3ēni 3am-tɧíkkni.",
+    "arabic": "عيْني عم تْحِكّْني.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-21.mp3"
+  },
+  {
+    "english": "blue eyes",
+    "transliteration": "3yūn zúruʔ",
+    "arabic": "عْيون زُرُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-22.mp3"
+  },
+  {
+    "english": "green eyes",
+    "transliteration": "3yūn xúɖur",
+    "arabic": "عْيون خُضُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-23.mp3"
+  },
+  {
+    "english": "brown eyes",
+    "transliteration": "3yūn bínni",
+    "arabic": "عْيون بِنّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-24.mp3"
+  },
+  {
+    "english": "She has beautiful brown eyes.",
+    "transliteration": "3yūna 3asaliyīn ɧilwīn. [lit. honey]",
+    "arabic": "عْيونا عسلِيين حِلْوين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-25.mp3"
+  },
+  {
+    "english": "What color are his eyes?",
+    "transliteration": "šū lōn 3yūnu?",
+    "arabic": "شو لوْن عْيونو؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-26.mp3"
+  },
+  {
+    "english": "His eyes are green.",
+    "transliteration": "3yūnu xúɖur.",
+    "arabic": "عْيونو خُضُر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-27.mp3"
+  },
+  {
+    "english": "eyebrow",
+    "transliteration": "ɧājib (ɧwējib)",
+    "arabic": "حاجِب (حْواجِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-28.mp3"
+  },
+  {
+    "english": "eyelid",
+    "transliteration": "jífin (jfūn)",
+    "arabic": "جِفِن (جْفون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-29.mp3"
+  },
+  {
+    "english": "eyelash",
+    "transliteration": "rímiš (rmūš)",
+    "arabic": "رِمِش (رْموش)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-30.mp3"
+  },
+  {
+    "english": "She has long eyelashes.",
+    "transliteration": "3índa rmūš ʈwāl.",
+    "arabic": "عِنْدا رْموش طْوال.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-30b.mp3"
+  },
+  {
+    "english": "sclera, the white of one’s eyes",
+    "transliteration": "bayāɖ 3ēn",
+    "arabic": "بَياض عيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-31.mp3"
+  },
+  {
+    "english": "pupil",
+    "transliteration": "búʔbuʔ",
+    "arabic": "بُؤبُؤ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-32.mp3"
+  },
+  {
+    "english": "to blink",
+    "transliteration": "raff 3ēnu, yriff 3ēnu",
+    "arabic": "رفّ عيْنو، يْرِفّ عيْنو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-33.mp3"
+  },
+  {
+    "english": "to wink",
+    "transliteration": "ɣámaz, yíɣmuz",
+    "arabic": "غمز، يِغْمُز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-34.mp3"
+  },
+  {
+    "english": "to close one’s eyes",
+    "transliteration": "ɣámmaɖ 3yūnu, yɣámmiɖ 3yūnu",
+    "arabic": "غمّض عْيونو، يْغمِّض عْيونو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-35.mp3"
+  },
+  {
+    "english": "to open one’s eyes",
+    "transliteration": "fátaɧ [55] 3yūnu",
+    "arabic": "فتح عْيونو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-36.mp3"
+  },
+  {
+    "english": "dark circles under one’s eyes",
+    "transliteration": "sawēd taɧt 3yūnu",
+    "arabic": "سَواد تحْت عْيونو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-37.mp3"
+  },
+  {
+    "english": "cross-eyed",
+    "transliteration": "áɧwal, ɧáwla (ɧūl)",
+    "arabic": "أحْوَل، حَوْلا (حول)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-38.mp3"
+  },
+  {
+    "english": "blind",
+    "transliteration": "á3ma, 3ámya (3imyān)",
+    "arabic": "أعْمى، عمْيا (عِمْيان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-39.mp3"
+  },
+  {
+    "english": "to see",
+    "transliteration": "šēf, yšūf",
+    "arabic": "شاف، يْشوف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-40.mp3"
+  },
+  {
+    "english": "I can’t see the clock from here.",
+    "transliteration": "miš ʔadrān šūf issā3a min hūn.",
+    "arabic": "مِش قدْران شوف السّاعة مِن هون.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-41.mp3"
+  },
+  {
+    "english": "eyesight, vision",
+    "transliteration": "náʐar",
+    "arabic": "نظر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-42.mp3"
+  },
+  {
+    "english": "I have perfect eyesight.",
+    "transliteration": "náʐari ktīr ʔáwi.",
+    "arabic": "نظرْي كْتير قَوي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-43.mp3"
+  },
+  {
+    "english": "to wear glasses",
+    "transliteration": "líbis [6] 3wēnēt",
+    "arabic": "لِبِس عْويْنات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-44.mp3"
+  },
+  {
+    "english": "I think you need glasses.",
+    "transliteration": "šáklu báddak 3wēnēt.",
+    "arabic": "شكْلو بدّك عْويْنات.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-45.mp3"
+  },
+  {
+    "english": "to cry",
+    "transliteration": "bíki, yíbki",
+    "arabic": "بِكي، يِبْكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-46.mp3"
+  },
+  {
+    "english": "a tear",
+    "transliteration": "dám3a (dmū3)",
+    "arabic": "دمْعة (دْموع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-47.mp3"
+  },
+  {
+    "english": "Why are your eyes red? Have you been crying?",
+    "transliteration": "lē 3yūnak ɧmir? kint 3am tibki?",
+    "arabic": "ليْه عْيونك حُمُر؟ كِنْت عم تِبْكي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-48.mp3"
+  },
+  {
+    "english": "nose",
+    "transliteration": "minxār (manaxīr)",
+    "arabic": "مِنْخار (مناخير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-49.mp3"
+  },
+  {
+    "english": "nose",
+    "transliteration": "ánif (unūf)",
+    "arabic": "أنِف (أُنوف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-50.mp3"
+  },
+  {
+    "english": "nostril",
+    "transliteration": "fátɧit minxār",
+    "arabic": "فتْحِة مِنْخار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-51.mp3"
+  },
+  {
+    "english": "big/pronounced nose",
+    "transliteration": "minxār kbīr",
+    "arabic": "مِنْخار كْبير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-52.mp3"
+  },
+  {
+    "english": "petite nose",
+    "transliteration": "minxār ʂɣīr",
+    "arabic": "مِنْخار صْغير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-53.mp3"
+  },
+  {
+    "english": "straight/sharp/pointy nose",
+    "transliteration": "minxār mráwwas",
+    "arabic": "مِنْخار مْروّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-54.mp3"
+  },
+  {
+    "english": "hook/crooked nose",
+    "transliteration": "minxār ma3wūj",
+    "arabic": "مِنْخار معْووج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-55.mp3"
+  },
+  {
+    "english": "to sneeze",
+    "transliteration": "3áʈas, yí3ʈus",
+    "arabic": "عطس، يِعْطُس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-56.mp3"
+  },
+  {
+    "english": "snot",
+    "transliteration": "mxāʈ",
+    "arabic": "مْخاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-57.mp3"
+  },
+  {
+    "english": "(to have) a runny nose",
+    "transliteration": "mráššaɧ",
+    "arabic": "مْرشّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-58.mp3"
+  },
+  {
+    "english": "to blow one’s nose",
+    "transliteration": "naff, yniff",
+    "arabic": "نفّ، يْنِفّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-59.mp3"
+  },
+  {
+    "english": "to pick one’s nose",
+    "transliteration": "lí3ib [55] b-minxāru",
+    "arabic": "لِعِب بْمِنْخارو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-60.mp3"
+  },
+  {
+    "english": "to smell",
+    "transliteration": "šamm, yšimm",
+    "arabic": "شمّ، يْشِمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-61.mp3"
+  },
+  {
+    "english": "sense of smell",
+    "transliteration": "ɧāsit šamm",
+    "arabic": "حاسِة شمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-62.mp3"
+  },
+  {
+    "english": "I don’t have a very good sense of smell.",
+    "transliteration": "mā 3índi ɧāsit šamm ʔawíyyi",
+    "arabic": "ما عِنْدي حاسِة شمّ قَوية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-63.mp3"
+  },
+  {
+    "english": "I think I smell smoke.",
+    "transliteration": "šáklu fī rīɧit duxān.",
+    "arabic": "شكْلو في ريحِة دُخان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-64.mp3"
+  },
+  {
+    "english": "ear",
+    "transliteration": "dēni (dēnēn)",
+    "arabic": "ديْنِة (ديْنا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-65.mp3"
+  },
+  {
+    "english": "earlobe",
+    "transliteration": "šáɧmit dēni",
+    "arabic": "شحْمِة ديْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-66.mp3"
+  },
+  {
+    "english": "to cup one’s ear",
+    "transliteration": "ɧaʈʈ [55] īdu wára dēntu",
+    "arabic": "حطّ إيدو وَرا ديْنْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-67.mp3"
+  },
+  {
+    "english": "to hear",
+    "transliteration": "sími3, yísma3",
+    "arabic": "سِمِع، يِسْمع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-68.mp3"
+  },
+  {
+    "english": "Do you hear that noise?",
+    "transliteration": "sēmi3 ha-ʂʂōt?",
+    "arabic": "سامِع هالصّوْت؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-69.mp3"
+  },
+  {
+    "english": "ringing in one’s ear",
+    "transliteration": "ʂōt tiʂfīr b-iddēni",
+    "arabic": "صوت تِصْفير بِالديْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-70.mp3"
+  },
+  {
+    "english": "to be hard of hearing",
+    "transliteration": "sáma3u tʔīl",
+    "arabic": "سمعو تْقيِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-71.mp3"
+  },
+  {
+    "english": "deaf",
+    "transliteration": "áʈraš, ʈárša (ʈuršēn)",
+    "arabic": "أطْرش، طرْشا (طُرْشان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-72.mp3"
+  },
+  {
+    "english": "to wear a hearing aid",
+    "transliteration": "líbis [6] samā3a",
+    "arabic": "لِبِس سماعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-73.mp3"
+  },
+  {
+    "english": "pierced ears",
+    "transliteration": "dēni mafxūti",
+    "arabic": "ديْنِة مفْخوتِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-74.mp3"
+  },
+  {
+    "english": "ear wax",
+    "transliteration": "ʂmāɣ dēni",
+    "arabic": "صْماغ ديْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-75.mp3"
+  },
+  {
+    "english": "mouth",
+    "transliteration": "timm (tmūm)",
+    "arabic": "تِمّ (تْمو)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-76.mp3"
+  },
+  {
+    "english": "to smile",
+    "transliteration": "btásam, yibtísim",
+    "arabic": "بْتسم، يِبْتِسِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-77.mp3"
+  },
+  {
+    "english": "to open one’s mouth",
+    "transliteration": "fátaɧ [55] tímmu",
+    "arabic": "فتح تِمّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-78.mp3"
+  },
+  {
+    "english": "to close one’s mouth",
+    "transliteration": "sákkar tímmu, ysákkir tímmu",
+    "arabic": "سكّر تِمّو، يْسكِّر تِمّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-79.mp3"
+  },
+  {
+    "english": "tongue",
+    "transliteration": "lsēn",
+    "arabic": "لْسان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-80.mp3"
+  },
+  {
+    "english": "to taste",
+    "transliteration": "dāʔ, ydūʔ",
+    "arabic": "داق، يْدوق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-81.mp3"
+  },
+  {
+    "english": "Can you taste the mint in this dessert?",
+    "transliteration": "3am tɧiss b-ʈá3mi inná3na3 b-ha-lɧilu?",
+    "arabic": "عم تْحِسّ بْطعْمِة النّعْنع بْهالحِلو؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-82.mp3"
+  },
+  {
+    "english": "lip",
+    "transliteration": "šíffi (šfēf)",
+    "arabic": "شِفِّة (شْفاف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-83.mp3"
+  },
+  {
+    "english": "upper lip",
+    "transliteration": "ššíffi yálli fōʔ",
+    "arabic": "الشِّفِّة يَلْلي فوْق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-84.mp3"
+  },
+  {
+    "english": "lower lip",
+    "transliteration": "ššíffi yálli táɧit",
+    "arabic": "الشِّفِّة يَلْلي تحِت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-85.mp3"
+  },
+  {
+    "english": "thin lips",
+    "transliteration": "šfāf rfē3",
+    "arabic": "شْفاف رْفاع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-86.mp3"
+  },
+  {
+    "english": "full lips",
+    "transliteration": "šfāf milyēnīn",
+    "arabic": "شْفاف مِلْيانين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-87.mp3"
+  },
+  {
+    "english": "chapped (dry) lips",
+    "transliteration": "šfāf miʔašbīn",
+    "arabic": "شْفاف مِأشْبين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-88.mp3"
+  },
+  {
+    "english": "tooth",
+    "transliteration": "sinn (snēn)",
+    "arabic": "سِنّ (سْنان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-89.mp3"
+  },
+  {
+    "english": "gums",
+    "transliteration": "nīri",
+    "arabic": "نيرِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-90.mp3"
+  },
+  {
+    "english": "front teeth",
+    "transliteration": "snēn ʔidmēníyyi",
+    "arabic": "سْنان قِدْمانية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-91.mp3"
+  },
+  {
+    "english": "to bite",
+    "transliteration": "3aɖɖ, y3aɖɖ",
+    "arabic": "عضّ، يْعضّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-92.mp3"
+  },
+  {
+    "english": "molar",
+    "transliteration": "ɖúris (ɖrās)",
+    "arabic": "ضُرِس (ضْراس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-93.mp3"
+  },
+  {
+    "english": "to chew",
+    "transliteration": "3álak, yí3luk",
+    "arabic": "علك، يِعْلُك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-94.mp3"
+  },
+  {
+    "english": "to spit",
+    "transliteration": "bázaʔ, yíbzuʔ",
+    "arabic": "بزق، يِبْزُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-95.mp3"
+  },
+  {
+    "english": "spit, spittle",
+    "transliteration": "tfēfi",
+    "arabic": "تْفافِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-96.mp3"
+  },
+  {
+    "english": "saliva",
+    "transliteration": "bzāʔ",
+    "arabic": "بْزاق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-97.mp3"
+  },
+  {
+    "english": "to yawn",
+    "transliteration": "tēwab, ytēwab",
+    "arabic": "تاوب، يْتاوب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-98.mp3"
+  },
+  {
+    "english": "to cough",
+    "transliteration": "sá3al, yís3ul",
+    "arabic": "سعل، يِسْعُل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-99.mp3"
+  },
+  {
+    "english": "to burp, belch",
+    "transliteration": "ddášša, yiddášša",
+    "arabic": "تْدشّا، يِتْدشّا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-100.mp3"
+  },
+  {
+    "english": "bad breath",
+    "transliteration": "rīɧit timm bíš3a",
+    "arabic": "ريحِة تِمّ بِشْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-101.mp3"
+  },
+  {
+    "english": "tonsils",
+    "transliteration": "zal3ūm",
+    "arabic": "زلْعوم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-102.mp3"
+  },
+  {
+    "english": "neck",
+    "transliteration": "ráʔbi (rʔāb)",
+    "arabic": "رقْبِة (رْقاب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-103.mp3"
+  },
+  {
+    "english": "nape of the neck",
+    "transliteration": "ʔáfa ráʔbi",
+    "arabic": "قفا رقْبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-104.mp3"
+  },
+  {
+    "english": "throat",
+    "transliteration": "ɧálaʔ",
+    "arabic": "حلق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-105.mp3"
+  },
+  {
+    "english": "larynx",
+    "transliteration": "ɧúnjura (ɧanājir)",
+    "arabic": "حُنْجُرة (حناجِر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-106.mp3"
+  },
+  {
+    "english": "to breathe",
+    "transliteration": "tnáffas, yítnaffas",
+    "arabic": "تْنفّس، يِتْنفّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-107.mp3"
+  },
+  {
+    "english": "to take a deep breath",
+    "transliteration": "áxad [55] náfas 3amīʔ",
+    "arabic": "أخد نفس عميق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-108.mp3"
+  },
+  {
+    "english": "breathing",
+    "transliteration": "tanáffus",
+    "arabic": "تنفُّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-109.mp3"
+  },
+  {
+    "english": "to swallow",
+    "transliteration": "bála3, yíbla3",
+    "arabic": "بلع، يِبْلع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-110.mp3"
+  },
+  {
+    "english": "to choke",
+    "transliteration": "tšárdaʔ, yitšárdaʔ",
+    "arabic": "تْشرْدق، يِتْشرْدق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-111.mp3"
+  },
+  {
+    "english": "He started choking on a piece of food.",
+    "transliteration": "bállaš yitšárdaʔ b-líʔmit ákil.",
+    "arabic": "بلّش يِتْشرْدق بْلِقْمِة أكِل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-113.mp3"
+  },
+  {
+    "english": "hair",
+    "transliteration": "šá3ir",
+    "arabic": "شعِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-114.mp3"
+  },
+  {
+    "english": "dark brown hair",
+    "transliteration": "šá3ir bínni ɣāmiʔ",
+    "arabic": "شعِر بِنّي غامِق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-115.mp3"
+  },
+  {
+    "english": "dark brown hair",
+    "transliteration": "šá3ir kastanēʔi",
+    "arabic": "شعِر كسْتنائي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-116.mp3"
+  },
+  {
+    "english": "light brown hair",
+    "transliteration": "šá3ir bínni fētiɧ",
+    "arabic": "شعِر بِنّي فاتِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-117.mp3"
+  },
+  {
+    "english": "blond hair",
+    "transliteration": "šá3ir ášʔar",
+    "arabic": "شعْر أشْقر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-118.mp3"
+  },
+  {
+    "english": "black hair",
+    "transliteration": "šá3ir áswad",
+    "arabic": "شعِر أسْوَد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-119.mp3"
+  },
+  {
+    "english": "red hair",
+    "transliteration": "šá3ir áɧmar",
+    "arabic": "شعِر أحْمر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-120.mp3"
+  },
+  {
+    "english": "gray hair",
+    "transliteration": "šá3ir rmēdi",
+    "arabic": "شعِر رْمادي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-121.mp3"
+  },
+  {
+    "english": "white hair",
+    "transliteration": "šá3ir ábyaɖ",
+    "arabic": "شعِر أبْيَض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-122.mp3"
+  },
+  {
+    "english": "to dye one’s hair",
+    "transliteration": "ʂábaɣ šá3ru, yíʂbuɣ šá3ru",
+    "arabic": "صبغ شعْرو، يِصْبُغ شعْرو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-123.mp3"
+  },
+  {
+    "english": "She dyes her hair blond.",
+    "transliteration": "btíʂbuɣ šá3ra ášʔar.",
+    "arabic": "بْتِصْبُغ شعْرا أشْقر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-124.mp3"
+  },
+  {
+    "english": "She’s a natural blond.",
+    "transliteration": "šá3ra ášʔar ʈabī3i.",
+    "arabic": "شعْرا أشْقر طبيعي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-125.mp3"
+  },
+  {
+    "english": "long hair",
+    "transliteration": "šá3ir ʈawīl",
+    "arabic": "شعِر طَويل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-126.mp3"
+  },
+  {
+    "english": "short hair",
+    "transliteration": "šá3ir ʔaʂīr",
+    "arabic": "شعِر قصير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-127.mp3"
+  },
+  {
+    "english": "shoulder-length hair",
+    "transliteration": "ʈūl iššá3ir la-lkitif",
+    "arabic": "طول الشّعِر للكِتِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-128.mp3"
+  },
+  {
+    "english": "straight hair",
+    "transliteration": "šá3ir nē3im",
+    "arabic": "شعِر ناعِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-129.mp3"
+  },
+  {
+    "english": "curly hair",
+    "transliteration": "šá3ir kírli",
+    "arabic": "شعِر كيرْلي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-130.mp3"
+  },
+  {
+    "english": "wavy hair",
+    "transliteration": "šá3ir mmáwwaj",
+    "arabic": "شعِر مْموّج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-131.mp3"
+  },
+  {
+    "english": "She has long beautiful straight brown hair.",
+    "transliteration": "šá3ra ʈawīl u ɧílu u nē3im u bínni.",
+    "arabic": "شعْرا طويل وحِلو وناعِم وبِنّي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-132.mp3"
+  },
+  {
+    "english": "to comb/brush one’s hair",
+    "transliteration": "máššaʈ šá3ru, ymáššiʈ šá3ru",
+    "arabic": "مشّط شعْرو، يْمشّط شعْرو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-133.mp3"
+  },
+  {
+    "english": "to get a haircut",
+    "transliteration": "ʔaʂʂ [55] šá3ru",
+    "arabic": "قصّ شعْرو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-135.mp3"
+  },
+  {
+    "english": "bald",
+    "transliteration": "áʂla3",
+    "arabic": "أصْلع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-136.mp3"
+  },
+  {
+    "english": "to go bald",
+    "transliteration": "ʂār [55] áʂla3",
+    "arabic": "صار أصْلع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-137.mp3"
+  },
+  {
+    "english": "sideburns",
+    "transliteration": "sawēlif",
+    "arabic": "سَوالِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-138.mp3"
+  },
+  {
+    "english": "pony-tail",
+    "transliteration": "rbūʈ iššá3r mítil dánab liɧʂān",
+    "arabic": "رْبوط الشّعْر مِتِل دنب الحْصان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-139.mp3"
+  },
+  {
+    "english": "braids",
+    "transliteration": "rábʈa",
+    "arabic": "ربْطة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-140.mp3"
+  },
+  {
+    "english": "She wears her hair in braids.",
+    "transliteration": "btúrbuʈšá3ra b-irrabʈa.",
+    "arabic": "بتُربُط شعْرا بِالرّبْطة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-141.mp3"
+  },
+  {
+    "english": "bun",
+    "transliteration": "ká3ki",
+    "arabic": "كعْكِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-142.mp3"
+  },
+  {
+    "english": "She usually wears her hair in a bun.",
+    "transliteration": "bi-l3ādi bitɖúbb šá3ra ká3ki.",
+    "arabic": "بِالعادِة بِتْضُبّ شعْرا كعْكِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-143.mp3"
+  },
+  {
+    "english": "bangs",
+    "transliteration": "ɣúrra",
+    "arabic": "غُرّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-144.mp3"
+  },
+  {
+    "english": "You look good with bangs.",
+    "transliteration": "šáklik ɧílu b-ilɣúrra.",
+    "arabic": "شكْلِك حِلو بِالغُرّة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-145.mp3"
+  },
+  {
+    "english": "wig, toupee",
+    "transliteration": "pōstīj",
+    "arabic": "بوْسْتيج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-146.mp3"
+  },
+  {
+    "english": "You can tell he wears a toupee.",
+    "transliteration": "šáklu ɧātiʈ pōstīj.",
+    "arabic": "شكْلو حاتِط بوْسْتيج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-147.mp3"
+  },
+  {
+    "english": "beard",
+    "transliteration": "dáʔin (dʔūn)",
+    "arabic": "دقِن (دْقون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-148.mp3"
+  },
+  {
+    "english": "mustache",
+    "transliteration": "šērib (šwērib)",
+    "arabic": "شارِب (شْوارِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-149.mp3"
+  },
+  {
+    "english": "He has a beard and mustache.",
+    "transliteration": "3āmil dáʔin u šwērib.",
+    "arabic": "عامِل دقِن وشْوارِب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-150.mp3"
+  },
+  {
+    "english": "goatee",
+    "transliteration": "saksūki",
+    "arabic": "سكْسوكِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-151.mp3"
+  },
+  {
+    "english": "to trim one’s beard",
+    "transliteration": "zábbaʈ dáʔnu, yzábbiʈ dáʔnu",
+    "arabic": "زبّط دقْنو، يْزبِّط دقْنو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-152.mp3"
+  },
+  {
+    "english": "to shave",
+    "transliteration": "ɧálaʔ, yíɧluʔ",
+    "arabic": "حلق، يِحْلُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-153.mp3"
+  },
+  {
+    "english": "He shaves every morning.",
+    "transliteration": "yíɧluʔ kill yōm iʂʂúbuɧ.",
+    "arabic": "يِحْلُق كِلّ يوْم الصُّبُح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-154.mp3"
+  },
+  {
+    "english": "clean-shaven",
+    "transliteration": "ɧalīʔ iddáʔin",
+    "arabic": "حليق الدّقِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-155.mp3"
+  },
+  {
+    "english": "stubble",
+    "transliteration": "dáʔin xafīfi",
+    "arabic": "دقِن خفيفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-156.mp3"
+  },
+  {
+    "english": "skin",
+    "transliteration": "jílid",
+    "arabic": "جِلِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-157.mp3"
+  },
+  {
+    "english": "skin",
+    "transliteration": "bášra",
+    "arabic": "بشْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-158.mp3"
+  },
+  {
+    "english": "pimple, blemish",
+    "transliteration": "ɧábbi",
+    "arabic": "حبِّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-159.mp3"
+  },
+  {
+    "english": "I have a huge pimple on my chin!",
+    "transliteration": "3índi ɧábbi kbīri b-dáʔni.",
+    "arabic": "عِنْدي حبِّة كْبيرِة بْدقْني.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-160.mp3"
+  },
+  {
+    "english": "acne",
+    "transliteration": "ɧabb iššabēb",
+    "arabic": "حبّ الشّباب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-161.mp3"
+  },
+  {
+    "english": "As a teenager, he had a lot of acne.",
+    "transliteration": "kēn 3índuɧabb iššabēb lámma kēn b-3úmur ilmurāhaqa.",
+    "arabic": "كان عِنْدو حبّ الشّباب لمّا كان بْعُمُر المُراهقة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-162.mp3"
+  },
+  {
+    "english": "bad (blemished) skin",
+    "transliteration": "bášra ta3bāni",
+    "arabic": "بشْرة تعْبانِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-163.mp3"
+  },
+  {
+    "english": "a good complexion",
+    "transliteration": "bášra ʂāfyi",
+    "arabic": "بشْرة صاْفْية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-164.mp3"
+  },
+  {
+    "english": "fair-skinned",
+    "transliteration": "ábyaɖ, báyɖa (bīɖ)",
+    "arabic": "أبْيَض، بَيْضا (بيض)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-165.mp3"
+  },
+  {
+    "english": "dark-skinned",
+    "transliteration": "ásmar, sámra (súmur)",
+    "arabic": "أسْمر، سمْرا (سُمُر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-166.mp3"
+  },
+  {
+    "english": "oily skin",
+    "transliteration": "bášra díhníyyi",
+    "arabic": "بشْرة دِهْنية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-167.mp3"
+  },
+  {
+    "english": "dry skin",
+    "transliteration": "bášra jēffi",
+    "arabic": "بشْرة جافِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-168.mp3"
+  },
+  {
+    "english": "to put on lotion",
+    "transliteration": "dáhan krēm",
+    "arabic": "دهن كْريْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-169.mp3"
+  },
+  {
+    "english": "to put on sunscreen",
+    "transliteration": "dáhan ēkrã, yídhan ēkrã",
+    "arabic": "دهن أيْكْرون، يِدْهن أيْكْرون",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-170.mp3"
+  },
+  {
+    "english": "freckles",
+    "transliteration": "námaš",
+    "arabic": "نمش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-171.mp3"
+  },
+  {
+    "english": "She has a lot of freckles.",
+    "transliteration": "3índa námaš ktīr.",
+    "arabic": "عِنْدا نمش كْتير.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-172.mp3"
+  },
+  {
+    "english": "mole, birthmark",
+    "transliteration": "wáɧmi",
+    "arabic": "وَحْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-173.mp3"
+  },
+  {
+    "english": "wrinkles",
+    "transliteration": "tajā3īd",
+    "arabic": "تجاعيد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-174.mp3"
+  },
+  {
+    "english": "You get wrinkles as you get older.",
+    "transliteration": "kíllma tíkbar biʂīr 3índak tajā3īd áktar.",
+    "arabic": "كِلّْما تِكْبر بيصير عِنْدك تجاعيد أكْتر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-175.mp3"
+  },
+  {
+    "english": "scar",
+    "transliteration": "náddbi",
+    "arabic": "ندّْبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-176.mp3"
+  },
+  {
+    "english": "tattoo",
+    "transliteration": "tātū",
+    "arabic": "تاتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-177.mp3"
+  },
+  {
+    "english": "He has a tattoo on his left arm.",
+    "transliteration": "3āmil tātū 3ála īdu liysār.",
+    "arabic": "عامِل تاتو على إيدو الِيْسار.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-178.mp3"
+  },
+  {
+    "english": "Do you have any tattoos?",
+    "transliteration": "rēsim šī tātū?",
+    "arabic": "ريْسِم شي تاتو؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-179.mp3"
+  },
+  {
+    "english": "arm; hand",
+    "transliteration": "īd (ayēdi)",
+    "arabic": "إيد (أيادِة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-180.mp3"
+  },
+  {
+    "english": "What’s in your hand?",
+    "transliteration": "šū fī b-īdak?",
+    "arabic": "شو في بْإيدك؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-181.mp3"
+  },
+  {
+    "english": "They’re all wearing watches on their wrists.",
+    "transliteration": "kíllun lēbsīn sē3ēt b-īdayun.",
+    "arabic": "كِلُّن لابْسين ساعات بْإيديُن.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-182.mp3"
+  },
+  {
+    "english": "elbow",
+    "transliteration": "kū3",
+    "arabic": "كوع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-183.mp3"
+  },
+  {
+    "english": "armpit",
+    "transliteration": "bāʈ",
+    "arabic": "باط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-184.mp3"
+  },
+  {
+    "english": "to sweat",
+    "transliteration": "3íriʔ, yí3raʔ",
+    "arabic": "عِرِق، يِعْرق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-185.mp3"
+  },
+  {
+    "english": "sweaty",
+    "transliteration": "3arʔān",
+    "arabic": "عرْقان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-186.mp3"
+  },
+  {
+    "english": "He was very sweaty after playing soccer.",
+    "transliteration": "ktīr kēn 3arʔān ba3d ilgōl.",
+    "arabic": "كْتير كان عرْقان بعْد الغوْل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-187.mp3"
+  },
+  {
+    "english": "finger",
+    "transliteration": "úʂba3 (aʂābī3)",
+    "arabic": "أُصْبع (أصابيع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-188.mp3"
+  },
+  {
+    "english": "finger print",
+    "transliteration": "báʂmi",
+    "arabic": "بصْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-189.mp3"
+  },
+  {
+    "english": "thumb",
+    "transliteration": "ákbar úʂba3",
+    "arabic": "أكْبر أُصْبع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-190.mp3"
+  },
+  {
+    "english": "index finger",
+    "transliteration": "tēni úʂba3",
+    "arabic": "تاني أُصْبع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-191.mp3"
+  },
+  {
+    "english": "middle finger",
+    "transliteration": "úʂba3 ilwásaʈ",
+    "arabic": "أُصْبع الوَسط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-192.mp3"
+  },
+  {
+    "english": "ring finger",
+    "transliteration": "úʂba3 ilxātim",
+    "arabic": "أُصْبع الخاتِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-193.mp3"
+  },
+  {
+    "english": "little finger, pinky",
+    "transliteration": "xúnʂur",
+    "arabic": "خُنْصُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-194.mp3"
+  },
+  {
+    "english": "finger nail",
+    "transliteration": "ɖúfir",
+    "arabic": "ضُفِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-195.mp3"
+  },
+  {
+    "english": "palm",
+    "transliteration": "kaff",
+    "arabic": "كفّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-196.mp3"
+  },
+  {
+    "english": "back of the hand",
+    "transliteration": "ɖáhir ilkaff",
+    "arabic": "ضهِر الكفّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-197.mp3"
+  },
+  {
+    "english": "ball of the hand",
+    "transliteration": "báʈun ilkaff",
+    "arabic": "بطُن الكفّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-198.mp3"
+  },
+  {
+    "english": "joint; knuckles; wrist",
+    "transliteration": "máfʂal",
+    "arabic": "مفْصل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-199.mp3"
+  },
+  {
+    "english": "to make a fist",
+    "transliteration": "3ímil [55] īdu bōks",
+    "arabic": "عِمِل إيدو بوْكْس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-200.mp3"
+  },
+  {
+    "english": "to extend one’s fingers",
+    "transliteration": "madd aʂābī3u, ymidd aʂābī3u",
+    "arabic": "مدّ أصابيعو، يْمِدّ أصابيعو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-201.mp3"
+  },
+  {
+    "english": "to hold, grip",
+    "transliteration": "másak, yímsuk",
+    "arabic": "مسك، يِمْسُك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-202.mp3"
+  },
+  {
+    "english": "to point to",
+    "transliteration": "dall 3a, ydill 3a",
+    "arabic": "دلّ ع، يْدِلّ ع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-203.mp3"
+  },
+  {
+    "english": "He pointed at the clock.",
+    "transliteration": "dall 3a-ssē3a.",
+    "arabic": "دلّ عالسّاعة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-204.mp3"
+  },
+  {
+    "english": "leg, foot",
+    "transliteration": "íjir (jrayyēt) [f.]",
+    "arabic": "إجِر (جْريّات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-205.mp3"
+  },
+  {
+    "english": "thigh",
+    "transliteration": "fxād",
+    "arabic": "فْخاد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-206.mp3"
+  },
+  {
+    "english": "shin",
+    "transliteration": "ʔáʂbit íjir",
+    "arabic": "قصْبِة إجِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-207.mp3"
+  },
+  {
+    "english": "calf",
+    "transliteration": "báʈʈit íjir",
+    "arabic": "بطِّة إجِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-208.mp3"
+  },
+  {
+    "english": "knee",
+    "transliteration": "ríkbi (ríkab)",
+    "arabic": "رِكْبِة (رِكب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-209.mp3"
+  },
+  {
+    "english": "ankle",
+    "transliteration": "kēɧil (kɧūl)",
+    "arabic": "كاحِل (كْحول)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-210.mp3"
+  },
+  {
+    "english": "sole",
+    "transliteration": "bāʈin íjir",
+    "arabic": "باطِن إجِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-211.mp3"
+  },
+  {
+    "english": "heel",
+    "transliteration": "ká3ib (k3ūb)",
+    "arabic": "كعِب (كْعوب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-212.mp3"
+  },
+  {
+    "english": "toe",
+    "transliteration": "úʂba3 íjir",
+    "arabic": "أُصْبع إجِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-213.mp3"
+  },
+  {
+    "english": "shoulder",
+    "transliteration": "kítif (ktēf)",
+    "arabic": "كِتِف (كْتاف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-214.mp3"
+  },
+  {
+    "english": "broad shoulders",
+    "transliteration": "ktēf 3rāɖ",
+    "arabic": "كْتاف عْراض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-215.mp3"
+  },
+  {
+    "english": "chest, bosom",
+    "transliteration": "ʂúdir (ʂdūr)",
+    "arabic": "صُدِر (صْدور)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-216.mp3"
+  },
+  {
+    "english": "flat chested",
+    "transliteration": "ʂúdir msáʈʈaɧ",
+    "arabic": "صُدِر مْسطّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-217.mp3"
+  },
+  {
+    "english": "abdomen, belly",
+    "transliteration": "báʈin (bʈūn)",
+    "arabic": "بطِن (بْطون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-218.mp3"
+  },
+  {
+    "english": "back",
+    "transliteration": "ɖáhir (ɖhūr)",
+    "arabic": "ضهِر (ضْهور)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-219.mp3"
+  },
+  {
+    "english": "waist, hips",
+    "transliteration": "xásir (xsūr)",
+    "arabic": "خسِر (خْسور)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-220.mp3"
+  },
+  {
+    "english": "navel, belly button",
+    "transliteration": "ʂírra",
+    "arabic": "صِرّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-221.mp3"
+  },
+  {
+    "english": "internal organs",
+    "transliteration": "l3úɖu ddēxili (lʔa3ɖāʔ ildēxilíyyi)",
+    "arabic": "العُضو الدّاخِلي (الأعْضاء الدّاخِلية)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-222.mp3"
+  },
+  {
+    "english": "stomach",
+    "transliteration": "mí3di (mí3ad)",
+    "arabic": "مِعْدِة (مِعد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-223.mp3"
+  },
+  {
+    "english": "intestines, bowels",
+    "transliteration": "muʂrān (mʂārīn)",
+    "arabic": "مُصْران (مْصارين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-224.mp3"
+  },
+  {
+    "english": "lung",
+    "transliteration": "ríʔa (riyēt)",
+    "arabic": "رِئة (رِيات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-225.mp3"
+  },
+  {
+    "english": "heart",
+    "transliteration": "ʔálib (ʔlūb)",
+    "arabic": "قلِب (قْلوب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-226.mp3"
+  },
+  {
+    "english": "to beat, palpitate",
+    "transliteration": "daʔʔ, ydiʔʔ",
+    "arabic": "دقّ، يْدِقّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-227.mp3"
+  },
+  {
+    "english": "to beat, palpitate",
+    "transliteration": "nábaɖ, yínbuɖ",
+    "arabic": "نبض، يِنْبُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-228.mp3"
+  },
+  {
+    "english": "heart beat, pulse",
+    "transliteration": "dáʔʔit ilʔálib",
+    "arabic": "دقِّة القلِب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-229.mp3"
+  },
+  {
+    "english": "liver",
+    "transliteration": "kíbid (akbēd)",
+    "arabic": "كِبِد (أكْباد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-230.mp3"
+  },
+  {
+    "english": "kidney",
+    "transliteration": "kílyi (kalāwi)",
+    "arabic": "كِلْية (كلاوي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-231.mp3"
+  },
+  {
+    "english": "bladder",
+    "transliteration": "mabūli",
+    "arabic": "مبولِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-232.mp3"
+  },
+  {
+    "english": "gall-bladder",
+    "transliteration": "mrāra",
+    "arabic": "مْرارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-233.mp3"
+  },
+  {
+    "english": "gland",
+    "transliteration": "ɣíddi (ɣídad)",
+    "arabic": "غِدِّة (غِدد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-234.mp3"
+  },
+  {
+    "english": "thyroid gland",
+    "transliteration": "ɣíddi duraqíyyi",
+    "arabic": "غِدِّة دُرقية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-235.mp3"
+  },
+  {
+    "english": "bone",
+    "transliteration": "3áɖmi (3ɖām)",
+    "arabic": "عضْمِة (عْضام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-236.mp3"
+  },
+  {
+    "english": "skeleton",
+    "transliteration": "hēkal 3áʐmi (hayēkil 3aʐmíyyi)",
+    "arabic": "هيْكل عظْمي (هَياكِل عظْمية)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-237.mp3"
+  },
+  {
+    "english": "spine",
+    "transliteration": "3āmūd fíqari (3awāmīd fiqaríyyi)",
+    "arabic": "عامود فِقري (عواميد فِقرية)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-238.mp3"
+  },
+  {
+    "english": "rib",
+    "transliteration": "ɖíli3 (ɖlū3)",
+    "arabic": "ضِلِع (ضْلوع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-239.mp3"
+  },
+  {
+    "english": "muscle",
+    "transliteration": "3áɖal",
+    "arabic": "عضل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-240.mp3"
+  },
+  {
+    "english": "vein",
+    "transliteration": "warīd (áwridi)",
+    "arabic": "وَريد (أَوْرِدِة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-241.mp3"
+  },
+  {
+    "english": "artery",
+    "transliteration": "širyēn (šarāyīn)",
+    "arabic": "شِرْيان (شرايين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-242.mp3"
+  },
+  {
+    "english": "artery",
+    "transliteration": "3íriʔ (3rūʔ)",
+    "arabic": "عِرِق (عْروق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-243.mp3"
+  },
+  {
+    "english": "blood",
+    "transliteration": "damm",
+    "arabic": "دمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-244.mp3"
+  },
+  {
+    "english": "nerve",
+    "transliteration": "3áʂab (a3ʂāb)",
+    "arabic": "عصب (أعْصاب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-245.mp3"
+  },
+  {
+    "english": "sexual organs, private parts",
+    "transliteration": "a3ɖāʔ tanēsulíyyi [pl.]",
+    "arabic": "أعْضاء تناسُلية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-246.mp3"
+  },
+  {
+    "english": "scrotum, testicles",
+    "transliteration": "kīs ʂúfun (akyēs aʂfān)",
+    "arabic": "كيس صُفُن (أكْياس أصْفان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-247.mp3"
+  },
+  {
+    "english": "naked, bare",
+    "transliteration": "miš lēbis šī",
+    "arabic": "مِش لابِس شي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-248.mp3"
+  },
+  {
+    "english": "naked, bare",
+    "transliteration": "3aryēn",
+    "arabic": "عرْيان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-249.mp3"
+  },
+  {
+    "english": "buttocks, bottom, posterior",
+    "transliteration": "muʔáxxira",
+    "arabic": "مُؤخِّرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-250.mp3"
+  },
+  {
+    "english": "bottom",
+    "transliteration": "min wára",
+    "arabic": "مِن وَرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-251.mp3"
+  },
+  {
+    "english": "anus",
+    "transliteration": "šarij",
+    "arabic": "شرِج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-252.mp3"
+  },
+  {
+    "english": "to urinate",
+    "transliteration": "tbáwwal, yitbáwwal",
+    "arabic": "تْبوّل، يِتْبوّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-253.mp3"
+  },
+  {
+    "english": "urine",
+    "transliteration": "bōl",
+    "arabic": "بوْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-254.mp3"
+  },
+  {
+    "english": "to pee",
+    "transliteration": "3ímil [55] pīpī",
+    "arabic": "عِمِل بيبي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-255.mp3"
+  },
+  {
+    "english": "to defecate",
+    "transliteration": "tbáraz, yitbáraz",
+    "arabic": "تْبرز، يِتْبرز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-256.mp3"
+  },
+  {
+    "english": "excrement, feces",
+    "transliteration": "burāz",
+    "arabic": "بُراز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-257.mp3"
+  },
+  {
+    "english": "to poo, poop",
+    "transliteration": "3ímil [55] kākā",
+    "arabic": "عِمِل كاكا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-258.mp3"
+  },
+  {
+    "english": "to go to the bathroom",
+    "transliteration": "rāɧ [55] 3a-ttwālētt",
+    "arabic": "راح عالتْواليْتّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-259.mp3"
+  },
+  {
+    "english": "I need to go to the bathroom.",
+    "transliteration": "báddi rūɧ 3a-ttwālētt.",
+    "arabic": "بِدّي روح عالتّْواليْتّ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-260.mp3"
+  },
+  {
+    "english": "I need to go to the bathroom.",
+    "transliteration": "báddi rūɧ 3a-lɧammēm.",
+    "arabic": "بدّي روح عالحمّام.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-261.mp3"
+  },
+  {
+    "english": "to pass gas, break wind",
+    "transliteration": "ʈálla3 [55] rīɧ",
+    "arabic": "طلّع ريح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-262.mp3"
+  },
+  {
+    "english": "height",
+    "transliteration": "ʈūl",
+    "arabic": "طول",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-263.mp3"
+  },
+  {
+    "english": "tall",
+    "transliteration": "ʈawīl (ʈwāl)",
+    "arabic": "طَويِل (طْوال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-264.mp3"
+  },
+  {
+    "english": "average height",
+    "transliteration": "ʈūlu mú3tadil",
+    "arabic": "طولو مُعْتدِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-265.mp3"
+  },
+  {
+    "english": "short",
+    "transliteration": "ʔaʂīr (ʔʂār)",
+    "arabic": "قصير (قْصار)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-266.mp3"
+  },
+  {
+    "english": "How tall are you?",
+    "transliteration": "ʔaddē ʈūlak?",
+    "arabic": "قدّيْ طولك؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-267.mp3"
+  },
+  {
+    "english": "I’m 1.75 meters tall.",
+    "transliteration": "ʈūli míyyi u xámsi u sab3īn sánti.",
+    "arabic": "طولي مية وخمْسِة وسبْعين سنْتي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-268.mp3"
+  },
+  {
+    "english": "weight",
+    "transliteration": "wázin (awzēn)",
+    "arabic": "وَزِن (أَوْزان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-269.mp3"
+  },
+  {
+    "english": "How much do you weigh?",
+    "transliteration": "ʔaddē wáznak?",
+    "arabic": "قدّيْ وَزْنك؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-270.mp3"
+  },
+  {
+    "english": "I weigh 70 kg.",
+    "transliteration": "wázni sab3īn kīlu.",
+    "arabic": "وَزْني سبْعين كيلو.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-271.mp3"
+  },
+  {
+    "english": "one’s build, body shape",
+    "transliteration": "šákil jísim",
+    "arabic": "شكِل جِسِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-272.mp3"
+  },
+  {
+    "english": "fat",
+    "transliteration": "núʂiɧ (nāʂɧīn)",
+    "arabic": "نُصِح (ناصْحين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-273.mp3"
+  },
+  {
+    "english": "fat",
+    "transliteration": "ʈúxin (ʈxān)",
+    "arabic": "طُخِن (طْخان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-274.mp3"
+  },
+  {
+    "english": "to get fat",
+    "transliteration": "níʂiɧ, yínʂaɧ",
+    "arabic": "نِصِح، يِنْصح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-275.mp3"
+  },
+  {
+    "english": "to get fat",
+    "transliteration": "ʈíxin, yíʈxan",
+    "arabic": "طِخِن، يِطْخن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-276.mp3"
+  },
+  {
+    "english": "Don’t overeat so you don’t get fat.",
+    "transliteration": "mā tēkul ktīr ɧátta mā tíʈxan.",
+    "arabic": "ما تاكُل كْتير حتّى ما تِطْخن.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-277.mp3"
+  },
+  {
+    "english": "overweight",
+    "transliteration": "wázin fōʔ ilm3áddal",
+    "arabic": "وَزِن فوْق المْعدّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-278.mp3"
+  },
+  {
+    "english": "chubby, plump, stout",
+    "transliteration": "milyēn",
+    "arabic": "مِلْيان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-279.mp3"
+  },
+  {
+    "english": "average weight",
+    "transliteration": "wázin ʂúɧɧi",
+    "arabic": "وزِن صُحِّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-280.mp3"
+  },
+  {
+    "english": "thin",
+    "transliteration": "rfī3",
+    "arabic": "رْفيع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-281.mp3"
+  },
+  {
+    "english": "skinny",
+    "transliteration": "m3áɖɖam",
+    "arabic": "مْعضّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-282.mp3"
+  },
+  {
+    "english": "one’s looks",
+    "transliteration": "šáklu",
+    "arabic": "شكْلو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-283.mp3"
+  },
+  {
+    "english": "good-looking; handsome; beautiful, pretty",
+    "transliteration": "ɧílu mráttab",
+    "arabic": "حِلو مْرتّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-284.mp3"
+  },
+  {
+    "english": "cute",
+    "transliteration": "nē3im",
+    "arabic": "ناعِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-285.mp3"
+  },
+  {
+    "english": "My God, those girls are so cute!",
+    "transliteration": "ha-lbanēt šū nē3mīn!",
+    "arabic": "هالْبنات شو ناعْمين!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-286.mp3"
+  },
+  {
+    "english": "ugly",
+    "transliteration": "bíši3",
+    "arabic": "بِشِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-287.mp3"
+  },
+  {
+    "english": "average-looking",
+    "transliteration": "jamēl 3ādi",
+    "arabic": "جمال عادي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav05-288.mp3"
+  },
+  {
+    "english": "breast, boob",
+    "transliteration": "bizz (bzāz)*",
+    "arabic": "بِزّ (بْزاز)",
+    "audioUrl": ""
+  },
+  {
+    "english": "nipple",
+    "transliteration": "ɧálmi*",
+    "arabic": "حلْمِة",
+    "audioUrl": ""
+  },
+  {
+    "english": "penis",
+    "transliteration": "ʔaɖīb (ʔiɖbēn)*",
+    "arabic": "قضيب (قِضْبان)",
+    "audioUrl": ""
+  },
+  {
+    "english": "dick, cock",
+    "transliteration": "zibb (azbēb)*",
+    "arabic": "زِبّ (أزْباب)",
+    "audioUrl": ""
+  },
+  {
+    "english": "dick, cock",
+    "transliteration": "zíbir (azbār)*",
+    "arabic": "زِبِر (أزْبار)",
+    "audioUrl": ""
+  },
+  {
+    "english": "to get an erection",
+    "transliteration": "ntáʂab, yintáʂab*",
+    "arabic": "نْتصب، يِنْتصب",
+    "audioUrl": ""
+  },
+  {
+    "english": "erection",
+    "transliteration": "intiʂāb*",
+    "arabic": "إنْتِصاب",
+    "audioUrl": ""
+  },
+  {
+    "english": "to get a boner",
+    "transliteration": "zíbbu wíʔif* [13]",
+    "arabic": "زِبّو وِقِف",
+    "audioUrl": ""
+  },
+  {
+    "english": "boner, hard-on",
+    "transliteration": "zibb wēʔif*",
+    "arabic": "زِبّ واقِف",
+    "audioUrl": ""
+  },
+  {
+    "english": "testicle",
+    "transliteration": "xíʂyi*",
+    "arabic": "خِصْية",
+    "audioUrl": ""
+  },
+  {
+    "english": "balls, nuts (scrotum)",
+    "transliteration": "xiʂyitīn* [pl.]",
+    "arabic": "خِصْيِتين",
+    "audioUrl": ""
+  },
+  {
+    "english": "vagina",
+    "transliteration": "máhbal (mahēbil)*",
+    "arabic": "مهْبل (مهابِل)",
+    "audioUrl": ""
+  },
+  {
+    "english": "‘girl parts’",
+    "transliteration": "máʈraɧ táɧit la-lbanēt*",
+    "arabic": "مطْرح تحِت للْبنات",
+    "audioUrl": ""
+  },
+  {
+    "english": "pussy",
+    "transliteration": "kiss (iksēs)*",
+    "arabic": "كِسّ (إكْساس)",
+    "audioUrl": ""
+  },
+  {
+    "english": "ass, butt",
+    "transliteration": "ʈīz (ʈyēz)*",
+    "arabic": "طيز (طْياز)",
+    "audioUrl": ""
+  },
+  {
+    "english": "ass hole",
+    "transliteration": "fátɧit ʈīz*",
+    "arabic": "فتْحِة طيْز",
+    "audioUrl": ""
+  },
+  {
+    "english": "to piss, take a piss",
+    "transliteration": "šaxx, yšaxx*",
+    "arabic": "شخّ، يْشخّ",
+    "audioUrl": ""
+  },
+  {
+    "english": "to pee (while standing)",
+    "transliteration": "fántar, yfántar*",
+    "arabic": "فنْتر، يِفنْتر",
+    "audioUrl": ""
+  },
+  {
+    "english": "shit",
+    "transliteration": "xára*",
+    "arabic": "خرى",
+    "audioUrl": ""
+  },
+  {
+    "english": "to fart",
+    "transliteration": "ɖárraʈ, yɖárraʈ*",
+    "arabic": "ضرّط، يْضرّط",
+    "audioUrl": ""
+  },
+  {
+    "english": "fart",
+    "transliteration": "ɖárʈa*",
+    "arabic": "ضرْطة",
+    "audioUrl": ""
+  }
+]

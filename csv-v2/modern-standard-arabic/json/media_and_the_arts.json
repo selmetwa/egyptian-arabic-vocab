@@ -1,0 +1,1347 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "art",
+    "transliteration": "fann",
+    "arabic": "فن"
+  },
+  {
+    "english": "arts",
+    "transliteration": "funuun",
+    "arabic": "فنون"
+  },
+  {
+    "english": "artist ",
+    "transliteration": "fannaan",
+    "arabic": "فنان"
+  },
+  {
+    "english": "drawing",
+    "transliteration": "rasm",
+    "arabic": "رسم"
+  },
+  {
+    "english": "drawings",
+    "transliteration": "rusuum",
+    "arabic": "رسوم"
+  },
+  {
+    "english": "painter",
+    "transliteration": "rassaam",
+    "arabic": "رسام"
+  },
+  {
+    "english": "paint",
+    "transliteration": "Tilaa'",
+    "arabic": "طلاء"
+  },
+  {
+    "english": "paints",
+    "transliteration": "dihaanat",
+    "arabic": "دهانات"
+  },
+  {
+    "english": "charcoal",
+    "transliteration": "faHm",
+    "arabic": "فحم"
+  },
+  {
+    "english": "pottery",
+    "transliteration": "faxxaar",
+    "arabic": "فخار"
+  },
+  {
+    "english": "ceramics",
+    "transliteration": "xazaf",
+    "arabic": "خزف"
+  },
+  {
+    "english": "clay",
+    "transliteration": "SalSaal",
+    "arabic": "صلصال"
+  },
+  {
+    "english": "statue",
+    "transliteration": "timtaal",
+    "arabic": "تمثال"
+  },
+  {
+    "english": "statues",
+    "transliteration": "tamaatiil",
+    "arabic": "تماثيل"
+  },
+  {
+    "english": "mosaics",
+    "transliteration": "fuseifisaa'",
+    "arabic": "فسيفساء"
+  },
+  {
+    "english": "weaving",
+    "transliteration": "nasiij",
+    "arabic": "نسيج"
+  },
+  {
+    "english": "bellydance",
+    "transliteration": "raqS šarqi",
+    "arabic": "رقص شرقي"
+  },
+  {
+    "english": "music",
+    "transliteration": "muusiiqa",
+    "arabic": "موسيقى"
+  },
+  {
+    "english": "singer",
+    "transliteration": "muġannin",
+    "arabic": "مغنٍ"
+  },
+  {
+    "english": "band",
+    "transliteration": "firqa",
+    "arabic": "فرقة"
+  },
+  {
+    "english": "bands",
+    "transliteration": "firaq",
+    "arabic": "فرق"
+  },
+  {
+    "english": "choir",
+    "transliteration": "jooqa",
+    "arabic": "جوقة"
+  },
+  {
+    "english": "choirs",
+    "transliteration": "jooqaat",
+    "arabic": "جوقات"
+  },
+  {
+    "english": "lead singer",
+    "transliteration": "muġannin ra'iisi",
+    "arabic": "مغنٍ رئيسي"
+  },
+  {
+    "english": "composer",
+    "transliteration": "mulaHHin",
+    "arabic": "ملحن"
+  },
+  {
+    "english": "song",
+    "transliteration": "uġniyya",
+    "arabic": "أغنية"
+  },
+  {
+    "english": "songs",
+    "transliteration": "aġaanin",
+    "arabic": "أغان"
+  },
+  {
+    "english": "verse",
+    "transliteration": "kobleih",
+    "arabic": "كوبليه"
+  },
+  {
+    "english": "verses",
+    "transliteration": "kobleihaat",
+    "arabic": "كوبليهات"
+  },
+  {
+    "english": "album",
+    "transliteration": "albuum",
+    "arabic": "ألبوم"
+  },
+  {
+    "english": "albums",
+    "transliteration": "albuumaat",
+    "arabic": "ألبومات"
+  },
+  {
+    "english": "tape",
+    "transliteration": "šariiT",
+    "arabic": "شريط"
+  },
+  {
+    "english": "tapes",
+    "transliteration": "šaraa'iT",
+    "arabic": "شرائط"
+  },
+  {
+    "english": "record",
+    "transliteration": "usTuwaana",
+    "arabic": "اسطوانة"
+  },
+  {
+    "english": "records",
+    "transliteration": "usTuwaanaat",
+    "arabic": "اسطوانات"
+  },
+  {
+    "english": "lyrics",
+    "transliteration": "kalimaat uġniyya/aġaanin",
+    "arabic": "كلمات أغنية | أغان"
+  },
+  {
+    "english": "melody",
+    "transliteration": "laHn",
+    "arabic": "لحن"
+  },
+  {
+    "english": "melodies",
+    "transliteration": "alHaan",
+    "arabic": "ألحان"
+  },
+  {
+    "english": "tune",
+    "transliteration": "naġm",
+    "arabic": "نغم"
+  },
+  {
+    "english": "tunes",
+    "transliteration": "anġaam",
+    "arabic": "أنغام"
+  },
+  {
+    "english": "music video",
+    "transliteration": "maqTa3",
+    "arabic": "مقطع"
+  },
+  {
+    "english": "music videos",
+    "transliteration": "maqaaTi3",
+    "arabic": "مقاطع"
+  },
+  {
+    "english": "screenshot",
+    "transliteration": "laqTa",
+    "arabic": "لقطة"
+  },
+  {
+    "english": "screenshots",
+    "transliteration": "laqaTaat",
+    "arabic": "لقطات"
+  },
+  {
+    "english": "tour",
+    "transliteration": "joola ġanaa'iyya",
+    "arabic": "جولة غنائية"
+  },
+  {
+    "english": "promotion",
+    "transliteration": "tarwiij",
+    "arabic": "ترويج"
+  },
+  {
+    "english": "concert",
+    "transliteration": "Hafla muusiiqiyya",
+    "arabic": "حفلة موسيقية"
+  },
+  {
+    "english": "fans",
+    "transliteration": "jumhuur",
+    "arabic": "جمهور"
+  },
+  {
+    "english": "musical instrument",
+    "transliteration": "aala",
+    "arabic": "آلة"
+  },
+  {
+    "english": "musical instruments",
+    "transliteration": "aalaat muusiiqiyya",
+    "arabic": "آلات موسيقية"
+  },
+  {
+    "english": "violin",
+    "transliteration": "kamaan",
+    "arabic": "كمان"
+  },
+  {
+    "english": "violins",
+    "transliteration": "kamangaat",
+    "arabic": "كمنجات"
+  },
+  {
+    "english": "drum",
+    "transliteration": "Tabla",
+    "arabic": "طبلة"
+  },
+  {
+    "english": "drums",
+    "transliteration": "Tubal",
+    "arabic": "طبل"
+  },
+  {
+    "english": "oud ",
+    "transliteration": "3uud",
+    "arabic": "عود"
+  },
+  {
+    "english": "oud s",
+    "transliteration": "a3waad",
+    "arabic": "أعواد"
+  },
+  {
+    "english": "bamboo flute",
+    "transliteration": "naay",
+    "arabic": "ناي"
+  },
+  {
+    "english": "bamboo flutes",
+    "transliteration": "naayaat",
+    "arabic": "نايات"
+  },
+  {
+    "english": "voice ",
+    "transliteration": "Soot",
+    "arabic": "صوت"
+  },
+  {
+    "english": "voice s",
+    "transliteration": "aSwaat",
+    "arabic": "أصوات"
+  },
+  {
+    "english": "movie",
+    "transliteration": "film",
+    "arabic": "فيلم"
+  },
+  {
+    "english": "movies",
+    "transliteration": "aflaam",
+    "arabic": "أفلام"
+  },
+  {
+    "english": "actor",
+    "transliteration": "mumattil",
+    "arabic": "ممثل"
+  },
+  {
+    "english": "star",
+    "transliteration": "najm",
+    "arabic": "نجم"
+  },
+  {
+    "english": "stars",
+    "transliteration": "nujuum",
+    "arabic": "نجوم"
+  },
+  {
+    "english": "famous ",
+    "transliteration": "mašhuur",
+    "arabic": "مشهور"
+  },
+  {
+    "english": "famous s",
+    "transliteration": "mašaahiir ",
+    "arabic": "مشاهير "
+  },
+  {
+    "english": "supporting actor",
+    "transliteration": "mumattil musaa3id",
+    "arabic": "ممثل مساعد"
+  },
+  {
+    "english": "child star",
+    "transliteration": "najm Tifl",
+    "arabic": "نجم طفل"
+  },
+  {
+    "english": "director",
+    "transliteration": "muxrij",
+    "arabic": "مخرج"
+  },
+  {
+    "english": "producer",
+    "transliteration": "muntij",
+    "arabic": "منتج"
+  },
+  {
+    "english": "script",
+    "transliteration": "siinaariyo",
+    "arabic": "سيناريو"
+  },
+  {
+    "english": "scripts",
+    "transliteration": "siinaariyohaat",
+    "arabic": "سيناريوهات"
+  },
+  {
+    "english": "original screenplay",
+    "transliteration": "siinaariyo aSli",
+    "arabic": "سيناريو أصلي"
+  },
+  {
+    "english": "adapted screenplay",
+    "transliteration": "siinaariyo muqtabas",
+    "arabic": "سيناريو مقتبس"
+  },
+  {
+    "english": "special effects",
+    "transliteration": "mu'attiraat ",
+    "arabic": "مؤثرات "
+  },
+  {
+    "english": "sound effects",
+    "transliteration": "mu'attiraat Sootiyya",
+    "arabic": "مؤثرات صوتية"
+  },
+  {
+    "english": "visual effects",
+    "transliteration": "mu'attiraat baSariyya",
+    "arabic": "مؤثرات بصرية"
+  },
+  {
+    "english": "makeup",
+    "transliteration": "makyaaž",
+    "arabic": "مكياج"
+  },
+  {
+    "english": "cinematography",
+    "transliteration": "taSwiir",
+    "arabic": "تصوير"
+  },
+  {
+    "english": "editing",
+    "transliteration": "taHriir",
+    "arabic": "تحرير"
+  },
+  {
+    "english": "critic",
+    "transliteration": "naaqid",
+    "arabic": "ناقد"
+  },
+  {
+    "english": "critics",
+    "transliteration": "nuqqaad",
+    "arabic": "نقّاد"
+  },
+  {
+    "english": "review",
+    "transliteration": "muraaja3a",
+    "arabic": "مراجعة"
+  },
+  {
+    "english": "reviews",
+    "transliteration": "muraaja3aat",
+    "arabic": "مراجعات"
+  },
+  {
+    "english": "positive",
+    "transliteration": "iijaabi",
+    "arabic": "ايجابي"
+  },
+  {
+    "english": "negative",
+    "transliteration": "silbi",
+    "arabic": "سلبي"
+  },
+  {
+    "english": "rating (G",
+    "transliteration": "taSniif",
+    "arabic": "تصنيف"
+  },
+  {
+    "english": "assessment; rating ",
+    "transliteration": "taqyiim",
+    "arabic": "تقييم"
+  },
+  {
+    "english": "Oscar award",
+    "transliteration": "jaa'izat oscar",
+    "arabic": "جائزة"
+  },
+  {
+    "english": "Oscar awards",
+    "transliteration": "jawaa'iz oscar",
+    "arabic": "جوائز أوسكار"
+  },
+  {
+    "english": "starring...",
+    "transliteration": "buTuula",
+    "arabic": "بطولة"
+  },
+  {
+    "english": "role",
+    "transliteration": "door",
+    "arabic": "دور"
+  },
+  {
+    "english": "roles",
+    "transliteration": "adwaar",
+    "arabic": "أدوار"
+  },
+  {
+    "english": "performance",
+    "transliteration": "adaa'",
+    "arabic": "أداء"
+  },
+  {
+    "english": "performances",
+    "transliteration": "adaa'aat",
+    "arabic": "أداءات"
+  },
+  {
+    "english": "portrayal",
+    "transliteration": "tajsiid",
+    "arabic": "تجسيد"
+  },
+  {
+    "english": "showing",
+    "transliteration": "3arD",
+    "arabic": "عرض"
+  },
+  {
+    "english": "showings",
+    "transliteration": "3uruuD",
+    "arabic": "عروض"
+  },
+  {
+    "english": "character",
+    "transliteration": "šaxSiyya",
+    "arabic": "شخصية"
+  },
+  {
+    "english": "characters",
+    "transliteration": "šaxSiyyaat",
+    "arabic": "شخصيات"
+  },
+  {
+    "english": "hero",
+    "transliteration": "baTal",
+    "arabic": "بطل"
+  },
+  {
+    "english": "heroes",
+    "transliteration": "abTaal",
+    "arabic": "أبطال"
+  },
+  {
+    "english": "scene",
+    "transliteration": "mašhad",
+    "arabic": "مشهد"
+  },
+  {
+    "english": "scenes",
+    "transliteration": "mašaahid",
+    "arabic": "مشاهد"
+  },
+  {
+    "english": "revenue",
+    "transliteration": "iiraad",
+    "arabic": "ايراد"
+  },
+  {
+    "english": "revenues",
+    "transliteration": "iiraadaat",
+    "arabic": "ايرادات"
+  },
+  {
+    "english": "record",
+    "transliteration": "raqam qiyaasi",
+    "arabic": "رقم قياسي"
+  },
+  {
+    "english": "festival",
+    "transliteration": "mihrajaan",
+    "arabic": "مهرجان"
+  },
+  {
+    "english": "festivals",
+    "transliteration": "mihrajaanaat",
+    "arabic": "مهرجانات"
+  },
+  {
+    "english": "failure",
+    "transliteration": "ixfaaq",
+    "arabic": "اخفاق"
+  },
+  {
+    "english": "success",
+    "transliteration": "najaaH",
+    "arabic": "نجاح"
+  },
+  {
+    "english": "popular",
+    "transliteration": "ša3bi",
+    "arabic": "شعبي"
+  },
+  {
+    "english": "movie theater",
+    "transliteration": "siinima",
+    "arabic": "سينما"
+  },
+  {
+    "english": "poster",
+    "transliteration": "mulSaq",
+    "arabic": "ملصق"
+  },
+  {
+    "english": "posters",
+    "transliteration": "mulSaqaat",
+    "arabic": "ملصقات"
+  },
+  {
+    "english": "ticket",
+    "transliteration": "tadkara",
+    "arabic": "تذكرة"
+  },
+  {
+    "english": "tickets",
+    "transliteration": "tadaakir",
+    "arabic": "تذاكر"
+  },
+  {
+    "english": "screen",
+    "transliteration": "šaaša",
+    "arabic": "شاشة"
+  },
+  {
+    "english": "screens",
+    "transliteration": "šaašaat",
+    "arabic": "شاشات"
+  },
+  {
+    "english": "drama",
+    "transliteration": "draama",
+    "arabic": "دراما"
+  },
+  {
+    "english": "comedy",
+    "transliteration": "komedy",
+    "arabic": "كوديدي"
+  },
+  {
+    "english": "action",
+    "transliteration": "akšun",
+    "arabic": "أكشن"
+  },
+  {
+    "english": "adventure",
+    "transliteration": "muġaamara",
+    "arabic": "مغامرة"
+  },
+  {
+    "english": "crime",
+    "transliteration": "ijraam",
+    "arabic": "اجرام"
+  },
+  {
+    "english": "family",
+    "transliteration": "3aa'ili",
+    "arabic": "عائلي"
+  },
+  {
+    "english": "fantasy",
+    "transliteration": "xayaali",
+    "arabic": "خيالي"
+  },
+  {
+    "english": "science fiction",
+    "transliteration": "xayaali 3ilmi",
+    "arabic": "خيالي علمي"
+  },
+  {
+    "english": "horror",
+    "transliteration": "ru3b",
+    "arabic": "رعب"
+  },
+  {
+    "english": "mystery",
+    "transliteration": "luġz",
+    "arabic": "لغز"
+  },
+  {
+    "english": "thriller",
+    "transliteration": "tašwiiq/mušawwiq",
+    "arabic": "مشوق | تشويق"
+  },
+  {
+    "english": "romance",
+    "transliteration": "romaansi",
+    "arabic": "رومانسي"
+  },
+  {
+    "english": "musical",
+    "transliteration": "muusiiqi",
+    "arabic": "موسيقي"
+  },
+  {
+    "english": "war",
+    "transliteration": "Harbi",
+    "arabic": "حربي"
+  },
+  {
+    "english": "historical",
+    "transliteration": "taariixi",
+    "arabic": "تاريخي"
+  },
+  {
+    "english": "documentary",
+    "transliteration": "wataa'iqi",
+    "arabic": "وثائقي"
+  },
+  {
+    "english": "cartoon",
+    "transliteration": "kartuun",
+    "arabic": "كرتون"
+  },
+  {
+    "english": "dubbed",
+    "transliteration": "mudablaj",
+    "arabic": "مدبلج"
+  },
+  {
+    "english": "subtitled",
+    "transliteration": "mutarjam",
+    "arabic": "مترجم"
+  },
+  {
+    "english": "entertainment",
+    "transliteration": "tasliyya",
+    "arabic": "تسلية"
+  },
+  {
+    "english": "relaxation",
+    "transliteration": "tarfiih",
+    "arabic": "ترفيه"
+  },
+  {
+    "english": "epic",
+    "transliteration": "malHami",
+    "arabic": "ملحمي"
+  },
+  {
+    "english": "cinematic masterpiece",
+    "transliteration": "tuHfa",
+    "arabic": "تحفة"
+  },
+  {
+    "english": "cinematic masterpieces",
+    "transliteration": "tuHaf sinimaa'iyya",
+    "arabic": "تحف سينمائية"
+  },
+  {
+    "english": "devastating",
+    "transliteration": "mudammir",
+    "arabic": "مدمر"
+  },
+  {
+    "english": "exciting ",
+    "transliteration": "mutiir ",
+    "arabic": "مثير "
+  },
+  {
+    "english": "full of",
+    "transliteration": "malii' bi",
+    "arabic": "ملئ بـ"
+  },
+  {
+    "english": "fun",
+    "transliteration": "maraH",
+    "arabic": "مرح"
+  },
+  {
+    "english": "enjoyable",
+    "transliteration": "mumti3",
+    "arabic": "ممتع"
+  },
+  {
+    "english": "entertaining",
+    "transliteration": "musallin",
+    "arabic": "مسلٍ"
+  },
+  {
+    "english": "excellent",
+    "transliteration": "raa'i3",
+    "arabic": "رائع"
+  },
+  {
+    "english": "distinguished",
+    "transliteration": "mumayyaz",
+    "arabic": "مميز"
+  },
+  {
+    "english": "special",
+    "transliteration": "mutamayyiz",
+    "arabic": "متميز"
+  },
+  {
+    "english": "great",
+    "transliteration": "mumtaaz",
+    "arabic": "ممتاز"
+  },
+  {
+    "english": "unique",
+    "transliteration": "fariid",
+    "arabic": "فريد"
+  },
+  {
+    "english": "rare",
+    "transliteration": "naadir",
+    "arabic": "نادر"
+  },
+  {
+    "english": "marvellous",
+    "transliteration": "xaariq",
+    "arabic": "خارق"
+  },
+  {
+    "english": "astonishing",
+    "transliteration": "mudhil",
+    "arabic": "مذهل"
+  },
+  {
+    "english": "attractive",
+    "transliteration": "jaddaab",
+    "arabic": "جذاب"
+  },
+  {
+    "english": "funny",
+    "transliteration": "muDHik",
+    "arabic": "مضحك"
+  },
+  {
+    "english": "boring",
+    "transliteration": "mumill",
+    "arabic": "مملّ"
+  },
+  {
+    "english": "ordinary",
+    "transliteration": "3aadi",
+    "arabic": "عادي"
+  },
+  {
+    "english": "exaggerated",
+    "transliteration": "mubaaliġ",
+    "arabic": "مبالغ"
+  },
+  {
+    "english": "silly",
+    "transliteration": "saxiif",
+    "arabic": "سخيف"
+  },
+  {
+    "english": "realistic",
+    "transliteration": "waaqi3i",
+    "arabic": "واقعي"
+  },
+  {
+    "english": "mysterious",
+    "transliteration": "ġaamiD",
+    "arabic": "غامض"
+  },
+  {
+    "english": "terrifying",
+    "transliteration": "mufzi3",
+    "arabic": "مفزع"
+  },
+  {
+    "english": "disgusting",
+    "transliteration": "muqazziz",
+    "arabic": "مقزز"
+  },
+  {
+    "english": "literature",
+    "transliteration": "adab",
+    "arabic": "أدب"
+  },
+  {
+    "english": "literature",
+    "transliteration": "aadaab",
+    "arabic": "آداب"
+  },
+  {
+    "english": "novel",
+    "transliteration": "riwaaya",
+    "arabic": "رواية"
+  },
+  {
+    "english": "novels",
+    "transliteration": "riwaayaat",
+    "arabic": "روايات"
+  },
+  {
+    "english": "short story",
+    "transliteration": "qiSSa qaSiira",
+    "arabic": "قصة"
+  },
+  {
+    "english": "short stories",
+    "transliteration": "qiSaS qaSiira",
+    "arabic": "قصص قصيرة"
+  },
+  {
+    "english": "book",
+    "transliteration": "kitaab",
+    "arabic": "كتاب"
+  },
+  {
+    "english": "books",
+    "transliteration": "kutub",
+    "arabic": "كتب"
+  },
+  {
+    "english": "series",
+    "transliteration": "silsila",
+    "arabic": "سلسلة"
+  },
+  {
+    "english": "series",
+    "transliteration": "salaasil",
+    "arabic": "سلاسل"
+  },
+  {
+    "english": "writer",
+    "transliteration": "kaatib",
+    "arabic": "كاتب"
+  },
+  {
+    "english": "writers",
+    "transliteration": "kuttaab",
+    "arabic": "كتاب"
+  },
+  {
+    "english": "author",
+    "transliteration": "mu'allif",
+    "arabic": "مؤلف"
+  },
+  {
+    "english": "author",
+    "transliteration": "adiib",
+    "arabic": "أديب"
+  },
+  {
+    "english": "authors",
+    "transliteration": "udabaa'",
+    "arabic": "أدباء"
+  },
+  {
+    "english": "introduction",
+    "transliteration": "muqaddima",
+    "arabic": "مقدمة"
+  },
+  {
+    "english": "introductions",
+    "transliteration": "muqaddimaat",
+    "arabic": "مقدمات"
+  },
+  {
+    "english": "preface",
+    "transliteration": "tamhiid",
+    "arabic": "تمهيد"
+  },
+  {
+    "english": "dedication to",
+    "transliteration": "ihdaa' li/ila",
+    "arabic": "اهداء لـ | إلى"
+  },
+  {
+    "english": "chapter",
+    "transliteration": "faSl",
+    "arabic": "فصل"
+  },
+  {
+    "english": "chapters",
+    "transliteration": "fuSuul",
+    "arabic": "فصول"
+  },
+  {
+    "english": "index",
+    "transliteration": "fihris",
+    "arabic": "فهرس"
+  },
+  {
+    "english": "indices",
+    "transliteration": "fahaaris",
+    "arabic": "فهارس"
+  },
+  {
+    "english": "page",
+    "transliteration": "SafHa",
+    "arabic": "صفحة"
+  },
+  {
+    "english": "pages",
+    "transliteration": "SafaHaat",
+    "arabic": "صفحات"
+  },
+  {
+    "english": "word",
+    "transliteration": "kalima",
+    "arabic": "كلمة"
+  },
+  {
+    "english": "words",
+    "transliteration": "kalimaat",
+    "arabic": "كلمات"
+  },
+  {
+    "english": "sentence",
+    "transliteration": "jumla",
+    "arabic": "جملة"
+  },
+  {
+    "english": "sentences",
+    "transliteration": "jumal",
+    "arabic": "جمل"
+  },
+  {
+    "english": "line",
+    "transliteration": "saTr",
+    "arabic": "سطر"
+  },
+  {
+    "english": "lines",
+    "transliteration": "suTuur",
+    "arabic": "سطور"
+  },
+  {
+    "english": "paragraph",
+    "transliteration": "fiqra",
+    "arabic": "فقرة"
+  },
+  {
+    "english": "paragraphs",
+    "transliteration": "fiqaraat",
+    "arabic": "فقرات"
+  },
+  {
+    "english": "passage",
+    "transliteration": "naSS",
+    "arabic": "نص"
+  },
+  {
+    "english": "passages",
+    "transliteration": "nuSuuS",
+    "arabic": "نصوص"
+  },
+  {
+    "english": "poetry",
+    "transliteration": "ši3r",
+    "arabic": "شعر"
+  },
+  {
+    "english": "poem",
+    "transliteration": "qaSiida",
+    "arabic": "قصيدة"
+  },
+  {
+    "english": "poems",
+    "transliteration": "qaSaa'id",
+    "arabic": "قصائد"
+  },
+  {
+    "english": "stanza",
+    "transliteration": "maqtuu3a",
+    "arabic": "مقطوعة"
+  },
+  {
+    "english": "stanzas",
+    "transliteration": "maqTuu3aat",
+    "arabic": "مقطوعات"
+  },
+  {
+    "english": "verse",
+    "transliteration": "bait",
+    "arabic": "بيت"
+  },
+  {
+    "english": "verses",
+    "transliteration": "abyaat",
+    "arabic": "أبيات"
+  },
+  {
+    "english": "collection of poetry",
+    "transliteration": "diiwaan",
+    "arabic": "ديوان"
+  },
+  {
+    "english": "collection of poetries",
+    "transliteration": "dawaawiin",
+    "arabic": "دواوين"
+  },
+  {
+    "english": "poet",
+    "transliteration": "šaa3ir",
+    "arabic": "شاعر"
+  },
+  {
+    "english": "poets",
+    "transliteration": "šu3araa'",
+    "arabic": "شعراء"
+  },
+  {
+    "english": "complete works",
+    "transliteration": "a3maal kaamila",
+    "arabic": "أعمال كاملة"
+  },
+  {
+    "english": "play",
+    "transliteration": "masraHiyya",
+    "arabic": "مسرحية"
+  },
+  {
+    "english": "plays",
+    "transliteration": "masraHiyyaat",
+    "arabic": "مسرحيات"
+  },
+  {
+    "english": "theater",
+    "transliteration": "masraH",
+    "arabic": "مسرح"
+  },
+  {
+    "english": "theaters",
+    "transliteration": "masaariH",
+    "arabic": "مسارح"
+  },
+  {
+    "english": "act",
+    "transliteration": "faSl",
+    "arabic": "فصل"
+  },
+  {
+    "english": "acts",
+    "transliteration": "fuSuul",
+    "arabic": "فصول"
+  },
+  {
+    "english": "scene",
+    "transliteration": "mašhad",
+    "arabic": "مشهد"
+  },
+  {
+    "english": "scenes",
+    "transliteration": "mašaahid",
+    "arabic": "مشاهد"
+  },
+  {
+    "english": "television",
+    "transliteration": "televizyoon",
+    "arabic": "تلفزيون"
+  },
+  {
+    "english": "televisions",
+    "transliteration": "televizyoonaat",
+    "arabic": "تلفزيونات"
+  },
+  {
+    "english": "program",
+    "transliteration": "barnaamaj",
+    "arabic": "برنامج"
+  },
+  {
+    "english": "programs",
+    "transliteration": "baraamij",
+    "arabic": "برامج"
+  },
+  {
+    "english": "TV show",
+    "transliteration": "musalsal",
+    "arabic": "مسلسل"
+  },
+  {
+    "english": "TV shows",
+    "transliteration": "musalsalaat",
+    "arabic": "مسلسلات"
+  },
+  {
+    "english": "episode",
+    "transliteration": "Halqa",
+    "arabic": "حلقة"
+  },
+  {
+    "english": "episodes",
+    "transliteration": "Halaqaat",
+    "arabic": "حلقات"
+  },
+  {
+    "english": "report",
+    "transliteration": "taqriir",
+    "arabic": "تقرير"
+  },
+  {
+    "english": "reports",
+    "transliteration": "taqaariir",
+    "arabic": "تقارير"
+  },
+  {
+    "english": "network",
+    "transliteration": "šabaka",
+    "arabic": "شبكة"
+  },
+  {
+    "english": "networks",
+    "transliteration": "šabakaat",
+    "arabic": "شبكات"
+  },
+  {
+    "english": "channel",
+    "transliteration": "qanaah",
+    "arabic": "قناة"
+  },
+  {
+    "english": "channels",
+    "transliteration": "qanaawaat",
+    "arabic": "قناوات"
+  },
+  {
+    "english": "satellite channels",
+    "transliteration": "faDaa'iyaat",
+    "arabic": "فضائيات"
+  },
+  {
+    "english": "advertisement ",
+    "transliteration": "i3laan",
+    "arabic": "إعلان"
+  },
+  {
+    "english": "advertisement s",
+    "transliteration": "i3laanaat",
+    "arabic": "إعلانات"
+  },
+  {
+    "english": "host",
+    "transliteration": "muqaddim",
+    "arabic": "مقدّم"
+  },
+  {
+    "english": "correspondent",
+    "transliteration": "muraasil",
+    "arabic": "مراسل"
+  },
+  {
+    "english": "broadcaster",
+    "transliteration": "mudii3",
+    "arabic": "مذيع"
+  },
+  {
+    "english": "live ",
+    "transliteration": "mubaašir",
+    "arabic": "مباشر"
+  },
+  {
+    "english": "breaking news",
+    "transliteration": "axbaar 3aajila",
+    "arabic": "أخبار عاجلة"
+  },
+  {
+    "english": "coming up",
+    "transliteration": "ba3d qaliil",
+    "arabic": "بعد قليل"
+  },
+  {
+    "english": "newspaper",
+    "transliteration": "jariida",
+    "arabic": "جريدة"
+  },
+  {
+    "english": "newspapers",
+    "transliteration": "jaraa'id",
+    "arabic": "جرائد"
+  },
+  {
+    "english": "magazine",
+    "transliteration": "majalla",
+    "arabic": "مجلة"
+  },
+  {
+    "english": "magazines",
+    "transliteration": "majallaat",
+    "arabic": "مجلات"
+  },
+  {
+    "english": "issue ",
+    "transliteration": "3adad",
+    "arabic": "عدد"
+  },
+  {
+    "english": "issue s",
+    "transliteration": "a3daad",
+    "arabic": "أعداد"
+  },
+  {
+    "english": "journalism",
+    "transliteration": "SiHaafa",
+    "arabic": "صحافة"
+  },
+  {
+    "english": "editor",
+    "transliteration": "ra'iis taHriir",
+    "arabic": "رئيس تحرير"
+  },
+  {
+    "english": "journalist",
+    "transliteration": "SuHufi",
+    "arabic": "صحفي"
+  },
+  {
+    "english": "photographer",
+    "transliteration": "muSawwir",
+    "arabic": "مصور"
+  },
+  {
+    "english": "photographers",
+    "transliteration": "muSawwaraatiyya",
+    "arabic": "مصوراتية"
+  },
+  {
+    "english": "photography",
+    "transliteration": "taSwiir",
+    "arabic": "تصوير"
+  },
+  {
+    "english": "picture",
+    "transliteration": "Suura",
+    "arabic": "صورة"
+  },
+  {
+    "english": "pictures",
+    "transliteration": "Suwar",
+    "arabic": "صور"
+  },
+  {
+    "english": "camera",
+    "transliteration": "kamira",
+    "arabic": "كاميرا"
+  },
+  {
+    "english": "cameras",
+    "transliteration": "kamiraat",
+    "arabic": "كاميرات"
+  },
+  {
+    "english": "interview",
+    "transliteration": "muqaabala",
+    "arabic": "مقابلة"
+  },
+  {
+    "english": "article",
+    "transliteration": "maqaala",
+    "arabic": "مقالة"
+  },
+  {
+    "english": "articles",
+    "transliteration": "maqaalaat",
+    "arabic": "مقالات"
+  },
+  {
+    "english": "column",
+    "transliteration": "3amuud",
+    "arabic": "عمود"
+  },
+  {
+    "english": "columns",
+    "transliteration": "a3mida",
+    "arabic": "أعمدة"
+  },
+  {
+    "english": "classified ads",
+    "transliteration": "i3laanaat mubawwaba",
+    "arabic": "إعلانات مبوبة"
+  }
+]

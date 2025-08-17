@@ -1,0 +1,440 @@
+[
+  {
+    "english": "good",
+    "transliteration": "kuwáyyis",
+    "arabic": "كُوَيِّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-1.mp3"
+  },
+  {
+    "english": "bad",
+    "transliteration": "wíɧiš",
+    "arabic": "وِحِش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-2.mp3"
+  },
+  {
+    "english": "hard",
+    "transliteration": "ȿulb",
+    "arabic": "صُلْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-3.mp3"
+  },
+  {
+    "english": "soft",
+    "transliteration": "ʈári",
+    "arabic": "طري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-4.mp3"
+  },
+  {
+    "english": "difficult, hard",
+    "transliteration": "ȿa3b",
+    "arabic": "صعْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-5.mp3"
+  },
+  {
+    "english": "easy",
+    "transliteration": "sahl",
+    "arabic": "سهْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-6.mp3"
+  },
+  {
+    "english": "important",
+    "transliteration": "muhímm",
+    "arabic": "مُهِمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-7.mp3"
+  },
+  {
+    "english": "necessary",
+    "transliteration": "ɖarūri",
+    "arabic": "ضروري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-8.mp3"
+  },
+  {
+    "english": "strong",
+    "transliteration": "ʔáwi (aʔwíya)",
+    "arabic": "قَوي (أقْوِيا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-9.mp3"
+  },
+  {
+    "english": "weak",
+    "transliteration": "ɖa3īf (ɖú3afa)",
+    "arabic": "ضعيف (ضُعفا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-10.mp3"
+  },
+  {
+    "english": "deep",
+    "transliteration": "3amīq",
+    "arabic": "عميق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-11.mp3"
+  },
+  {
+    "english": "shallow",
+    "transliteration": "ɖaɧl",
+    "arabic": "ضحْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-12.mp3"
+  },
+  {
+    "english": "long; tall (person)",
+    "transliteration": "ʈawīl (ʈuwāl)",
+    "arabic": "طَويل (طُوال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-13.mp3"
+  },
+  {
+    "english": "He’s very tall.",
+    "transliteration": "húwwa ʈawīl ʔáwi.",
+    "arabic": "هُوَّ طَويل أَوي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-14.mp3"
+  },
+  {
+    "english": "short",
+    "transliteration": "ʔuȿáyyar (ʔuȿār)",
+    "arabic": "قُصيّر (قُصار)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-15.mp3"
+  },
+  {
+    "english": "She’s quite short.",
+    "transliteration": "híyya ʔuȿayyára ʔáwi.",
+    "arabic": "هِيَّ قُصيّرة أَوي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-16.mp3"
+  },
+  {
+    "english": "old, ancient",
+    "transliteration": "ʔadīm (ʔudām)",
+    "arabic": "قديم (قُدام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-17.mp3"
+  },
+  {
+    "english": "new",
+    "transliteration": "gidīd (gudād)",
+    "arabic": "جِديد (جُداد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-18.mp3"
+  },
+  {
+    "english": "clear, obvious",
+    "transliteration": "wāɖiɧ",
+    "arabic": "واضِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-19.mp3"
+  },
+  {
+    "english": "His answer was very clear.",
+    "transliteration": "igábtu kānit wáɖɧa gíddan.",
+    "arabic": "إجابْتُه كانِت واضْحة جِدّاً.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-20.mp3"
+  },
+  {
+    "english": "unclear",
+    "transliteration": "miš wāɖiɧ",
+    "arabic": "مِش واضِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-21.mp3"
+  },
+  {
+    "english": "clean",
+    "transliteration": "niɖīf (nuɖāf)",
+    "arabic": "نِضيف (نُضاف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-22.mp3"
+  },
+  {
+    "english": "dirty",
+    "transliteration": "wísix",
+    "arabic": "وِسِخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-23.mp3"
+  },
+  {
+    "english": "heavy",
+    "transliteration": "tiʔīl",
+    "arabic": "تِقيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-24.mp3"
+  },
+  {
+    "english": "light",
+    "transliteration": "xafīf (xufāf)",
+    "arabic": "خفيف (خُفاف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-25.mp3"
+  },
+  {
+    "english": "ready",
+    "transliteration": "gāhiz",
+    "arabic": "جاهِز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-26.mp3"
+  },
+  {
+    "english": "Are you ready yet?",
+    "transliteration": "ʔínta gāhiz?",
+    "arabic": "إنْتَ جاهِز؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-27.mp3"
+  },
+  {
+    "english": "I’m ready!",
+    "transliteration": "ʔána gāhiz!",
+    "arabic": "أنا جاهِز!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-28.mp3"
+  },
+  {
+    "english": "right (person)",
+    "transliteration": "ȿaɧɧ [invar.]",
+    "arabic": "صحّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-29.mp3"
+  },
+  {
+    "english": "right (person)",
+    "transliteration": "3ándu ɧaʔʔ",
+    "arabic": "عنْدُه حقّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-30.mp3"
+  },
+  {
+    "english": "Yes, you’re right!",
+    "transliteration": "ʔáywa, ʔínta ȿaɧɧ!",
+    "arabic": "أَيْوَة،  إنْتَ صحّ!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-31.mp3"
+  },
+  {
+    "english": "wrong (person)",
+    "transliteration": "ɣalʈān",
+    "arabic": "غلْطان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-32.mp3"
+  },
+  {
+    "english": "I think you’re wrong (about that).",
+    "transliteration": "ʔa3táqid ʔínnak ɣalʈān.",
+    "arabic": "أعْتقِد إنّك غلْطان.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-33.mp3"
+  },
+  {
+    "english": "slow",
+    "transliteration": "baʈīʔ (buʈāʔ)",
+    "arabic": "بطيء (بُطاء)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-34.mp3"
+  },
+  {
+    "english": "fast, quick",
+    "transliteration": "sarī3 (surā3)",
+    "arabic": "سريع (سُراع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-35.mp3"
+  },
+  {
+    "english": "hot",
+    "transliteration": "suxn",
+    "arabic": "سُخْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-36.mp3"
+  },
+  {
+    "english": "warm",
+    "transliteration": "dāfi",
+    "arabic": "دافي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-37.mp3"
+  },
+  {
+    "english": "cool, cold",
+    "transliteration": "sāʔi3",
+    "arabic": "ساقِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-38.mp3"
+  },
+  {
+    "english": "famous",
+    "transliteration": "mašhūr",
+    "arabic": "مشْهور",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-39.mp3"
+  },
+  {
+    "english": "independent",
+    "transliteration": "mustaqíll",
+    "arabic": "مُسْتقِلّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-40.mp3"
+  },
+  {
+    "english": "busy",
+    "transliteration": "mašɣūl",
+    "arabic": "مشْغول",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-41.mp3"
+  },
+  {
+    "english": "empty; available, free (person)",
+    "transliteration": "fāɖi",
+    "arabic": "فاضي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-42.mp3"
+  },
+  {
+    "english": "Are you free tomorrow?",
+    "transliteration": "ʔínta fāɖi búkra?",
+    "arabic": "إنْتَ فاضي بُكْره؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-43.mp3"
+  },
+  {
+    "english": "full",
+    "transliteration": "malyān",
+    "arabic": "ملْيان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-44.mp3"
+  },
+  {
+    "english": "useful",
+    "transliteration": "mufīd",
+    "arabic": "مُفيد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-45.mp3"
+  },
+  {
+    "english": "useless",
+    "transliteration": "ma-lūš lázma",
+    "arabic": "ملوش لازْمة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-46.mp3"
+  },
+  {
+    "english": "useless",
+    "transliteration": "min ɣēr fáyda",
+    "arabic": "مِن غيْر فايْدة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-47.mp3"
+  },
+  {
+    "english": "careful, cautious",
+    "transliteration": "ɧarīȿ (ɧuraȿāʔ)",
+    "arabic": "حريص (حُرصاء)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-48.mp3"
+  },
+  {
+    "english": "careful, cautious",
+    "transliteration": "bi-htimām",
+    "arabic": "بِاهْتِمام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-49.mp3"
+  },
+  {
+    "english": "careless",
+    "transliteration": "múhmil",
+    "arabic": "مُهْمِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-50.mp3"
+  },
+  {
+    "english": "absent-minded",
+    "transliteration": "sarɧān",
+    "arabic": "سرْحان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-51.mp3"
+  },
+  {
+    "english": "open",
+    "transliteration": "maftūɧ",
+    "arabic": "مفْتوح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-52.mp3"
+  },
+  {
+    "english": "closed",
+    "transliteration": "maʔfūl",
+    "arabic": "مقْفول",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-53.mp3"
+  },
+  {
+    "english": "wet",
+    "transliteration": "mablūl",
+    "arabic": "مبْلول",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-54.mp3"
+  },
+  {
+    "english": "dry",
+    "transliteration": "nāšif",
+    "arabic": "ناشِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-55.mp3"
+  },
+  {
+    "english": "quiet",
+    "transliteration": "hādi",
+    "arabic": "هادي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-56.mp3"
+  },
+  {
+    "english": "noisy",
+    "transliteration": "múz3ig",
+    "arabic": "مُزْعِج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-57.mp3"
+  },
+  {
+    "english": "rough",
+    "transliteration": "xíšin",
+    "arabic": "خِشِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-58.mp3"
+  },
+  {
+    "english": "smooth",
+    "transliteration": "nā3im",
+    "arabic": "ناعِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-59.mp3"
+  },
+  {
+    "english": "narrow; tight",
+    "transliteration": "ɖáyyaʔ",
+    "arabic": "ضيّق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-60.mp3"
+  },
+  {
+    "english": "wide; loose",
+    "transliteration": "wāsi3",
+    "arabic": "واسِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-61.mp3"
+  },
+  {
+    "english": "dark",
+    "transliteration": "ɖílim",
+    "arabic": "ضِلْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-62.mp3"
+  },
+  {
+    "english": "dark",
+    "transliteration": "miɖállim",
+    "arabic": "مِضلِّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-63.mp3"
+  },
+  {
+    "english": "bright, light",
+    "transliteration": "mináwwar",
+    "arabic": "مِنوّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-64.mp3"
+  },
+  {
+    "english": "sharp",
+    "transliteration": "ɧādd",
+    "arabic": "حادّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-65.mp3"
+  },
+  {
+    "english": "blunt",
+    "transliteration": "miš ɧādd",
+    "arabic": "مِش حادّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-66.mp3"
+  },
+  {
+    "english": "additional",
+    "transliteration": "ʔiɖāfi",
+    "arabic": "إضافي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-67.mp3"
+  },
+  {
+    "english": "the same __",
+    "transliteration": "nafs il__",
+    "arabic": "نفْس الـ__",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-68.mp3"
+  },
+  {
+    "english": "similar",
+    "transliteration": "mušābih",
+    "arabic": "مُشابِهْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-69.mp3"
+  },
+  {
+    "english": "different",
+    "transliteration": "muxtálif",
+    "arabic": "مُخْتلِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-70.mp3"
+  },
+  {
+    "english": "possible",
+    "transliteration": "múmkin",
+    "arabic": "مُمْكِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-71.mp3"
+  },
+  {
+    "english": "impossible",
+    "transliteration": "mustaɧīl",
+    "arabic": "مُسْتحيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-72.mp3"
+  },
+  {
+    "english": "probable, likely",
+    "transliteration": "muɧtámal",
+    "arabic": "مُحْتمل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/ecav/ecav57-73.mp3"
+  }
+]

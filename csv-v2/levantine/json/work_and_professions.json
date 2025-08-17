@@ -1,0 +1,824 @@
+[
+  {
+    "english": "work, job, career",
+    "transliteration": "šíɣil (ašɣāl)",
+    "arabic": "شِغِل (أشْغال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-1.mp3"
+  },
+  {
+    "english": "to work, be employed",
+    "transliteration": "štáɣal, yištíɣil",
+    "arabic": "شْتغل، يِشْتِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-2.mp3"
+  },
+  {
+    "english": "She works as a teacher.",
+    "transliteration": "híyyi btištíɣil b-ilmádrasi.",
+    "arabic": "هِيِّ بْتِشْتِغِل بِالمدْرسِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-3.mp3"
+  },
+  {
+    "english": "I work five days a week.",
+    "transliteration": "ána bištíɣil xáms iyyām b-ilʔusbū3.",
+    "arabic": "أنا بِشْتِغِل خمْس إيّام بِالأُسْبوع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-4.mp3"
+  },
+  {
+    "english": "job, task",
+    "transliteration": "waʐīfi",
+    "arabic": "وظيفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-5.mp3"
+  },
+  {
+    "english": "full-time",
+    "transliteration": "dawēm kēmil",
+    "arabic": "دَوام كامِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-6.mp3"
+  },
+  {
+    "english": "I work full-time.",
+    "transliteration": "bištíɣil fūl tāym",
+    "arabic": "بِشْتِغِل فول تايْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-7.mp3"
+  },
+  {
+    "english": "part-time",
+    "transliteration": "nuʂʂ dawēm",
+    "arabic": "نُصّ دَوام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-8.mp3"
+  },
+  {
+    "english": "I want a part-time job.",
+    "transliteration": "báddi šíɣil nuʂʂ dawēm.",
+    "arabic": "بدّي شِغِل نُصّ دَوام.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-9.mp3"
+  },
+  {
+    "english": "the private sector",
+    "transliteration": "lqiʈā3 ilxāʂʂ",
+    "arabic": "القِطاع الخاصّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-10.mp3"
+  },
+  {
+    "english": "the public sector",
+    "transliteration": "lqiʈā3 il3āmm",
+    "arabic": "القِطاع العامّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-11.mp3"
+  },
+  {
+    "english": "civil servant",
+    "transliteration": "mwáʐʐaf ɧukūmi",
+    "arabic": "مْوَظّف حُكومي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-12.mp3"
+  },
+  {
+    "english": "to look for a job",
+    "transliteration": "dáwwar 3ála šíɣil, ydáwwir 3ála šíɣil",
+    "arabic": "دوّر على شِغِل، يْدوِّر على شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-13.mp3"
+  },
+  {
+    "english": "to apply for a job",
+    "transliteration": "ʔáddam 3ála šíɣil, yʔáddim 3ála šíɣil",
+    "arabic": "قدّم على شِغِل، يْقدِّم على شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-14.mp3"
+  },
+  {
+    "english": "applicant, candidate",
+    "transliteration": "mʔáddim 3ála šíɣil",
+    "arabic": "مْقدِّم على شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-15.mp3"
+  },
+  {
+    "english": "experience",
+    "transliteration": "xíbra",
+    "arabic": "خِبْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-16.mp3"
+  },
+  {
+    "english": "to have a job interview",
+    "transliteration": "3índu muʔābalit šíɣil",
+    "arabic": "عِنْدو مُقابلِة شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-17.mp3"
+  },
+  {
+    "english": "to interview",
+    "transliteration": "ʔābal, yʔābil",
+    "arabic": "قابل، يْقابِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-18.mp3"
+  },
+  {
+    "english": "to find a job",
+    "transliteration": "lāʔa šíɣil",
+    "arabic": "لاقى شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-19.mp3"
+  },
+  {
+    "english": "Have you found a job yet?",
+    "transliteration": "lāʔēt šíɣil wálla bá3d?",
+    "arabic": "لاقيْت شِغِل وَلّا بعْد؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-20.mp3"
+  },
+  {
+    "english": "to obtain employment",
+    "transliteration": "twáʐʐaf, yitwáʐʐaf",
+    "arabic": "تْوظّف، يِتْوظّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-21.mp3"
+  },
+  {
+    "english": "to employ",
+    "transliteration": "wáʐʐaf, ywáʐʐif",
+    "arabic": "وَظّف، يْوَظِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-22.mp3"
+  },
+  {
+    "english": "employee",
+    "transliteration": "mwáʐʐaf",
+    "arabic": "مْوَظّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-23.mp3"
+  },
+  {
+    "english": "employer",
+    "transliteration": "ʂāɧib šíɣil (aʂɧāb šíɣil)",
+    "arabic": "صاحِب شِغِل (أصْحاب شِغِل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-24.mp3"
+  },
+  {
+    "english": "boss, manager",
+    "transliteration": "mudīr",
+    "arabic": "مُدير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-25.mp3"
+  },
+  {
+    "english": "colleague, coworker",
+    "transliteration": "zamīl (zúmala)",
+    "arabic": "زميل (زُملا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-26.mp3"
+  },
+  {
+    "english": "company",
+    "transliteration": "šírki",
+    "arabic": "شِرْكِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-27.mp3"
+  },
+  {
+    "english": "to start work",
+    "transliteration": "bállaš [55] šíɣil",
+    "arabic": "بلّش شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-28.mp3"
+  },
+  {
+    "english": "to take a break",
+    "transliteration": "áxad [55] brēk",
+    "arabic": "أخد بْرايْك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-29.mp3"
+  },
+  {
+    "english": "lunch break",
+    "transliteration": "brēk ilɣáda",
+    "arabic": "بْرايْك الغدا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-30.mp3"
+  },
+  {
+    "english": "to finish work, get off work",
+    "transliteration": "xállaʂ šíɣil, yxálliʂ šiɣil",
+    "arabic": "خلّص شِغِل، يْخلِّص شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-31.mp3"
+  },
+  {
+    "english": "to work overtime",
+    "transliteration": "štáɣal ōvir tāym",
+    "arabic": "اشْتغل اوفِر تايْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-32.mp3"
+  },
+  {
+    "english": "working hours",
+    "transliteration": "dawēm",
+    "arabic": "دَوام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-33.mp3"
+  },
+  {
+    "english": "I work eight hours a day.",
+    "transliteration": "ána bištíɣil dawēm tmin sē3āt kill yōm.",
+    "arabic": "أنا بِشْتِغِل دَوام تْمِن ساعات كِلّ يوْم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-34.mp3"
+  },
+  {
+    "english": "day shift",
+    "transliteration": "dawēm b-innahār",
+    "arabic": "دَوام بِالنّهار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-35.mp3"
+  },
+  {
+    "english": "night shift, graveyard shift",
+    "transliteration": "dawēm b-illēl",
+    "arabic": "دَوام بالْليْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-36.mp3"
+  },
+  {
+    "english": "I work the night shift.",
+    "transliteration": "ána bištíɣil dawēm lēli.",
+    "arabic": "أنا بِشْتِغِل دَوام ليْلي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-37.mp3"
+  },
+  {
+    "english": "I'm off work.",
+    "transliteration": "mā 3am íštiɣil.",
+    "arabic": "ما عم إشْتِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-38.mp3"
+  },
+  {
+    "english": "I have weekends off.",
+    "transliteration": "ána fāɖi ēxir ilʔusbū3.",
+    "arabic": "أنا فاضي آخِر الأُسْبوع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-39.mp3"
+  },
+  {
+    "english": "office",
+    "transliteration": "máktab (mkētib)",
+    "arabic": "مكْتب (مْكاتِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-40.mp3"
+  },
+  {
+    "english": "office worker",
+    "transliteration": "mwáʐʐaf máktabi",
+    "arabic": "مْوَظّف مكْتبي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-41.mp3"
+  },
+  {
+    "english": "company representative",
+    "transliteration": "mandūb šírki",
+    "arabic": "منْدوب شِرْكِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-42.mp3"
+  },
+  {
+    "english": "to stay late at the office",
+    "transliteration": "tʔáxxar b-ilmáktab, yitʔáxxar b-ilmáktab",
+    "arabic": "تْأخّر بِالمكْتب، يِتْأخّر بِالمكْتب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-43.mp3"
+  },
+  {
+    "english": "to go on a business trip",
+    "transliteration": "sēfar [24] fi ríɧlit šíɣil",
+    "arabic": "سافر في رِحْلِة شِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-44.mp3"
+  },
+  {
+    "english": "to have a meeting",
+    "transliteration": "3índu ijtimā3",
+    "arabic": "عِنْدو اِجْتِماع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-45.mp3"
+  },
+  {
+    "english": "client",
+    "transliteration": "3amīl (3úmala)",
+    "arabic": "عميل (عُملا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-46.mp3"
+  },
+  {
+    "english": "to earn (money); get paid",
+    "transliteration": "ʔábaɖ, yíʔbaɖ",
+    "arabic": "قبض، يِقْبض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-47.mp3"
+  },
+  {
+    "english": "wage, pay",
+    "transliteration": "dáf3a",
+    "arabic": "دفْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-48.mp3"
+  },
+  {
+    "english": "salary",
+    "transliteration": "ma3āš",
+    "arabic": "معاش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-49.mp3"
+  },
+  {
+    "english": "My salary is just okay.",
+    "transliteration": "ma3āši maʔbūl.",
+    "arabic": "معاشي مقْبول.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-50.mp3"
+  },
+  {
+    "english": "payday",
+    "transliteration": "yōm ilʔábiɖ",
+    "arabic": "يوْم القبِض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-51.mp3"
+  },
+  {
+    "english": "I get paid on the first of the month.",
+    "transliteration": "ána bíʔbaɖ áwwal iššáhir.",
+    "arabic": "أنا بِقْبض أوّل الشّهِر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-52.mp3"
+  },
+  {
+    "english": "bonus, incentive",
+    "transliteration": "bōnis",
+    "arabic": "بوْنِس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-53.mp3"
+  },
+  {
+    "english": "bonus, incentive",
+    "transliteration": "ɧāfiz (ɧawēfiz)",
+    "arabic": "حافِز (حوافِز)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-54.mp3"
+  },
+  {
+    "english": "pay raise",
+    "transliteration": "záwdi",
+    "arabic": "زَوْدِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-55.mp3"
+  },
+  {
+    "english": "to get a raise",
+    "transliteration": "áxad [55] záwdi",
+    "arabic": "أخد زَوْدِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-56.mp3"
+  },
+  {
+    "english": "to give __ a raise",
+    "transliteration": "3áʈa [55] __ záwdi 3ála lma3āš",
+    "arabic": "عطى __ زَوْدِة على المعاش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-57.mp3"
+  },
+  {
+    "english": "promotion",
+    "transliteration": "tárʔyi",
+    "arabic": "ترْقْيِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-58.mp3"
+  },
+  {
+    "english": "to get promoted",
+    "transliteration": "tráʔʔa, yitráʔʔa",
+    "arabic": "تْرقّى، يِتْرقّى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-59.mp3"
+  },
+  {
+    "english": "I got a promotion this month.",
+    "transliteration": "ána traʔʔēt ha-ššáhir.",
+    "arabic": "أنا اتْرقّيْت هالشّهِر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-60.mp3"
+  },
+  {
+    "english": "unemployed, jobless",
+    "transliteration": "3āʈil 3an il3ámal",
+    "arabic": "عاطِل عن العمل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-61.mp3"
+  },
+  {
+    "english": "unemployment",
+    "transliteration": "3aʈāli",
+    "arabic": "عطالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-62.mp3"
+  },
+  {
+    "english": "to resign",
+    "transliteration": "staʔāl, yistaʔīl",
+    "arabic": "سْتقال، يِسْتقيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-63.mp3"
+  },
+  {
+    "english": "to quit one’s job",
+    "transliteration": "tárak [55] iššiɣil",
+    "arabic": "ترك الشِغِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-64.mp3"
+  },
+  {
+    "english": "to lay off, make redundant",
+    "transliteration": "stáɣna 3an, yistáɣni 3an",
+    "arabic": "سْتغْنى عن، يِسْتغْنِي عن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-65.mp3"
+  },
+  {
+    "english": "to fire",
+    "transliteration": "ʈárad, yúʈrud",
+    "arabic": "طرد، يُطْرُد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-66.mp3"
+  },
+  {
+    "english": "to get fired",
+    "transliteration": "nʈárad min šíɣlu, yinʈúrid min šíɣlu",
+    "arabic": "نْطرد مِن شِغْلو،يِنْطُرِد مِن شِغْلو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-67.mp3"
+  },
+  {
+    "english": "to retire",
+    "transliteration": "tqā3ad, yitqā3ad",
+    "arabic": "تْقاعد، يِتْقاعد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-68.mp3"
+  },
+  {
+    "english": "pension",
+    "transliteration": "ta3wīɖ",
+    "arabic": "تعْويِض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-69.mp3"
+  },
+  {
+    "english": "(age of) retirement",
+    "transliteration": "sinn ittaqā3ud",
+    "arabic": "سِنّ التّقاعُد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-70.mp3"
+  },
+  {
+    "english": "I hope to retire when I’m sixty.",
+    "transliteration": "bitmánna itqā3ad lámma ʂīr sittīn.",
+    "arabic": "بِتْمنّى إتْقاعد لمّا صير سِتّين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-71.mp3"
+  },
+  {
+    "english": "trade, craft",
+    "transliteration": "ɧírfi (ɧíraf)",
+    "arabic": "حِرْفِة (حِرف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-72.mp3"
+  },
+  {
+    "english": "What do you do?",
+    "transliteration": "šū btištíɣil?",
+    "arabic": "شو بْتِشْتِغِل؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-73.mp3"
+  },
+  {
+    "english": "I’m a __. [job]",
+    "transliteration": "ána __.",
+    "arabic": "أنا __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-74.mp3"
+  },
+  {
+    "english": "I’m a __. [job]",
+    "transliteration": "bištíɣil __.",
+    "arabic": "بِشْتِغِل __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-75.mp3"
+  },
+  {
+    "english": "accountant",
+    "transliteration": "muɧāsib",
+    "arabic": "مُحاسِب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-76.mp3"
+  },
+  {
+    "english": "actor",
+    "transliteration": "mumássil",
+    "arabic": "مُمثِّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-77.mp3"
+  },
+  {
+    "english": "architect",
+    "transliteration": "mhándis mi3māri",
+    "arabic": "مْهنْدِس مِعْماري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-78.mp3"
+  },
+  {
+    "english": "artist",
+    "transliteration": "finnēn",
+    "arabic": "فِنّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-79.mp3"
+  },
+  {
+    "english": "athlete",
+    "transliteration": "riyāɖi",
+    "arabic": "رِياضي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-80.mp3"
+  },
+  {
+    "english": "baker",
+    "transliteration": "xabbāz",
+    "arabic": "خبّاز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-81.mp3"
+  },
+  {
+    "english": "bank teller; banker",
+    "transliteration": "mwáʐʐaf bank",
+    "arabic": "مْوَظّف بنْك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-82.mp3"
+  },
+  {
+    "english": "bank manager",
+    "transliteration": "mudīr bank",
+    "arabic": "مُدير بنْك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-83.mp3"
+  },
+  {
+    "english": "barber",
+    "transliteration": "ɧallāʔ",
+    "arabic": "حلّاق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-84.mp3"
+  },
+  {
+    "english": "bus driver",
+    "transliteration": "šōfør bāʂ",
+    "arabic": "شوْفور باص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-85.mp3"
+  },
+  {
+    "english": "butcher",
+    "transliteration": "laɧɧām",
+    "arabic": "لحّام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-86.mp3"
+  },
+  {
+    "english": "carpenter",
+    "transliteration": "najjār",
+    "arabic": "نجّار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-87.mp3"
+  },
+  {
+    "english": "cashier",
+    "transliteration": "muɧāsib",
+    "arabic": "مُحاسِب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-88.mp3"
+  },
+  {
+    "english": "chef",
+    "transliteration": "šēf",
+    "arabic": "شيْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-89.mp3"
+  },
+  {
+    "english": "cleaner",
+    "transliteration": "3āmil naʐāfi",
+    "arabic": "عامِل نظافِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-90.mp3"
+  },
+  {
+    "english": "cook",
+    "transliteration": "ʈabbāx",
+    "arabic": "طبّاخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-91.mp3"
+  },
+  {
+    "english": "customer service representative",
+    "transliteration": "mumássil xídmit il3úmala",
+    "arabic": "مُمثِّل خِدْمِة العُملا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-92.mp3"
+  },
+  {
+    "english": "dentist",
+    "transliteration": "doktōr snān",
+    "arabic": "دُكْتوْر سْنان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-93.mp3"
+  },
+  {
+    "english": "doctor",
+    "transliteration": "doktōr (dakētra)",
+    "arabic": "دُكْتوْر (دكاتْرة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-94.mp3"
+  },
+  {
+    "english": "editor",
+    "transliteration": "muɧárrir",
+    "arabic": "مُحرِّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-95.mp3"
+  },
+  {
+    "english": "electrician (repairman)",
+    "transliteration": "kahrábji",
+    "arabic": "كهْربْجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-96.mp3"
+  },
+  {
+    "english": "engineer",
+    "transliteration": "mhandis",
+    "arabic": "مْهنْدِس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-97.mp3"
+  },
+  {
+    "english": "farmer",
+    "transliteration": "fallēɧ",
+    "arabic": "فلّاح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-98.mp3"
+  },
+  {
+    "english": "fire fighter",
+    "transliteration": "iʈfāʔi",
+    "arabic": "إطْفائي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-99.mp3"
+  },
+  {
+    "english": "fisherman",
+    "transliteration": "ʂayyād sámak",
+    "arabic": "صيّاد سمك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-100.mp3"
+  },
+  {
+    "english": "flight attendant",
+    "transliteration": "muɖīf",
+    "arabic": "مُضيف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-101.mp3"
+  },
+  {
+    "english": "garbage collector",
+    "transliteration": "zabbēl",
+    "arabic": "زبّال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-102.mp3"
+  },
+  {
+    "english": "gardener",
+    "transliteration": "bistēni",
+    "arabic": "بِسْتاني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-103.mp3"
+  },
+  {
+    "english": "hairdresser",
+    "transliteration": "kwāfør",
+    "arabic": "كْوافير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-104.mp3"
+  },
+  {
+    "english": "imam",
+    "transliteration": "imēm",
+    "arabic": "إمام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-105.mp3"
+  },
+  {
+    "english": "judge",
+    "transliteration": "ʔāɖi",
+    "arabic": "قاضي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-106.mp3"
+  },
+  {
+    "english": "laborer",
+    "transliteration": "3āmil (3umēl)",
+    "arabic": "عامِل (عُمال)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-107.mp3"
+  },
+  {
+    "english": "lawyer",
+    "transliteration": "muɧāmi",
+    "arabic": "مُحامي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-108.mp3"
+  },
+  {
+    "english": "maid",
+    "transliteration": "xādmi",
+    "arabic": "خادْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-109.mp3"
+  },
+  {
+    "english": "mechanic",
+    "transliteration": "mīkānīki",
+    "arabic": "ميكانيكي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-110.mp3"
+  },
+  {
+    "english": "musician",
+    "transliteration": "mūsīqār",
+    "arabic": "موسيقار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-111.mp3"
+  },
+  {
+    "english": "nurse",
+    "transliteration": "mumárriɖ",
+    "arabic": "مُمرِّض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-112.mp3"
+  },
+  {
+    "english": "painter (of art)",
+    "transliteration": "rassēm",
+    "arabic": "رسّام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-113.mp3"
+  },
+  {
+    "english": "painter (house painter)",
+    "transliteration": "dahhēn",
+    "arabic": "دهّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-114.mp3"
+  },
+  {
+    "english": "pharmacist",
+    "transliteration": "ʂáydali (ʂayādli)",
+    "arabic": "صَيْدلي (صَيادْلِة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-115.mp3"
+  },
+  {
+    "english": "pilot",
+    "transliteration": "ʈayyār",
+    "arabic": "طيّار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-116.mp3"
+  },
+  {
+    "english": "plumber",
+    "transliteration": "3āmil adawēt ʂuɧɧíyyi",
+    "arabic": "عامِل أدَوات صُحّية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-117.mp3"
+  },
+  {
+    "english": "police officer",
+    "transliteration": "ɖābiʈ (ɖibbāʈ)",
+    "arabic": "ضابِط (ضِبّاط)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-118.mp3"
+  },
+  {
+    "english": "politician",
+    "transliteration": "siyēsi",
+    "arabic": "سِياسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-120.mp3"
+  },
+  {
+    "english": "priest",
+    "transliteration": "xūri",
+    "arabic": "خوري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-121.mp3"
+  },
+  {
+    "english": "professor",
+    "transliteration": "istēz jēm3a",
+    "arabic": "إسْتاذ جامْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-122.mp3"
+  },
+  {
+    "english": "real estate agent",
+    "transliteration": "simsār (samēsra)",
+    "arabic": "سِمْسار (سماسْرة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-123.mp3"
+  },
+  {
+    "english": "repairman",
+    "transliteration": "mʂálliɧ",
+    "arabic": "مْصلِّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-124.mp3"
+  },
+  {
+    "english": "sailor",
+    "transliteration": "baɧɧār",
+    "arabic": "بحّار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-125.mp3"
+  },
+  {
+    "english": "salesperson",
+    "transliteration": "mandūb mabī3āt",
+    "arabic": "منْدوب مبيعات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-126.mp3"
+  },
+  {
+    "english": "secretary",
+    "transliteration": "sikritēr",
+    "arabic": "سِكْرِتيْر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-127.mp3"
+  },
+  {
+    "english": "servant",
+    "transliteration": "xādmi",
+    "arabic": "خادْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-128.mp3"
+  },
+  {
+    "english": "shop assistant",
+    "transliteration": "bayyē3",
+    "arabic": "بيّاع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-129.mp3"
+  },
+  {
+    "english": "shopkeeper",
+    "transliteration": "xuɖárji",
+    "arabic": "خُضرْجي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-130.mp3"
+  },
+  {
+    "english": "soldier",
+    "transliteration": "3áskari (3asēkir)",
+    "arabic": "عسْكري (عساكِر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-131.mp3"
+  },
+  {
+    "english": "taxi driver",
+    "transliteration": "šōfør tēksi",
+    "arabic": "شوْفور تاكْسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-132.mp3"
+  },
+  {
+    "english": "teacher",
+    "transliteration": "istēz",
+    "arabic": "إسْتاذ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-133.mp3"
+  },
+  {
+    "english": "technician",
+    "transliteration": "xabīr tíqani",
+    "arabic": "خبير تِقني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-134.mp3"
+  },
+  {
+    "english": "travel agent",
+    "transliteration": "wakīl safariyēt (wúkala safariyēt)",
+    "arabic": "وكيل سفرِيات (وُكلا سفرِيات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-135.mp3"
+  },
+  {
+    "english": "veterinarian",
+    "transliteration": "doktōr báyʈari",
+    "arabic": "دُكْتوْر بَيْطري",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-136.mp3"
+  },
+  {
+    "english": "waiter, waitress",
+    "transliteration": "garsōn",
+    "arabic": "غرْسون",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-137.mp3"
+  },
+  {
+    "english": "writer",
+    "transliteration": "kētib (kuttēb)",
+    "arabic": "كاتِب (كُتّاب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav09-138.mp3"
+  }
+]

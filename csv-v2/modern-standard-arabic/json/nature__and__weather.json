@@ -1,0 +1,857 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "environment",
+    "transliteration": "bii'a",
+    "arabic": "بيئة"
+  },
+  {
+    "english": "environments",
+    "transliteration": "bii'aat",
+    "arabic": "بيئات"
+  },
+  {
+    "english": "planet",
+    "transliteration": "kawkab",
+    "arabic": "كوكب"
+  },
+  {
+    "english": "planets",
+    "transliteration": "kawaakib",
+    "arabic": "كواكب"
+  },
+  {
+    "english": "world",
+    "transliteration": "3aalam",
+    "arabic": "عالم"
+  },
+  {
+    "english": "worlds",
+    "transliteration": "3awaalim",
+    "arabic": "عوالم"
+  },
+  {
+    "english": "continent",
+    "transliteration": "qaarra",
+    "arabic": "قارّة"
+  },
+  {
+    "english": "continents",
+    "transliteration": "qaarraat",
+    "arabic": "قارّات"
+  },
+  {
+    "english": "ocean",
+    "transliteration": "muHiiT",
+    "arabic": "محيط"
+  },
+  {
+    "english": "oceans",
+    "transliteration": "muHiiTaat",
+    "arabic": "محيطات"
+  },
+  {
+    "english": "sea",
+    "transliteration": "baHr",
+    "arabic": "بحر"
+  },
+  {
+    "english": "seas",
+    "transliteration": "biHaar",
+    "arabic": "بحار"
+  },
+  {
+    "english": "river",
+    "transliteration": "nahr",
+    "arabic": "نهر"
+  },
+  {
+    "english": "rivers",
+    "transliteration": "anhaar",
+    "arabic": "أنهار"
+  },
+  {
+    "english": "lake",
+    "transliteration": "buHeira",
+    "arabic": "بحيرة"
+  },
+  {
+    "english": "lakes",
+    "transliteration": "buHeiraat",
+    "arabic": "بحيرات"
+  },
+  {
+    "english": "pond",
+    "transliteration": "birka",
+    "arabic": "بركة"
+  },
+  {
+    "english": "ponds",
+    "transliteration": "birak",
+    "arabic": "برك"
+  },
+  {
+    "english": "canal",
+    "transliteration": "qanaah",
+    "arabic": "قناة"
+  },
+  {
+    "english": "canals",
+    "transliteration": "qanawaat",
+    "arabic": "قنوات"
+  },
+  {
+    "english": "port",
+    "transliteration": "miinaa'",
+    "arabic": "ميناء"
+  },
+  {
+    "english": "ports",
+    "transliteration": "mawaani'",
+    "arabic": "موانئ"
+  },
+  {
+    "english": "gulf",
+    "transliteration": "xaliij",
+    "arabic": "خليج"
+  },
+  {
+    "english": "gulves",
+    "transliteration": "xuljaan",
+    "arabic": "خلجان"
+  },
+  {
+    "english": "island",
+    "transliteration": "jaziira",
+    "arabic": "جزيرة"
+  },
+  {
+    "english": "islands",
+    "transliteration": "jazaa'ir",
+    "arabic": "جزائر"
+  },
+  {
+    "english": "coast",
+    "transliteration": "saaHil",
+    "arabic": "ساحل"
+  },
+  {
+    "english": "coasts",
+    "transliteration": "sawaaHil",
+    "arabic": "سواحل"
+  },
+  {
+    "english": "beach",
+    "transliteration": "šaaTi'",
+    "arabic": "شاطئ"
+  },
+  {
+    "english": "beaches",
+    "transliteration": "šawaaTi'",
+    "arabic": "شواطئ"
+  },
+  {
+    "english": "wave",
+    "transliteration": "mooj",
+    "arabic": "موج"
+  },
+  {
+    "english": "waves",
+    "transliteration": "amwaaj",
+    "arabic": "امواج"
+  },
+  {
+    "english": "tide",
+    "transliteration": "tayyaar",
+    "arabic": "تيّار"
+  },
+  {
+    "english": "tides",
+    "transliteration": "tayyaaraat",
+    "arabic": "تيّارات"
+  },
+  {
+    "english": "coral",
+    "transliteration": "murjaan",
+    "arabic": "مرجان"
+  },
+  {
+    "english": "reef",
+    "transliteration": "ši3ba",
+    "arabic": "شعبة"
+  },
+  {
+    "english": "reefs",
+    "transliteration": "ši3ab",
+    "arabic": "شعب"
+  },
+  {
+    "english": "inlet",
+    "transliteration": "šarm",
+    "arabic": "شرم"
+  },
+  {
+    "english": "inlets",
+    "transliteration": "šuruum",
+    "arabic": "شروم"
+  },
+  {
+    "english": "peninsula",
+    "transliteration": "šibhu jaziira",
+    "arabic": "شبة جزيرة"
+  },
+  {
+    "english": "waterfall",
+    "transliteration": "šallaal",
+    "arabic": "شلال"
+  },
+  {
+    "english": "waterfalls",
+    "transliteration": "šallaalaat",
+    "arabic": "شلالات"
+  },
+  {
+    "english": "mountain",
+    "transliteration": "jabal",
+    "arabic": "جبل"
+  },
+  {
+    "english": "mountains",
+    "transliteration": "jibaal",
+    "arabic": "جبال"
+  },
+  {
+    "english": "peak",
+    "transliteration": "qimma",
+    "arabic": "قمة"
+  },
+  {
+    "english": "peaks",
+    "transliteration": "qimam",
+    "arabic": "قمم"
+  },
+  {
+    "english": "Mt. Sinai",
+    "transliteration": "jabal muusa",
+    "arabic": "جبل موسى"
+  },
+  {
+    "english": "mountain range",
+    "transliteration": "silsila jabaliyya",
+    "arabic": "سلسلة جبلية"
+  },
+  {
+    "english": "hill",
+    "transliteration": "tall",
+    "arabic": "تلّ"
+  },
+  {
+    "english": "hills",
+    "transliteration": "tilaal",
+    "arabic": "تلال"
+  },
+  {
+    "english": "valley",
+    "transliteration": "waadi",
+    "arabic": "وادي"
+  },
+  {
+    "english": "valleys",
+    "transliteration": "widyaan",
+    "arabic": "وديان"
+  },
+  {
+    "english": "desert",
+    "transliteration": "SaHraa'",
+    "arabic": "صحراء"
+  },
+  {
+    "english": "deserts",
+    "transliteration": "SaHaaraa",
+    "arabic": "صحارى"
+  },
+  {
+    "english": "jungle",
+    "transliteration": "ġaaba",
+    "arabic": "غابة"
+  },
+  {
+    "english": "jungles",
+    "transliteration": "ġaabaat",
+    "arabic": "غابات"
+  },
+  {
+    "english": "field",
+    "transliteration": "Haql",
+    "arabic": "حقل"
+  },
+  {
+    "english": "fields",
+    "transliteration": "Huquul",
+    "arabic": "حقول"
+  },
+  {
+    "english": "plain",
+    "transliteration": "sahl",
+    "arabic": "سهل"
+  },
+  {
+    "english": "plains",
+    "transliteration": "suhuul",
+    "arabic": "سهول"
+  },
+  {
+    "english": "depression",
+    "transliteration": "munxafaD",
+    "arabic": "منخفض"
+  },
+  {
+    "english": "depressions",
+    "transliteration": "munxafaDaat",
+    "arabic": "منخفضات"
+  },
+  {
+    "english": "cave",
+    "transliteration": "maġaara",
+    "arabic": "مغارة"
+  },
+  {
+    "english": "caves",
+    "transliteration": "maġaaraat",
+    "arabic": "مغارات"
+  },
+  {
+    "english": "oasis",
+    "transliteration": "waaHa",
+    "arabic": "واحة"
+  },
+  {
+    "english": "oases",
+    "transliteration": "waaHaat",
+    "arabic": "واحات"
+  },
+  {
+    "english": "well",
+    "transliteration": "bi'r",
+    "arabic": "بئر"
+  },
+  {
+    "english": "wells",
+    "transliteration": "aabaar | bi'aar",
+    "arabic": "آبار | بئار"
+  },
+  {
+    "english": "bush",
+    "transliteration": "daġal",
+    "arabic": "دغل"
+  },
+  {
+    "english": "bushes",
+    "transliteration": "adġaal",
+    "arabic": "أدغال"
+  },
+  {
+    "english": "tree",
+    "transliteration": "šajara",
+    "arabic": "شجرة"
+  },
+  {
+    "english": "trees",
+    "transliteration": "ašjaar",
+    "arabic": "أشجار"
+  },
+  {
+    "english": "leaf; petal",
+    "transliteration": "waraq",
+    "arabic": "ورق"
+  },
+  {
+    "english": "leaf; petals",
+    "transliteration": "awraaq",
+    "arabic": "أوراق"
+  },
+  {
+    "english": "branch",
+    "transliteration": "far3",
+    "arabic": "فرع"
+  },
+  {
+    "english": "branches",
+    "transliteration": "furuu3",
+    "arabic": "فروع"
+  },
+  {
+    "english": "root",
+    "transliteration": "jadr",
+    "arabic": "جذر"
+  },
+  {
+    "english": "roots",
+    "transliteration": "juduur",
+    "arabic": "جذور"
+  },
+  {
+    "english": "wood",
+    "transliteration": "xašab",
+    "arabic": "خشب"
+  },
+  {
+    "english": "flower",
+    "transliteration": "zahra",
+    "arabic": "زهرة"
+  },
+  {
+    "english": "flowers",
+    "transliteration": "zuhuur",
+    "arabic": "زهور"
+  },
+  {
+    "english": "rose",
+    "transliteration": "warda",
+    "arabic": "وردة"
+  },
+  {
+    "english": "roses",
+    "transliteration": "wuruud",
+    "arabic": "ورود"
+  },
+  {
+    "english": "thorn",
+    "transliteration": "šook",
+    "arabic": "شوك"
+  },
+  {
+    "english": "thorns",
+    "transliteration": "ašwaak",
+    "arabic": "أشواك"
+  },
+  {
+    "english": "grass",
+    "transliteration": "3ušb",
+    "arabic": "عشب"
+  },
+  {
+    "english": "rock",
+    "transliteration": "Saxra",
+    "arabic": "صخرة"
+  },
+  {
+    "english": "rocks",
+    "transliteration": "Suxuur",
+    "arabic": "صخور"
+  },
+  {
+    "english": "sand",
+    "transliteration": "raml",
+    "arabic": "رمل"
+  },
+  {
+    "english": "sands",
+    "transliteration": "rimaal",
+    "arabic": "رمال"
+  },
+  {
+    "english": "dust",
+    "transliteration": "turaab",
+    "arabic": "تراب"
+  },
+  {
+    "english": "ash",
+    "transliteration": "ramaad",
+    "arabic": "رماد"
+  },
+  {
+    "english": "soil",
+    "transliteration": "turba",
+    "arabic": "تربة"
+  },
+  {
+    "english": "clay",
+    "transliteration": "SalSaal",
+    "arabic": "صلصال"
+  },
+  {
+    "english": "mud",
+    "transliteration": "Tiin",
+    "arabic": "طين"
+  },
+  {
+    "english": "mud",
+    "transliteration": "aTyaan",
+    "arabic": "أطيان"
+  },
+  {
+    "english": "plant",
+    "transliteration": "nabaat",
+    "arabic": "نبات"
+  },
+  {
+    "english": "plants",
+    "transliteration": "nabaataat",
+    "arabic": "نباتات"
+  },
+  {
+    "english": "garden",
+    "transliteration": "Hadiiqa",
+    "arabic": "حديقة"
+  },
+  {
+    "english": "gardens",
+    "transliteration": "Hadaa'iq",
+    "arabic": "حدائق"
+  },
+  {
+    "english": "swamp",
+    "transliteration": "mustanqa3",
+    "arabic": "مستنقع"
+  },
+  {
+    "english": "swamps",
+    "transliteration": "mustanqa3aat",
+    "arabic": "مستنقعات"
+  },
+  {
+    "english": "volcano",
+    "transliteration": "burkaan",
+    "arabic": "بركان"
+  },
+  {
+    "english": "volcanoes",
+    "transliteration": "baraakiin",
+    "arabic": "براكين"
+  },
+  {
+    "english": "fire",
+    "transliteration": "naar",
+    "arabic": "نار"
+  },
+  {
+    "english": "fires",
+    "transliteration": "niiraan ",
+    "arabic": "نيران"
+  },
+  {
+    "english": "sky",
+    "transliteration": "samaa'",
+    "arabic": "سماء"
+  },
+  {
+    "english": "skies",
+    "transliteration": "samaawaat ",
+    "arabic": "سماوات"
+  },
+  {
+    "english": "earth",
+    "transliteration": "arD",
+    "arabic": "أرض"
+  },
+  {
+    "english": "earths",
+    "transliteration": "araaDin ",
+    "arabic": "أراض"
+  },
+  {
+    "english": "horizon",
+    "transliteration": "ufuq",
+    "arabic": "افق"
+  },
+  {
+    "english": "horizons",
+    "transliteration": "aafaaq",
+    "arabic": "آفاق"
+  },
+  {
+    "english": "weather forecast",
+    "transliteration": "našra jawwiyya",
+    "arabic": "نشرة جوية"
+  },
+  {
+    "english": "degree",
+    "transliteration": "daraja",
+    "arabic": "درجة"
+  },
+  {
+    "english": "degrees",
+    "transliteration": "darajaat",
+    "arabic": "درجات"
+  },
+  {
+    "english": "climate",
+    "transliteration": "manaax",
+    "arabic": "مناخ"
+  },
+  {
+    "english": "hot ",
+    "transliteration": "Haar ",
+    "arabic": "حار    حرارة"
+  },
+  {
+    "english": "cold - adj. ",
+    "transliteration": "baarid ",
+    "arabic": "بارد "
+  },
+  {
+    "english": "warm ",
+    "transliteration": "daafi' ",
+    "arabic": "دافئ "
+  },
+  {
+    "english": "clear",
+    "transliteration": "SaHw",
+    "arabic": "صحو"
+  },
+  {
+    "english": "moderate",
+    "transliteration": "mu3tadil",
+    "arabic": "معتدل"
+  },
+  {
+    "english": "rainy",
+    "transliteration": "mumTir",
+    "arabic": "ممطر"
+  },
+  {
+    "english": "cloudy",
+    "transliteration": "ġaa'im",
+    "arabic": "غائم"
+  },
+  {
+    "english": "sunny",
+    "transliteration": "mušmis",
+    "arabic": "مشمس"
+  },
+  {
+    "english": "snowy",
+    "transliteration": "mutallaj",
+    "arabic": "مثلّج"
+  },
+  {
+    "english": "humid",
+    "transliteration": "raTb",
+    "arabic": "رطب"
+  },
+  {
+    "english": "stormy",
+    "transliteration": "3aaSif",
+    "arabic": "عاصف"
+  },
+  {
+    "english": "dusty",
+    "transliteration": "turaabi",
+    "arabic": "ترابي"
+  },
+  {
+    "english": "cloud",
+    "transliteration": "ġeima",
+    "arabic": "غيمة"
+  },
+  {
+    "english": "clouds",
+    "transliteration": "ġuyuum",
+    "arabic": "غيوم"
+  },
+  {
+    "english": "sun",
+    "transliteration": "šams",
+    "arabic": "شمس"
+  },
+  {
+    "english": "suns",
+    "transliteration": "šumuus ",
+    "arabic": "شموس"
+  },
+  {
+    "english": "moon",
+    "transliteration": "qamar",
+    "arabic": "قمر"
+  },
+  {
+    "english": "moons",
+    "transliteration": "aqmaar",
+    "arabic": "أقمار"
+  },
+  {
+    "english": "star",
+    "transliteration": "najm",
+    "arabic": "نجم"
+  },
+  {
+    "english": "stars",
+    "transliteration": "nujuum",
+    "arabic": "نجوم"
+  },
+  {
+    "english": "rain",
+    "transliteration": "maTar",
+    "arabic": "مطر"
+  },
+  {
+    "english": "rain",
+    "transliteration": "amTaar",
+    "arabic": "أمطار"
+  },
+  {
+    "english": "snow",
+    "transliteration": "talj",
+    "arabic": "ثلج"
+  },
+  {
+    "english": "frost",
+    "transliteration": "Saqii3",
+    "arabic": "صقيع"
+  },
+  {
+    "english": "wind",
+    "transliteration": "riiH",
+    "arabic": "ريح"
+  },
+  {
+    "english": "winds",
+    "transliteration": "riyaaH ",
+    "arabic": "رياح"
+  },
+  {
+    "english": "humidity",
+    "transliteration": "ruTuuba",
+    "arabic": "رطوبة"
+  },
+  {
+    "english": "fog",
+    "transliteration": "Dabaab",
+    "arabic": "ضباب"
+  },
+  {
+    "english": "hail ",
+    "transliteration": "barad ",
+    "arabic": "برد "
+  },
+  {
+    "english": "storm",
+    "transliteration": "3aaSifa",
+    "arabic": "عاصفة"
+  },
+  {
+    "english": "storms",
+    "transliteration": "3awaaSif",
+    "arabic": "عواصف"
+  },
+  {
+    "english": "thunder",
+    "transliteration": "ra3d",
+    "arabic": "رعد"
+  },
+  {
+    "english": "thunders",
+    "transliteration": "ru3uud",
+    "arabic": "رعود"
+  },
+  {
+    "english": "lightning",
+    "transliteration": "barq",
+    "arabic": "برق"
+  },
+  {
+    "english": "lightnings",
+    "transliteration": "buruuq",
+    "arabic": "بروق"
+  },
+  {
+    "english": "hurricane",
+    "transliteration": "i3Saar",
+    "arabic": "اعصار"
+  },
+  {
+    "english": "hurricanes",
+    "transliteration": "a3aaSiir",
+    "arabic": "أعاصير"
+  },
+  {
+    "english": "tornado",
+    "transliteration": "zawba3a",
+    "arabic": "زوبعة"
+  },
+  {
+    "english": "tornadoes",
+    "transliteration": "zawaabi3",
+    "arabic": "زوابع"
+  },
+  {
+    "english": "earthquake",
+    "transliteration": "zilzaal",
+    "arabic": "زلزال"
+  },
+  {
+    "english": "earthquakes",
+    "transliteration": "zalaazil",
+    "arabic": "زلازل"
+  },
+  {
+    "english": "flood",
+    "transliteration": "fayaDaan",
+    "arabic": "فيضان"
+  },
+  {
+    "english": "floods",
+    "transliteration": "fayaDaanaat",
+    "arabic": "فيضانات"
+  },
+  {
+    "english": "volcano",
+    "transliteration": "burkaan",
+    "arabic": "بركان"
+  },
+  {
+    "english": "volcanoes",
+    "transliteration": "baraakiin",
+    "arabic": "براكين"
+  },
+  {
+    "english": "dust storm",
+    "transliteration": "3aaSifa turaabiyya",
+    "arabic": "عاصفة ترابية"
+  },
+  {
+    "english": "dust storms",
+    "transliteration": "za3abiib",
+    "arabic": "زعابيب"
+  },
+  {
+    "english": "rainbow",
+    "transliteration": "qoos quzaH",
+    "arabic": "قوس قزج"
+  },
+  {
+    "english": "season",
+    "transliteration": "faSl",
+    "arabic": "فصل"
+  },
+  {
+    "english": "seasons",
+    "transliteration": "fuSuul",
+    "arabic": "فصول"
+  },
+  {
+    "english": "spring",
+    "transliteration": "rabii3",
+    "arabic": "ربيع"
+  },
+  {
+    "english": "summer",
+    "transliteration": "Seif",
+    "arabic": "صيف"
+  },
+  {
+    "english": "fall",
+    "transliteration": "xariif",
+    "arabic": "خريف"
+  },
+  {
+    "english": "winter",
+    "transliteration": "šitaa'",
+    "arabic": "شتاء"
+  }
+]

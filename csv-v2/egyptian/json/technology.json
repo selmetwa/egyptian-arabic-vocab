@@ -1,0 +1,387 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "computer",
+    "transliteration": "Haasuub",
+    "arabic": "حاسوب"
+  },
+  {
+    "english": "computers",
+    "transliteration": "Hawaasiib",
+    "arabic": "حواسيب"
+  },
+  {
+    "english": "laptop",
+    "transliteration": "Haasuub maHmuul",
+    "arabic": "حاسوب محمول"
+  },
+  {
+    "english": "hard disk",
+    "transliteration": "qurS Sulb",
+    "arabic": "قرص صلب"
+  },
+  {
+    "english": "hard drive",
+    "transliteration": "muHarrik Sulb",
+    "arabic": "محرك صلب"
+  },
+  {
+    "english": "motherboard",
+    "transliteration": "lawHat umm",
+    "arabic": "لوحة أم"
+  },
+  {
+    "english": "memory card",
+    "transliteration": "biTaaqat daakira",
+    "arabic": "بطاقة ذاكرة"
+  },
+  {
+    "english": "processor",
+    "transliteration": "mu3aalij",
+    "arabic": "معالج"
+  },
+  {
+    "english": "key",
+    "transliteration": "zirr",
+    "arabic": "زر"
+  },
+  {
+    "english": "keys",
+    "transliteration": "azraar",
+    "arabic": "أزرار"
+  },
+  {
+    "english": "monitor",
+    "transliteration": "šaaša",
+    "arabic": "شاشة"
+  },
+  {
+    "english": "flatscreen monitor",
+    "transliteration": "šaašat 3arD",
+    "arabic": "شاشة عرض"
+  },
+  {
+    "english": "mouse",
+    "transliteration": "fa'ra",
+    "arabic": "فأرة"
+  },
+  {
+    "english": "scanner",
+    "transliteration": "maasiH Doo'i",
+    "arabic": "ماسح ضوئي"
+  },
+  {
+    "english": "printer",
+    "transliteration": "Tabbaa3a",
+    "arabic": "طباعة"
+  },
+  {
+    "english": "speakers",
+    "transliteration": "sammaa3aat",
+    "arabic": "سماعات"
+  },
+  {
+    "english": "multimedia",
+    "transliteration": "wasaa'iT muta3addida",
+    "arabic": "وسائط متعددة"
+  },
+  {
+    "english": "streaming media",
+    "transliteration": "batt Hayy",
+    "arabic": "بث حي"
+  },
+  {
+    "english": "digital",
+    "transliteration": "raqami",
+    "arabic": "رقمي"
+  },
+  {
+    "english": "virtual",
+    "transliteration": "wahmi",
+    "arabic": "وهمي"
+  },
+  {
+    "english": "wireless",
+    "transliteration": "la silki",
+    "arabic": "لا سلكي"
+  },
+  {
+    "english": "CD",
+    "transliteration": "qurS maDġuuT",
+    "arabic": "قرص مضغوط"
+  },
+  {
+    "english": "DVD",
+    "transliteration": "qurS viidiyo raqami",
+    "arabic": "قرص فيديو رقمي"
+  },
+  {
+    "english": "data",
+    "transliteration": "bayanaat",
+    "arabic": "بيانات"
+  },
+  {
+    "english": "software",
+    "transliteration": "barmijiyaat",
+    "arabic": "برمجيات"
+  },
+  {
+    "english": "program",
+    "transliteration": "barnaamaj",
+    "arabic": "برنامج"
+  },
+  {
+    "english": "programs",
+    "transliteration": "baraamij",
+    "arabic": "برامج"
+  },
+  {
+    "english": "network",
+    "transliteration": "šabaka",
+    "arabic": "شبكة"
+  },
+  {
+    "english": "networks",
+    "transliteration": "šabakaat",
+    "arabic": "شبكات"
+  },
+  {
+    "english": "data",
+    "transliteration": "bayanaat",
+    "arabic": "بيانات"
+  },
+  {
+    "english": "forum",
+    "transliteration": "muntuda",
+    "arabic": "منتدى"
+  },
+  {
+    "english": "forums",
+    "transliteration": "muntudiyaat",
+    "arabic": "منتديات"
+  },
+  {
+    "english": "blog",
+    "transliteration": "mudawwana",
+    "arabic": "مدوّنة"
+  },
+  {
+    "english": "blogs",
+    "transliteration": "mudawwanaat",
+    "arabic": "مدوّنات"
+  },
+  {
+    "english": "chat",
+    "transliteration": "dardaša",
+    "arabic": "دردشة"
+  },
+  {
+    "english": "link",
+    "transliteration": "raabiT",
+    "arabic": "رابط"
+  },
+  {
+    "english": "links",
+    "transliteration": "rawaabiT",
+    "arabic": "روابط"
+  },
+  {
+    "english": "email",
+    "transliteration": "bariid elektroni",
+    "arabic": "بريد الكتروني"
+  },
+  {
+    "english": "account",
+    "transliteration": "Haasib",
+    "arabic": "حاسب"
+  },
+  {
+    "english": "accounts",
+    "transliteration": "Haasibaat",
+    "arabic": "حاسبات"
+  },
+  {
+    "english": "profile",
+    "transliteration": "milaff šaxSi",
+    "arabic": "ملفّ شخصي"
+  },
+  {
+    "english": "private message",
+    "transliteration": "risaala xaaSSa",
+    "arabic": "رسالة خاصة"
+  },
+  {
+    "english": "comment",
+    "transliteration": "ta3liiq",
+    "arabic": "تعليق"
+  },
+  {
+    "english": "comments",
+    "transliteration": "ta3liiqaat",
+    "arabic": "تعليقات"
+  },
+  {
+    "english": "design",
+    "transliteration": "taSmiim",
+    "arabic": "تصميم"
+  },
+  {
+    "english": "browser",
+    "transliteration": "mutaSaffiH",
+    "arabic": "متصفح"
+  },
+  {
+    "english": "firewall",
+    "transliteration": "jidaar naari",
+    "arabic": "جدار ناري"
+  },
+  {
+    "english": "host",
+    "transliteration": "muDiif",
+    "arabic": "مضيف"
+  },
+  {
+    "english": "server",
+    "transliteration": "muzawwid",
+    "arabic": "مزود"
+  },
+  {
+    "english": "frequently asked questions",
+    "transliteration": "as'ila šaa'i3a/mutakarrira",
+    "arabic": "أسئلة شائعة |متكررّة"
+  },
+  {
+    "english": "code ",
+    "transliteration": "rumuuz",
+    "arabic": "رموز"
+  },
+  {
+    "english": "smilie",
+    "transliteration": "ibtisaama",
+    "arabic": "ابتسامة"
+  },
+  {
+    "english": "smilies",
+    "transliteration": "ibtisaamaat",
+    "arabic": "ابتسامات"
+  },
+  {
+    "english": "folder",
+    "transliteration": "mujallad",
+    "arabic": "مجلّد"
+  },
+  {
+    "english": "folders",
+    "transliteration": "mujalladaat",
+    "arabic": "مجلّدات"
+  },
+  {
+    "english": "file",
+    "transliteration": "milaff",
+    "arabic": "ملف"
+  },
+  {
+    "english": "files",
+    "transliteration": "milaffaat",
+    "arabic": "ملفات"
+  },
+  {
+    "english": "size",
+    "transliteration": "Hajm",
+    "arabic": "حجم"
+  },
+  {
+    "english": "sizes",
+    "transliteration": "Hujuum/aHjaam",
+    "arabic": "حجوم | أحجام"
+  },
+  {
+    "english": "high-quality",
+    "transliteration": "jawda 3aaliya",
+    "arabic": "جودة عالية"
+  },
+  {
+    "english": "re-upload",
+    "transliteration": "i3aadat raf3",
+    "arabic": "إعادة رفع"
+  },
+  {
+    "english": "original uploader",
+    "transliteration": "raafi3 aSli",
+    "arabic": "رافع أصلي"
+  },
+  {
+    "english": "font",
+    "transliteration": "xaTT",
+    "arabic": "خط"
+  },
+  {
+    "english": "fonts",
+    "transliteration": "xuTuuT",
+    "arabic": "خطوط"
+  },
+  {
+    "english": "Click here",
+    "transliteration": "iDġaT hona",
+    "arabic": "اضغط هنا"
+  },
+  {
+    "english": "Contact us",
+    "transliteration": "ittaSil bina",
+    "arabic": "اتصل بنا"
+  },
+  {
+    "english": "An error has occurred",
+    "transliteration": "HaSala xaTa'",
+    "arabic": "حصل خطأ"
+  },
+  {
+    "english": "cell phone",
+    "transliteration": "haatif maHmuul/xalawi",
+    "arabic": "هاتف محمول | خلوي"
+  },
+  {
+    "english": "SMS/text message",
+    "transliteration": "risaala",
+    "arabic": "رسالة"
+  },
+  {
+    "english": "SMS/text messages",
+    "transliteration": "rasaa'il",
+    "arabic": "رسائل"
+  },
+  {
+    "english": "balance",
+    "transliteration": "raSiid",
+    "arabic": "رصيد"
+  },
+  {
+    "english": "balances",
+    "transliteration": "arSida",
+    "arabic": "أرصدة"
+  },
+  {
+    "english": "shredder",
+    "transliteration": "farraama",
+    "arabic": "فرّامة"
+  },
+  {
+    "english": "xerox machine",
+    "transliteration": "jihaaz taSwiir mustanadaat",
+    "arabic": "جهاز تصوير مستندات"
+  },
+  {
+    "english": "copy",
+    "transliteration": "nusxa",
+    "arabic": "نسخة"
+  },
+  {
+    "english": "copies",
+    "transliteration": "nusax",
+    "arabic": "نسخ"
+  }
+]

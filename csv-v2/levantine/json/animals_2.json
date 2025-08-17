@@ -1,0 +1,584 @@
+[
+  {
+    "english": "animal",
+    "transliteration": "ɧayawēn",
+    "arabic": "حَيَوان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-1.mp3"
+  },
+  {
+    "english": "pet",
+    "transliteration": "ɧayawēn alīf",
+    "arabic": "حَيَوان أليف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-2.mp3"
+  },
+  {
+    "english": "Do you have any pets?",
+    "transliteration": "3índak ɧayawēnēt alīfi?",
+    "arabic": "عِنْدك حَيَوانات أليفِة؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-3.mp3"
+  },
+  {
+    "english": "dog",
+    "transliteration": "kálib (klēb)",
+    "arabic": "كلِب (كْلاب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-4.mp3"
+  },
+  {
+    "english": "cat",
+    "transliteration": "bsēni",
+    "arabic": "بْسيْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-5.mp3"
+  },
+  {
+    "english": "I like cats, but I don’t like dogs so much.",
+    "transliteration": "ána bɧibb libsēnēt bass mā bɧibb liklēb ktīr.",
+    "arabic": "أنا بْحِبّ الِبْسيْنات بسّ ما بْحِبّ الِكْلاب كْتير.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-6.mp3"
+  },
+  {
+    "english": "cage",
+    "transliteration": "ʔáfaʂ (aʔfāʂ)",
+    "arabic": "قفص (أقْفاص)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-7.mp3"
+  },
+  {
+    "english": "leash",
+    "transliteration": "silsílit kálib (salësil kálib)",
+    "arabic": "سِلْسِلِة كلِب (سلاسِل كلِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-8.mp3"
+  },
+  {
+    "english": "dog collar",
+    "transliteration": "ʈōʔ (aʈwāʔ)",
+    "arabic": "طوْق (أطْواق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-9.mp3"
+  },
+  {
+    "english": "to train",
+    "transliteration": "dárrab, ydárrib",
+    "arabic": "درّب، يْدرِّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-10.mp3"
+  },
+  {
+    "english": "(pet) food, feed",
+    "transliteration": "3álaf",
+    "arabic": "علف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-11.mp3"
+  },
+  {
+    "english": "bear",
+    "transliteration": "dibb (díbab)",
+    "arabic": "دِبّ (دِبب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-12.mp3"
+  },
+  {
+    "english": "beaver",
+    "transliteration": "ʔíndus (ʔanēdis)",
+    "arabic": "قِنْدُس (قنادِس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-13.mp3"
+  },
+  {
+    "english": "buffalo",
+    "transliteration": "jāmūsi (jawamīs)",
+    "arabic": "جاموسِة (جَواميس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-14.mp3"
+  },
+  {
+    "english": "cheetah",
+    "transliteration": "fáhid (fhūd)",
+    "arabic": "فهِد (فْهود)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-16.mp3"
+  },
+  {
+    "english": "deer, gazelle",
+    "transliteration": "ɣazēli (ɣizlēn)",
+    "arabic": "غزالِة (غِزْلان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-17.mp3"
+  },
+  {
+    "english": "elephant",
+    "transliteration": "fīl (fíyala)",
+    "arabic": "فيل (فِيلة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-18.mp3"
+  },
+  {
+    "english": "fox",
+    "transliteration": "tá3lab (ta3ālib)",
+    "arabic": "تعْلب (تعالِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-19.mp3"
+  },
+  {
+    "english": "giraffe",
+    "transliteration": "zarāfi",
+    "arabic": "زرافِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-20.mp3"
+  },
+  {
+    "english": "hippopotamus",
+    "transliteration": "fáras náhir (ʔafrās náhir)",
+    "arabic": "فرس نهِر (أفْراس نهِر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-21.mp3"
+  },
+  {
+    "english": "kangaroo",
+    "transliteration": "kangārū",
+    "arabic": "كنْغارو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-22.mp3"
+  },
+  {
+    "english": "koala",
+    "transliteration": "kuwālā",
+    "arabic": "كُوالا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-23.mp3"
+  },
+  {
+    "english": "leopard",
+    "transliteration": "nímir",
+    "arabic": "نِمِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-24.mp3"
+  },
+  {
+    "english": "lion",
+    "transliteration": "ásad (ʔsūd)",
+    "arabic": "أسد (أْسود)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-25.mp3"
+  },
+  {
+    "english": "mouse; rat",
+    "transliteration": "fāra (fīrān)",
+    "arabic": "فارة (فيران)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-26.mp3"
+  },
+  {
+    "english": "polar bear",
+    "transliteration": "dibb ʔúʈbi",
+    "arabic": "دِبّ قُطْبي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-28.mp3"
+  },
+  {
+    "english": "rabbit",
+    "transliteration": "árnab (arānib)",
+    "arabic": "أرْنب (أرانِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-29.mp3"
+  },
+  {
+    "english": "rhinoceros",
+    "transliteration": "waɧīd ilʔírin",
+    "arabic": "وَحيد القِرِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-29b.mp3"
+  },
+  {
+    "english": "skunk",
+    "transliteration": "ʐurbēn",
+    "arabic": "ظُرْبان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-30.mp3"
+  },
+  {
+    "english": "squirrel",
+    "transliteration": "sinjēb (sanajīb)",
+    "arabic": "سِنْجاب (سناجيب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-31.mp3"
+  },
+  {
+    "english": "tiger",
+    "transliteration": "nímir (nmūra)",
+    "arabic": "نِمِر (نْمورة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-32.mp3"
+  },
+  {
+    "english": "wolf",
+    "transliteration": "zíʔib (zʔēb)",
+    "arabic": "زِئِب (زْئاب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-33.mp3"
+  },
+  {
+    "english": "seal",
+    "transliteration": "fáʔmi (fáʔam)",
+    "arabic": "فقْمِة (فقم)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-34.mp3"
+  },
+  {
+    "english": "sealion",
+    "transliteration": "ásad báɧir (ʔsūd báɧir)",
+    "arabic": "أسد بحِر (أْسود بحِر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-35.mp3"
+  },
+  {
+    "english": "dolphin",
+    "transliteration": "dōlfīn",
+    "arabic": "دوْلْفين (دلافين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-36.mp3"
+  },
+  {
+    "english": "whale",
+    "transliteration": "ɧūt (ɧītēn)",
+    "arabic": "حوت (حيتان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-37.mp3"
+  },
+  {
+    "english": "bird",
+    "transliteration": "ʈēr (ʈyūr)",
+    "arabic": "طيْر (طْيور)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-38.mp3"
+  },
+  {
+    "english": "canary",
+    "transliteration": "kanār",
+    "arabic": "كنار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-39.mp3"
+  },
+  {
+    "english": "crow, raven",
+    "transliteration": "ɣurāb",
+    "arabic": "غُراب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-40.mp3"
+  },
+  {
+    "english": "dove, pigeon",
+    "transliteration": "ɧamēmi",
+    "arabic": "حمامِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-41.mp3"
+  },
+  {
+    "english": "eagle, condor, vulture",
+    "transliteration": "nísir",
+    "arabic": "نِسِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-42.mp3"
+  },
+  {
+    "english": "hawk, falcon",
+    "transliteration": "ʂáʔir (ʂʔūr)",
+    "arabic": "صقِر (صْقور)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-43.mp3"
+  },
+  {
+    "english": "ostrich",
+    "transliteration": "na3āmi",
+    "arabic": "نعامِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-44.mp3"
+  },
+  {
+    "english": "parrot",
+    "transliteration": "babaɣāʔ",
+    "arabic": "ببغاء",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-45.mp3"
+  },
+  {
+    "english": "peacock",
+    "transliteration": "ʈāwūs (ʈawāwīs)",
+    "arabic": "طاووس (طواويس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-46.mp3"
+  },
+  {
+    "english": "penguin",
+    "transliteration": "baʈrīq (baʈāriq)",
+    "arabic": "بطْريق (بطارِق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-47.mp3"
+  },
+  {
+    "english": "seagull",
+    "transliteration": "náwras (nawēris)",
+    "arabic": "نوْرس (نوارِس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-48.mp3"
+  },
+  {
+    "english": "small bird (sparrow, finch, etc.)",
+    "transliteration": "3aʂfūr (3ʂāfīr)",
+    "arabic": "عصْفور (عْصافير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-49.mp3"
+  },
+  {
+    "english": "stork",
+    "transliteration": "liʔlāʔ (laʔēliʔ)",
+    "arabic": "لِقْلاق (لقالِق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-50.mp3"
+  },
+  {
+    "english": "swallow",
+    "transliteration": "sunūnū (sunūnuwēt)",
+    "arabic": "سُنونو (سُنونُوات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-51.mp3"
+  },
+  {
+    "english": "swan",
+    "transliteration": "báj3a",
+    "arabic": "بجْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-52.mp3"
+  },
+  {
+    "english": "reptiles",
+    "transliteration": "zawēɧif [pl.]",
+    "arabic": "زَواحِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-53.mp3"
+  },
+  {
+    "english": "cobra",
+    "transliteration": "kōbra",
+    "arabic": "كوبْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-54.mp3"
+  },
+  {
+    "english": "crocodile",
+    "transliteration": "timsāɧ (tamēsīɧ)",
+    "arabic": "تِمْساح (تماسيح)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-55.mp3"
+  },
+  {
+    "english": "lizard",
+    "transliteration": "siɧlíyyi (saɧālī)",
+    "arabic": "سِحْلية (سحالي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-56.mp3"
+  },
+  {
+    "english": "snake",
+    "transliteration": "ɧáyyi (ɧayēya)",
+    "arabic": "حيِّة (حَيايا)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-57.mp3"
+  },
+  {
+    "english": "snake",
+    "transliteration": "ta3bān (ta3ābīn)",
+    "arabic": "تعْبان (تعابين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-58.mp3"
+  },
+  {
+    "english": "turtle, tortoise",
+    "transliteration": "zílɧafi (zalēɧif)",
+    "arabic": "زِلْحفِة (زلاحِف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-59.mp3"
+  },
+  {
+    "english": "frog",
+    "transliteration": "ɖífɖa3 (ɖafāɖi3)",
+    "arabic": "ضِفْضع (ضفاضِع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-60.mp3"
+  },
+  {
+    "english": "fish",
+    "transliteration": "sámak",
+    "arabic": "سمك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-61.mp3"
+  },
+  {
+    "english": "shark",
+    "transliteration": "ʔíriš",
+    "arabic": "قِرِش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-62.mp3"
+  },
+  {
+    "english": "jellyfish",
+    "transliteration": "ʔindīl báɧir",
+    "arabic": "قِنْديل بحِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-63.mp3"
+  },
+  {
+    "english": "insect, bug",
+    "transliteration": "ɧášara",
+    "arabic": "حشرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-64.mp3"
+  },
+  {
+    "english": "ants",
+    "transliteration": "námil",
+    "arabic": "نمِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-65.mp3"
+  },
+  {
+    "english": "bees",
+    "transliteration": "náɧil",
+    "arabic": "نحِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-66.mp3"
+  },
+  {
+    "english": "A bee stung me.",
+    "transliteration": "náɧli ʔarʂítni.",
+    "arabic": "نحْلِة قرْصِتْني.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-67.mp3"
+  },
+  {
+    "english": "bee-sting",
+    "transliteration": "ʔárʂit náɧli",
+    "arabic": "قرْصِة نحْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-68.mp3"
+  },
+  {
+    "english": "beehive",
+    "transliteration": "xálíyyit náɧil",
+    "arabic": "خلية نحِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-69.mp3"
+  },
+  {
+    "english": "beetle",
+    "transliteration": "xúnfusi (xanēfis)",
+    "arabic": "خُنْفُسِة (خنافِس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-70.mp3"
+  },
+  {
+    "english": "butterfly",
+    "transliteration": "farāši",
+    "arabic": "فراشِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-71.mp3"
+  },
+  {
+    "english": "cockroach; cricket",
+    "transliteration": "ʂarʂūr (ʂarāʂīr)",
+    "arabic": "صرْصور (صراصير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-72.mp3"
+  },
+  {
+    "english": "flea",
+    "transliteration": "barɣūt (barāɣīt)",
+    "arabic": "برْغوت (براغيت)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-73.mp3"
+  },
+  {
+    "english": "flies",
+    "transliteration": "dibbēn",
+    "arabic": "دِبّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-74.mp3"
+  },
+  {
+    "english": "grasshopper, locust",
+    "transliteration": "jarād",
+    "arabic": "جراد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-75.mp3"
+  },
+  {
+    "english": "lice",
+    "transliteration": "ʔámil",
+    "arabic": "قمِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-76.mp3"
+  },
+  {
+    "english": "The child has head lice.",
+    "transliteration": "lwálad mʔámmal.",
+    "arabic": "الوَلد مْقمّل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-77.mp3"
+  },
+  {
+    "english": "mosquito",
+    "transliteration": "báriɣši (bárɣaš)",
+    "arabic": "برِغْشِة (برْغش)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-78.mp3"
+  },
+  {
+    "english": "mosquito bite",
+    "transliteration": "ʔárʂit bárɣaš",
+    "arabic": "قرْصِة برْغش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-79.mp3"
+  },
+  {
+    "english": "A mosquito bit me.",
+    "transliteration": "ʔárʂitni báriɣši.",
+    "arabic": "قرْصِتْني برِغْشِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-80.mp3"
+  },
+  {
+    "english": "moth",
+    "transliteration": "3íti",
+    "arabic": "عِتِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-81.mp3"
+  },
+  {
+    "english": "scorpion",
+    "transliteration": "3áʔrab (3aʔārib)",
+    "arabic": "عقْرب (عقارِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-82.mp3"
+  },
+  {
+    "english": "snail",
+    "transliteration": "ɧalazōn",
+    "arabic": "حلزوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-83.mp3"
+  },
+  {
+    "english": "spider",
+    "transliteration": "3ankabūt (3anēkib)",
+    "arabic": "عنْكبوت (عناكِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-84.mp3"
+  },
+  {
+    "english": "spider web",
+    "transliteration": "šábakit 3ankabūt",
+    "arabic": "شبكِة عنْكبوت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-85.mp3"
+  },
+  {
+    "english": "I’m afraid of spiders.",
+    "transliteration": "ána bxāf min il3anēkib.",
+    "arabic": "أنا بْخاف مِن العناكِب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-86.mp3"
+  },
+  {
+    "english": "wasp",
+    "transliteration": "dabbūr (dabābīr)",
+    "arabic": "دبّور (دبابير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-87.mp3"
+  },
+  {
+    "english": "worm",
+    "transliteration": "dūd",
+    "arabic": "دود",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-88.mp3"
+  },
+  {
+    "english": "beak, bill",
+    "transliteration": "minʔār (manāʔīr)",
+    "arabic": "مِنْقار (مناقير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-89.mp3"
+  },
+  {
+    "english": "claw, talon",
+    "transliteration": "máxlab (maxālib)",
+    "arabic": "مخْلب (مخالِب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-90.mp3"
+  },
+  {
+    "english": "feathers",
+    "transliteration": "rīš",
+    "arabic": "ريش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-91.mp3"
+  },
+  {
+    "english": "fur",
+    "transliteration": "fáru",
+    "arabic": "فرو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-92.mp3"
+  },
+  {
+    "english": "horn, antler",
+    "transliteration": "ʔárin (ʔrūn)",
+    "arabic": "قرِن (قْرون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-93.mp3"
+  },
+  {
+    "english": "feeler, antenna",
+    "transliteration": "ʔárin ilɧášra",
+    "arabic": "قرِن الحشْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-94.mp3"
+  },
+  {
+    "english": "paw, leg",
+    "transliteration": "ríjil (rijlēn)",
+    "arabic": "رِجِل (رِجْليْن)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-95.mp3"
+  },
+  {
+    "english": "tail",
+    "transliteration": "dánab (dnēb)",
+    "arabic": "دنب (دْناب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-96.mp3"
+  },
+  {
+    "english": "udder, teats",
+    "transliteration": "ɖrū3",
+    "arabic": "ضْروع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-97.mp3"
+  },
+  {
+    "english": "wing",
+    "transliteration": "jnēɧ (ájniɧa)",
+    "arabic": "جْناح (أجْنِحة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav43-98.mp3"
+  }
+]

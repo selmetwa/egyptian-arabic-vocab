@@ -1,0 +1,1037 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "body",
+    "transliteration": "gism",
+    "arabic": "جسم"
+  },
+  {
+    "english": "bodies",
+    "transliteration": "agsaam",
+    "arabic": "اجسام"
+  },
+  {
+    "english": "part",
+    "transliteration": "3uDw",
+    "arabic": "عضو"
+  },
+  {
+    "english": "parts",
+    "transliteration": "a3Daa'",
+    "arabic": "اعضاء"
+  },
+  {
+    "english": "gland",
+    "transliteration": "ġudda",
+    "arabic": "غدة"
+  },
+  {
+    "english": "glands",
+    "transliteration": "ġudad",
+    "arabic": "غدد"
+  },
+  {
+    "english": "skin",
+    "transliteration": "gild",
+    "arabic": "جلد"
+  },
+  {
+    "english": "skins",
+    "transliteration": "guluud",
+    "arabic": "جلود"
+  },
+  {
+    "english": "head",
+    "transliteration": "raas",
+    "arabic": "راس"
+  },
+  {
+    "english": "heads",
+    "transliteration": "ruus ",
+    "arabic": "روس"
+  },
+  {
+    "english": "skull",
+    "transliteration": "gumguma",
+    "arabic": "جمجمة"
+  },
+  {
+    "english": "skulls",
+    "transliteration": "gamaagim",
+    "arabic": "جماجم"
+  },
+  {
+    "english": "brain",
+    "transliteration": "muxx",
+    "arabic": "مخ"
+  },
+  {
+    "english": "brains",
+    "transliteration": "amxaax",
+    "arabic": "امخاخ"
+  },
+  {
+    "english": "hair",
+    "transliteration": "ša3r",
+    "arabic": "شَعر"
+  },
+  {
+    "english": "bangs",
+    "transliteration": "'oSSa",
+    "arabic": "قصّة"
+  },
+  {
+    "english": "straight ",
+    "transliteration": "naa3im",
+    "arabic": "ناعم"
+  },
+  {
+    "english": "curly",
+    "transliteration": "mga33ad",
+    "arabic": "مجعد"
+  },
+  {
+    "english": "wavy",
+    "transliteration": "mutamawwij",
+    "arabic": "متموج"
+  },
+  {
+    "english": "dry",
+    "transliteration": "gaaf",
+    "arabic": "جاف"
+  },
+  {
+    "english": "coarse",
+    "transliteration": "xišin",
+    "arabic": "خشن"
+  },
+  {
+    "english": "greasy",
+    "transliteration": "duhni",
+    "arabic": "دهني"
+  },
+  {
+    "english": "thick",
+    "transliteration": "samiik",
+    "arabic": "سميك"
+  },
+  {
+    "english": "thinning ",
+    "transliteration": "xafiif",
+    "arabic": "خفيف"
+  },
+  {
+    "english": "mustache",
+    "transliteration": "šanab",
+    "arabic": "شنب"
+  },
+  {
+    "english": "mustaches",
+    "transliteration": "šanabaat | šiniba",
+    "arabic": "شنبات | شنبة"
+  },
+  {
+    "english": "beard",
+    "transliteration": "da'n",
+    "arabic": "دقن"
+  },
+  {
+    "english": "beards",
+    "transliteration": "du'uun",
+    "arabic": "دقون"
+  },
+  {
+    "english": "bald",
+    "transliteration": "aSla3",
+    "arabic": "أصلع"
+  },
+  {
+    "english": "completely bald",
+    "transliteration": "zalabaTTa",
+    "arabic": "زلبطّة"
+  },
+  {
+    "english": "wig",
+    "transliteration": "baruuka",
+    "arabic": "باروكة"
+  },
+  {
+    "english": "dandruff",
+    "transliteration": "'išra",
+    "arabic": "قشرة"
+  },
+  {
+    "english": "face",
+    "transliteration": "wišš",
+    "arabic": "وشّ"
+  },
+  {
+    "english": "faces",
+    "transliteration": "wišuuš",
+    "arabic": "وشوش"
+  },
+  {
+    "english": "forehead",
+    "transliteration": "gibiin",
+    "arabic": "جبين"
+  },
+  {
+    "english": "foreheads",
+    "transliteration": "gubun",
+    "arabic": "جبن"
+  },
+  {
+    "english": "temple",
+    "transliteration": "Sudġ",
+    "arabic": "صدغ"
+  },
+  {
+    "english": "temples",
+    "transliteration": "aSdaaġ",
+    "arabic": "اصداغ"
+  },
+  {
+    "english": "cheek",
+    "transliteration": "xudd",
+    "arabic": "خد"
+  },
+  {
+    "english": "cheeks",
+    "transliteration": "xuduud",
+    "arabic": "خدود"
+  },
+  {
+    "english": "pimple",
+    "transliteration": "dimmel",
+    "arabic": "دمّل"
+  },
+  {
+    "english": "pimples",
+    "transliteration": "dawaamil",
+    "arabic": "دوامل"
+  },
+  {
+    "english": "acne",
+    "transliteration": "Habb iš-šabaab",
+    "arabic": "حب الشباب"
+  },
+  {
+    "english": "mole",
+    "transliteration": "Hasana",
+    "arabic": "حسنة"
+  },
+  {
+    "english": "moles",
+    "transliteration": "Hasanaat",
+    "arabic": "حسنات"
+  },
+  {
+    "english": "freckles",
+    "transliteration": "namaš",
+    "arabic": "نمش"
+  },
+  {
+    "english": "eye",
+    "transliteration": "3ein",
+    "arabic": "عين"
+  },
+  {
+    "english": "eyes",
+    "transliteration": "3uyuun ",
+    "arabic": "عيون"
+  },
+  {
+    "english": "eyelid",
+    "transliteration": "gifn",
+    "arabic": "جفن"
+  },
+  {
+    "english": "eyelids",
+    "transliteration": "gufuun",
+    "arabic": "جفون"
+  },
+  {
+    "english": "eyelash",
+    "transliteration": "rimš",
+    "arabic": "رمش"
+  },
+  {
+    "english": "eyelashes",
+    "transliteration": "rumuuš",
+    "arabic": "رموش"
+  },
+  {
+    "english": "pupil",
+    "transliteration": "ninni",
+    "arabic": "ننّي"
+  },
+  {
+    "english": "iris",
+    "transliteration": "sawaad il-3ein",
+    "arabic": "سواد العين"
+  },
+  {
+    "english": "cornea",
+    "transliteration": "qarniya",
+    "arabic": "قرنية"
+  },
+  {
+    "english": "ear",
+    "transliteration": "widn",
+    "arabic": "ودن"
+  },
+  {
+    "english": "ears",
+    "transliteration": "widaan",
+    "arabic": "ودان"
+  },
+  {
+    "english": "nose",
+    "transliteration": "manaxiir",
+    "arabic": "مناخير"
+  },
+  {
+    "english": "noses",
+    "transliteration": "unuuf",
+    "arabic": "انوف"
+  },
+  {
+    "english": "nostril",
+    "transliteration": "minxaar",
+    "arabic": "منخار"
+  },
+  {
+    "english": "nostrils",
+    "transliteration": "manaaxiir",
+    "arabic": "مناخير"
+  },
+  {
+    "english": "mouth",
+    "transliteration": "bo''",
+    "arabic": "بق"
+  },
+  {
+    "english": "mouths",
+    "transliteration": "bi'aa'",
+    "arabic": "بقاق"
+  },
+  {
+    "english": "tonsils",
+    "transliteration": "loztein | liwaz",
+    "arabic": "لوزتين | لوز"
+  },
+  {
+    "english": "saliva",
+    "transliteration": "lu3aab",
+    "arabic": "لعاب"
+  },
+  {
+    "english": "lip",
+    "transliteration": "šiffa",
+    "arabic": "شفّة"
+  },
+  {
+    "english": "lips",
+    "transliteration": "šafaayif",
+    "arabic": "شفايف"
+  },
+  {
+    "english": "upper",
+    "transliteration": "3ulwii",
+    "arabic": "علوي"
+  },
+  {
+    "english": "lower",
+    "transliteration": "suflii",
+    "arabic": "سفلي"
+  },
+  {
+    "english": "tongue",
+    "transliteration": "lisaan",
+    "arabic": "لسان"
+  },
+  {
+    "english": "tongues",
+    "transliteration": "alsina",
+    "arabic": "السنة"
+  },
+  {
+    "english": "tooth",
+    "transliteration": "sinna",
+    "arabic": "سنّة"
+  },
+  {
+    "english": "teeth",
+    "transliteration": "sinaan",
+    "arabic": "سنان"
+  },
+  {
+    "english": "gums",
+    "transliteration": "lissa",
+    "arabic": "لثة"
+  },
+  {
+    "english": "chin",
+    "transliteration": "da'n",
+    "arabic": "دقن"
+  },
+  {
+    "english": "chins",
+    "transliteration": "du'uun",
+    "arabic": "دقون"
+  },
+  {
+    "english": "jaw",
+    "transliteration": "fakk",
+    "arabic": "فك"
+  },
+  {
+    "english": "jaws",
+    "transliteration": "fukuuk",
+    "arabic": "فكوك"
+  },
+  {
+    "english": "neck",
+    "transliteration": "ra'aba",
+    "arabic": "رقبة"
+  },
+  {
+    "english": "necks",
+    "transliteration": "ri'aab",
+    "arabic": "رقاب"
+  },
+  {
+    "english": "nape of the neck",
+    "transliteration": "'afa",
+    "arabic": "قفة"
+  },
+  {
+    "english": "nape of the necks",
+    "transliteration": "aqfiya",
+    "arabic": "اقفية"
+  },
+  {
+    "english": "throat",
+    "transliteration": "Hangara",
+    "arabic": "حنجرة"
+  },
+  {
+    "english": "throats",
+    "transliteration": "Hanaagir ",
+    "arabic": "حناجر"
+  },
+  {
+    "english": "esophagus",
+    "transliteration": "mari'",
+    "arabic": "مرئ"
+  },
+  {
+    "english": "esophaguses",
+    "transliteration": "amri'a | muruu'",
+    "arabic": "امرائة  |  مروء"
+  },
+  {
+    "english": "collarbone",
+    "transliteration": "tarquwa",
+    "arabic": "ترقوة"
+  },
+  {
+    "english": "collarbones",
+    "transliteration": "taraaq",
+    "arabic": "تراق"
+  },
+  {
+    "english": "shoulder",
+    "transliteration": "kitf",
+    "arabic": "كتف"
+  },
+  {
+    "english": "shoulders",
+    "transliteration": "aktaaf",
+    "arabic": "اكتاف"
+  },
+  {
+    "english": "chest",
+    "transliteration": "Sidr",
+    "arabic": "صدر"
+  },
+  {
+    "english": "chests",
+    "transliteration": "Suduur",
+    "arabic": "صدور"
+  },
+  {
+    "english": "bust",
+    "transliteration": "bizz",
+    "arabic": "بزّ"
+  },
+  {
+    "english": "busts",
+    "transliteration": "bizaaz",
+    "arabic": "بزاز"
+  },
+  {
+    "english": "nipple",
+    "transliteration": "Halama",
+    "arabic": "حلمة"
+  },
+  {
+    "english": "nipples",
+    "transliteration": "Halamaat",
+    "arabic": "حلمات"
+  },
+  {
+    "english": "arm",
+    "transliteration": "diraa3",
+    "arabic": "دراع"
+  },
+  {
+    "english": "arms",
+    "transliteration": "diraa3aat | diri3a",
+    "arabic": "دراعات | درعة"
+  },
+  {
+    "english": "armpit",
+    "transliteration": "baaT",
+    "arabic": "باط"
+  },
+  {
+    "english": "armpits",
+    "transliteration": "baTaat",
+    "arabic": "بطات"
+  },
+  {
+    "english": "elbow",
+    "transliteration": "kuu3",
+    "arabic": "كوع"
+  },
+  {
+    "english": "elbows",
+    "transliteration": "ki3aan",
+    "arabic": "كعان"
+  },
+  {
+    "english": "forearm",
+    "transliteration": "saa3id",
+    "arabic": "ساعد"
+  },
+  {
+    "english": "forearms",
+    "transliteration": "sawaa3id",
+    "arabic": "سواعد"
+  },
+  {
+    "english": "hand",
+    "transliteration": "iid  idein",
+    "arabic": "يد"
+  },
+  {
+    "english": "hands",
+    "transliteration": "eid",
+    "arabic": "ادين"
+  },
+  {
+    "english": "wrist",
+    "transliteration": "rusġ",
+    "arabic": "رسغ"
+  },
+  {
+    "english": "wrists",
+    "transliteration": "arsaaġ",
+    "arabic": "ارساغ"
+  },
+  {
+    "english": "finger/toe*",
+    "transliteration": "Subaa3",
+    "arabic": "صباع"
+  },
+  {
+    "english": "finger/toe*s",
+    "transliteration": "Sawaabi3",
+    "arabic": "صوابع"
+  },
+  {
+    "english": "thumb/big toe",
+    "transliteration": "ibhaam",
+    "arabic": "ابهام"
+  },
+  {
+    "english": "thumb/big toes",
+    "transliteration": "abaahiim",
+    "arabic": "اباهيم"
+  },
+  {
+    "english": "index finger",
+    "transliteration": "sabbaaba",
+    "arabic": "سبابة"
+  },
+  {
+    "english": "index fingers",
+    "transliteration": "sabbaabaat",
+    "arabic": "سبابات"
+  },
+  {
+    "english": "middle finger",
+    "transliteration": "wusTa",
+    "arabic": "وسطى"
+  },
+  {
+    "english": "middle fingers",
+    "transliteration": "wusaT",
+    "arabic": "وسط"
+  },
+  {
+    "english": "ring finger",
+    "transliteration": "binSir",
+    "arabic": "بنصر"
+  },
+  {
+    "english": "ring fingers",
+    "transliteration": "banaaSir",
+    "arabic": "بناصر"
+  },
+  {
+    "english": "pinky finger",
+    "transliteration": "xinSir",
+    "arabic": "خنصر"
+  },
+  {
+    "english": "pinky fingers",
+    "transliteration": "xanaaSir",
+    "arabic": "خناصر"
+  },
+  {
+    "english": "knuckle",
+    "transliteration": "mafSal",
+    "arabic": "مفصل"
+  },
+  {
+    "english": "knuckles",
+    "transliteration": "mafaaSil",
+    "arabic": "مفاصل"
+  },
+  {
+    "english": "fingernail/toenail",
+    "transliteration": "Doofr",
+    "arabic": "ضوفر"
+  },
+  {
+    "english": "fingernail/toenails",
+    "transliteration": "Dawaafir",
+    "arabic": "ضوافر"
+  },
+  {
+    "english": "abdomen",
+    "transliteration": "baTn",
+    "arabic": "بطن"
+  },
+  {
+    "english": "abdomen",
+    "transliteration": "buTuun",
+    "arabic": "بطون"
+  },
+  {
+    "english": "stomach",
+    "transliteration": "mi3da/ma3ida",
+    "arabic": "معدة"
+  },
+  {
+    "english": "stomaches",
+    "transliteration": "mi3ad",
+    "arabic": "معد"
+  },
+  {
+    "english": "navel",
+    "transliteration": "surra",
+    "arabic": "سرة"
+  },
+  {
+    "english": "navels",
+    "transliteration": "surar",
+    "arabic": "سرر"
+  },
+  {
+    "english": "waist",
+    "transliteration": "wisT",
+    "arabic": "وسط"
+  },
+  {
+    "english": "waists",
+    "transliteration": "awsaaT",
+    "arabic": "اوساط"
+  },
+  {
+    "english": "hip",
+    "transliteration": "ridf",
+    "arabic": "ردف"
+  },
+  {
+    "english": "hips",
+    "transliteration": "ardaaf",
+    "arabic": "ارداف"
+  },
+  {
+    "english": "leg",
+    "transliteration": "rigl  riglein",
+    "arabic": "رجل"
+  },
+  {
+    "english": "legs",
+    "transliteration": "arjul",
+    "arabic": "رجلين"
+  },
+  {
+    "english": "thigh",
+    "transliteration": "faxd",
+    "arabic": "فخد"
+  },
+  {
+    "english": "thighs",
+    "transliteration": "fixaad",
+    "arabic": "فخاد"
+  },
+  {
+    "english": "knee",
+    "transliteration": "rukba",
+    "arabic": "ركبة"
+  },
+  {
+    "english": "knees",
+    "transliteration": "rukab",
+    "arabic": "ركب"
+  },
+  {
+    "english": "ankle",
+    "transliteration": "kaaHil",
+    "arabic": "كاحل"
+  },
+  {
+    "english": "ankles",
+    "transliteration": "kawaaHil",
+    "arabic": "كواحل"
+  },
+  {
+    "english": "anklebone",
+    "transliteration": "bizz",
+    "arabic": "بزّ"
+  },
+  {
+    "english": "anklebones",
+    "transliteration": "bizaaz ir-rigl",
+    "arabic": "بزاز الرجل"
+  },
+  {
+    "english": "heel",
+    "transliteration": "ka3b",
+    "arabic": "كعب"
+  },
+  {
+    "english": "heels",
+    "transliteration": "ku3uub",
+    "arabic": "كعوب"
+  },
+  {
+    "english": "foot",
+    "transliteration": "'adam",
+    "arabic": "قدم"
+  },
+  {
+    "english": "feet",
+    "transliteration": "'a'daam",
+    "arabic": "اقدام"
+  },
+  {
+    "english": "back",
+    "transliteration": "Dahr",
+    "arabic": "ضهر"
+  },
+  {
+    "english": "backs",
+    "transliteration": "Duhuur",
+    "arabic": "ضهور"
+  },
+  {
+    "english": "buttocks",
+    "transliteration": "ridfaan",
+    "arabic": "ردفان"
+  },
+  {
+    "english": "rear end",
+    "transliteration": "mo'axara",
+    "arabic": "مؤخّرة"
+  },
+  {
+    "english": "lung",
+    "transliteration": "ri'a  ri'atein",
+    "arabic": "رئه"
+  },
+  {
+    "english": "lungs",
+    "transliteration": "ri'aat",
+    "arabic": "رئتين"
+  },
+  {
+    "english": "heart",
+    "transliteration": "'alb",
+    "arabic": "قلب"
+  },
+  {
+    "english": "hearts",
+    "transliteration": "'uluub",
+    "arabic": "قلوب"
+  },
+  {
+    "english": "rib",
+    "transliteration": "Dila3",
+    "arabic": "ضلع"
+  },
+  {
+    "english": "ribs",
+    "transliteration": "Duluu3",
+    "arabic": "ضلوع"
+  },
+  {
+    "english": "liver",
+    "transliteration": "kibd",
+    "arabic": "كبد"
+  },
+  {
+    "english": "livers",
+    "transliteration": "akbaad",
+    "arabic": "اكباد"
+  },
+  {
+    "english": "kidney",
+    "transliteration": "kilwa",
+    "arabic": "كلوة"
+  },
+  {
+    "english": "kidneys",
+    "transliteration": "kalaawi",
+    "arabic": "كلاوي"
+  },
+  {
+    "english": "colon",
+    "transliteration": "quuluun",
+    "arabic": "قولون"
+  },
+  {
+    "english": "colons",
+    "transliteration": "quuluunaat",
+    "arabic": "قولونات"
+  },
+  {
+    "english": "pancreas",
+    "transliteration": "bankriiaas",
+    "arabic": "بنكرياس"
+  },
+  {
+    "english": "bladder",
+    "transliteration": "masaana",
+    "arabic": "مسانة"
+  },
+  {
+    "english": "bladders",
+    "transliteration": "masaanaat",
+    "arabic": "مسانات"
+  },
+  {
+    "english": "appendix",
+    "transliteration": "il-muSraan il-'a3war",
+    "arabic": "المصران القعور"
+  },
+  {
+    "english": "appendices",
+    "transliteration": "zawaa'id duudiya",
+    "arabic": "زوائد دودية"
+  },
+  {
+    "english": "blood",
+    "transliteration": "damm",
+    "arabic": "دمّ"
+  },
+  {
+    "english": "blood",
+    "transliteration": "dimaa'",
+    "arabic": "دماء"
+  },
+  {
+    "english": "artery",
+    "transliteration": "šuryaan",
+    "arabic": "شريان"
+  },
+  {
+    "english": "arteries",
+    "transliteration": "šarayiin",
+    "arabic": "شريين"
+  },
+  {
+    "english": "vein",
+    "transliteration": "3ir'",
+    "arabic": "عرق"
+  },
+  {
+    "english": "veins",
+    "transliteration": "3iruu'",
+    "arabic": "عروق"
+  },
+  {
+    "english": "jugular vein",
+    "transliteration": "wariid",
+    "arabic": "وريد"
+  },
+  {
+    "english": "jugular veins",
+    "transliteration": "wurud",
+    "arabic": "ورد"
+  },
+  {
+    "english": "muscle",
+    "transliteration": "3aDala",
+    "arabic": "عضلة"
+  },
+  {
+    "english": "muscles",
+    "transliteration": "3aDalaat",
+    "arabic": "عضلات"
+  },
+  {
+    "english": "bone",
+    "transliteration": "3aDm",
+    "arabic": "عضم"
+  },
+  {
+    "english": "bones",
+    "transliteration": "3iDaam",
+    "arabic": "عضام"
+  },
+  {
+    "english": "hearing",
+    "transliteration": "sam3",
+    "arabic": "سمع"
+  },
+  {
+    "english": "breath",
+    "transliteration": "nafas",
+    "arabic": "نفس"
+  },
+  {
+    "english": "breaths",
+    "transliteration": "anfaas",
+    "arabic": "أنفاس"
+  },
+  {
+    "english": "to tickle",
+    "transliteration": "zaġzaġ - yizaġzaġ ",
+    "arabic": "زغزغ - يزغزغ "
+  },
+  {
+    "english": "hiccups",
+    "transliteration": "zuġuTTa",
+    "arabic": "زغطة"
+  },
+  {
+    "english": "to fart/break wind silently",
+    "transliteration": "fisi - yifsi ",
+    "arabic": "فسي - يفسي "
+  },
+  {
+    "english": "a silent fart",
+    "transliteration": "fasya",
+    "arabic": "فسى"
+  },
+  {
+    "english": "a silent farts",
+    "transliteration": "fasyaat",
+    "arabic": "فسيات"
+  },
+  {
+    "english": "a loud fart",
+    "transliteration": "ZarTa",
+    "arabic": "ظرطة"
+  },
+  {
+    "english": "a loud farts",
+    "transliteration": "ZarTaat",
+    "arabic": "ظرطات"
+  },
+  {
+    "english": "fat",
+    "transliteration": "tixiin",
+    "arabic": "تخين"
+  },
+  {
+    "english": "thin",
+    "transliteration": "rofayya3",
+    "arabic": "رفيع"
+  },
+  {
+    "english": "tall",
+    "transliteration": "Tawiil",
+    "arabic": "طويل"
+  },
+  {
+    "english": "talls",
+    "transliteration": "Tuwaal",
+    "arabic": "طوال"
+  },
+  {
+    "english": "short",
+    "transliteration": "'oSayyar",
+    "arabic": "قصير"
+  },
+  {
+    "english": "shorts",
+    "transliteration": "'oSaar",
+    "arabic": "قصار"
+  },
+  {
+    "english": "beautiful ",
+    "transliteration": "gamiil ",
+    "arabic": "جميل "
+  },
+  {
+    "english": "handsome",
+    "transliteration": "wasiim",
+    "arabic": "وسيم"
+  },
+  {
+    "english": "ugly",
+    "transliteration": "weHiš",
+    "arabic": "وحش"
+  },
+  {
+    "english": "uglies",
+    "transliteration": "weHšiin",
+    "arabic": "وحشين"
+  },
+  {
+    "english": "dye",
+    "transliteration": "Sabġa",
+    "arabic": "صبغة"
+  },
+  {
+    "english": "tattoo",
+    "transliteration": "wašm",
+    "arabic": "وشم"
+  },
+  {
+    "english": "tattoos",
+    "transliteration": "wušuum",
+    "arabic": "وشوم"
+  },
+  {
+    "english": "scar",
+    "transliteration": "nadba",
+    "arabic": "ندبة"
+  },
+  {
+    "english": "scars",
+    "transliteration": "andaab",
+    "arabic": "أنداب"
+  }
+]

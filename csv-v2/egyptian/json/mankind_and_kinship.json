@@ -1,0 +1,737 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "human",
+    "transliteration": "insaan",
+    "arabic": "إنسان"
+  },
+  {
+    "english": "human being; mankind",
+    "transliteration": "bašar",
+    "arabic": "بشر"
+  },
+  {
+    "english": "human being",
+    "transliteration": "bani aadam",
+    "arabic": "بني آدم"
+  },
+  {
+    "english": "people",
+    "transliteration": "naas",
+    "arabic": "ناس"
+  },
+  {
+    "english": "people ",
+    "transliteration": "ša3b",
+    "arabic": "شعب"
+  },
+  {
+    "english": "people s",
+    "transliteration": "šu3uub",
+    "arabic": "شعوب"
+  },
+  {
+    "english": "person",
+    "transliteration": "šaxS",
+    "arabic": "شخص"
+  },
+  {
+    "english": "people",
+    "transliteration": "ašxaaS",
+    "arabic": "أشخاص"
+  },
+  {
+    "english": "person (e.g. in a census",
+    "transliteration": "nasama",
+    "arabic": "نسمة"
+  },
+  {
+    "english": "person (e.g. in a censuses",
+    "transliteration": "nasamaat",
+    "arabic": "نسمات"
+  },
+  {
+    "english": "individual ",
+    "transliteration": "fard",
+    "arabic": "فرد"
+  },
+  {
+    "english": "individual s",
+    "transliteration": "afraad",
+    "arabic": "أفراد"
+  },
+  {
+    "english": "life",
+    "transliteration": "Hayaah",
+    "arabic": "حياة"
+  },
+  {
+    "english": "lives",
+    "transliteration": "Hayawaat",
+    "arabic": "حيوات"
+  },
+  {
+    "english": "young ",
+    "transliteration": "Suġayyar",
+    "arabic": "صغير"
+  },
+  {
+    "english": "young s",
+    "transliteration": "Suġaar",
+    "arabic": "صغار"
+  },
+  {
+    "english": "age",
+    "transliteration": "3omr",
+    "arabic": "عمر"
+  },
+  {
+    "english": "How old are you?",
+    "transliteration": "3andak kam sana?",
+    "arabic": "عندك كم سنة؟"
+  },
+  {
+    "english": "baby",
+    "transliteration": "beibi",
+    "arabic": "بيبي"
+  },
+  {
+    "english": "babies",
+    "transliteration": "beibiihaat",
+    "arabic": "بيبيهات"
+  },
+  {
+    "english": "child",
+    "transliteration": "Tifl",
+    "arabic": "طفل"
+  },
+  {
+    "english": "children",
+    "transliteration": "aTfaal",
+    "arabic": "أطفال"
+  },
+  {
+    "english": "boy or son",
+    "transliteration": "walad",
+    "arabic": "ولد"
+  },
+  {
+    "english": "boy or sons",
+    "transliteration": "awlaad/wilaad",
+    "arabic": "أولاد"
+  },
+  {
+    "english": "boy",
+    "transliteration": "Sabi",
+    "arabic": "صبي"
+  },
+  {
+    "english": "boys",
+    "transliteration": "Subyaan",
+    "arabic": "صبيان"
+  },
+  {
+    "english": "son",
+    "transliteration": "ibn",
+    "arabic": "ابن"
+  },
+  {
+    "english": "sons",
+    "transliteration": "awlaad/wilaad",
+    "arabic": "أولاد | ولاد"
+  },
+  {
+    "english": "girl or daughter",
+    "transliteration": "bint",
+    "arabic": "بنت"
+  },
+  {
+    "english": "girl or daughters",
+    "transliteration": "banaat",
+    "arabic": "بنات"
+  },
+  {
+    "english": "daughter",
+    "transliteration": "kariima",
+    "arabic": "كريمة"
+  },
+  {
+    "english": "daughters",
+    "transliteration": "karaa'im",
+    "arabic": "كرائم"
+  },
+  {
+    "english": "girl",
+    "transliteration": "Sabiyya",
+    "arabic": "صبية"
+  },
+  {
+    "english": "girls",
+    "transliteration": "Sabaaya",
+    "arabic": "صبايا"
+  },
+  {
+    "english": "kid",
+    "transliteration": "3ayyil",
+    "arabic": "عيّل"
+  },
+  {
+    "english": "kids",
+    "transliteration": "3iyaal",
+    "arabic": "عيال"
+  },
+  {
+    "english": "teenager",
+    "transliteration": "muraahiq",
+    "arabic": "مراهق"
+  },
+  {
+    "english": "young boy/man",
+    "transliteration": "fata",
+    "arabic": "فتى"
+  },
+  {
+    "english": "young boy/men",
+    "transliteration": "fityaan",
+    "arabic": "فتيان"
+  },
+  {
+    "english": "young girl/woman",
+    "transliteration": "fataah",
+    "arabic": "فتاة"
+  },
+  {
+    "english": "young girl/women",
+    "transliteration": "fatayaat",
+    "arabic": "فتيات"
+  },
+  {
+    "english": "young people",
+    "transliteration": "šabaab",
+    "arabic": "شباب"
+  },
+  {
+    "english": "young man",
+    "transliteration": "šabb",
+    "arabic": "شاب"
+  },
+  {
+    "english": "young men",
+    "transliteration": "šubbaan",
+    "arabic": "شبان"
+  },
+  {
+    "english": "young woman",
+    "transliteration": "šabba",
+    "arabic": "شابة"
+  },
+  {
+    "english": "young women",
+    "transliteration": "šabbaat",
+    "arabic": "شابات"
+  },
+  {
+    "english": "minor",
+    "transliteration": "'aaSir",
+    "arabic": "قاصر"
+  },
+  {
+    "english": "adult",
+    "transliteration": "baaliġ",
+    "arabic": "بالغ"
+  },
+  {
+    "english": "man",
+    "transliteration": "raagil",
+    "arabic": "راجل"
+  },
+  {
+    "english": "men",
+    "transliteration": "riggaala",
+    "arabic": "رجالة"
+  },
+  {
+    "english": "woman",
+    "transliteration": "sitt",
+    "arabic": "ست"
+  },
+  {
+    "english": "women",
+    "transliteration": "sittaat",
+    "arabic": "ستات"
+  },
+  {
+    "english": "sex or  race",
+    "transliteration": "gins",
+    "arabic": "جنس"
+  },
+  {
+    "english": "sex or  races",
+    "transliteration": "agnaas",
+    "arabic": "أجناس"
+  },
+  {
+    "english": "family",
+    "transliteration": "3eila",
+    "arabic": "عيلة"
+  },
+  {
+    "english": "families",
+    "transliteration": "3eilaat",
+    "arabic": "عيلات"
+  },
+  {
+    "english": " family",
+    "transliteration": "usra",
+    "arabic": "أسرة"
+  },
+  {
+    "english": " families",
+    "transliteration": "usar",
+    "arabic": "أسر"
+  },
+  {
+    "english": "family ",
+    "transliteration": "ahl",
+    "arabic": "أهل"
+  },
+  {
+    "english": "relative",
+    "transliteration": "'ariib",
+    "arabic": "قريب"
+  },
+  {
+    "english": "relatives",
+    "transliteration": "'araayib",
+    "arabic": "قرايب"
+  },
+  {
+    "english": "father",
+    "transliteration": "abb",
+    "arabic": "أب"
+  },
+  {
+    "english": "fathers",
+    "transliteration": "abaa'/abbahaat",
+    "arabic": "آباء"
+  },
+  {
+    "english": "dad",
+    "transliteration": "baaba",
+    "arabic": "بابا"
+  },
+  {
+    "english": "mother",
+    "transliteration": "umm",
+    "arabic": "أمّ"
+  },
+  {
+    "english": "mothers",
+    "transliteration": "ummahaat",
+    "arabic": "أمهات"
+  },
+  {
+    "english": "mom",
+    "transliteration": "maama",
+    "arabic": "ماما"
+  },
+  {
+    "english": "brother",
+    "transliteration": "ax",
+    "arabic": "أخ"
+  },
+  {
+    "english": "brothers",
+    "transliteration": "ixwa",
+    "arabic": "اخوة"
+  },
+  {
+    "english": " brother",
+    "transliteration": "ši'ii'",
+    "arabic": "شقيق"
+  },
+  {
+    "english": " brothers",
+    "transliteration": "šu'a'a",
+    "arabic": "أشقاء"
+  },
+  {
+    "english": "sister",
+    "transliteration": "uxt",
+    "arabic": "أخت"
+  },
+  {
+    "english": "sisters",
+    "transliteration": "ixwaat",
+    "arabic": "اخوات"
+  },
+  {
+    "english": "twin",
+    "transliteration": "taw'am",
+    "arabic": "تؤام"
+  },
+  {
+    "english": "twins",
+    "transliteration": "tawaa'im",
+    "arabic": "توائم"
+  },
+  {
+    "english": "orphan",
+    "transliteration": "yatiim",
+    "arabic": "يتيم"
+  },
+  {
+    "english": "orphans",
+    "transliteration": "yutama",
+    "arabic": "يتامى"
+  },
+  {
+    "english": "paternal uncle",
+    "transliteration": "3amm",
+    "arabic": "عمّ"
+  },
+  {
+    "english": "paternal uncles",
+    "transliteration": "3imaam/a3maam",
+    "arabic": "عمام | أعمام"
+  },
+  {
+    "english": "paternal aunt",
+    "transliteration": "3amma",
+    "arabic": "عمّة"
+  },
+  {
+    "english": "paternal aunts",
+    "transliteration": "3ammaat",
+    "arabic": "عمّات"
+  },
+  {
+    "english": "maternal uncle",
+    "transliteration": "xaal",
+    "arabic": "خال"
+  },
+  {
+    "english": "maternal uncles",
+    "transliteration": "axwaal/xilaan",
+    "arabic": "أخوال | خلان"
+  },
+  {
+    "english": "maternal aunt",
+    "transliteration": "xaala",
+    "arabic": "خالة"
+  },
+  {
+    "english": "maternal aunts",
+    "transliteration": "xaalaat",
+    "arabic": "خالات"
+  },
+  {
+    "english": "nephew/niece",
+    "transliteration": "ibn/bint ax/uxt",
+    "arabic": "ابن/بنت اخ/اخت"
+  },
+  {
+    "english": "grandfather",
+    "transliteration": "gidd",
+    "arabic": "جدّ"
+  },
+  {
+    "english": "grandfathers",
+    "transliteration": "guduud/agdaad",
+    "arabic": "جدود | أجداد"
+  },
+  {
+    "english": "grandpa",
+    "transliteration": "giddu",
+    "arabic": "جدو"
+  },
+  {
+    "english": "grandmother",
+    "transliteration": "gidda",
+    "arabic": "جدة"
+  },
+  {
+    "english": "grandmothers",
+    "transliteration": "giddaat",
+    "arabic": "جدات"
+  },
+  {
+    "english": "grandma",
+    "transliteration": "teta",
+    "arabic": "تيتا"
+  },
+  {
+    "english": "grandchild",
+    "transliteration": "Hafiid",
+    "arabic": "حفيد"
+  },
+  {
+    "english": "grandchildren",
+    "transliteration": "aHfaad",
+    "arabic": "أحفاد"
+  },
+  {
+    "english": "in-law",
+    "transliteration": "nisiib",
+    "arabic": "نسيب"
+  },
+  {
+    "english": "in-laws",
+    "transliteration": "nasaayib",
+    "arabic": "نسايب"
+  },
+  {
+    "english": "father-in-law",
+    "transliteration": "Hama",
+    "arabic": "حماه"
+  },
+  {
+    "english": "father-in-laws",
+    "transliteration": "aHmaa'",
+    "arabic": "احماء"
+  },
+  {
+    "english": "mother-in-law",
+    "transliteration": "Hama",
+    "arabic": "حماة"
+  },
+  {
+    "english": "mother-in-laws",
+    "transliteration": "Hamawaat",
+    "arabic": "حموات"
+  },
+  {
+    "english": "son-in-law",
+    "transliteration": "gooz bint",
+    "arabic": "جوز بنت"
+  },
+  {
+    "english": "son-in-laws",
+    "transliteration": "aShaar",
+    "arabic": "أصهار"
+  },
+  {
+    "english": "daughter-in-law",
+    "transliteration": "miraat ibn",
+    "arabic": "مراة ابن"
+  },
+  {
+    "english": "daughter-in-laws",
+    "transliteration": "kanaa'in",
+    "arabic": "كنائن"
+  },
+  {
+    "english": "brother-in-law ",
+    "transliteration": "silf",
+    "arabic": "سلف"
+  },
+  {
+    "english": "brother-in-law s",
+    "transliteration": "salaayif",
+    "arabic": "سلايف"
+  },
+  {
+    "english": "brother-in-law ",
+    "transliteration": "3adiil",
+    "arabic": "عديل"
+  },
+  {
+    "english": "brother-in-law s",
+    "transliteration": "3adaayil",
+    "arabic": "عدايل"
+  },
+  {
+    "english": "sister-in-law",
+    "transliteration": "silfa",
+    "arabic": "سلفة"
+  },
+  {
+    "english": "sister-in-laws",
+    "transliteration": "salaayif",
+    "arabic": ""
+  },
+  {
+    "english": "single",
+    "transliteration": "3aazib",
+    "arabic": "عازب"
+  },
+  {
+    "english": "marriage",
+    "transliteration": "gawaaz",
+    "arabic": "جواز"
+  },
+  {
+    "english": "wedding",
+    "transliteration": "faraH",
+    "arabic": "فرح"
+  },
+  {
+    "english": "weddings",
+    "transliteration": "afraaH",
+    "arabic": "أفراح"
+  },
+  {
+    "english": "* used by Christians in Egypt *",
+    "transliteration": "ikliil",
+    "arabic": "إكليل"
+  },
+  {
+    "english": "honeymoon",
+    "transliteration": "šahr 3asal",
+    "arabic": "شهر عسل"
+  },
+  {
+    "english": "dowry",
+    "transliteration": "mahr",
+    "arabic": "مهر"
+  },
+  {
+    "english": "dowries",
+    "transliteration": "muhuur",
+    "arabic": "مهور"
+  },
+  {
+    "english": "engaged",
+    "transliteration": "maxTuub",
+    "arabic": "مخطوب"
+  },
+  {
+    "english": "engagement",
+    "transliteration": "xuTuuba",
+    "arabic": "خطوبة"
+  },
+  {
+    "english": "* used by Christians in Egypt *",
+    "transliteration": "noSS ikliil",
+    "arabic": "نص إكليل"
+  },
+  {
+    "english": "to break an engagement",
+    "transliteration": "fisix - yifsax  xuTuuba",
+    "arabic": "فسخ - يفسخ  خطوبة"
+  },
+  {
+    "english": "bride",
+    "transliteration": "3aruusa",
+    "arabic": "عروسة"
+  },
+  {
+    "english": "brides",
+    "transliteration": "3araayis",
+    "arabic": "عرايس"
+  },
+  {
+    "english": "bridegroom",
+    "transliteration": "3ariis",
+    "arabic": "عريس"
+  },
+  {
+    "english": "bridegrooms",
+    "transliteration": "3irsaan",
+    "arabic": "عرسان"
+  },
+  {
+    "english": "husband",
+    "transliteration": "gooz",
+    "arabic": "جوز"
+  },
+  {
+    "english": "husbands",
+    "transliteration": "agwaaz",
+    "arabic": "أجواز"
+  },
+  {
+    "english": "wife",
+    "transliteration": "miraah",
+    "arabic": "مراة"
+  },
+  {
+    "english": "wives",
+    "transliteration": "zawjaat",
+    "arabic": "زوجات"
+  },
+  {
+    "english": "pregnant",
+    "transliteration": "Haamil",
+    "arabic": "حامل"
+  },
+  {
+    "english": "divorce",
+    "transliteration": "Talaa'",
+    "arabic": "طلاق"
+  },
+  {
+    "english": "society or community",
+    "transliteration": "mugtama3",
+    "arabic": "مجتمع"
+  },
+  {
+    "english": "society or communities",
+    "transliteration": "mugtama3aat",
+    "arabic": "مجتمعات"
+  },
+  {
+    "english": "culture",
+    "transliteration": "saqaafa",
+    "arabic": "ثقافة"
+  },
+  {
+    "english": "cultures",
+    "transliteration": "saqafaat",
+    "arabic": "ثقافات"
+  },
+  {
+    "english": "civilization",
+    "transliteration": "HaDaara",
+    "arabic": "حضارة"
+  },
+  {
+    "english": "civilizations",
+    "transliteration": "HaDaraat",
+    "arabic": "حضارات"
+  },
+  {
+    "english": "tradition",
+    "transliteration": "taqliid",
+    "arabic": "تقليد"
+  },
+  {
+    "english": "traditions",
+    "transliteration": "taqaliid",
+    "arabic": "تقاليد"
+  },
+  {
+    "english": "custom",
+    "transliteration": "3aada",
+    "arabic": "عادة"
+  },
+  {
+    "english": "customs",
+    "transliteration": "3adaat",
+    "arabic": "عادات"
+  },
+  {
+    "english": "dialect",
+    "transliteration": "lahaga",
+    "arabic": "لهجة"
+  },
+  {
+    "english": "dialects",
+    "transliteration": "lahagaat",
+    "arabic": "لهجات"
+  },
+  {
+    "english": "tribe",
+    "transliteration": "'abiila",
+    "arabic": "قبيلة"
+  },
+  {
+    "english": "tribes",
+    "transliteration": "'abaayil",
+    "arabic": "قبايل"
+  }
+]

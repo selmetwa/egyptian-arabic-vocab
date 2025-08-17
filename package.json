@@ -4,6 +4,8 @@
     "dev": "tsx watch src/index.tsx",
     "scrape": "node scripts/scrape.js",
     "scrape_verbs": "node scripts/scrape-verbs.js",
+    "scrape_v2": "node scripts/scrape-v2.js",
+    "scrape_separated": "node scripts/scrape-separated.js",
     "join_words": "node scripts/join-files.js"
   },
   "type": "module",

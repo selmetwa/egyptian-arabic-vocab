@@ -1,0 +1,577 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "clothes",
+    "transliteration": "malaabis",
+    "arabic": "ملابس"
+  },
+  {
+    "english": "stylish",
+    "transliteration": "aniiq ",
+    "arabic": "أنيق  "
+  },
+  {
+    "english": "chic",
+    "transliteration": "šiik ",
+    "arabic": "شيك "
+  },
+  {
+    "english": "overdressed",
+    "transliteration": "moHaflaT",
+    "arabic": "محفلط"
+  },
+  {
+    "english": "shirt",
+    "transliteration": "qamiiS",
+    "arabic": "قميص"
+  },
+  {
+    "english": "shirts",
+    "transliteration": "qumSaan",
+    "arabic": "قمصان"
+  },
+  {
+    "english": "sleeve",
+    "transliteration": "kumm",
+    "arabic": "كم"
+  },
+  {
+    "english": "sleeves",
+    "transliteration": "akmaam",
+    "arabic": "أكمام"
+  },
+  {
+    "english": "blouse",
+    "transliteration": "baluuza",
+    "arabic": "بلوزة"
+  },
+  {
+    "english": "blouses",
+    "transliteration": "baluuzaat",
+    "arabic": "بلوزات"
+  },
+  {
+    "english": "coat",
+    "transliteration": "mi3Taf",
+    "arabic": "معطف"
+  },
+  {
+    "english": "coats",
+    "transliteration": "ma3aaTif",
+    "arabic": "معاطف"
+  },
+  {
+    "english": "jacket",
+    "transliteration": "sutra",
+    "arabic": "سترة"
+  },
+  {
+    "english": "jackets",
+    "transliteration": "sutar",
+    "arabic": "ستر"
+  },
+  {
+    "english": "pants",
+    "transliteration": "banTaloon",
+    "arabic": "بنطلون"
+  },
+  {
+    "english": "pants",
+    "transliteration": "banTaloonaat",
+    "arabic": "بنطلونات"
+  },
+  {
+    "english": "shorts",
+    "transliteration": "banTaloon qaSiir",
+    "arabic": "بنطلون قصير"
+  },
+  {
+    "english": "shorts",
+    "transliteration": "šorTaat",
+    "arabic": "شرطات"
+  },
+  {
+    "english": "skirt",
+    "transliteration": "tannuura",
+    "arabic": "تنّورة"
+  },
+  {
+    "english": "skirts",
+    "transliteration": "tannuuraat",
+    "arabic": "تنّورات"
+  },
+  {
+    "english": "dress",
+    "transliteration": "fustaan",
+    "arabic": "فستان"
+  },
+  {
+    "english": "dresses",
+    "transliteration": "fasaatiin",
+    "arabic": "فساتين"
+  },
+  {
+    "english": "suit",
+    "transliteration": "badla",
+    "arabic": "بدلة"
+  },
+  {
+    "english": "suits",
+    "transliteration": "bidal",
+    "arabic": "بدل"
+  },
+  {
+    "english": "pajamas",
+    "transliteration": "bižaama",
+    "arabic": "بيجامة"
+  },
+  {
+    "english": "pajamas",
+    "transliteration": "bižamaat",
+    "arabic": "بيجامات"
+  },
+  {
+    "english": "underwear",
+    "transliteration": "malaabis daaxiliyya",
+    "arabic": "ملابس داخلية"
+  },
+  {
+    "english": "underpants",
+    "transliteration": "malaabis daaxiliyya",
+    "arabic": "ملابس داخلية"
+  },
+  {
+    "english": "underpants",
+    "transliteration": "kilottaat",
+    "arabic": "كلوتّات"
+  },
+  {
+    "english": "men's underwear",
+    "transliteration": "malaabis daaxiliyya rajaaliyya",
+    "arabic": "ملابس داخلية رجالية"
+  },
+  {
+    "english": "men's underwears",
+    "transliteration": "libasaat/libisa",
+    "arabic": "لباسات | لبسة"
+  },
+  {
+    "english": "bra",
+    "transliteration": "malaabis daaxiliyya Hariimi",
+    "arabic": "ملابس داخلية حريمي"
+  },
+  {
+    "english": "bras",
+    "transliteration": "sutyanaat",
+    "arabic": "ستيانات"
+  },
+  {
+    "english": "diaper",
+    "transliteration": "HifaaZ",
+    "arabic": "حفاظ"
+  },
+  {
+    "english": "diapers",
+    "transliteration": "HifaaZaat aTfaal",
+    "arabic": "حفاظات أطفال"
+  },
+  {
+    "english": "hat",
+    "transliteration": "qubba3a",
+    "arabic": "قبعة"
+  },
+  {
+    "english": "hats",
+    "transliteration": "qubba3aat",
+    "arabic": "قبعات"
+  },
+  {
+    "english": "gloves",
+    "transliteration": "quffaaz",
+    "arabic": "قفّاز"
+  },
+  {
+    "english": "gloves",
+    "transliteration": "quffaazaat",
+    "arabic": "قفّازات"
+  },
+  {
+    "english": "scarf",
+    "transliteration": "wišaaH",
+    "arabic": "وشاح"
+  },
+  {
+    "english": "scarves",
+    "transliteration": "awšiHa",
+    "arabic": "أوشحة"
+  },
+  {
+    "english": "belt",
+    "transliteration": "Hizaam",
+    "arabic": "حزام"
+  },
+  {
+    "english": "belts",
+    "transliteration": "aHzima",
+    "arabic": "أحزمة"
+  },
+  {
+    "english": "buckle",
+    "transliteration": "ibziim",
+    "arabic": "ابزيم"
+  },
+  {
+    "english": "buckles",
+    "transliteration": "abaaziim",
+    "arabic": "أبازيم"
+  },
+  {
+    "english": "tie",
+    "transliteration": "rabTa",
+    "arabic": "ربطة"
+  },
+  {
+    "english": "ties",
+    "transliteration": "ribaaT 3unuq",
+    "arabic": "رباط عنق"
+  },
+  {
+    "english": "sock",
+    "transliteration": "jawrab",
+    "arabic": "جورب"
+  },
+  {
+    "english": "socks",
+    "transliteration": "jawaarib",
+    "arabic": "جوارب"
+  },
+  {
+    "english": "shoe",
+    "transliteration": "aHdiya",
+    "arabic": "أحذية"
+  },
+  {
+    "english": "shoes",
+    "transliteration": "Hidaa'",
+    "arabic": "حذاء"
+  },
+  {
+    "english": "slipper",
+    "transliteration": "xuff",
+    "arabic": "خفّ"
+  },
+  {
+    "english": "slippers",
+    "transliteration": "xifaaf | axfaaf",
+    "arabic": "خفاف | اخفاف"
+  },
+  {
+    "english": "collar",
+    "transliteration": "qabba",
+    "arabic": "قبّة"
+  },
+  {
+    "english": "collars",
+    "transliteration": "qabbaat",
+    "arabic": "قبّات"
+  },
+  {
+    "english": "button",
+    "transliteration": "zirr",
+    "arabic": "زرّ"
+  },
+  {
+    "english": "buttons",
+    "transliteration": "azraar",
+    "arabic": "ازرار"
+  },
+  {
+    "english": "pocket",
+    "transliteration": "jeib",
+    "arabic": "جيب"
+  },
+  {
+    "english": "pockets",
+    "transliteration": "juyuub",
+    "arabic": "جيوب"
+  },
+  {
+    "english": "zipper",
+    "transliteration": "saHHaab",
+    "arabic": "سحاب"
+  },
+  {
+    "english": "thread",
+    "transliteration": "xeiT",
+    "arabic": "خيط"
+  },
+  {
+    "english": "threads",
+    "transliteration": "xuyuuT",
+    "arabic": "خيوط"
+  },
+  {
+    "english": "jewel",
+    "transliteration": "jawhara",
+    "arabic": "جوهرة"
+  },
+  {
+    "english": "jewels",
+    "transliteration": "jawaahir",
+    "arabic": "جواهر"
+  },
+  {
+    "english": "jewelry",
+    "transliteration": "mugawharaat",
+    "arabic": "مجوهرات"
+  },
+  {
+    "english": "gold/silver/jewels",
+    "transliteration": "maSuughaat",
+    "arabic": "مصوغات"
+  },
+  {
+    "english": "earring",
+    "transliteration": "Halaq",
+    "arabic": "حلق"
+  },
+  {
+    "english": "earrings",
+    "transliteration": "Hilqaan",
+    "arabic": "حلقان"
+  },
+  {
+    "english": "necklace",
+    "transliteration": "3iqd",
+    "arabic": "عقد"
+  },
+  {
+    "english": "necklaces",
+    "transliteration": "3uquud",
+    "arabic": "عقود"
+  },
+  {
+    "english": "necklace",
+    "transliteration": "kirdaan",
+    "arabic": "كردان"
+  },
+  {
+    "english": "necklaces",
+    "transliteration": "karaadiin",
+    "arabic": "كرادين"
+  },
+  {
+    "english": "bracelet",
+    "transliteration": "siwaar",
+    "arabic": "سوار"
+  },
+  {
+    "english": "bracelets",
+    "transliteration": "aswira",
+    "arabic": "أسورة"
+  },
+  {
+    "english": "ring",
+    "transliteration": "xaatim",
+    "arabic": "خاتم"
+  },
+  {
+    "english": "rings",
+    "transliteration": "xawaatim",
+    "arabic": "خواتم"
+  },
+  {
+    "english": "gold",
+    "transliteration": "dahab",
+    "arabic": "ذهب"
+  },
+  {
+    "english": "silver",
+    "transliteration": "fiDDa",
+    "arabic": "فضّة"
+  },
+  {
+    "english": "pearls",
+    "transliteration": "lu'lu'",
+    "arabic": "لؤلؤ"
+  },
+  {
+    "english": "glasses",
+    "transliteration": "naZZaara",
+    "arabic": "نظّارة"
+  },
+  {
+    "english": "contact lenses",
+    "transliteration": "3adasaat laaSiqa",
+    "arabic": "عدسات لاصقة"
+  },
+  {
+    "english": "sunglasses",
+    "transliteration": "naZZaara šamsiyya",
+    "arabic": "نظّارة شمسية"
+  },
+  {
+    "english": "wristwatch",
+    "transliteration": "saa3at yad",
+    "arabic": "ساعة يد"
+  },
+  {
+    "english": "wallet",
+    "transliteration": "maHfaZa",
+    "arabic": "محفظة"
+  },
+  {
+    "english": "wallets",
+    "transliteration": "maHaafiZ",
+    "arabic": "محافظ"
+  },
+  {
+    "english": "umbrella",
+    "transliteration": "miZalla",
+    "arabic": "مظلّة"
+  },
+  {
+    "english": "umbrellas",
+    "transliteration": "miZallaat",
+    "arabic": "مظلات"
+  },
+  {
+    "english": "fabric",
+    "transliteration": "aqmiša",
+    "arabic": "أقمشة"
+  },
+  {
+    "english": "silk",
+    "transliteration": "Hariir",
+    "arabic": "حرير"
+  },
+  {
+    "english": "silks",
+    "transliteration": "Haraa'ir",
+    "arabic": "حرائر"
+  },
+  {
+    "english": "wool",
+    "transliteration": "Suuf",
+    "arabic": "صوف"
+  },
+  {
+    "english": "wools",
+    "transliteration": "aSwaaf",
+    "arabic": "اصواف"
+  },
+  {
+    "english": "velvet",
+    "transliteration": "muxmal",
+    "arabic": "مخمل"
+  },
+  {
+    "english": "cotton",
+    "transliteration": "quTun",
+    "arabic": "قطن"
+  },
+  {
+    "english": "cottons",
+    "transliteration": "aqTaan",
+    "arabic": "اقطان"
+  },
+  {
+    "english": "lace",
+    "transliteration": "taxriima",
+    "arabic": "تخريمة"
+  },
+  {
+    "english": "leather",
+    "transliteration": "jild",
+    "arabic": "جلد"
+  },
+  {
+    "english": "dotted",
+    "transliteration": "munaqqaT",
+    "arabic": "منقّط"
+  },
+  {
+    "english": "striped",
+    "transliteration": "muqallam",
+    "arabic": "مقلّم"
+  },
+  {
+    "english": "plaid",
+    "transliteration": "karohaat",
+    "arabic": "كروهات"
+  },
+  {
+    "english": "solid color",
+    "transliteration": "saada",
+    "arabic": "سادة"
+  },
+  {
+    "english": "embroidered",
+    "transliteration": "muzayyan",
+    "arabic": "مزيّن"
+  },
+  {
+    "english": "patterned",
+    "transliteration": "mušajjar",
+    "arabic": "مشجّر"
+  },
+  {
+    "english": "tight",
+    "transliteration": "Dayyiq",
+    "arabic": "ضيّق"
+  },
+  {
+    "english": "loose",
+    "transliteration": "waasi3",
+    "arabic": "واسع"
+  },
+  {
+    "english": "wide",
+    "transliteration": "waasi3",
+    "arabic": "واسع"
+  },
+  {
+    "english": "wides",
+    "transliteration": "3uraaD",
+    "arabic": "عراض"
+  },
+  {
+    "english": "modest",
+    "transliteration": "muHtašim",
+    "arabic": "محتشم"
+  },
+  {
+    "english": "torn",
+    "transliteration": "maqTuu3",
+    "arabic": "مقطوع"
+  },
+  {
+    "english": "tailor",
+    "transliteration": "xayyaaT",
+    "arabic": "خيّاط"
+  },
+  {
+    "english": "tailors",
+    "transliteration": "xayyaaTuun",
+    "arabic": "خيّاطون"
+  },
+  {
+    "english": " size",
+    "transliteration": "maqaas",
+    "arabic": "مقاس"
+  },
+  {
+    "english": " sizes",
+    "transliteration": "maqaasaat",
+    "arabic": "مقاسات"
+  },
+  {
+    "english": "to fit",
+    "transliteration": "faSSal - yifaSSal ",
+    "arabic": "فصّل - يفصّل "
+  }
+]
