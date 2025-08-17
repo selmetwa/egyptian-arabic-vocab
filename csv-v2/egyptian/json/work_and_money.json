@@ -1,0 +1,882 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "job",
+    "transliteration": "waZiifa",
+    "arabic": "وظيفة"
+  },
+  {
+    "english": "jobs",
+    "transliteration": "waZaayif",
+    "arabic": "وظائف"
+  },
+  {
+    "english": "profession",
+    "transliteration": "mihna",
+    "arabic": "مهنة"
+  },
+  {
+    "english": "professions",
+    "transliteration": "mihan",
+    "arabic": "مهن"
+  },
+  {
+    "english": "work",
+    "transliteration": "šuġl",
+    "arabic": "شغل"
+  },
+  {
+    "english": "employment",
+    "transliteration": "tawZiif",
+    "arabic": "توظيف"
+  },
+  {
+    "english": "unemployment",
+    "transliteration": "baTaala",
+    "arabic": "بطالة"
+  },
+  {
+    "english": "resume",
+    "transliteration": "C.V.",
+    "arabic": "سي في"
+  },
+  {
+    "english": "resumes",
+    "transliteration": "siyar daatiyya",
+    "arabic": "سير ذاتية"
+  },
+  {
+    "english": "qualifications",
+    "transliteration": "mu'ahhilaat",
+    "arabic": "مؤهلات"
+  },
+  {
+    "english": "experience",
+    "transliteration": "xibra",
+    "arabic": "خبرة"
+  },
+  {
+    "english": "job vacancy",
+    "transliteration": "waZiifa xalya",
+    "arabic": "وظيفة شاغرة/خالية"
+  },
+  {
+    "english": "interview",
+    "transliteration": "mu'abla šaxSiyya",
+    "arabic": "مقابلة شخصية"
+  },
+  {
+    "english": "promotion",
+    "transliteration": "tarqiyya",
+    "arabic": "ترقية"
+  },
+  {
+    "english": "raise",
+    "transliteration": "3elaawa",
+    "arabic": "علاوة"
+  },
+  {
+    "english": "raises",
+    "transliteration": "3elaawaat",
+    "arabic": "علاوات"
+  },
+  {
+    "english": "salary",
+    "transliteration": "murattab",
+    "arabic": "مرتب"
+  },
+  {
+    "english": "salaries",
+    "transliteration": "murattabaat",
+    "arabic": "مرتبات"
+  },
+  {
+    "english": "income",
+    "transliteration": "daxl",
+    "arabic": "دخل"
+  },
+  {
+    "english": " salary",
+    "transliteration": "mahiyya",
+    "arabic": "ماهية"
+  },
+  {
+    "english": " salaries",
+    "transliteration": "mahiyyaat",
+    "arabic": "ماهيات"
+  },
+  {
+    "english": "living",
+    "transliteration": "riz'",
+    "arabic": "رزق"
+  },
+  {
+    "english": "livings",
+    "transliteration": "arzaa'",
+    "arabic": "أرزاق"
+  },
+  {
+    "english": "pension",
+    "transliteration": "ma3aaš",
+    "arabic": "معاش"
+  },
+  {
+    "english": "time to leave work",
+    "transliteration": "mii3aad/wa't il-inSiraaf",
+    "arabic": "ميعاد | وقت الانصراف"
+  },
+  {
+    "english": "boss",
+    "transliteration": "mudiir",
+    "arabic": "مدير"
+  },
+  {
+    "english": "colleague",
+    "transliteration": "zimiil",
+    "arabic": "زميل"
+  },
+  {
+    "english": "colleagues",
+    "transliteration": "zumalaa'",
+    "arabic": "زملاء"
+  },
+  {
+    "english": "office; desk",
+    "transliteration": "maktab",
+    "arabic": "مكتب"
+  },
+  {
+    "english": "office; desks",
+    "transliteration": "makaatib",
+    "arabic": "مكاتب"
+  },
+  {
+    "english": "shredder",
+    "transliteration": "farraaama",
+    "arabic": "فرامة"
+  },
+  {
+    "english": "shredders",
+    "transliteration": "farraamaat",
+    "arabic": "فرامات"
+  },
+  {
+    "english": "file",
+    "transliteration": "milaff",
+    "arabic": "ملف"
+  },
+  {
+    "english": "files",
+    "transliteration": "milaffaat",
+    "arabic": "ملفات"
+  },
+  {
+    "english": "money",
+    "transliteration": "filuus",
+    "arabic": "فلوس"
+  },
+  {
+    "english": "monies",
+    "transliteration": "amwaal",
+    "arabic": "أموال"
+  },
+  {
+    "english": "currency",
+    "transliteration": "3umla",
+    "arabic": "عملة"
+  },
+  {
+    "english": "counterfeit",
+    "transliteration": "muzayyaf",
+    "arabic": "مزيّف"
+  },
+  {
+    "english": "cash",
+    "transliteration": "na'd",
+    "arabic": "نقد"
+  },
+  {
+    "english": "cash",
+    "transliteration": "nu'uud",
+    "arabic": "نقود"
+  },
+  {
+    "english": "check",
+    "transliteration": "šek",
+    "arabic": "شيك"
+  },
+  {
+    "english": "checks",
+    "transliteration": "šekaat",
+    "arabic": "شيكات"
+  },
+  {
+    "english": "bank",
+    "transliteration": "bank",
+    "arabic": "بنك"
+  },
+  {
+    "english": "banks",
+    "transliteration": "bunuuk",
+    "arabic": "بنوك"
+  },
+  {
+    "english": "ATM",
+    "transliteration": "ATM",
+    "arabic": "آي تي ام"
+  },
+  {
+    "english": "account",
+    "transliteration": "Hisaab",
+    "arabic": "حساب"
+  },
+  {
+    "english": "accounts",
+    "transliteration": "Hisaabaat",
+    "arabic": "حسابات"
+  },
+  {
+    "english": "savings account",
+    "transliteration": "Hisaab tawfiir",
+    "arabic": "حساب توفير"
+  },
+  {
+    "english": "checking account",
+    "transliteration": "Hisaab gaari",
+    "arabic": "حساب جاري"
+  },
+  {
+    "english": "balance",
+    "transliteration": "raSiid",
+    "arabic": "رصيد"
+  },
+  {
+    "english": "balances",
+    "transliteration": "arSida",
+    "arabic": "أرصدة"
+  },
+  {
+    "english": "to save (accumulate money",
+    "transliteration": "Hawwiš - yiHawwiš ",
+    "arabic": "حوّش - يحوّش "
+  },
+  {
+    "english": "loan",
+    "transliteration": "qarD",
+    "arabic": "قرض"
+  },
+  {
+    "english": "loans",
+    "transliteration": "quruuD",
+    "arabic": "قروض"
+  },
+  {
+    "english": "debt",
+    "transliteration": "dein",
+    "arabic": "دين"
+  },
+  {
+    "english": "debts",
+    "transliteration": "duyuun",
+    "arabic": "ديون"
+  },
+  {
+    "english": "credit card",
+    "transliteration": "kredit kard",
+    "arabic": "كريدت كارد"
+  },
+  {
+    "english": "allowance",
+    "transliteration": "3elaawa",
+    "arabic": "علاوة"
+  },
+  {
+    "english": "allowances",
+    "transliteration": "3elaawaat",
+    "arabic": "ملاوات"
+  },
+  {
+    "english": "accountant",
+    "transliteration": "muHaasib",
+    "arabic": "محاسب"
+  },
+  {
+    "english": "actor",
+    "transliteration": "mumassil",
+    "arabic": "ممثل"
+  },
+  {
+    "english": "administrator",
+    "transliteration": "idaari",
+    "arabic": "اداري"
+  },
+  {
+    "english": "agent",
+    "transliteration": "wakiil",
+    "arabic": "وكيل"
+  },
+  {
+    "english": "agents",
+    "transliteration": "wukala",
+    "arabic": "وكلاء"
+  },
+  {
+    "english": "air stewardess",
+    "transliteration": "muDiif gawwi",
+    "arabic": "مضيف جوي"
+  },
+  {
+    "english": "ambassador",
+    "transliteration": "safiir",
+    "arabic": "سفير"
+  },
+  {
+    "english": "ambassadors",
+    "transliteration": "sufara",
+    "arabic": "سفراء"
+  },
+  {
+    "english": "analyst",
+    "transliteration": "muHallil",
+    "arabic": "محلل"
+  },
+  {
+    "english": "architect",
+    "transliteration": "muhandis mi3maari",
+    "arabic": "مهندس معماري"
+  },
+  {
+    "english": "artist",
+    "transliteration": "fannaan",
+    "arabic": "فنان"
+  },
+  {
+    "english": "assistant",
+    "transliteration": "musaa3id",
+    "arabic": "مساعد"
+  },
+  {
+    "english": "astrologer",
+    "transliteration": "munaggim",
+    "arabic": "منجم"
+  },
+  {
+    "english": "astronaut",
+    "transliteration": "raa'id faDaa'",
+    "arabic": "رائد فضاء"
+  },
+  {
+    "english": "athlete",
+    "transliteration": "riyaaDi",
+    "arabic": "رياضي"
+  },
+  {
+    "english": "author",
+    "transliteration": "mu'allif",
+    "arabic": "مؤلف"
+  },
+  {
+    "english": "baker",
+    "transliteration": "farraan",
+    "arabic": "فران"
+  },
+  {
+    "english": "barber",
+    "transliteration": "Hallaa'",
+    "arabic": "حلاق"
+  },
+  {
+    "english": "blacksmith",
+    "transliteration": "Haddaad",
+    "arabic": "حداد"
+  },
+  {
+    "english": "broadcaster",
+    "transliteration": "muzii3",
+    "arabic": "مذيع"
+  },
+  {
+    "english": "businessman",
+    "transliteration": "raagil a3maal",
+    "arabic": "رجل أعمال"
+  },
+  {
+    "english": "businessmen",
+    "transliteration": "rigaal a3maal",
+    "arabic": "رجال أعمال"
+  },
+  {
+    "english": "butcher",
+    "transliteration": "gazzaar",
+    "arabic": "جزار"
+  },
+  {
+    "english": "carpenter",
+    "transliteration": "naggaar",
+    "arabic": "نجار"
+  },
+  {
+    "english": "cashier; bank teller",
+    "transliteration": "Sarraaf",
+    "arabic": "صراف"
+  },
+  {
+    "english": "cashier; bank tellers",
+    "transliteration": "Sayarfa/Sayaarif",
+    "arabic": "صيرفة/صيارف"
+  },
+  {
+    "english": "chemist",
+    "transliteration": "kimyaa'i",
+    "arabic": "كيميائي"
+  },
+  {
+    "english": "coach",
+    "transliteration": "mudarrib",
+    "arabic": "مدرب"
+  },
+  {
+    "english": "composer",
+    "transliteration": "mulaHHin",
+    "arabic": "ملحن"
+  },
+  {
+    "english": "computer programmer",
+    "transliteration": "mubarmig kombyuuter",
+    "arabic": "مبرمج كومبيوتر"
+  },
+  {
+    "english": "contractor",
+    "transliteration": "mi'aawil",
+    "arabic": "مقاول"
+  },
+  {
+    "english": "cook",
+    "transliteration": "Tabbaax",
+    "arabic": "طباخ"
+  },
+  {
+    "english": "correspondent",
+    "transliteration": "muraasil",
+    "arabic": "مراسل"
+  },
+  {
+    "english": "critic",
+    "transliteration": "naaqid",
+    "arabic": "ناقد"
+  },
+  {
+    "english": "critics",
+    "transliteration": "nuqqaad",
+    "arabic": "نقاد"
+  },
+  {
+    "english": "dancer",
+    "transliteration": "ra''aaS",
+    "arabic": "رقاص"
+  },
+  {
+    "english": "dentist",
+    "transliteration": "doktoor asnaan",
+    "arabic": "دكتور اسنان"
+  },
+  {
+    "english": "designer",
+    "transliteration": "muSammim",
+    "arabic": "مصمم"
+  },
+  {
+    "english": "diplomat",
+    "transliteration": "dibloomaasi",
+    "arabic": "دبلوماسي"
+  },
+  {
+    "english": "director",
+    "transliteration": "mudiir",
+    "arabic": "مدير"
+  },
+  {
+    "english": "directors",
+    "transliteration": "mudiiriin",
+    "arabic": "مديرين"
+  },
+  {
+    "english": "director ",
+    "transliteration": "muxrig",
+    "arabic": "مخرج"
+  },
+  {
+    "english": "doctor",
+    "transliteration": "doktoor",
+    "arabic": "دكتور"
+  },
+  {
+    "english": "doctors",
+    "transliteration": "dakatra",
+    "arabic": "دكترة"
+  },
+  {
+    "english": "doorman",
+    "transliteration": "bawwaab",
+    "arabic": "بواب"
+  },
+  {
+    "english": "driver",
+    "transliteration": "sawwaa'",
+    "arabic": "سواق"
+  },
+  {
+    "english": "editor",
+    "transliteration": "muHarrir",
+    "arabic": "محرر"
+  },
+  {
+    "english": "electrician",
+    "transliteration": "kahrubaa'i",
+    "arabic": "كهربائي"
+  },
+  {
+    "english": "electricians",
+    "transliteration": "kahrubaa'iyya",
+    "arabic": "كهربائية"
+  },
+  {
+    "english": "employee",
+    "transliteration": "muwaZZaf",
+    "arabic": "موظف"
+  },
+  {
+    "english": "engineer",
+    "transliteration": "muhandis",
+    "arabic": "مهندس"
+  },
+  {
+    "english": "expert",
+    "transliteration": "xabiir",
+    "arabic": "خبير"
+  },
+  {
+    "english": "experts",
+    "transliteration": "xubara",
+    "arabic": "خبراء"
+  },
+  {
+    "english": "farmer",
+    "transliteration": "muzaari3",
+    "arabic": "مزارع"
+  },
+  {
+    "english": "financial advisor",
+    "transliteration": "mustašaar maali",
+    "arabic": "مستشار مالي"
+  },
+  {
+    "english": "fireman",
+    "transliteration": "3askari maTaafi",
+    "arabic": "عسكري مطافي"
+  },
+  {
+    "english": "guard",
+    "transliteration": "Haaris",
+    "arabic": "حارس"
+  },
+  {
+    "english": "guards",
+    "transliteration": "Hurraas",
+    "arabic": "حراس"
+  },
+  {
+    "english": "hairdresser",
+    "transliteration": "kuwafeir",
+    "arabic": "كوافير"
+  },
+  {
+    "english": "historian",
+    "transliteration": "mu'arrix",
+    "arabic": "مؤرخ"
+  },
+  {
+    "english": "inspector",
+    "transliteration": "mufattiš",
+    "arabic": "مفتش"
+  },
+  {
+    "english": "inventor",
+    "transliteration": "muxtari3",
+    "arabic": "مخترع"
+  },
+  {
+    "english": "jeweler",
+    "transliteration": "gawahirgi",
+    "arabic": "جوهرجي"
+  },
+  {
+    "english": "jewelers",
+    "transliteration": "gawahirgiyya",
+    "arabic": "جوهرجية"
+  },
+  {
+    "english": "journalist",
+    "transliteration": "SuHafi",
+    "arabic": "صحفي"
+  },
+  {
+    "english": "judge",
+    "transliteration": "'aaDi",
+    "arabic": "قاضي"
+  },
+  {
+    "english": "judges",
+    "transliteration": "'uDaah",
+    "arabic": "قضاة"
+  },
+  {
+    "english": "lawyer",
+    "transliteration": "muHaami",
+    "arabic": "محامي"
+  },
+  {
+    "english": "librarian",
+    "transliteration": "amiin maktaba",
+    "arabic": "أمين مكتبة"
+  },
+  {
+    "english": "maid",
+    "transliteration": "šaġġala",
+    "arabic": "شغالة"
+  },
+  {
+    "english": "marketer",
+    "transliteration": "musawwi'",
+    "arabic": "مسوق"
+  },
+  {
+    "english": "mechanic",
+    "transliteration": "mikaniiki",
+    "arabic": "ميكانيكي"
+  },
+  {
+    "english": "mechanics",
+    "transliteration": "mikaniikiyya",
+    "arabic": "ميكانيكية"
+  },
+  {
+    "english": "merchant",
+    "transliteration": "taagir",
+    "arabic": "تاجر"
+  },
+  {
+    "english": "merchants",
+    "transliteration": "tuggaar",
+    "arabic": "تجار"
+  },
+  {
+    "english": "model",
+    "transliteration": "3aariD azyaa'",
+    "arabic": "عارض أزياء"
+  },
+  {
+    "english": "musician",
+    "transliteration": "musiqaar",
+    "arabic": "موسيقار"
+  },
+  {
+    "english": "nanny",
+    "transliteration": "murabbiyya",
+    "arabic": "مربية أطفال"
+  },
+  {
+    "english": "nurse",
+    "transliteration": "mumarriD",
+    "arabic": "ممرض"
+  },
+  {
+    "english": "officer",
+    "transliteration": "ZaabiT",
+    "arabic": "ضابط"
+  },
+  {
+    "english": "officers",
+    "transliteration": "ZubbaaT",
+    "arabic": "ضباط"
+  },
+  {
+    "english": "painter",
+    "transliteration": "rassaam",
+    "arabic": "رسام"
+  },
+  {
+    "english": "pharmacist",
+    "transliteration": "Saydali",
+    "arabic": "صيدلي"
+  },
+  {
+    "english": "pharmacists",
+    "transliteration": "Sayadla",
+    "arabic": "صيدلة"
+  },
+  {
+    "english": "photographer",
+    "transliteration": "muSawwaraati",
+    "arabic": "مصوراتي"
+  },
+  {
+    "english": "photographers",
+    "transliteration": "muSawwaraatiyya",
+    "arabic": "مصوراتية"
+  },
+  {
+    "english": "pilot",
+    "transliteration": "Tayyaar",
+    "arabic": "طيار"
+  },
+  {
+    "english": "plumber",
+    "transliteration": "sabbaak",
+    "arabic": "سباك"
+  },
+  {
+    "english": "poet",
+    "transliteration": "šaa3ir",
+    "arabic": "شاعر"
+  },
+  {
+    "english": "policeman",
+    "transliteration": "3askari šurTa",
+    "arabic": "عسكري شرطة"
+  },
+  {
+    "english": "politician",
+    "transliteration": "siyaasi",
+    "arabic": "سياسي"
+  },
+  {
+    "english": "producer",
+    "transliteration": "muntig",
+    "arabic": "منتج"
+  },
+  {
+    "english": "psychologist",
+    "transliteration": "doktoor nafsaani",
+    "arabic": "دكتور نفساني"
+  },
+  {
+    "english": "professor",
+    "transliteration": "ustaaz",
+    "arabic": "استاذ"
+  },
+  {
+    "english": "professors",
+    "transliteration": "asatza",
+    "arabic": "أساتذة"
+  },
+  {
+    "english": "sailor",
+    "transliteration": "baHHaar",
+    "arabic": "بحار"
+  },
+  {
+    "english": "sailors",
+    "transliteration": "baHHaara",
+    "arabic": "بحارة"
+  },
+  {
+    "english": "salesman",
+    "transliteration": "bayyaa3",
+    "arabic": "بياع"
+  },
+  {
+    "english": "scientist",
+    "transliteration": "3aalim",
+    "arabic": "عالم"
+  },
+  {
+    "english": "scientists",
+    "transliteration": "3ulama",
+    "arabic": "علماء"
+  },
+  {
+    "english": "servant",
+    "transliteration": "xaddaam",
+    "arabic": "خدام"
+  },
+  {
+    "english": "singer",
+    "transliteration": "muġanni",
+    "arabic": "مغني"
+  },
+  {
+    "english": "social worker",
+    "transliteration": "mušrif igtimaa3i",
+    "arabic": "مشرف اجتماعي"
+  },
+  {
+    "english": "student",
+    "transliteration": "Taalib",
+    "arabic": "طالب"
+  },
+  {
+    "english": "students",
+    "transliteration": "Tullaab",
+    "arabic": "طلاب"
+  },
+  {
+    "english": "supervisor",
+    "transliteration": "muraa'ib",
+    "arabic": "مراقب"
+  },
+  {
+    "english": "surgeon",
+    "transliteration": "garraaH",
+    "arabic": "جراح"
+  },
+  {
+    "english": "tailor",
+    "transliteration": "xayyaaT",
+    "arabic": "خياط"
+  },
+  {
+    "english": "teacher",
+    "transliteration": "mudarris",
+    "arabic": "مدرس"
+  },
+  {
+    "english": "veterinarian",
+    "transliteration": "doktoor beTari",
+    "arabic": "دكتور بيطري"
+  },
+  {
+    "english": "waiter",
+    "transliteration": "garsoon",
+    "arabic": "جرسون"
+  },
+  {
+    "english": "waiters",
+    "transliteration": "garsoonaat",
+    "arabic": "جرسونات"
+  },
+  {
+    "english": "worker",
+    "transliteration": "3aamil",
+    "arabic": "عامل"
+  },
+  {
+    "english": "workers",
+    "transliteration": "3ummaal",
+    "arabic": "عمال"
+  },
+  {
+    "english": "writer",
+    "transliteration": "kaatib",
+    "arabic": "كاتب"
+  },
+  {
+    "english": "writers",
+    "transliteration": "kuttaab",
+    "arabic": "كتاب"
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "english": "transportation",
+    "transliteration": "muwāʂalēt [pl.]",
+    "arabic": "مُواصلات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-1.mp3"
+  },
+  {
+    "english": "means of transportation",
+    "transliteration": "wasēʔil ilmuwāʂalēt [pl.]",
+    "arabic": "وسائِل المْواصلات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-2.mp3"
+  },
+  {
+    "english": "to take the bus",
+    "transliteration": "ʈúli3 [55] b-ilbāʂ",
+    "arabic": "طُلِع بالباص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-3.mp3"
+  },
+  {
+    "english": "to get on, get in, take (a bus, taxi, etc.)",
+    "transliteration": "ríkib, yírkab",
+    "arabic": "رِكِب، يِرْكب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-4.mp3"
+  },
+  {
+    "english": "to get off, get out of",
+    "transliteration": "nízil [55] min",
+    "arabic": "نزِل مِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-5.mp3"
+  },
+  {
+    "english": "freight; truck",
+    "transliteration": "šáɧin",
+    "arabic": "شحِن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-6.mp3"
+  },
+  {
+    "english": "transportation, shipping",
+    "transliteration": "náʔil",
+    "arabic": "نقِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-7.mp3"
+  },
+  {
+    "english": "pick-up truck",
+    "transliteration": "pik-ap",
+    "arabic": "بيك أب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-8.mp3"
+  },
+  {
+    "english": "ship",
+    "transliteration": "safīni",
+    "arabic": "سفينِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-9.mp3"
+  },
+  {
+    "english": "boat",
+    "transliteration": "šaxʈūra",
+    "arabic": "شخْطورة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-10.mp3"
+  },
+  {
+    "english": "bus",
+    "transliteration": "bāʂ",
+    "arabic": "باص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-11.mp3"
+  },
+  {
+    "english": "I usually go to work by bus.",
+    "transliteration": "b-il3ādi brūɧ 3a-ššíɣil b-ilbāʂ.",
+    "arabic": "بِالعادِة بْروح علشِّغِل بِالباص.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-12.mp3"
+  },
+  {
+    "english": "to miss the bus",
+    "transliteration": "fáwwat ilbāʂ, yfáwwit ilbāʂ",
+    "arabic": "فوّت الباص، يْفوِّت الباص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-13.mp3"
+  },
+  {
+    "english": "bus stop",
+    "transliteration": "máwʔif bāʂ (mawēʔif bāʂāt)",
+    "arabic": "مَوْقِف باص (مَواقِف باصات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-15.mp3"
+  },
+  {
+    "english": "bus driver",
+    "transliteration": "šōfør bāʂ",
+    "arabic": "شوْفور باص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-16.mp3"
+  },
+  {
+    "english": "metro, subway (UK: underground)",
+    "transliteration": "métrō",
+    "arabic": "مِتْروْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-17.mp3"
+  },
+  {
+    "english": "I take the metro every day.",
+    "transliteration": "ána búʈla3 b-ilmétrō kill yōm.",
+    "arabic": "أنا بُطْلع بِالمِتْروْ كِلّ يوْم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-18.mp3"
+  },
+  {
+    "english": "subway station",
+    "transliteration": "mɧaʈʈit ilmétrō",
+    "arabic": "محطِّة مِتْروْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-19.mp3"
+  },
+  {
+    "english": "taxi",
+    "transliteration": "tēksi",
+    "arabic": "تاكْسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-20.mp3"
+  },
+  {
+    "english": "We took a taxi downtown.",
+    "transliteration": "axádna tēksi 3a-lbálad.",
+    "arabic": "أخدْنا تاكْسي عالبلد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-21.mp3"
+  },
+  {
+    "english": "taxi driver",
+    "transliteration": "šōfør tēksi",
+    "arabic": "شوفور تاكْسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-23.mp3"
+  },
+  {
+    "english": "to hail a taxi",
+    "transliteration": "áššar la-tāksī, yʔaššir la-tēksi",
+    "arabic": "أشّر لتاكْسي، يْأشِّر لتاكْسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-24.mp3"
+  },
+  {
+    "english": "taxi meter",
+    "transliteration": "3iddād tēksi",
+    "arabic": "عِدّاد تاكسي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-26.mp3"
+  },
+  {
+    "english": "to negotiate the fare",
+    "transliteration": "sēwim 3a-ssí3ir, ysēwim 3a-ssí3ir",
+    "arabic": "ساوِم عالسِّعِر، يْساوِم عالسِّعِرحرّج عالسِّعِر، يْحرِّج عالسِّعِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-27.mp3"
+  },
+  {
+    "english": "left",
+    "transliteration": "yasār",
+    "arabic": "يَسار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-28.mp3"
+  },
+  {
+    "english": "Turn left!",
+    "transliteration": "xūd yasārak!",
+    "arabic": "خود يَسارك!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-29.mp3"
+  },
+  {
+    "english": "right",
+    "transliteration": "yamīn",
+    "arabic": "يَمين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-30.mp3"
+  },
+  {
+    "english": "Turn right!",
+    "transliteration": "xūd yamīnak!",
+    "arabic": "خود يَمينك!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-31.mp3"
+  },
+  {
+    "english": "straight",
+    "transliteration": "ʔiddēmak",
+    "arabic": "قِدّامك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-32.mp3"
+  },
+  {
+    "english": "straight",
+    "transliteration": "b-iwíššak",
+    "arabic": "بْوِشّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-33.mp3"
+  },
+  {
+    "english": "Go straight!",
+    "transliteration": "kámmil xaʈʈ mustaʔīm!",
+    "arabic": "كمِّل خطّ مُسْتقيم!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-34.mp3"
+  },
+  {
+    "english": "bicycle",
+    "transliteration": "bisiklētt",
+    "arabic": "بِسِكْلات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-35.mp3"
+  },
+  {
+    "english": "to ride a bicycle",
+    "transliteration": "ríkib bisiklētt",
+    "arabic": "رِكِب بِسِكْلات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-36.mp3"
+  },
+  {
+    "english": "cyclist",
+    "transliteration": "yálli bsūʔ bisiklētt",
+    "arabic": "يَلّي بيسوق بِسِكْلات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-37.mp3"
+  },
+  {
+    "english": "bicycle lane, bike path",
+    "transliteration": "mamárr bisiklēttēt",
+    "arabic": "ممرّ بِسِكْلاتات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-38.mp3"
+  },
+  {
+    "english": "pedal",
+    "transliteration": "dá3si",
+    "arabic": "دعْسِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-39.mp3"
+  },
+  {
+    "english": "chain",
+    "transliteration": "janzīr (janazīr)",
+    "arabic": "جنْزير (جْنازير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-40.mp3"
+  },
+  {
+    "english": "bike seat",
+    "transliteration": "kirēji",
+    "arabic": "كِريْجِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-41.mp3"
+  },
+  {
+    "english": "motorcycle",
+    "transliteration": "mōtōr",
+    "arabic": "موْتوْر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-42.mp3"
+  },
+  {
+    "english": "helmet",
+    "transliteration": "xūzi (xúwaz)",
+    "arabic": "خوذِة (خُوذ)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-43.mp3"
+  },
+  {
+    "english": "car",
+    "transliteration": "sayyāra",
+    "arabic": "سيّارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-45.mp3"
+  },
+  {
+    "english": "to drive, steer",
+    "transliteration": "sāʔ, ysūʔ",
+    "arabic": "ساق، يْسوق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-46.mp3"
+  },
+  {
+    "english": "driver",
+    "transliteration": "šōfør",
+    "arabic": "شوفور",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-47.mp3"
+  },
+  {
+    "english": "passenger",
+    "transliteration": "msāfir",
+    "arabic": "مْسافِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-48.mp3"
+  },
+  {
+    "english": "driver’s license",
+    "transliteration": "ríxʂit swēʔa (ríxaʂ swēʔa)",
+    "arabic": "رِخْصِة سْواقة (رِخص سْواقة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-49.mp3"
+  },
+  {
+    "english": "traffic jam",
+    "transliteration": "3ájʔa",
+    "arabic": "عجْأة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-51.mp3"
+  },
+  {
+    "english": "stuck in traffic",
+    "transliteration": "3ilʔān b-il3ájʔa",
+    "arabic": "عِلْقان بِالعجْأة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-52.mp3"
+  },
+  {
+    "english": "The traffic is horrible right now!",
+    "transliteration": "ʈʈarīʔ 3ájʔa ktīr hállaʔ.",
+    "arabic": "الطّريق عجْأة كْتير هلّق.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-53.mp3"
+  },
+  {
+    "english": "rush hour",
+    "transliteration": "wáʔit il3ájʔa",
+    "arabic": "وقِت العجْأة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-54.mp3"
+  },
+  {
+    "english": "Let’s not go downtown right now. It’s rush hour.",
+    "transliteration": "bála mā nínzal 3a-lbálad hállaʔ, wáʔit 3ájʔa.",
+    "arabic": "بلا ما نِنْزل عالبلد هلّق، وقِت عجْأة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-55.mp3"
+  },
+  {
+    "english": "to pass, overtake",
+    "transliteration": "djēwaz, yidjēwaz",
+    "arabic": "تْجاوز، يِتْجاوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-56.mp3"
+  },
+  {
+    "english": "to pass, overtake",
+    "transliteration": "dáwbal, yidáwbil",
+    "arabic": "دوْبل، يِدوْبِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-57.mp3"
+  },
+  {
+    "english": "to stop",
+    "transliteration": "wíʔif, yūʔaf",
+    "arabic": "وِقِف، يوقف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-58.mp3"
+  },
+  {
+    "english": "to yield to",
+    "transliteration": "wássa3 la-, ywássi3 la-",
+    "arabic": "وَسّع لـ، يْوَسِّع لـ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-59.mp3"
+  },
+  {
+    "english": "to have the right of way",
+    "transliteration": "ílu lʔāwlawíyyi",
+    "arabic": "اِلو الاوْلوية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-60.mp3"
+  },
+  {
+    "english": "pedestrians",
+    "transliteration": "mušēt [pl.]",
+    "arabic": "مُشاة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-61.mp3"
+  },
+  {
+    "english": "sidewalk (UK: pavement)",
+    "transliteration": "raʂīf (árʂifi)",
+    "arabic": "رصيف (أرْصِفِة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-62.mp3"
+  },
+  {
+    "english": "cross walk, pedestrian crossing (UK: zebra crossing)",
+    "transliteration": "xuʈūʈ mušēt",
+    "arabic": "خُطوط مُشاة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-63.mp3"
+  },
+  {
+    "english": "to cross the street",
+    "transliteration": "ʔáʈa3 iššēri3, yíʔʈa3 iššēri3",
+    "arabic": "قطع الشّارِع، يِقْطع الشّارِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-64.mp3"
+  },
+  {
+    "english": "traffic light",
+    "transliteration": "išārit murūr",
+    "arabic": "إشارِة مُرور",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-65.mp3"
+  },
+  {
+    "english": "green light",
+    "transliteration": "išāra xáɖra",
+    "arabic": "إشارة خضْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-66.mp3"
+  },
+  {
+    "english": "red light",
+    "transliteration": "išāra ɧámra",
+    "arabic": "إشارة حمْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-67.mp3"
+  },
+  {
+    "english": "yellow light",
+    "transliteration": "išāra ʂáfra",
+    "arabic": "إشارة صفْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-68.mp3"
+  },
+  {
+    "english": "to run a red light",
+    "transliteration": "ʔáʈʈa3 [7] ilʔišāra",
+    "arabic": "قطّع الإشارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-69.mp3"
+  },
+  {
+    "english": "to park",
+    "transliteration": "ʂaff, yʂuff",
+    "arabic": "صفّ، يْصُفّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-70.mp3"
+  },
+  {
+    "english": "parking lot",
+    "transliteration": "máwʔif (mawēʔif)",
+    "arabic": "موْقِف (مواقِف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-72.mp3"
+  },
+  {
+    "english": "parking garage",
+    "transliteration": "karāj",
+    "arabic": "كراج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-74.mp3"
+  },
+  {
+    "english": "to park on the street",
+    "transliteration": "ʂaff b-iššēri3",
+    "arabic": "صفّ بِالشّارِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-75.mp3"
+  },
+  {
+    "english": "lane",
+    "transliteration": "zārūb",
+    "arabic": "زاروب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-76.mp3"
+  },
+  {
+    "english": "to change lanes",
+    "transliteration": "ɣáyyar [55] izzārūb",
+    "arabic": "غيّر الزّاروب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-77.mp3"
+  },
+  {
+    "english": "a four-lane road",
+    "transliteration": "ʈarīʔ árba3 xʈūʈ",
+    "arabic": "طريق ارْبع خْطوط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-78.mp3"
+  },
+  {
+    "english": "intersection",
+    "transliteration": "taʔāʈu3",
+    "arabic": "تقاطُع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-79.mp3"
+  },
+  {
+    "english": "round-about",
+    "transliteration": "mēdēn (mayadīn)",
+    "arabic": "ميْدان (مَيادين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-80.mp3"
+  },
+  {
+    "english": "highway, expressway (UK: motorway)",
+    "transliteration": "ōtōstrād",
+    "arabic": "أوْتوْسْتْراد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-81.mp3"
+  },
+  {
+    "english": "bridge, overpass",
+    "transliteration": "jísir (jsūra)",
+    "arabic": "جِسِر (جْسورة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-82.mp3"
+  },
+  {
+    "english": "speed limit",
+    "transliteration": "ɧdūd issír3a",
+    "arabic": "حْدود السِّرْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-83.mp3"
+  },
+  {
+    "english": "license plate (UK: number plate)",
+    "transliteration": "ármit innúmra",
+    "arabic": "أرْمِة النُّمْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-84.mp3"
+  },
+  {
+    "english": "car insurance",
+    "transliteration": "taʔmīn issayyāra",
+    "arabic": "تأْمين سيّارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-85.mp3"
+  },
+  {
+    "english": "to pick up",
+    "transliteration": "rákkab, yrákkib",
+    "arabic": "ركّب، يْركِّب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-86.mp3"
+  },
+  {
+    "english": "to drop off",
+    "transliteration": "názzal, ynázzil",
+    "arabic": "نزّل، يْنزِّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-87.mp3"
+  },
+  {
+    "english": "You can just drop me off on the corner.",
+    "transliteration": "fīk tnazzílni 3ind izzēwyi.",
+    "arabic": "فيك تْنزِّلْني عِنْد الزّاوْيِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-88.mp3"
+  },
+  {
+    "english": "to give a lift to, take",
+    "transliteration": "wáʂʂal, ywáʂʂil",
+    "arabic": "وَصّل، يْوَصِّل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-89.mp3"
+  },
+  {
+    "english": "Can you give me a ride home?",
+    "transliteration": "fīk twaʂʂílni 3a-lbēt?",
+    "arabic": "فيك تْوَصِّلْني عالبيْت؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-90.mp3"
+  },
+  {
+    "english": "hood",
+    "transliteration": "mōntō",
+    "arabic": "موْنْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-91.mp3"
+  },
+  {
+    "english": "windshield",
+    "transliteration": "zujēj amēmi",
+    "arabic": "زُجاج أمامي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-92.mp3"
+  },
+  {
+    "english": "trunk",
+    "transliteration": "ʈabūnē",
+    "arabic": "طبونيْه",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-93.mp3"
+  },
+  {
+    "english": "the front seat",
+    "transliteration": "lmáʔ3ad lʔiddmēni",
+    "arabic": "المقْعد القِدّْماني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-94.mp3"
+  },
+  {
+    "english": "the back seat",
+    "transliteration": "ilmáʔ3ad ilwarrāni",
+    "arabic": "المقْعد الورّاني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-95.mp3"
+  },
+  {
+    "english": "car door",
+    "transliteration": "bēb issayyāra",
+    "arabic": "باب السِّيّارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-96.mp3"
+  },
+  {
+    "english": "car door handle",
+    "transliteration": "máskit ilbāb",
+    "arabic": "مسْكِة الباب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-97.mp3"
+  },
+  {
+    "english": "window",
+    "transliteration": "šibbēk (šababīk)",
+    "arabic": "شِبّاك (شبابيك)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-98.mp3"
+  },
+  {
+    "english": "to roll the window up",
+    "transliteration": "3álla ššibbēk, y3álli ššibbēk",
+    "arabic": "علّى الشِّبّاك، يْعلّي الشِّبّاك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-99.mp3"
+  },
+  {
+    "english": "to roll the window down",
+    "transliteration": "názzal iššibbēk",
+    "arabic": "نزّل الشِّبّاك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-100.mp3"
+  },
+  {
+    "english": "The door is ajar.",
+    "transliteration": "ilbēb mánnu maʔfūl.",
+    "arabic": "الباب منّو مقْفول.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-101.mp3"
+  },
+  {
+    "english": "steering wheel",
+    "transliteration": "dirkisyōn",
+    "arabic": "دِرْكِسْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-102.mp3"
+  },
+  {
+    "english": "turn signal",
+    "transliteration": "išārit dawarān",
+    "arabic": "إشارِة دَوَران",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-103.mp3"
+  },
+  {
+    "english": "He never uses his turn signal.",
+    "transliteration": "mā byá3ʈi išārit dawarān.",
+    "arabic": "ما بْيَعْطي إشارِة دَوَران.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-104.mp3"
+  },
+  {
+    "english": "rear view mirror",
+    "transliteration": "mrēyi xalfíyyi",
+    "arabic": "مْراية خلْفية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-105.mp3"
+  },
+  {
+    "english": "side view mirror",
+    "transliteration": "mrēyi 3a-jánab",
+    "arabic": "مْراية عَ جنب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-106.mp3"
+  },
+  {
+    "english": "glove compartment",
+    "transliteration": "ʂandūʔ tāblō",
+    "arabic": "صنْدوق تابْلوه",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-107.mp3"
+  },
+  {
+    "english": "dashboard",
+    "transliteration": "láwɧit 3iddēdēt",
+    "arabic": "لَوْحِة عِدّادات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-108.mp3"
+  },
+  {
+    "english": "emergency brake, hand brake",
+    "transliteration": "frēm īd",
+    "arabic": "فْرام إيد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-109.mp3"
+  },
+  {
+    "english": "tire (UK: tyre)",
+    "transliteration": "dūlēb",
+    "arabic": "دولاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-110.mp3"
+  },
+  {
+    "english": "to check the tire pressure",
+    "transliteration": "ʔās [46]ɖáɣiʈ iddūlēb",
+    "arabic": "قاس ضغِط الدّولاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-111.mp3"
+  },
+  {
+    "english": "to get a flat tire",
+    "transliteration": "náffas iddūlēb, ynáffis iddūlēb",
+    "arabic": "نفّس الدولاب، يْنفِّس الدولاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-112.mp3"
+  },
+  {
+    "english": "spare tire",
+    "transliteration": "dūlēb iɧtiyāʈ",
+    "arabic": "دولاب اِحْتِياط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-113.mp3"
+  },
+  {
+    "english": "to change a flat tire",
+    "transliteration": "ɣáyyar [55] dūlēb",
+    "arabic": "غيّر دولاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-114.mp3"
+  },
+  {
+    "english": "automatic",
+    "transliteration": "ōtōmātīk",
+    "arabic": "أوْتوْماتيك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-115.mp3"
+  },
+  {
+    "english": "manual, stick-shift",
+    "transliteration": "mānyuwal",
+    "arabic": "مانْيُوال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-116.mp3"
+  },
+  {
+    "english": "manual, stick-shift",
+    "transliteration": "3ādi",
+    "arabic": "عادي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-116b.mp3"
+  },
+  {
+    "english": "He can’t drive a stick.",
+    "transliteration": "mā byá3rif ysūʔ 3a-l3ādi.",
+    "arabic": "ما بْيعْرِف يْسوق عالعادي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-117.mp3"
+  },
+  {
+    "english": "pedal",
+    "transliteration": "dá3si",
+    "arabic": "دعْسِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-118.mp3"
+  },
+  {
+    "english": "clutch",
+    "transliteration": "klatš",
+    "arabic": "كْلتْش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-119.mp3"
+  },
+  {
+    "english": "brake",
+    "transliteration": "frēm",
+    "arabic": "فْرام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-120.mp3"
+  },
+  {
+    "english": "gas pedal, accelerator",
+    "transliteration": "binzīn",
+    "arabic": "بِنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-121.mp3"
+  },
+  {
+    "english": "to brake",
+    "transliteration": "dá3as frēm, yíd3as frēm",
+    "arabic": "دعس فْرام، يِدْعس فْرام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-122.mp3"
+  },
+  {
+    "english": "to accelerate, speed up",
+    "transliteration": "ásra3, yísru3",
+    "arabic": "أْسْرع، يِسْرُع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-123.mp3"
+  },
+  {
+    "english": "to accelerate, speed up",
+    "transliteration": "dá3as benzīn",
+    "arabic": "دعس بِنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-124.mp3"
+  },
+  {
+    "english": "to slow down",
+    "transliteration": "báʈʈaʔ, ybáʈʈiʔ",
+    "arabic": "بطّأ، يْبطِّئ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-125.mp3"
+  },
+  {
+    "english": "gear; stick shift",
+    "transliteration": "vités",
+    "arabic": "فِتيس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-126.mp3"
+  },
+  {
+    "english": "in gear",
+    "transliteration": "má3šaʔ",
+    "arabic": "معْشق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-127.mp3"
+  },
+  {
+    "english": "1st gear",
+    "transliteration": "áwwal vités",
+    "arabic": "أوّل فِتيس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-128.mp3"
+  },
+  {
+    "english": "reverse (gear)",
+    "transliteration": "aniryē",
+    "arabic": "أنِرْيار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-129.mp3"
+  },
+  {
+    "english": "to back up",
+    "transliteration": "ríji3 la-wára, yírja3 la-wára",
+    "arabic": "رِجِع لوَرا، يِرْجع لوَرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-130.mp3"
+  },
+  {
+    "english": "to change gears",
+    "transliteration": "ɣáyyar [55] vités",
+    "arabic": "غيّر فِتيس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-131.mp3"
+  },
+  {
+    "english": "I put the car in reverse and started backing up.",
+    "transliteration": "ɧaʈʈēt vités 3a-lʔaniryār u rijā3t la-wára.",
+    "arabic": "حطّيْت الفيتِس عالأنِرْيار ورْجِعِت لَوَرا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-132.mp3"
+  },
+  {
+    "english": "speedometer",
+    "transliteration": "kīlōmetrāj",
+    "arabic": "كيلومِتْراج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-133.mp3"
+  },
+  {
+    "english": "to do the speed limit",
+    "transliteration": "ltázam b-issír3a, yiltízim b-issír3a",
+    "arabic": "لْتزم بِالسِّرْعة، يِلْتِزِم بِالسِّرْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-134.mp3"
+  },
+  {
+    "english": "to speed, go over the speed limit",
+    "transliteration": "txáʈʈa ssír3a, yitxáʈʈa ssír3a",
+    "arabic": "تْخطّى السِّرْعة، يِتْخطّى السِّرْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-136.mp3"
+  },
+  {
+    "english": "The police pulled me over for speeding.",
+    "transliteration": "ššúrʈa waʔʔafítni 3ála jánab b-isábab issir3a.",
+    "arabic": "الشُرْطة وقّفِتْني على جنب بْسبب السِّرْعة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-137.mp3"
+  },
+  {
+    "english": "gas (UK: petrol)",
+    "transliteration": "benzīn",
+    "arabic": "بنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-138.mp3"
+  },
+  {
+    "english": "We’ve run out of gas.",
+    "transliteration": "lbenzīn xúliʂ.",
+    "arabic": "البنْزين خُلِص.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-139.mp3"
+  },
+  {
+    "english": "gas gauge",
+    "transliteration": "3iddēd benzīn",
+    "arabic": "عِدّاد بنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-140.mp3"
+  },
+  {
+    "english": "The tank is full.",
+    "transliteration": "ttank milyēni.",
+    "arabic": "التنْك مِلْيانِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-141.mp3"
+  },
+  {
+    "english": "gas station",
+    "transliteration": "mɧáʈʈit benzīn",
+    "arabic": "مْحطِّة بنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-142.mp3"
+  },
+  {
+    "english": "gas pump",
+    "transliteration": "mɖaxit benzīn",
+    "arabic": "مْضخِة بنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-143.mp3"
+  },
+  {
+    "english": "to get gas",
+    "transliteration": "3ábba benzīn, y3ábbi benzīn",
+    "arabic": "عبّى بنْزين، يْعبِّي بنْزين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-144.mp3"
+  },
+  {
+    "english": "to change the oil",
+    "transliteration": "ɣáyyar [55] izzēt",
+    "arabic": "غيّر الزّيْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-145.mp3"
+  },
+  {
+    "english": "to put on one’s seatbelt, wear one’s seat belt",
+    "transliteration": "rábaʈ [55] ɧizām ilʔamēn",
+    "arabic": "ربط حِزام الامان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-146.mp3"
+  },
+  {
+    "english": "to start a car",
+    "transliteration": "šáɣɣal [21] issayyāra",
+    "arabic": "شغّل السِّيارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-147.mp3"
+  },
+  {
+    "english": "The car won’t start.",
+    "transliteration": "ssayyāra mā 3am tdūr.",
+    "arabic": "السِّيارة ما عم تْدور.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-148.mp3"
+  },
+  {
+    "english": "to turn off the engine",
+    "transliteration": "ʈáffa [7] lmuɧárrik",
+    "arabic": "طفّى المُحرِّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-149.mp3"
+  },
+  {
+    "english": "fender; bumper",
+    "transliteration": "ráfraf (rfērif)",
+    "arabic": "رفْرف (رْفارِف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-150.mp3"
+  },
+  {
+    "english": "fender; bumper",
+    "transliteration": "ikʂidām",
+    "arabic": "اِكْصِدام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-151.mp3"
+  },
+  {
+    "english": "(car) roof",
+    "transliteration": "sáʔif (sʔūf)",
+    "arabic": "سقِف (سْقوف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-152.mp3"
+  },
+  {
+    "english": "to get in a fender-bender",
+    "transliteration": "fēt [10] ɧādsi basīʈa",
+    "arabic": "فات حادْثِة بسيطة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-154.mp3"
+  },
+  {
+    "english": "dent",
+    "transliteration": "xábʈa",
+    "arabic": "خبْطة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-155.mp3"
+  },
+  {
+    "english": "There’s a dent in the side of the car.",
+    "transliteration": "fī xábʈa b-issayyāra min ijjánab.",
+    "arabic": "في خبْطة بِالسِّيّارة مِن الجّنب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-156.mp3"
+  },
+  {
+    "english": "headlight",
+    "transliteration": "miʂbāɧ amēmi (maʂabīɧ amēmíyyi)",
+    "arabic": "مِصْباح أمامي (مصابيح أمامية)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-157.mp3"
+  },
+  {
+    "english": "Turn on your headlights when it starts to get dark.",
+    "transliteration": "ɖáwwi ɖɖaww b-illēl.",
+    "arabic": "ضوّي الضّوّ بِللّيْل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-159.mp3"
+  },
+  {
+    "english": "to get in an accident, have an accident",
+    "transliteration": "3ímil [55] ɧādsi",
+    "arabic": "عِمِل حادْثِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-160.mp3"
+  },
+  {
+    "english": "to crash",
+    "transliteration": "xábaʈ, yúxbuʈ",
+    "arabic": "خبط، يُخْبُط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-161.mp3"
+  },
+  {
+    "english": "He crashed (his car) into a tree.",
+    "transliteration": "xábaʈ sayyārtu b-šájra.",
+    "arabic": "خبط سيّارْتو بْشجْرة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-162.mp3"
+  },
+  {
+    "english": "The car was totaled in the accident.",
+    "transliteration": "tkássarit issayyāra b-ilɧādis.",
+    "arabic": "تْكسّرِت السِّيّارة بِالحادِث.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav13-163.mp3"
+  }
+]

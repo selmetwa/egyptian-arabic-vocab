@@ -1,0 +1,914 @@
+[
+  {
+    "english": "clothing",
+    "transliteration": "tyēb",
+    "arabic": "تْياب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-1.mp3"
+  },
+  {
+    "english": "men’s clothing",
+    "transliteration": "tyēb rijjēli",
+    "arabic": "تْياب رِجّالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-2.mp3"
+  },
+  {
+    "english": "women’s clothing",
+    "transliteration": "tyēb niswēni",
+    "arabic": "تْياب نِسْواني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-3.mp3"
+  },
+  {
+    "english": "undergarments",
+    "transliteration": "tyēb dēxilíyyi",
+    "arabic": "تْياب داخِلية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-4.mp3"
+  },
+  {
+    "english": "underwear; panties",
+    "transliteration": "kīlōt",
+    "arabic": "كيلوْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-5.mp3"
+  },
+  {
+    "english": "panty hose, tights",
+    "transliteration": "kōlōn",
+    "arabic": "كوْلوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-6.mp3"
+  },
+  {
+    "english": "bra",
+    "transliteration": "sūtyēn",
+    "arabic": "سوتْيان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-7.mp3"
+  },
+  {
+    "english": "shirt; t-shirt",
+    "transliteration": "kánzi",
+    "arabic": "كنْزِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-8.mp3"
+  },
+  {
+    "english": "shirt; t-shirt",
+    "transliteration": "ʔamīʂ (ʔumʂān)",
+    "arabic": "قميص (قُمْصان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-9.mp3"
+  },
+  {
+    "english": "blouse",
+    "transliteration": "blūzi",
+    "arabic": "بْلوزة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-10.mp3"
+  },
+  {
+    "english": "collar",
+    "transliteration": "ʔábbi",
+    "arabic": "قبِّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-11.mp3"
+  },
+  {
+    "english": "sleeve",
+    "transliteration": "kimm",
+    "arabic": "كِمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-12.mp3"
+  },
+  {
+    "english": "a long-sleeved shirt",
+    "transliteration": "kánzi b-kimm ʈawīl",
+    "arabic": "كنْزِة بْكِمّ طَويل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-13.mp3"
+  },
+  {
+    "english": "short-sleeved shirt",
+    "transliteration": "kánzi nuʂʂ kimm",
+    "arabic": "كنْزِة نُصّ كِمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-14.mp3"
+  },
+  {
+    "english": "polo shirt",
+    "transliteration": "kánzi pōlō",
+    "arabic": "كنْزِة بوْلوْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-15.mp3"
+  },
+  {
+    "english": "(pair of) pants",
+    "transliteration": "bānʈalōn",
+    "arabic": "بونْطلوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-16.mp3"
+  },
+  {
+    "english": "pant leg",
+    "transliteration": "íjir bānʈalōn",
+    "arabic": "إجِر بُنْطلوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-17.mp3"
+  },
+  {
+    "english": "jeans",
+    "transliteration": "jīnz",
+    "arabic": "جينْز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-18.mp3"
+  },
+  {
+    "english": "shorts",
+    "transliteration": "šōrt",
+    "arabic": "شوْرْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-19.mp3"
+  },
+  {
+    "english": "belt",
+    "transliteration": "ʔšāʈ",
+    "arabic": "أْشاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-20.mp3"
+  },
+  {
+    "english": "(belt) buckle",
+    "transliteration": "bíklit liʔšāʈ",
+    "arabic": "بِكْلِة الِأْشاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-21.mp3"
+  },
+  {
+    "english": "suit",
+    "transliteration": "bádli",
+    "arabic": "بدْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-22.mp3"
+  },
+  {
+    "english": "suit jacket",
+    "transliteration": "jākētt libádli",
+    "arabic": "جاكيْتّ الِبدْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-23.mp3"
+  },
+  {
+    "english": "uniform",
+    "transliteration": "maryūl (marāyīl)",
+    "arabic": "مرْيول (مْراييل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-24.mp3"
+  },
+  {
+    "english": "abaya (traditional full-length outer garment, most commonly for women, but also for men)",
+    "transliteration": "3abēyi",
+    "arabic": "عبايِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-25.mp3"
+  },
+  {
+    "english": "neck tie",
+    "transliteration": "grāvāt",
+    "arabic": "كْرافات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-26.mp3"
+  },
+  {
+    "english": "to tie one’s neck tie",
+    "transliteration": "rábaʈ [55] grāvātu",
+    "arabic": "ربط كْرافتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-27.mp3"
+  },
+  {
+    "english": "watch",
+    "transliteration": "sē3a",
+    "arabic": "ساعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-28.mp3"
+  },
+  {
+    "english": "wallet",
+    "transliteration": "jizdēn (jzādīn)",
+    "arabic": "جِزْدان (جْزادين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-29.mp3"
+  },
+  {
+    "english": "bag, briefcase",
+    "transliteration": "sāk",
+    "arabic": "ساك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-30.mp3"
+  },
+  {
+    "english": "bag, briefcase",
+    "transliteration": "šánʈa (šínaʈ)",
+    "arabic": "شنْطة (شِنط)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-31.mp3"
+  },
+  {
+    "english": "courier bag",
+    "transliteration": "šánʈa rijjēli",
+    "arabic": "شنْطة رِجالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-32.mp3"
+  },
+  {
+    "english": "handbag, purse",
+    "transliteration": "šánʈit īd",
+    "arabic": "شنْطِة إيد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-33.mp3"
+  },
+  {
+    "english": "dress",
+    "transliteration": "fustān (fasatīn)",
+    "arabic": "فُسْتان (فساتين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-34.mp3"
+  },
+  {
+    "english": "skirt",
+    "transliteration": "tanūra (tananīr)",
+    "arabic": "تنّورة (تنانير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-35.mp3"
+  },
+  {
+    "english": "hijab, headscarf",
+    "transliteration": "ɧjēb",
+    "arabic": "حْجاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-36.mp3"
+  },
+  {
+    "english": "niqab",
+    "transliteration": "niqāb",
+    "arabic": "نِقاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-37.mp3"
+  },
+  {
+    "english": "(women’s) scarf",
+    "transliteration": "išárb",
+    "arabic": "إشرْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-38.mp3"
+  },
+  {
+    "english": "hair ribbon",
+    "transliteration": "rábʈit šá3ir",
+    "arabic": "ربْطِة شعِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-39.mp3"
+  },
+  {
+    "english": "barette, hair clip",
+    "transliteration": "klīps",
+    "arabic": "كْليبْس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-40.mp3"
+  },
+  {
+    "english": "hat",
+    "transliteration": "burnáyʈa (baranīʈ)",
+    "arabic": "بُرْنَيْطة (برانيط)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-41.mp3"
+  },
+  {
+    "english": "(baseball) cap",
+    "transliteration": "kāskēt",
+    "arabic": "كاسْكيْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-42.mp3"
+  },
+  {
+    "english": "skull cap, (knit) beanie",
+    "transliteration": "ʈāʔíyyi (ʈawāʔi)",
+    "arabic": "طاقية (طَواقي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-43.mp3"
+  },
+  {
+    "english": "turban",
+    "transliteration": "turbēn",
+    "arabic": "تُرْبان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-44.mp3"
+  },
+  {
+    "english": "jacket",
+    "transliteration": "jākētt (jawākīt)",
+    "arabic": "جاكيْتّ (جَواكيت)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-45.mp3"
+  },
+  {
+    "english": "coat",
+    "transliteration": "mōntō (mōntōyēt)",
+    "arabic": "موْنْتوْ (موْنْتوْيات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-46.mp3"
+  },
+  {
+    "english": "sweater",
+    "transliteration": "kánzi ʂūf",
+    "arabic": "كنْزِة صوف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-47.mp3"
+  },
+  {
+    "english": "zip-up sweater",
+    "transliteration": "kánzi ʂūf ma3 siɧɧāb",
+    "arabic": "كنْزِة صوف مع سِحّاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-48.mp3"
+  },
+  {
+    "english": "scarf",
+    "transliteration": "šēl",
+    "arabic": "شيْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-49.mp3"
+  },
+  {
+    "english": "gloves",
+    "transliteration": "kfūf [pl.]",
+    "arabic": "كْفوف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-50.mp3"
+  },
+  {
+    "english": "a pair of gloves",
+    "transliteration": "kaffēn [dual]",
+    "arabic": "كفّيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-51.mp3"
+  },
+  {
+    "english": "bathrobe",
+    "transliteration": "rōb ɧammēm",
+    "arabic": "روْب حمّام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-52.mp3"
+  },
+  {
+    "english": "pajamas",
+    "transliteration": "bījama",
+    "arabic": "بيجاما",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-53.mp3"
+  },
+  {
+    "english": "nightgown",
+    "transliteration": "ʔamīʂ nōm",
+    "arabic": "قميْص نوْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-54.mp3"
+  },
+  {
+    "english": "swimsuit, bathing suit",
+    "transliteration": "mayyōh",
+    "arabic": "ميّوْه",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-55.mp3"
+  },
+  {
+    "english": "bikini",
+    "transliteration": "bīkīni",
+    "arabic": "بيكيني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-56.mp3"
+  },
+  {
+    "english": "pocket",
+    "transliteration": "jēbi",
+    "arabic": "جيْبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-57.mp3"
+  },
+  {
+    "english": "to put __ in one’s pocket",
+    "transliteration": "ɧaʈʈ [55] __ b-jēbtu",
+    "arabic": "حط __ بْجيْبْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-58.mp3"
+  },
+  {
+    "english": "to take __ out of one’s pocket",
+    "transliteration": "ʈálla3 [55] __ min jēbtu",
+    "arabic": "طلّع __ مِن جيْبْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-59.mp3"
+  },
+  {
+    "english": "button",
+    "transliteration": "zirr (zrār)",
+    "arabic": "زِرّ (زْرار)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-60.mp3"
+  },
+  {
+    "english": "to button up",
+    "transliteration": "sákkar lizrār, ysákkir lizrār",
+    "arabic": "سكّر الِزْرار، يْسكِّر الِزْرار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-61.mp3"
+  },
+  {
+    "english": "to unbutton",
+    "transliteration": "fakk izzrār, yfikk izzrār",
+    "arabic": "فكّ الزّْرار، يْفِكّ الزّْرار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-62.mp3"
+  },
+  {
+    "english": "zipper",
+    "transliteration": "siɧɧāb",
+    "arabic": "سِحّاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-63.mp3"
+  },
+  {
+    "english": "to zip up",
+    "transliteration": "sákkar issiɧɧāb",
+    "arabic": "سكّر السِّحّاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-64.mp3"
+  },
+  {
+    "english": "to unzip",
+    "transliteration": "fátaɧ [55] issiɧɧāb",
+    "arabic": "فتح السِحاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-65.mp3"
+  },
+  {
+    "english": "(pair of) shoes",
+    "transliteration": "šūz",
+    "arabic": "شوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-66.mp3"
+  },
+  {
+    "english": "(pair of) shoes",
+    "transliteration": "ʂubbāʈ (ʂabābīʈ)",
+    "arabic": "صُبّاط (صبابيط)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-67.mp3"
+  },
+  {
+    "english": "shoe",
+    "transliteration": "fárdit šūz",
+    "arabic": "فرْدِة شوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-68.mp3"
+  },
+  {
+    "english": "shoe",
+    "transliteration": "fárdit ʂubbāʈ",
+    "arabic": "فرْدِة صُبّاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-69.mp3"
+  },
+  {
+    "english": "(pair of) boots",
+    "transliteration": "bōt",
+    "arabic": "بوْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-70.mp3"
+  },
+  {
+    "english": "(pair of) sandals",
+    "transliteration": "ʂándal",
+    "arabic": "صنْدل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-71.mp3"
+  },
+  {
+    "english": "(pair of) high heels",
+    "transliteration": "ká3ib 3āli",
+    "arabic": "كعِب عالي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-72.mp3"
+  },
+  {
+    "english": "(pair of) slippers",
+    "transliteration": "maššēyi",
+    "arabic": "مشّايِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-73.mp3"
+  },
+  {
+    "english": "shoelaces",
+    "transliteration": "rábʈit šūz",
+    "arabic": "ربْطِة شوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-74.mp3"
+  },
+  {
+    "english": "to tie one’s shoes",
+    "transliteration": "rábaʈ [55] šūzu",
+    "arabic": "ربط شوزو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-75.mp3"
+  },
+  {
+    "english": "to untie one’s shoes",
+    "transliteration": "fakk šūzu",
+    "arabic": "فكّ شوزو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-76.mp3"
+  },
+  {
+    "english": "Your shoelaces have come undone.",
+    "transliteration": "rabʈāt šūzak mafkūkīn.",
+    "arabic": "ربْطات شوزك مفْكوكين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-77.mp3"
+  },
+  {
+    "english": "shoe polish",
+    "transliteration": "dhēn šūz",
+    "arabic": "دْهان شوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-78.mp3"
+  },
+  {
+    "english": "to polish one’s shoes",
+    "transliteration": "lámma3 šūzu, ylámmi3 šūzu",
+    "arabic": "لمّع شوزو، يْلمِّع شوزو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-79.mp3"
+  },
+  {
+    "english": "shoe size",
+    "transliteration": "maʔās íjir",
+    "arabic": "مقاس إجِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-80.mp3"
+  },
+  {
+    "english": "What size shoes do you wear?",
+    "transliteration": "šū maʔās íjrak?",
+    "arabic": "شو مقاس إجْرك؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-81.mp3"
+  },
+  {
+    "english": "I wear size 40.",
+    "transliteration": "ána bílbus númra arb3īn.",
+    "arabic": "أنا بِلْبُس نُمْرة أرْبْعين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-82.mp3"
+  },
+  {
+    "english": "I’m not sure about my size.",
+    "transliteration": "miš mʔákkid ʔaddē númrat íjri.",
+    "arabic": "مِش مْأكد قدّيْ نُمْرة إجْري.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-83.mp3"
+  },
+  {
+    "english": "(pair of) socks",
+    "transliteration": "kalsēt",
+    "arabic": "كلْسات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-84.mp3"
+  },
+  {
+    "english": "to wear, to get dressed, to put on",
+    "transliteration": "líbis, yílbus",
+    "arabic": "لِبِس، يِلْبُس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-85.mp3"
+  },
+  {
+    "english": "What are you going to wear today?",
+    "transliteration": "šū raɧ tílbus ilyōm?",
+    "arabic": "شو رح تِلْبُس اليوْم؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-86.mp3"
+  },
+  {
+    "english": "He took a shower, got dressed, and left for work.",
+    "transliteration": "tɧámmam, líbis, u rāɧ 3a šíɣlu.",
+    "arabic": "تْحمّم، لِبِس، وراح ع شِغْلو.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-87.mp3"
+  },
+  {
+    "english": "to take off",
+    "transliteration": "šíliɧ, yíšlaɧ",
+    "arabic": "شِلِح، يِشْلح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-88.mp3"
+  },
+  {
+    "english": "to get undressed",
+    "transliteration": "šíliɧ tyēbu",
+    "arabic": "شِلِح تْيابو، يشْلح تْيابو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-89.mp3"
+  },
+  {
+    "english": "I took off my jacket.",
+    "transliteration": "šlíɧit jākētti",
+    "arabic": "شْلِحِت جاكيْتّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-90.mp3"
+  },
+  {
+    "english": "to change one’s clothes",
+    "transliteration": "ɣáyyar [55] tyēbu",
+    "arabic": "غيّر تْيابو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-91.mp3"
+  },
+  {
+    "english": "(clothing) size",
+    "transliteration": "maʔās",
+    "arabic": "مقاس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-92.mp3"
+  },
+  {
+    "english": "small (S)",
+    "transliteration": "āʂɣar maʔās",
+    "arabic": "أصْغر مقاس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-93.mp3"
+  },
+  {
+    "english": "small (S)",
+    "transliteration": "smōl",
+    "arabic": "سْموْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-94.mp3"
+  },
+  {
+    "english": "medium (M)",
+    "transliteration": "wásaʈ",
+    "arabic": "وَسط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-95.mp3"
+  },
+  {
+    "english": "medium (M)",
+    "transliteration": "mīdyum",
+    "arabic": "ميدْيُم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-96.mp3"
+  },
+  {
+    "english": "loose; large (L)",
+    "transliteration": "wēsi3",
+    "arabic": "واسِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-97.mp3"
+  },
+  {
+    "english": "large (L)",
+    "transliteration": "lārj",
+    "arabic": "لارْج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-98.mp3"
+  },
+  {
+    "english": "extra-large (XL)",
+    "transliteration": "ékstra lārj",
+    "arabic": "اكْسْترا لارْج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-99.mp3"
+  },
+  {
+    "english": "tight",
+    "transliteration": "ɖáyyiʔ",
+    "arabic": "ضيِّق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-100.mp3"
+  },
+  {
+    "english": "just right (not too loose or tight)",
+    "transliteration": "3a-lʔadd",
+    "arabic": "عالقدّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-101.mp3"
+  },
+  {
+    "english": "Does the shirt fit you?",
+    "transliteration": "zābʈa 3alēk ilʔamīʂ?",
+    "arabic": "زابْط عليْك القميص؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-102.mp3"
+  },
+  {
+    "english": "Yes, it fits just right.",
+    "transliteration": "ē, jēyi 3a-lʔádd.",
+    "arabic": "أيْه، جايِة عالقدّ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-103.mp3"
+  },
+  {
+    "english": "It doesn’t fit.",
+    "transliteration": "lā, mánna zābʈa.",
+    "arabic": "لا، منّا زابْطة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-104.mp3"
+  },
+  {
+    "english": "It’s a little big.",
+    "transliteration": "šwayy kbīri.",
+    "arabic": "شْويّ كْبيرِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-105.mp3"
+  },
+  {
+    "english": "It’s too tight.",
+    "transliteration": "ktīrɖáyyʔa.",
+    "arabic": "كْتير ضيّْقة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-106.mp3"
+  },
+  {
+    "english": "to do the laundry",
+    "transliteration": "ɣással [55] ilɣasīl",
+    "arabic": "غسّل الغسيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-107.mp3"
+  },
+  {
+    "english": "to hang out the laundry",
+    "transliteration": "nášar ilɣasīl, yúnšur ilɣasīl",
+    "arabic": "نشر الغسيل، يُنْشُر الغسيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-108.mp3"
+  },
+  {
+    "english": "to dry the laundry",
+    "transliteration": "náššaf ilɣasīl, ynáššif ilɣasīl",
+    "arabic": "نشّف الغسيل، يْنشِّف الغسيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-109.mp3"
+  },
+  {
+    "english": "washing machine",
+    "transliteration": "ɣissēli",
+    "arabic": "غِسّالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-110.mp3"
+  },
+  {
+    "english": "(clothes) dryer",
+    "transliteration": "mjáffif",
+    "arabic": "مْجفِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-111.mp3"
+  },
+  {
+    "english": "clothes line",
+    "transliteration": "ɧábil ɣasīl",
+    "arabic": "حبِل غسيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-112.mp3"
+  },
+  {
+    "english": "laundry basket",
+    "transliteration": "sállit ɣasīl",
+    "arabic": "سلِّة غسيل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-113.mp3"
+  },
+  {
+    "english": "to iron",
+    "transliteration": "káwa, yíkwi",
+    "arabic": "كوى، يِكْوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-114.mp3"
+  },
+  {
+    "english": "iron",
+    "transliteration": "mákwa",
+    "arabic": "مكْوى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-115.mp3"
+  },
+  {
+    "english": "ironing board",
+    "transliteration": "jaɧš káwi",
+    "arabic": "جحْش كَوي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-116.mp3"
+  },
+  {
+    "english": "wrinkled",
+    "transliteration": "mjá3lak",
+    "arabic": "مْجعْلك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-117.mp3"
+  },
+  {
+    "english": "This shirt is wrinkled. I need to iron it.",
+    "transliteration": "ha-lkánzi mjá3laki. báddi ikwīya.",
+    "arabic": "هالكنْزِة مْجعْلكِة . بدّي إكْوِيا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-118.mp3"
+  },
+  {
+    "english": "cloth, fabric",
+    "transliteration": "ʔmāš",
+    "arabic": "قْماش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-119.mp3"
+  },
+  {
+    "english": "cotton",
+    "transliteration": "ʔúʈun",
+    "arabic": "قُطُن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-120.mp3"
+  },
+  {
+    "english": "wool",
+    "transliteration": "ʂūf",
+    "arabic": "صوف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-121.mp3"
+  },
+  {
+    "english": "silk",
+    "transliteration": "ɧarīr",
+    "arabic": "حرير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-122.mp3"
+  },
+  {
+    "english": "nylon",
+    "transliteration": "nāylūn",
+    "arabic": "نايْلون",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-123.mp3"
+  },
+  {
+    "english": "linen",
+    "transliteration": "kittēn",
+    "arabic": "كِتّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-124.mp3"
+  },
+  {
+    "english": "Is this t-shirt cotton?",
+    "transliteration": "ha-lkánzi ʔúʈníyyi?",
+    "arabic": "هالكنْزِة قُطْنية؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-125.mp3"
+  },
+  {
+    "english": "This shirt is silk.",
+    "transliteration": "háydi lkánzi ɧarīr.",
+    "arabic": "هَيْدي الكنْزِة حرير.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-126.mp3"
+  },
+  {
+    "english": "leather",
+    "transliteration": "jílid",
+    "arabic": "جِلِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-127.mp3"
+  },
+  {
+    "english": "glasses",
+    "transliteration": "3wēnēt [pl.]",
+    "arabic": "عْويْنات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-128.mp3"
+  },
+  {
+    "english": "contact lenses",
+    "transliteration": "3adasēt [pl.]",
+    "arabic": "عدسات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-129.mp3"
+  },
+  {
+    "english": "Do you wear glasses?",
+    "transliteration": "ínta btílbus 3wēnēt?",
+    "arabic": "إنْتَ بْتِلْبُس عْويناتْ؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-130.mp3"
+  },
+  {
+    "english": "Oh, you’re wearing glasses today!",
+    "transliteration": "šū háyda! lēbis 3wēnēt ilyōm?",
+    "arabic": "شْو هيدا! لابِس عْويْنات اليوْم؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-131.mp3"
+  },
+  {
+    "english": "I usually wear contacts.",
+    "transliteration": "ána b-il3ādi bílbus lánsis.",
+    "arabic": "أنا بالعادِة بِلْبُس لنْسِس.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-132.mp3"
+  },
+  {
+    "english": "sunglasses",
+    "transliteration": "3wēnēt šámis",
+    "arabic": "عْويْنات شمِس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-133.mp3"
+  },
+  {
+    "english": "reading glasses",
+    "transliteration": "3wēnēt la-lʔrāyi",
+    "arabic": "عْويْنات للقْرايِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-134.mp3"
+  },
+  {
+    "english": "I can’t find my glasses.",
+    "transliteration": "mā 3am lāʔi 3wēnēti.",
+    "arabic": "ما عم لاقي عْويْناتي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-135.mp3"
+  },
+  {
+    "english": "jewelry",
+    "transliteration": "mujawharāt",
+    "arabic": "مُجوْهرات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-136.mp3"
+  },
+  {
+    "english": "ring",
+    "transliteration": "xātim (xwātim)",
+    "arabic": "خاتِم (خْواتِم)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-137.mp3"
+  },
+  {
+    "english": "wedding ring",
+    "transliteration": "máɧbas",
+    "arabic": "محْبس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-138.mp3"
+  },
+  {
+    "english": "engagement ring",
+    "transliteration": "máɧbas xúʈbi",
+    "arabic": "محْبس خُطْبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-139.mp3"
+  },
+  {
+    "english": "bracelet",
+    "transliteration": "iswāra (asāwir)",
+    "arabic": "إسْوارة (أساوِر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-140.mp3"
+  },
+  {
+    "english": "earring",
+    "transliteration": "ɧálʔa (ɧálaʔ)",
+    "arabic": "حلْقة (حلق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-141.mp3"
+  },
+  {
+    "english": "I lost my earring.",
+    "transliteration": "ɖayyá3it ɧálaʔi.",
+    "arabic": "ضيّعِت حلقي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-142.mp3"
+  },
+  {
+    "english": "a pair of earrings",
+    "transliteration": "ɧalʔāt",
+    "arabic": "حلْقات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-143.mp3"
+  },
+  {
+    "english": "necklace",
+    "transliteration": "3áʔid (3ʔūd)",
+    "arabic": "عقِد (عْقود)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-144.mp3"
+  },
+  {
+    "english": "brooch",
+    "transliteration": "brōš",
+    "arabic": "بْروش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-145.mp3"
+  },
+  {
+    "english": "diamonds",
+    "transliteration": "almās",
+    "arabic": "ألْماس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-146.mp3"
+  },
+  {
+    "english": "ruby",
+    "transliteration": "yāʔūt",
+    "arabic": "ياقوت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-147.mp3"
+  },
+  {
+    "english": "topaz",
+    "transliteration": "yāʔūt áʂfar",
+    "arabic": "ياقوت أصْفر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-148.mp3"
+  },
+  {
+    "english": "emeralds",
+    "transliteration": "zumúrrud",
+    "arabic": "زُمُرُّد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-149.mp3"
+  },
+  {
+    "english": "gold",
+    "transliteration": "dáhab",
+    "arabic": "دهب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-150.mp3"
+  },
+  {
+    "english": "silver",
+    "transliteration": "fúɖɖa",
+    "arabic": "فُضّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-151.mp3"
+  },
+  {
+    "english": "a diamond ring, gold bracelet, and silver necklace",
+    "transliteration": "xātim almās, iswāra dáhab, u 3áʔid fúɖɖa",
+    "arabic": "خاتِم ألْماس، إسْوارة دهب وعقِد فُضّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav06-152.mp3"
+  }
+]

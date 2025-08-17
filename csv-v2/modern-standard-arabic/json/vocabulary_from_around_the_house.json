@@ -1,0 +1,1237 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "house",
+    "transliteration": "bayt",
+    "arabic": "بيت"
+  },
+  {
+    "english": "houses",
+    "transliteration": "buyuut",
+    "arabic": "بيوت"
+  },
+  {
+    "english": "apartment",
+    "transliteration": "šaqqa",
+    "arabic": "شقة"
+  },
+  {
+    "english": "apartments",
+    "transliteration": "šiqaq",
+    "arabic": "شقق"
+  },
+  {
+    "english": "building",
+    "transliteration": "mabna",
+    "arabic": "مبنى"
+  },
+  {
+    "english": "buildings",
+    "transliteration": "mabaani'",
+    "arabic": "مبانئ"
+  },
+  {
+    "english": "apartment building",
+    "transliteration": "3imaara",
+    "arabic": "عمارة"
+  },
+  {
+    "english": "apartment buildings",
+    "transliteration": "3imaaraat",
+    "arabic": "عمارات"
+  },
+  {
+    "english": "floor ",
+    "transliteration": "Taabiq",
+    "arabic": "طابق"
+  },
+  {
+    "english": "floor s",
+    "transliteration": "Tawaabiq",
+    "arabic": "طوابق"
+  },
+  {
+    "english": "courtyard",
+    "transliteration": "baaHa",
+    "arabic": "باحة"
+  },
+  {
+    "english": "courtyards",
+    "transliteration": "aHwaaš",
+    "arabic": "أحواش"
+  },
+  {
+    "english": "gate",
+    "transliteration": "bawwaaba",
+    "arabic": "بوّابة"
+  },
+  {
+    "english": "gates",
+    "transliteration": "bawwaabaat",
+    "arabic": "بوّابات"
+  },
+  {
+    "english": "door",
+    "transliteration": "baab",
+    "arabic": "باب"
+  },
+  {
+    "english": "doors",
+    "transliteration": "abwaab",
+    "arabic": "أبواب"
+  },
+  {
+    "english": "key",
+    "transliteration": "miftaaH",
+    "arabic": "مفتاح"
+  },
+  {
+    "english": "keys",
+    "transliteration": "mafaatiiH",
+    "arabic": "مفاتيح"
+  },
+  {
+    "english": "wall ",
+    "transliteration": "jidaar",
+    "arabic": "جدار"
+  },
+  {
+    "english": "wall s",
+    "transliteration": "judur",
+    "arabic": "جدر"
+  },
+  {
+    "english": "ceiling",
+    "transliteration": "saqf",
+    "arabic": "سقف"
+  },
+  {
+    "english": "ceilings",
+    "transliteration": "suquuf",
+    "arabic": "سقوف"
+  },
+  {
+    "english": "floor",
+    "transliteration": "arDiyya",
+    "arabic": "أرضية"
+  },
+  {
+    "english": "floors",
+    "transliteration": "arDiyyaat",
+    "arabic": "أرضيات"
+  },
+  {
+    "english": "roof",
+    "transliteration": "saTH",
+    "arabic": "سطح"
+  },
+  {
+    "english": "roofs",
+    "transliteration": "suTuuH",
+    "arabic": "سطوح"
+  },
+  {
+    "english": "electricity",
+    "transliteration": "kahrabaa'",
+    "arabic": "كهرباء"
+  },
+  {
+    "english": "pipe",
+    "transliteration": "maasuura",
+    "arabic": "ماسورة"
+  },
+  {
+    "english": "pipes",
+    "transliteration": "mawaasiir",
+    "arabic": "مواسير"
+  },
+  {
+    "english": "valve",
+    "transliteration": "miHbas",
+    "arabic": "محبس"
+  },
+  {
+    "english": "electrical outlet",
+    "transliteration": "maxraj kahrabaa'",
+    "arabic": "مخرج كهرباء"
+  },
+  {
+    "english": "electrical outlets",
+    "transliteration": "fiišaat",
+    "arabic": "فيشات"
+  },
+  {
+    "english": "electrical plug",
+    "transliteration": "qaabis",
+    "arabic": "قابس"
+  },
+  {
+    "english": "electrical plugs",
+    "transliteration": "ikbaas",
+    "arabic": "اكباس"
+  },
+  {
+    "english": "cord",
+    "transliteration": "silk",
+    "arabic": "سلك"
+  },
+  {
+    "english": "cords",
+    "transliteration": "aslaak",
+    "arabic": "أسلاك"
+  },
+  {
+    "english": "elevator",
+    "transliteration": "miS3ad",
+    "arabic": "مصعد"
+  },
+  {
+    "english": "elevators",
+    "transliteration": "aSanSeiraat",
+    "arabic": "اصنصيرات"
+  },
+  {
+    "english": "stairs",
+    "transliteration": "salaalim",
+    "arabic": "سلالم"
+  },
+  {
+    "english": "balcony",
+    "transliteration": "šurfa",
+    "arabic": "شرفة"
+  },
+  {
+    "english": "balconies",
+    "transliteration": "šuraf",
+    "arabic": "شرف"
+  },
+  {
+    "english": "neighbor",
+    "transliteration": "jaar",
+    "arabic": "جار"
+  },
+  {
+    "english": "neighbors",
+    "transliteration": "jiiraan",
+    "arabic": "جيران"
+  },
+  {
+    "english": "rent or lease",
+    "transliteration": "iijaar",
+    "arabic": "ايجار"
+  },
+  {
+    "english": "vacant",
+    "transliteration": "faariġ",
+    "arabic": "فارغ"
+  },
+  {
+    "english": "furnished",
+    "transliteration": "mafruuš",
+    "arabic": "مفروش"
+  },
+  {
+    "english": "room",
+    "transliteration": "ġurfa",
+    "arabic": "غرفة"
+  },
+  {
+    "english": "rooms",
+    "transliteration": "ġuraf",
+    "arabic": "غرف"
+  },
+  {
+    "english": "hall",
+    "transliteration": "mamarr",
+    "arabic": "ممرّ"
+  },
+  {
+    "english": "halls",
+    "transliteration": "mamarraat",
+    "arabic": "ممرّات"
+  },
+  {
+    "english": "living room",
+    "transliteration": "ġurfat juluus",
+    "arabic": "غرفة جلوس"
+  },
+  {
+    "english": "living rooms",
+    "transliteration": "Saloonaat",
+    "arabic": "صلونات"
+  },
+  {
+    "english": "furniture",
+    "transliteration": "ataat",
+    "arabic": "أثاث"
+  },
+  {
+    "english": "upholstery",
+    "transliteration": "tanjiid",
+    "arabic": "تنجيد"
+  },
+  {
+    "english": "chair",
+    "transliteration": "kursi",
+    "arabic": "كرسي"
+  },
+  {
+    "english": "chairs",
+    "transliteration": "karaasi",
+    "arabic": "كراسي"
+  },
+  {
+    "english": "armchair",
+    "transliteration": "foteyy",
+    "arabic": "فتيّ"
+  },
+  {
+    "english": "armchairs",
+    "transliteration": "foteyyaat",
+    "arabic": "فتيّات"
+  },
+  {
+    "english": "sofa",
+    "transliteration": "ariika",
+    "arabic": "اريكة"
+  },
+  {
+    "english": "sofas",
+    "transliteration": "araa'ik",
+    "arabic": "ارائك"
+  },
+  {
+    "english": "table",
+    "transliteration": "Taawula",
+    "arabic": "طاولة"
+  },
+  {
+    "english": "tables",
+    "transliteration": "Taawulaat",
+    "arabic": "طاولات"
+  },
+  {
+    "english": "window",
+    "transliteration": "šubbaak",
+    "arabic": "شبّاك"
+  },
+  {
+    "english": "windows",
+    "transliteration": "šabaabiik",
+    "arabic": "شبابيك"
+  },
+  {
+    "english": "curtain/blinds",
+    "transliteration": "sitaara",
+    "arabic": "ستارة"
+  },
+  {
+    "english": "curtain/blinds",
+    "transliteration": "sataa'ir",
+    "arabic": "ستائر"
+  },
+  {
+    "english": "television",
+    "transliteration": "televizyoon",
+    "arabic": "تلفزيون"
+  },
+  {
+    "english": "televisions",
+    "transliteration": "televizyoonaat",
+    "arabic": "تلفزيونات"
+  },
+  {
+    "english": "remote control",
+    "transliteration": "Haakim 3an bo3d",
+    "arabic": "حاكم عن بعد"
+  },
+  {
+    "english": "telephone",
+    "transliteration": "tilifoon",
+    "arabic": "تلفون"
+  },
+  {
+    "english": "telephones",
+    "transliteration": "tilifoonaat",
+    "arabic": "تلفونات"
+  },
+  {
+    "english": "lamp",
+    "transliteration": "miSbaaH",
+    "arabic": "مصباح"
+  },
+  {
+    "english": "lamps",
+    "transliteration": "maSaabiiH",
+    "arabic": "مصابيح"
+  },
+  {
+    "english": "light",
+    "transliteration": "nuur",
+    "arabic": "نور"
+  },
+  {
+    "english": "lights",
+    "transliteration": "anwaar",
+    "arabic": "انوار"
+  },
+  {
+    "english": "candle",
+    "transliteration": "šam3a",
+    "arabic": "شمعة"
+  },
+  {
+    "english": "candles",
+    "transliteration": "šam3aat",
+    "arabic": "شمعات"
+  },
+  {
+    "english": "chandelier",
+    "transliteration": "turayya",
+    "arabic": "ثرية"
+  },
+  {
+    "english": "chandeliers",
+    "transliteration": "turayyaat",
+    "arabic": "ثريات"
+  },
+  {
+    "english": "carpet",
+    "transliteration": "sajjaada",
+    "arabic": "سجّادة"
+  },
+  {
+    "english": "carpets",
+    "transliteration": "sajjaad",
+    "arabic": "سجّاد"
+  },
+  {
+    "english": "carpet ",
+    "transliteration": "moket",
+    "arabic": "موكيت"
+  },
+  {
+    "english": "tile ",
+    "transliteration": "balaaT",
+    "arabic": "بلاط"
+  },
+  {
+    "english": "tile ",
+    "transliteration": "'išaani",
+    "arabic": "قيشاني"
+  },
+  {
+    "english": "fan",
+    "transliteration": "mirwaHa",
+    "arabic": "مروحة"
+  },
+  {
+    "english": "fans",
+    "transliteration": "maraawiH",
+    "arabic": "مراوح"
+  },
+  {
+    "english": "heater",
+    "transliteration": "daffaaya",
+    "arabic": "دفّاية"
+  },
+  {
+    "english": "heaters",
+    "transliteration": "daffaayaat",
+    "arabic": "دفّايات"
+  },
+  {
+    "english": "cigarette lighter",
+    "transliteration": "qaddaaHa",
+    "arabic": "قداحة"
+  },
+  {
+    "english": "broom",
+    "transliteration": "miqašša",
+    "arabic": "مقشّة"
+  },
+  {
+    "english": "brooms",
+    "transliteration": "miqaššaat",
+    "arabic": "مقشّات"
+  },
+  {
+    "english": "mop",
+    "transliteration": "mimsaHa",
+    "arabic": "ممسحة"
+  },
+  {
+    "english": "mops",
+    "transliteration": "mamaasiH",
+    "arabic": "مماسح"
+  },
+  {
+    "english": "sponge",
+    "transliteration": "safanj",
+    "arabic": "سفنج"
+  },
+  {
+    "english": "sponges",
+    "transliteration": "sifingaat",
+    "arabic": "سفنجات"
+  },
+  {
+    "english": "clothes pin",
+    "transliteration": "mišbak",
+    "arabic": "مشبك"
+  },
+  {
+    "english": "clothes pins",
+    "transliteration": "mašaabiik",
+    "arabic": "بشابيك"
+  },
+  {
+    "english": "clothes drying rack",
+    "transliteration": "manšafa",
+    "arabic": "منشفة"
+  },
+  {
+    "english": "clothes drying racks",
+    "transliteration": "manaašif",
+    "arabic": "مناشف"
+  },
+  {
+    "english": "scissors",
+    "transliteration": "miqaSS",
+    "arabic": "مقصّ"
+  },
+  {
+    "english": "scissors",
+    "transliteration": "maqaaSS",
+    "arabic": "مقاصّ"
+  },
+  {
+    "english": "bedroom",
+    "transliteration": "ġurfat noom",
+    "arabic": "غرفة نوم"
+  },
+  {
+    "english": "bed",
+    "transliteration": "sariir",
+    "arabic": "سرير"
+  },
+  {
+    "english": "beds",
+    "transliteration": "saraa'ir",
+    "arabic": "سرائر"
+  },
+  {
+    "english": "mattress",
+    "transliteration": "martaba",
+    "arabic": "مرتبة"
+  },
+  {
+    "english": "mattresses",
+    "transliteration": "maraatib",
+    "arabic": "مراتب"
+  },
+  {
+    "english": "bedsheet",
+    "transliteration": "milaa'a",
+    "arabic": "ملائة"
+  },
+  {
+    "english": "bedsheets",
+    "transliteration": "milaa'iaat",
+    "arabic": "ملائات"
+  },
+  {
+    "english": "blanket",
+    "transliteration": "baTTaniyya",
+    "arabic": "بطّانية"
+  },
+  {
+    "english": "blankets",
+    "transliteration": "baTaaTiin",
+    "arabic": "بطاطين"
+  },
+  {
+    "english": "quilt",
+    "transliteration": "liHaaf",
+    "arabic": "لحاف"
+  },
+  {
+    "english": "quilts",
+    "transliteration": "luHuf",
+    "arabic": "لحف"
+  },
+  {
+    "english": "pillow",
+    "transliteration": "mixadda",
+    "arabic": "مخدّة"
+  },
+  {
+    "english": "pillows",
+    "transliteration": "maxaadd",
+    "arabic": "مخادّ"
+  },
+  {
+    "english": " clock",
+    "transliteration": "saa3a ",
+    "arabic": "ساعة "
+  },
+  {
+    "english": "closet",
+    "transliteration": "xizaana",
+    "arabic": "خزانة"
+  },
+  {
+    "english": "closets",
+    "transliteration": "xazaa’in milaabis",
+    "arabic": "خزائن ملابس"
+  },
+  {
+    "english": "closet",
+    "transliteration": "duulaab",
+    "arabic": "دولاب"
+  },
+  {
+    "english": "closets",
+    "transliteration": "dawaaliib",
+    "arabic": "دواليب"
+  },
+  {
+    "english": "clothes hanger",
+    "transliteration": "3allaaqa",
+    "arabic": "علاقة"
+  },
+  {
+    "english": "clothes hangers",
+    "transliteration": "3allaaqaat tiyaab",
+    "arabic": "علاقات ثياب"
+  },
+  {
+    "english": "mirror",
+    "transliteration": "miraah",
+    "arabic": "مرآة"
+  },
+  {
+    "english": "mirrors",
+    "transliteration": "miraaya",
+    "arabic": "مرايا"
+  },
+  {
+    "english": "desk",
+    "transliteration": "maktab",
+    "arabic": "مكتب"
+  },
+  {
+    "english": "desks",
+    "transliteration": "makaatib",
+    "arabic": "مكاتب"
+  },
+  {
+    "english": "drawer",
+    "transliteration": "durj",
+    "arabic": "درج"
+  },
+  {
+    "english": "drawers",
+    "transliteration": "adraaj",
+    "arabic": "أدراج"
+  },
+  {
+    "english": "shelf",
+    "transliteration": "raff",
+    "arabic": "رفّ"
+  },
+  {
+    "english": "shelves",
+    "transliteration": "rufuuf",
+    "arabic": "رفوف"
+  },
+  {
+    "english": "nightstand",
+    "transliteration": "kumudiinu",
+    "arabic": "كمدينو"
+  },
+  {
+    "english": "nightstands",
+    "transliteration": "kumudiinuhaat",
+    "arabic": "كمدينوهات"
+  },
+  {
+    "english": "dresser",
+    "transliteration": "tasriiHa",
+    "arabic": "تسريحة"
+  },
+  {
+    "english": "dressers",
+    "transliteration": "tasriiHaat",
+    "arabic": "تسريحات"
+  },
+  {
+    "english": "nightlight",
+    "transliteration": "lamba sahhaari",
+    "arabic": "لمبة سهّاري"
+  },
+  {
+    "english": "comb",
+    "transliteration": "mušT",
+    "arabic": "مشط"
+  },
+  {
+    "english": "combs",
+    "transliteration": "amšaaT",
+    "arabic": "امشاط"
+  },
+  {
+    "english": "brush",
+    "transliteration": "furšaah",
+    "arabic": "فرشاة"
+  },
+  {
+    "english": "brushes",
+    "transliteration": "furaš",
+    "arabic": "فرش"
+  },
+  {
+    "english": "bathroom",
+    "transliteration": "Hammaam",
+    "arabic": "حمّام"
+  },
+  {
+    "english": "bathrooms",
+    "transliteration": "Hammaamaat",
+    "arabic": "حمّامات"
+  },
+  {
+    "english": "shower",
+    "transliteration": "duuš",
+    "arabic": "دوش"
+  },
+  {
+    "english": "showers",
+    "transliteration": "duušaat",
+    "arabic": "دوشات"
+  },
+  {
+    "english": "toilet paper",
+    "transliteration": "waraq tuwalitt",
+    "arabic": "مرق تواليت"
+  },
+  {
+    "english": "sink",
+    "transliteration": "maġsala",
+    "arabic": "مغسلة"
+  },
+  {
+    "english": "sinks",
+    "transliteration": "maġaasil",
+    "arabic": "مغاسل"
+  },
+  {
+    "english": "faucet",
+    "transliteration": "Sunbuur",
+    "arabic": "صنبور"
+  },
+  {
+    "english": "faucets",
+    "transliteration": "Sanaabiir",
+    "arabic": "صنابير"
+  },
+  {
+    "english": "towel",
+    "transliteration": "minšafa",
+    "arabic": "منشفة"
+  },
+  {
+    "english": "towels",
+    "transliteration": "manaašif",
+    "arabic": "مناشف"
+  },
+  {
+    "english": " towel",
+    "transliteration": "baškiir",
+    "arabic": "بشكير"
+  },
+  {
+    "english": " towels",
+    "transliteration": "bašaakiir",
+    "arabic": "بشاكير"
+  },
+  {
+    "english": "shampoo",
+    "transliteration": "šaambuu",
+    "arabic": "شامبو"
+  },
+  {
+    "english": "sponge",
+    "transliteration": "luufa",
+    "arabic": "لوفة"
+  },
+  {
+    "english": "toothbrush",
+    "transliteration": "furšaat asnaan",
+    "arabic": "فرشاة اسنان"
+  },
+  {
+    "english": "toothpaste",
+    "transliteration": "ma3juun asnaan",
+    "arabic": "معجون اسنان"
+  },
+  {
+    "english": "razor",
+    "transliteration": "šafra",
+    "arabic": "شفرة"
+  },
+  {
+    "english": "razors",
+    "transliteration": "šafaraat Hilaaqa",
+    "arabic": "شفرات حلاقة"
+  },
+  {
+    "english": "shaving cream",
+    "transliteration": "Sabuun Hilaaqa",
+    "arabic": "صابون حلاقة"
+  },
+  {
+    "english": "washing machine",
+    "transliteration": "ġassaala",
+    "arabic": "غسّالة"
+  },
+  {
+    "english": "washing machines",
+    "transliteration": "ġassaalaat",
+    "arabic": "غسّالات"
+  },
+  {
+    "english": "iron",
+    "transliteration": "mikwaah",
+    "arabic": "مكواة"
+  },
+  {
+    "english": "irons",
+    "transliteration": "makaawin",
+    "arabic": "مكاوٍ"
+  },
+  {
+    "english": "makeup",
+    "transliteration": "maakiyaaž",
+    "arabic": "ماكياج"
+  },
+  {
+    "english": "powder",
+    "transliteration": "buudra",
+    "arabic": "بودرة"
+  },
+  {
+    "english": "eyeshadow",
+    "transliteration": "Zill",
+    "arabic": "ظلّ"
+  },
+  {
+    "english": "dining room",
+    "transliteration": "ġurfat Ta3aam",
+    "arabic": "غرفة طعام"
+  },
+  {
+    "english": "dining table",
+    "transliteration": "maa'ida",
+    "arabic": "مائدة"
+  },
+  {
+    "english": "dish",
+    "transliteration": "Tabaq",
+    "arabic": "طبق"
+  },
+  {
+    "english": "dishes",
+    "transliteration": "aTbaaq",
+    "arabic": "أطباق"
+  },
+  {
+    "english": "bowl",
+    "transliteration": "zabdiya",
+    "arabic": "زبدية"
+  },
+  {
+    "english": "bowls",
+    "transliteration": "zabaadiy",
+    "arabic": "زبادي"
+  },
+  {
+    "english": "fork",
+    "transliteration": "šooka",
+    "arabic": "شوكة"
+  },
+  {
+    "english": "forks",
+    "transliteration": "šuwak",
+    "arabic": "شوك"
+  },
+  {
+    "english": "spoon",
+    "transliteration": "mil3aqa",
+    "arabic": "ملعقة"
+  },
+  {
+    "english": "spoons",
+    "transliteration": "malaa3iq",
+    "arabic": "ملاعق"
+  },
+  {
+    "english": "knife",
+    "transliteration": "sikkiin",
+    "arabic": "سكّين"
+  },
+  {
+    "english": "knives",
+    "transliteration": "sakaakiin",
+    "arabic": "سكاكين"
+  },
+  {
+    "english": "cup",
+    "transliteration": "kuub",
+    "arabic": "كوب"
+  },
+  {
+    "english": "cups",
+    "transliteration": "akwaab",
+    "arabic": "اكواب"
+  },
+  {
+    "english": "coffee cup",
+    "transliteration": "finjaan",
+    "arabic": "فنجان"
+  },
+  {
+    "english": "coffee cups",
+    "transliteration": "fanaajiin",
+    "arabic": "فناجين"
+  },
+  {
+    "english": "straw",
+    "transliteration": "šaffaaTa",
+    "arabic": "شفّاطة"
+  },
+  {
+    "english": "straws",
+    "transliteration": "šaffaaTaat",
+    "arabic": "شفّاطاتّ"
+  },
+  {
+    "english": "jug",
+    "transliteration": "ibriiq",
+    "arabic": "إبريق"
+  },
+  {
+    "english": "jugs",
+    "transliteration": "abaariiq",
+    "arabic": "اباريق"
+  },
+  {
+    "english": "bottle",
+    "transliteration": "zujaaja",
+    "arabic": "زجاجة"
+  },
+  {
+    "english": "bottles",
+    "transliteration": "zujaajaat",
+    "arabic": "زجاجات"
+  },
+  {
+    "english": "can",
+    "transliteration": "3ulba",
+    "arabic": "علبة"
+  },
+  {
+    "english": "cans",
+    "transliteration": "3ulab",
+    "arabic": "علب"
+  },
+  {
+    "english": " napkin",
+    "transliteration": "mandiil",
+    "arabic": "منديل"
+  },
+  {
+    "english": " napkins",
+    "transliteration": "manaadiil waraq",
+    "arabic": "مناديل ورق"
+  },
+  {
+    "english": "toothpick",
+    "transliteration": "3uud asnaan",
+    "arabic": "عود أسنان"
+  },
+  {
+    "english": "kitchen",
+    "transliteration": "maTbax",
+    "arabic": "مطبخ"
+  },
+  {
+    "english": "kitchens",
+    "transliteration": "maTaabix",
+    "arabic": "مطابخ"
+  },
+  {
+    "english": "dishwasher",
+    "transliteration": "ġassaalat SuHuun",
+    "arabic": "غسّالة صحون"
+  },
+  {
+    "english": "fridge",
+    "transliteration": "tallaaja",
+    "arabic": "ثلاجة"
+  },
+  {
+    "english": "fridges",
+    "transliteration": "tallaajaat",
+    "arabic": "ثلاجات"
+  },
+  {
+    "english": "oven",
+    "transliteration": "furn",
+    "arabic": "فرن"
+  },
+  {
+    "english": "ovens",
+    "transliteration": "afraan",
+    "arabic": "افران"
+  },
+  {
+    "english": "stove",
+    "transliteration": "mawqid",
+    "arabic": "موقد"
+  },
+  {
+    "english": "stoves",
+    "transliteration": "mawaaqid",
+    "arabic": "مواقد"
+  },
+  {
+    "english": "flame ",
+    "transliteration": "šu3la",
+    "arabic": "شعلة"
+  },
+  {
+    "english": "flame s",
+    "transliteration": "šu3alaat",
+    "arabic": "شعلات"
+  },
+  {
+    "english": "matches",
+    "transliteration": "tiqaab",
+    "arabic": "ثقاب"
+  },
+  {
+    "english": "pot",
+    "transliteration": "qidra",
+    "arabic": "قدرة"
+  },
+  {
+    "english": "pots",
+    "transliteration": "quduur",
+    "arabic": "قدور"
+  },
+  {
+    "english": "frying pan",
+    "transliteration": "qallaaya",
+    "arabic": "قلاية"
+  },
+  {
+    "english": "mixer/blender",
+    "transliteration": "xallaaT",
+    "arabic": "خلاط"
+  },
+  {
+    "english": "mixer/blenders",
+    "transliteration": "xallaaTaat",
+    "arabic": "خلاطات"
+  },
+  {
+    "english": "strainer",
+    "transliteration": "miSfaah",
+    "arabic": "مصفاة"
+  },
+  {
+    "english": "strainers",
+    "transliteration": "maSaafin",
+    "arabic": "مصاف"
+  },
+  {
+    "english": "tool",
+    "transliteration": "adaah",
+    "arabic": "أداة"
+  },
+  {
+    "english": "tools",
+    "transliteration": "adawaat",
+    "arabic": "أدوات"
+  },
+  {
+    "english": "hammer",
+    "transliteration": "miTraqa",
+    "arabic": "مطرقة"
+  },
+  {
+    "english": "hammers",
+    "transliteration": "maTaariq",
+    "arabic": "مطارق"
+  },
+  {
+    "english": "nail",
+    "transliteration": "mismaar",
+    "arabic": "مسمار"
+  },
+  {
+    "english": "nails",
+    "transliteration": "masaamiir",
+    "arabic": "مسامير"
+  },
+  {
+    "english": "screw",
+    "transliteration": "burġi",
+    "arabic": "برغي"
+  },
+  {
+    "english": "screws",
+    "transliteration": "baraaġi",
+    "arabic": "براغي"
+  },
+  {
+    "english": "pliers",
+    "transliteration": "zaradiyya",
+    "arabic": "زردية"
+  },
+  {
+    "english": "pliers",
+    "transliteration": "kammaašaat",
+    "arabic": "كمّاشات"
+  },
+  {
+    "english": "screwdriver",
+    "transliteration": "mifakk",
+    "arabic": "مفك"
+  },
+  {
+    "english": "screwdrivers",
+    "transliteration": "mifakkaat",
+    "arabic": "مفكات"
+  },
+  {
+    "english": "spanner",
+    "transliteration": "miftaaH",
+    "arabic": "مفتاح"
+  },
+  {
+    "english": "spanners",
+    "transliteration": "mafaatiiH",
+    "arabic": "مفاتيح"
+  },
+  {
+    "english": "saw",
+    "transliteration": "minšaar",
+    "arabic": "منشار"
+  },
+  {
+    "english": "saws",
+    "transliteration": "manaašiir",
+    "arabic": "مناشير"
+  },
+  {
+    "english": "pump",
+    "transliteration": "Tulumba",
+    "arabic": "طلمبة"
+  },
+  {
+    "english": "pumps",
+    "transliteration": "Tulumbaat",
+    "arabic": "طلمبات"
+  },
+  {
+    "english": "paint",
+    "transliteration": "dihaan",
+    "arabic": "دهان"
+  },
+  {
+    "english": "paints",
+    "transliteration": "dihaanaat",
+    "arabic": "دهانات"
+  },
+  {
+    "english": "glue ",
+    "transliteration": "ġiraa'",
+    "arabic": "غراء"
+  },
+  {
+    "english": "glue",
+    "transliteration": "Samġ",
+    "arabic": "صمغ"
+  },
+  {
+    "english": "tape",
+    "transliteration": "šariiT laSq",
+    "arabic": "شريط لصق"
+  },
+  {
+    "english": "ladder",
+    "transliteration": "sullam",
+    "arabic": "سلّم"
+  },
+  {
+    "english": "ladders",
+    "transliteration": "salaalim",
+    "arabic": "سلالم"
+  },
+  {
+    "english": "metal",
+    "transliteration": "ma3din",
+    "arabic": "معدن"
+  },
+  {
+    "english": "metals",
+    "transliteration": "ma3aadin",
+    "arabic": "معادن"
+  },
+  {
+    "english": "material",
+    "transliteration": "maadda",
+    "arabic": "مادة"
+  },
+  {
+    "english": "materials",
+    "transliteration": "mawaadd",
+    "arabic": "مواد"
+  },
+  {
+    "english": "copper",
+    "transliteration": "nuHaas",
+    "arabic": "نحاس"
+  },
+  {
+    "english": "iron",
+    "transliteration": "Hadiid",
+    "arabic": "حديد"
+  },
+  {
+    "english": "steel",
+    "transliteration": "Sulb",
+    "arabic": "صلب"
+  },
+  {
+    "english": "marble",
+    "transliteration": "ruxaam",
+    "arabic": "رخام"
+  },
+  {
+    "english": "to turn on (a light",
+    "transliteration": "walla3 - yiwalla3 ",
+    "arabic": "ولّع - يولّع "
+  },
+  {
+    "english": "to turn off",
+    "transliteration": "Tafa - yiTfi ",
+    "arabic": "طفى - يطفي "
+  }
+]

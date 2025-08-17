@@ -1,0 +1,772 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "animal",
+    "transliteration": "Hayawaan",
+    "arabic": "حيوان"
+  },
+  {
+    "english": "animals",
+    "transliteration": "Hayawaanaat",
+    "arabic": "حيوانات"
+  },
+  {
+    "english": "cat",
+    "transliteration": "'oTTa",
+    "arabic": "قطّة"
+  },
+  {
+    "english": "cats",
+    "transliteration": "'oTaT",
+    "arabic": "قطط"
+  },
+  {
+    "english": "dog",
+    "transliteration": "kalb",
+    "arabic": "كلب"
+  },
+  {
+    "english": "dogs",
+    "transliteration": "kilaab",
+    "arabic": "كلاب"
+  },
+  {
+    "english": "cow",
+    "transliteration": "ba'ara",
+    "arabic": "بقرة"
+  },
+  {
+    "english": "cows",
+    "transliteration": "ba'ar",
+    "arabic": "بقرات"
+  },
+  {
+    "english": "bull",
+    "transliteration": "toor",
+    "arabic": "تور"
+  },
+  {
+    "english": "bulls",
+    "transliteration": "tiraan",
+    "arabic": "تران"
+  },
+  {
+    "english": "calf",
+    "transliteration": "3igl",
+    "arabic": "عجل"
+  },
+  {
+    "english": "calves",
+    "transliteration": "3uguul",
+    "arabic": "عجول"
+  },
+  {
+    "english": "buffalo",
+    "transliteration": "gamuus",
+    "arabic": "جاموس"
+  },
+  {
+    "english": "buffalo",
+    "transliteration": "gawamiis",
+    "arabic": "جواميس"
+  },
+  {
+    "english": "cattle",
+    "transliteration": "bihiima",
+    "arabic": "بهيمة"
+  },
+  {
+    "english": "cattles",
+    "transliteration": "bahaayim",
+    "arabic": "بهايم"
+  },
+  {
+    "english": "sheep",
+    "transliteration": "ġanam",
+    "arabic": "غنم"
+  },
+  {
+    "english": "sheep",
+    "transliteration": "ġanamaat",
+    "arabic": "غنمات"
+  },
+  {
+    "english": "lamb",
+    "transliteration": "xaruuf",
+    "arabic": "خروف"
+  },
+  {
+    "english": "lambs",
+    "transliteration": "xirfaan",
+    "arabic": "خرفان"
+  },
+  {
+    "english": "donkey",
+    "transliteration": "Homaar",
+    "arabic": "حمار"
+  },
+  {
+    "english": "donkeys",
+    "transliteration": "Himiir",
+    "arabic": "حمير"
+  },
+  {
+    "english": "horse",
+    "transliteration": "HiSaan",
+    "arabic": "حصان"
+  },
+  {
+    "english": "horses",
+    "transliteration": "HiSina",
+    "arabic": "حصنة"
+  },
+  {
+    "english": "camel",
+    "transliteration": "gamal",
+    "arabic": "جمل"
+  },
+  {
+    "english": "camels",
+    "transliteration": "gimaal",
+    "arabic": "جمال"
+  },
+  {
+    "english": "goat",
+    "transliteration": "mi3za",
+    "arabic": "معزة"
+  },
+  {
+    "english": "goats",
+    "transliteration": "mi3iiz",
+    "arabic": "معيز"
+  },
+  {
+    "english": "pig",
+    "transliteration": "xanziir",
+    "arabic": "خنزير"
+  },
+  {
+    "english": "pigs",
+    "transliteration": "xanaziir",
+    "arabic": "خنازير"
+  },
+  {
+    "english": "rabbit",
+    "transliteration": "arnab",
+    "arabic": "أرنب"
+  },
+  {
+    "english": "rabbits",
+    "transliteration": "araanib",
+    "arabic": "ارانب"
+  },
+  {
+    "english": "mice",
+    "transliteration": "faar",
+    "arabic": "فار"
+  },
+  {
+    "english": "mice",
+    "transliteration": "firaan",
+    "arabic": "فران"
+  },
+  {
+    "english": "rat",
+    "transliteration": "faar",
+    "arabic": "فار"
+  },
+  {
+    "english": "rats",
+    "transliteration": "firaan",
+    "arabic": "فران"
+  },
+  {
+    "english": "bird",
+    "transliteration": "Teir",
+    "arabic": "طير"
+  },
+  {
+    "english": "birds",
+    "transliteration": "Tuyuur",
+    "arabic": "طيور"
+  },
+  {
+    "english": "small bird",
+    "transliteration": "3aSfuura",
+    "arabic": "عصفورة"
+  },
+  {
+    "english": "small birds",
+    "transliteration": "3aSafiir",
+    "arabic": "عصافير"
+  },
+  {
+    "english": "parrot",
+    "transliteration": "baġbaġaan",
+    "arabic": "بغبغان"
+  },
+  {
+    "english": "parrots",
+    "transliteration": "baġbaġaanaat",
+    "arabic": "بغبغانات"
+  },
+  {
+    "english": "rooster",
+    "transliteration": "diik",
+    "arabic": "ديك"
+  },
+  {
+    "english": "roosters",
+    "transliteration": "duyuuk",
+    "arabic": "ديوك"
+  },
+  {
+    "english": "turkey",
+    "transliteration": "diik ruumi",
+    "arabic": "ديك رومي"
+  },
+  {
+    "english": "peacock",
+    "transliteration": "Tawuus",
+    "arabic": "طووس"
+  },
+  {
+    "english": "peacocks",
+    "transliteration": "Tawawiis",
+    "arabic": "طوويس"
+  },
+  {
+    "english": "stork",
+    "transliteration": "la'la'",
+    "arabic": "لقلق"
+  },
+  {
+    "english": "storks",
+    "transliteration": "la'aali'",
+    "arabic": "لقالق"
+  },
+  {
+    "english": "sparrow",
+    "transliteration": "3aSfuur",
+    "arabic": "عصفور"
+  },
+  {
+    "english": "sparrows",
+    "transliteration": "3aSafiir",
+    "arabic": "عصافير"
+  },
+  {
+    "english": "crow",
+    "transliteration": "ġuraab",
+    "arabic": "غراب"
+  },
+  {
+    "english": "crows",
+    "transliteration": "ġirbaan",
+    "arabic": "غربان"
+  },
+  {
+    "english": "nightingale",
+    "transliteration": "bulbul",
+    "arabic": "بلبل"
+  },
+  {
+    "english": "nightingales",
+    "transliteration": "balaabil",
+    "arabic": "بلابل"
+  },
+  {
+    "english": "falcon",
+    "transliteration": "Sa'r",
+    "arabic": "صقر"
+  },
+  {
+    "english": "falcons",
+    "transliteration": "Su'uur",
+    "arabic": "صقور"
+  },
+  {
+    "english": "eagle",
+    "transliteration": "nisr",
+    "arabic": "نسر"
+  },
+  {
+    "english": "eagles",
+    "transliteration": "nusuur",
+    "arabic": "نسور"
+  },
+  {
+    "english": "reptile",
+    "transliteration": "zaaHif",
+    "arabic": "زاحف"
+  },
+  {
+    "english": "reptiles",
+    "transliteration": "zawaaHif",
+    "arabic": "زواحف"
+  },
+  {
+    "english": "amphibian",
+    "transliteration": "barmaa'iyya",
+    "arabic": "برمائية"
+  },
+  {
+    "english": "amphibians",
+    "transliteration": "barmaa'iyyaat",
+    "arabic": "برمائيات"
+  },
+  {
+    "english": "snake",
+    "transliteration": "ti3baan",
+    "arabic": "تعبان"
+  },
+  {
+    "english": "snakes",
+    "transliteration": "ta3abiin",
+    "arabic": "تعبين"
+  },
+  {
+    "english": "Sarahan horned viper",
+    "transliteration": "Tureiša",
+    "arabic": "طريشة"
+  },
+  {
+    "english": "turtle",
+    "transliteration": "sulHifa",
+    "arabic": "سلحفة"
+  },
+  {
+    "english": "turtles",
+    "transliteration": "salaaHif",
+    "arabic": "سلاحف"
+  },
+  {
+    "english": "lizard",
+    "transliteration": "siHliyya",
+    "arabic": "سحلية"
+  },
+  {
+    "english": "lizards",
+    "transliteration": "saHaali",
+    "arabic": "سحالي"
+  },
+  {
+    "english": "frog",
+    "transliteration": "DufDa3a",
+    "arabic": "ضفضعة"
+  },
+  {
+    "english": "frogs",
+    "transliteration": "Dafaadi3",
+    "arabic": "ضفاضع"
+  },
+  {
+    "english": "crocodile",
+    "transliteration": "timsaaH",
+    "arabic": "تمساح"
+  },
+  {
+    "english": "crocodiles",
+    "transliteration": "tamasiiH",
+    "arabic": "تماسيح"
+  },
+  {
+    "english": "snail",
+    "transliteration": "qawqa3a",
+    "arabic": "قوقعة"
+  },
+  {
+    "english": "snails",
+    "transliteration": "qawaaqi3",
+    "arabic": "قواقع"
+  },
+  {
+    "english": "lion",
+    "transliteration": "asad",
+    "arabic": "أسد"
+  },
+  {
+    "english": "lions",
+    "transliteration": "usuud",
+    "arabic": "اسود"
+  },
+  {
+    "english": "giraffe",
+    "transliteration": "zaraafa",
+    "arabic": "زرافة"
+  },
+  {
+    "english": "giraffes",
+    "transliteration": "zaraafaat",
+    "arabic": "زرافات"
+  },
+  {
+    "english": "zebra",
+    "transliteration": "Homaar waHši",
+    "arabic": "حمار وحشي"
+  },
+  {
+    "english": "kangaroo",
+    "transliteration": "kongor",
+    "arabic": "كنجر"
+  },
+  {
+    "english": "hyena",
+    "transliteration": "Dab3",
+    "arabic": "ضبع"
+  },
+  {
+    "english": "hyenas",
+    "transliteration": "Dubu3a",
+    "arabic": "ضبعة"
+  },
+  {
+    "english": "panther",
+    "transliteration": "fahd",
+    "arabic": "فهد"
+  },
+  {
+    "english": "panthers",
+    "transliteration": "fuhuud",
+    "arabic": "فهود"
+  },
+  {
+    "english": "wolf",
+    "transliteration": "diib",
+    "arabic": "ديب"
+  },
+  {
+    "english": "wolves",
+    "transliteration": "diyaab",
+    "arabic": "دياب"
+  },
+  {
+    "english": "bear",
+    "transliteration": "dibba",
+    "arabic": "دبّة"
+  },
+  {
+    "english": "bears",
+    "transliteration": "dibab",
+    "arabic": "دبب"
+  },
+  {
+    "english": "tiger",
+    "transliteration": "nimr",
+    "arabic": "نمر"
+  },
+  {
+    "english": "tigers",
+    "transliteration": "nimuur",
+    "arabic": "نمور"
+  },
+  {
+    "english": "elephant",
+    "transliteration": "fiil",
+    "arabic": "فيل"
+  },
+  {
+    "english": "elephants",
+    "transliteration": "afyaal",
+    "arabic": "أفيال"
+  },
+  {
+    "english": "monkey",
+    "transliteration": "'ird",
+    "arabic": "قرد"
+  },
+  {
+    "english": "monkeys",
+    "transliteration": "'uruud",
+    "arabic": "قرود"
+  },
+  {
+    "english": "bat",
+    "transliteration": "wuTwaaT",
+    "arabic": "وطواط"
+  },
+  {
+    "english": "bats",
+    "transliteration": "waTawiiT",
+    "arabic": "وطاويط"
+  },
+  {
+    "english": "squirrel",
+    "transliteration": "singaab",
+    "arabic": "سنجاب"
+  },
+  {
+    "english": "fox",
+    "transliteration": "ta3lab",
+    "arabic": "تعلب"
+  },
+  {
+    "english": "foxes",
+    "transliteration": "ta3aalib",
+    "arabic": "تعالب"
+  },
+  {
+    "english": "deer",
+    "transliteration": "ġazaal",
+    "arabic": "غزال"
+  },
+  {
+    "english": "deer",
+    "transliteration": "ġizlaan",
+    "arabic": "غزلان"
+  },
+  {
+    "english": "fish",
+    "transliteration": "samak",
+    "arabic": "سمك"
+  },
+  {
+    "english": "fish",
+    "transliteration": "asmaak",
+    "arabic": "أسماك"
+  },
+  {
+    "english": "whale",
+    "transliteration": "Huut",
+    "arabic": "حوت"
+  },
+  {
+    "english": "whales",
+    "transliteration": "Hitaan",
+    "arabic": "حيتان"
+  },
+  {
+    "english": "shark",
+    "transliteration": "samak il-'irš",
+    "arabic": "سمك القرش"
+  },
+  {
+    "english": "dolphin",
+    "transliteration": "darfiil",
+    "arabic": "درفيل"
+  },
+  {
+    "english": "dolphins",
+    "transliteration": "darafiil",
+    "arabic": "درافيل"
+  },
+  {
+    "english": "octopus",
+    "transliteration": "uxTubuuT",
+    "arabic": "أخطبوط"
+  },
+  {
+    "english": "octopuses",
+    "transliteration": "uxTubuTaat",
+    "arabic": "اخطبوطات"
+  },
+  {
+    "english": "squid",
+    "transliteration": "tutya",
+    "arabic": "توتيا"
+  },
+  {
+    "english": "swordfish",
+    "transliteration": "abu seif",
+    "arabic": "أبو سيف"
+  },
+  {
+    "english": "shrimp",
+    "transliteration": "gambari",
+    "arabic": "جمبري"
+  },
+  {
+    "english": "lobster",
+    "transliteration": "istakooza",
+    "arabic": "استاكوزا"
+  },
+  {
+    "english": "crab",
+    "transliteration": "kaburya/abu galambo",
+    "arabic": "كابوريا \\ أبو جلمبو"
+  },
+  {
+    "english": "crabs",
+    "transliteration": "saraTaanaat",
+    "arabic": "سرطانات"
+  },
+  {
+    "english": "walrus",
+    "transliteration": "fiil il-baHr",
+    "arabic": "فيل البحر"
+  },
+  {
+    "english": "walruses",
+    "transliteration": "afZaaZ",
+    "arabic": "أفظاظ"
+  },
+  {
+    "english": "salmon",
+    "transliteration": "salamun",
+    "arabic": "سالمون"
+  },
+  {
+    "english": "catfish",
+    "transliteration": "'armuuT",
+    "arabic": "قرموط"
+  },
+  {
+    "english": "catfish",
+    "transliteration": "'aramiiT",
+    "arabic": "قراميط"
+  },
+  {
+    "english": "tuna",
+    "transliteration": "tuuna",
+    "arabic": "تونا"
+  },
+  {
+    "english": "oysters",
+    "transliteration": "gandofli",
+    "arabic": "جندوفلي"
+  },
+  {
+    "english": "insect",
+    "transliteration": "Hašara",
+    "arabic": "حشرة"
+  },
+  {
+    "english": "insects",
+    "transliteration": "Hašaraat",
+    "arabic": "حشرات"
+  },
+  {
+    "english": "cockroach",
+    "transliteration": "SurSaar",
+    "arabic": "صرصار"
+  },
+  {
+    "english": "cockroaches",
+    "transliteration": "SaraSiir",
+    "arabic": "صراصير"
+  },
+  {
+    "english": "flea",
+    "transliteration": "barġuut",
+    "arabic": "برغوت"
+  },
+  {
+    "english": "fleas",
+    "transliteration": "baraġiit",
+    "arabic": "براغيت"
+  },
+  {
+    "english": "beetle",
+    "transliteration": "xunfisa",
+    "arabic": "خنفساء"
+  },
+  {
+    "english": "beetles",
+    "transliteration": "xanaafis",
+    "arabic": "خنافس"
+  },
+  {
+    "english": "wasp",
+    "transliteration": "dabbuur",
+    "arabic": "دبّور"
+  },
+  {
+    "english": "wasps",
+    "transliteration": "dabaabiir",
+    "arabic": "دبابير"
+  },
+  {
+    "english": "spider",
+    "transliteration": "3ankabuut",
+    "arabic": "عنكبوت"
+  },
+  {
+    "english": "spiders",
+    "transliteration": "3anaakib",
+    "arabic": "عناكب"
+  },
+  {
+    "english": "scorpion",
+    "transliteration": "3a'raba",
+    "arabic": "عقربة"
+  },
+  {
+    "english": "scorpions",
+    "transliteration": "3a'aarib",
+    "arabic": "عقارب"
+  },
+  {
+    "english": "tail",
+    "transliteration": "deil",
+    "arabic": "ديل"
+  },
+  {
+    "english": "tails",
+    "transliteration": "duyuul",
+    "arabic": "ديول"
+  },
+  {
+    "english": "hoof",
+    "transliteration": "Haafir",
+    "arabic": "حافر"
+  },
+  {
+    "english": "hooves",
+    "transliteration": "Hawaafir",
+    "arabic": "حوافر"
+  },
+  {
+    "english": "claw",
+    "transliteration": "xarbuuš",
+    "arabic": "خربوش"
+  },
+  {
+    "english": "claws",
+    "transliteration": "xarabiiš",
+    "arabic": "خرابيش"
+  },
+  {
+    "english": "fur",
+    "transliteration": "farwa",
+    "arabic": "فروة"
+  },
+  {
+    "english": "furs",
+    "transliteration": "faraawi",
+    "arabic": "فراوي"
+  },
+  {
+    "english": "beak",
+    "transliteration": "mun'aar",
+    "arabic": "منقار"
+  },
+  {
+    "english": "beaks",
+    "transliteration": "mana'iir",
+    "arabic": "مناقير"
+  },
+  {
+    "english": "wing",
+    "transliteration": "ginaaH",
+    "arabic": "جناح"
+  },
+  {
+    "english": "wings",
+    "transliteration": "ginaaHaat/giniHa",
+    "arabic": "جناحات | جنحة"
+  },
+  {
+    "english": "fin",
+    "transliteration": "za3nifa",
+    "arabic": "زعنفة"
+  },
+  {
+    "english": "fins",
+    "transliteration": "za3aanif",
+    "arabic": "زعانف"
+  }
+]

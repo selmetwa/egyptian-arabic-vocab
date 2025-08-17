@@ -1,0 +1,517 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "time",
+    "transliteration": "waqt",
+    "arabic": "وقت"
+  },
+  {
+    "english": "times",
+    "transliteration": "awqaat",
+    "arabic": "أوقات"
+  },
+  {
+    "english": "time (countable unit; as in \"three times",
+    "transliteration": "marra",
+    "arabic": "مرة"
+  },
+  {
+    "english": "time (countable unit; as in \"three times",
+    "transliteration": "marraat",
+    "arabic": "مرات"
+  },
+  {
+    "english": "century",
+    "transliteration": "qarn",
+    "arabic": "قرن"
+  },
+  {
+    "english": "centuries",
+    "transliteration": "quruun",
+    "arabic": "قرون"
+  },
+  {
+    "english": "decade",
+    "transliteration": "Hiqba",
+    "arabic": "حقبة"
+  },
+  {
+    "english": "decades",
+    "transliteration": "Hiqabaat",
+    "arabic": "حقبات"
+  },
+  {
+    "english": "year",
+    "transliteration": "sana",
+    "arabic": "سنة"
+  },
+  {
+    "english": "years",
+    "transliteration": "sanawaat",
+    "arabic": "سنوات"
+  },
+  {
+    "english": "week",
+    "transliteration": "usbuu3",
+    "arabic": "أسبوع"
+  },
+  {
+    "english": "weeks",
+    "transliteration": "asaabii3",
+    "arabic": "أسابيع"
+  },
+  {
+    "english": "day",
+    "transliteration": "yawm",
+    "arabic": "يوم"
+  },
+  {
+    "english": "days",
+    "transliteration": "ayyaam",
+    "arabic": "أيّام"
+  },
+  {
+    "english": "hour",
+    "transliteration": "saa3a",
+    "arabic": "ساعة"
+  },
+  {
+    "english": "hours",
+    "transliteration": "saa3aat",
+    "arabic": "ساعات"
+  },
+  {
+    "english": "minute",
+    "transliteration": "daqiiqa",
+    "arabic": "دقيقة"
+  },
+  {
+    "english": "minutes",
+    "transliteration": "daqaa'iq",
+    "arabic": "دقائق"
+  },
+  {
+    "english": "second",
+    "transliteration": "taanya",
+    "arabic": "ثانية"
+  },
+  {
+    "english": "seconds",
+    "transliteration": "tawaani",
+    "arabic": "ثواني"
+  },
+  {
+    "english": "moment",
+    "transliteration": "laHZa",
+    "arabic": "لحظة"
+  },
+  {
+    "english": "moments",
+    "transliteration": "laHaZaat",
+    "arabic": "لحظات"
+  },
+  {
+    "english": "dawn",
+    "transliteration": "fajr",
+    "arabic": "فجر"
+  },
+  {
+    "english": "morning",
+    "transliteration": "SabaaH",
+    "arabic": "صباح"
+  },
+  {
+    "english": "noon",
+    "transliteration": "Zuhr",
+    "arabic": "ظهر"
+  },
+  {
+    "english": "evening",
+    "transliteration": "masaa'",
+    "arabic": "مساء"
+  },
+  {
+    "english": "night",
+    "transliteration": "leila",
+    "arabic": "ليلة"
+  },
+  {
+    "english": "nights",
+    "transliteration": "layaali",
+    "arabic": "ليالي"
+  },
+  {
+    "english": "before",
+    "transliteration": "qabl",
+    "arabic": "قبل"
+  },
+  {
+    "english": "after",
+    "transliteration": "ba3d",
+    "arabic": "بعد"
+  },
+  {
+    "english": "then",
+    "transliteration": "tumma",
+    "arabic": "ثم"
+  },
+  {
+    "english": "until",
+    "transliteration": "Hatta",
+    "arabic": "حتى"
+  },
+  {
+    "english": "now",
+    "transliteration": "al'aan",
+    "arabic": "الآن"
+  },
+  {
+    "english": "the day before yesterday",
+    "transliteration": "awwal ams",
+    "arabic": "أول أمس"
+  },
+  {
+    "english": "yesterday",
+    "transliteration": "ams",
+    "arabic": "أمس"
+  },
+  {
+    "english": "last night",
+    "transliteration": "leilat ams",
+    "arabic": "ليلة أمس"
+  },
+  {
+    "english": "tomorrow",
+    "transliteration": "ġadan",
+    "arabic": "غدا"
+  },
+  {
+    "english": "every day",
+    "transliteration": "kull yawm",
+    "arabic": "كل يوم"
+  },
+  {
+    "english": "every other day",
+    "transliteration": "kull yawmein",
+    "arabic": "كل يومين"
+  },
+  {
+    "english": "day after day",
+    "transliteration": "yawman ba3d yawm",
+    "arabic": "يوما بعد يوم"
+  },
+  {
+    "english": "early",
+    "transliteration": "mubakkir",
+    "arabic": "مبكر"
+  },
+  {
+    "english": "late",
+    "transliteration": "muta'axxir",
+    "arabic": "متأخر"
+  },
+  {
+    "english": "after a while",
+    "transliteration": "ba3d qaliil",
+    "arabic": "بعد قليل"
+  },
+  {
+    "english": "later on",
+    "transliteration": "laaHiqan",
+    "arabic": "لاحقا"
+  },
+  {
+    "english": "always",
+    "transliteration": "daa'iman",
+    "arabic": "دائما"
+  },
+  {
+    "english": "usually",
+    "transliteration": "3aadatan",
+    "arabic": "عادةً"
+  },
+  {
+    "english": "sometimes",
+    "transliteration": "aHyaanan",
+    "arabic": "أحيانا"
+  },
+  {
+    "english": "rarely",
+    "transliteration": "naadiran",
+    "arabic": "نادرا"
+  },
+  {
+    "english": "holiday",
+    "transliteration": "3iid",
+    "arabic": "عيد"
+  },
+  {
+    "english": "holidays",
+    "transliteration": "a3yaad",
+    "arabic": "أعياد"
+  },
+  {
+    "english": "birthday",
+    "transliteration": "3iid miilaad",
+    "arabic": "عيد ميلاد"
+  },
+  {
+    "english": "occasion",
+    "transliteration": "munaasaba",
+    "arabic": "مناسبة"
+  },
+  {
+    "english": "occasions",
+    "transliteration": "munaasabaat",
+    "arabic": "مناسبات"
+  },
+  {
+    "english": "anniversary ",
+    "transliteration": "dikra",
+    "arabic": "ذكرى"
+  },
+  {
+    "english": "anniversary s",
+    "transliteration": "dikrayaat",
+    "arabic": "ذكريات"
+  },
+  {
+    "english": "party",
+    "transliteration": "Hafla",
+    "arabic": "حفلة"
+  },
+  {
+    "english": "parties",
+    "transliteration": "Hafalaat",
+    "arabic": "حفلات"
+  },
+  {
+    "english": "gift",
+    "transliteration": "hadiyya",
+    "arabic": "هدية"
+  },
+  {
+    "english": "gifts",
+    "transliteration": "hidaaya",
+    "arabic": "هدايا"
+  },
+  {
+    "english": "calendar",
+    "transliteration": "taqwiim",
+    "arabic": "تقويم"
+  },
+  {
+    "english": "calendars",
+    "transliteration": "taqaawiim",
+    "arabic": "تقاويم"
+  },
+  {
+    "english": "* The following names are used in most of the Mashriq",
+    "transliteration": "",
+    "arabic": ""
+  },
+  {
+    "english": "January",
+    "transliteration": "yanaayir",
+    "arabic": "يناير"
+  },
+  {
+    "english": "February",
+    "transliteration": "fibraayir",
+    "arabic": "فبراير"
+  },
+  {
+    "english": "March",
+    "transliteration": "maaris",
+    "arabic": "مارس"
+  },
+  {
+    "english": "April",
+    "transliteration": "abriil",
+    "arabic": "أبريل"
+  },
+  {
+    "english": "May",
+    "transliteration": "maayo",
+    "arabic": "مايو"
+  },
+  {
+    "english": "June",
+    "transliteration": "yuuniyo",
+    "arabic": "يونيو"
+  },
+  {
+    "english": "July",
+    "transliteration": "yuuliyo",
+    "arabic": "يوليو"
+  },
+  {
+    "english": "August",
+    "transliteration": "aġusTus",
+    "arabic": "أغسطس"
+  },
+  {
+    "english": "September",
+    "transliteration": "sibtimbir",
+    "arabic": "سمتمبر"
+  },
+  {
+    "english": "October",
+    "transliteration": "uktoobar",
+    "arabic": "أكتوبر"
+  },
+  {
+    "english": "November",
+    "transliteration": "nuvimbir",
+    "arabic": "نوفمبر"
+  },
+  {
+    "english": "December",
+    "transliteration": "disimbir",
+    "arabic": "ديسيمبر"
+  },
+  {
+    "english": "* The following names are used in the Levant. *",
+    "transliteration": "",
+    "arabic": ""
+  },
+  {
+    "english": "February",
+    "transliteration": "šubaaT",
+    "arabic": "شباط"
+  },
+  {
+    "english": "March",
+    "transliteration": "aadaar",
+    "arabic": "آذار"
+  },
+  {
+    "english": "April",
+    "transliteration": "niisaan",
+    "arabic": "نيسان"
+  },
+  {
+    "english": "May",
+    "transliteration": "ayyaar",
+    "arabic": "أيار"
+  },
+  {
+    "english": "June",
+    "transliteration": "Huzeiraan",
+    "arabic": "حزيران"
+  },
+  {
+    "english": "July",
+    "transliteration": "tammuuz",
+    "arabic": "تموز"
+  },
+  {
+    "english": "August",
+    "transliteration": "aab",
+    "arabic": "آب"
+  },
+  {
+    "english": "September",
+    "transliteration": "ayluul",
+    "arabic": "أيلول"
+  },
+  {
+    "english": "Muharram",
+    "transliteration": "muHarram",
+    "arabic": "محرم"
+  },
+  {
+    "english": "Safar",
+    "transliteration": "Safar",
+    "arabic": "صفر"
+  },
+  {
+    "english": "Rajab",
+    "transliteration": "rajab",
+    "arabic": "رجب"
+  },
+  {
+    "english": "Shaban",
+    "transliteration": "ša3abaan",
+    "arabic": "شعبان"
+  },
+  {
+    "english": "Ramadan",
+    "transliteration": "ramaDaan",
+    "arabic": "رمضان"
+  },
+  {
+    "english": "Shawwal",
+    "transliteration": "šawwaal",
+    "arabic": "شوال"
+  },
+  {
+    "english": "Thout ",
+    "transliteration": "tuut",
+    "arabic": "توت"
+  },
+  {
+    "english": "Paopi ",
+    "transliteration": "baaba",
+    "arabic": "بابة"
+  },
+  {
+    "english": "Hathor ",
+    "transliteration": "haatuur",
+    "arabic": "هاتور"
+  },
+  {
+    "english": "Koiak ",
+    "transliteration": "kiyaahk",
+    "arabic": "كياهك"
+  },
+  {
+    "english": "Tobi ",
+    "transliteration": "Tuuba",
+    "arabic": "طوبة"
+  },
+  {
+    "english": "Meshir ",
+    "transliteration": "amšiir",
+    "arabic": "أمشير"
+  },
+  {
+    "english": "Paremhat ",
+    "transliteration": "baramhaat",
+    "arabic": "برمهات"
+  },
+  {
+    "english": "Paremoude ",
+    "transliteration": "baramuuda",
+    "arabic": "برمودة"
+  },
+  {
+    "english": "Pashons ",
+    "transliteration": "bašans",
+    "arabic": "بشنس"
+  },
+  {
+    "english": "Paoni ",
+    "transliteration": "ba'uuna",
+    "arabic": "بؤونة"
+  },
+  {
+    "english": "Epip ",
+    "transliteration": "abiib",
+    "arabic": "أبيب"
+  },
+  {
+    "english": "Mesori ",
+    "transliteration": "misra",
+    "arabic": "مسرى"
+  },
+  {
+    "english": "Pi Kogi Enavot ",
+    "transliteration": "nasii'",
+    "arabic": "نسئ"
+  }
+]

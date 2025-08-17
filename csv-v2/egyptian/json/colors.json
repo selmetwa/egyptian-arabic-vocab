@@ -1,0 +1,227 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "color",
+    "transliteration": "loon",
+    "arabic": "لون"
+  },
+  {
+    "english": "colors",
+    "transliteration": "alwaan",
+    "arabic": "ألوان"
+  },
+  {
+    "english": "colored",
+    "transliteration": "milawwin",
+    "arabic": "ملوّن"
+  },
+  {
+    "english": "light",
+    "transliteration": "faatiH",
+    "arabic": "فاتح"
+  },
+  {
+    "english": "dark",
+    "transliteration": "ġaami'",
+    "arabic": "غامق"
+  },
+  {
+    "english": "bright",
+    "transliteration": "faa'i3",
+    "arabic": "فاقع"
+  },
+  {
+    "english": "shiny",
+    "transliteration": "lam3i",
+    "arabic": "لمعي"
+  },
+  {
+    "english": "black",
+    "transliteration": "iswid - sooda",
+    "arabic": "اسود – سوداء"
+  },
+  {
+    "english": "blacks",
+    "transliteration": "suud",
+    "arabic": "سود"
+  },
+  {
+    "english": "navy blue",
+    "transliteration": "kuHli",
+    "arabic": "كحلي"
+  },
+  {
+    "english": "royal blue",
+    "transliteration": "zahri",
+    "arabic": "زهري"
+  },
+  {
+    "english": "sky blue",
+    "transliteration": "samaawi",
+    "arabic": "سماوي"
+  },
+  {
+    "english": "baby blue",
+    "transliteration": "labani",
+    "arabic": "لبني"
+  },
+  {
+    "english": "indigo",
+    "transliteration": "niili",
+    "arabic": "نيلي"
+  },
+  {
+    "english": "turquoise",
+    "transliteration": "faruuzi",
+    "arabic": "فيروزي"
+  },
+  {
+    "english": "bluish green",
+    "transliteration": "ginzaari",
+    "arabic": "جنزاري"
+  },
+  {
+    "english": "dark green",
+    "transliteration": "zeiti",
+    "arabic": "زيتي"
+  },
+  {
+    "english": "mustard  green",
+    "transliteration": "kammuuni",
+    "arabic": "كموني"
+  },
+  {
+    "english": "olive green",
+    "transliteration": "zatuuni",
+    "arabic": "زتوني"
+  },
+  {
+    "english": "pastel green",
+    "transliteration": "kurumbi",
+    "arabic": "كرمبي"
+  },
+  {
+    "english": "purple",
+    "transliteration": "banafsigi",
+    "arabic": "بنفسجي"
+  },
+  {
+    "english": "scarlet",
+    "transliteration": "qurmuzi",
+    "arabic": "قرمزي"
+  },
+  {
+    "english": "pink",
+    "transliteration": "bambi",
+    "arabic": "بمبي"
+  },
+  {
+    "english": "shocking pink",
+    "transliteration": "bambi msaxsax",
+    "arabic": "بمبي مسخسخ"
+  },
+  {
+    "english": "rose-colored",
+    "transliteration": "wardi",
+    "arabic": "وردي"
+  },
+  {
+    "english": "orange",
+    "transliteration": "burtu'aani",
+    "arabic": "برتقاني"
+  },
+  {
+    "english": "canary yellow",
+    "transliteration": "kanaari",
+    "arabic": "كناري"
+  },
+  {
+    "english": "lemon yellow",
+    "transliteration": "lamuuni",
+    "arabic": "لموني"
+  },
+  {
+    "english": "brown",
+    "transliteration": "bunni",
+    "arabic": "بني"
+  },
+  {
+    "english": "light brown",
+    "transliteration": "baSali",
+    "arabic": "بصلي"
+  },
+  {
+    "english": "light brown ",
+    "transliteration": "3asali",
+    "arabic": "عسلي"
+  },
+  {
+    "english": "wheat-colored ",
+    "transliteration": "'amHi",
+    "arabic": "قمحي"
+  },
+  {
+    "english": "fair-skinned",
+    "transliteration": "abyaDaani - beiDa",
+    "arabic": "أبيضاني - بيضا"
+  },
+  {
+    "english": "fair-skinneds",
+    "transliteration": "biiD",
+    "arabic": "بيض"
+  },
+  {
+    "english": "pale",
+    "transliteration": "baahit",
+    "arabic": "باهت"
+  },
+  {
+    "english": "chestnut",
+    "transliteration": "kastanaa'i",
+    "arabic": "كستنائي"
+  },
+  {
+    "english": "cream",
+    "transliteration": "aSfar šaaHib",
+    "arabic": "أصفر شاحب"
+  },
+  {
+    "english": "grey",
+    "transliteration": "ramaadi",
+    "arabic": "رمادي"
+  },
+  {
+    "english": "gold",
+    "transliteration": "dahabi",
+    "arabic": "ذهبي"
+  },
+  {
+    "english": "silver",
+    "transliteration": "faDDi",
+    "arabic": "فضي"
+  },
+  {
+    "english": "beige",
+    "transliteration": "beiž",
+    "arabic": "بيج"
+  },
+  {
+    "english": "off-white",
+    "transliteration": "samni",
+    "arabic": "سمني"
+  },
+  {
+    "english": "burgundy",
+    "transliteration": "nibiti",
+    "arabic": "نبتي"
+  },
+  {
+    "english": "maroon",
+    "transliteration": "zibiibi",
+    "arabic": "زبيبي"
+  }
+]

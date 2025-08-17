@@ -1,0 +1,145 @@
+english,transliteration,arabic
+English,Transliteration,Standard Arabic
+school,madrasa,مدرسة
+schools,madaaris,مدارس
+nursery school,HaDaana,حضانة
+nursery schools,HaDaanaat,حضانات
+university,jaami3a,جامعة
+universities,jaami3aat,جامعات
+department,qism,قسم
+departments,aqsaam,اقسام
+program,barnaamaj,برنامج
+programs,baraamij,برامج
+studies,diraasaat,دراسات
+curriculum,manhaj,منهج
+curricula,manaahij,مناهج
+school subject (or material,maadda,مادّة
+school subject (or materials,mawaadd,موادّ
+college,kulliyya,كلية
+colleges,kulliyyaat,كليات
+institute,ma3had,معهد
+institutes,ma3aahid,معاهد
+diploma,šahaada,شهادة
+with distinction,bimtiyaaz,بامتياز
+baccalaureate,bakalooriyaa,بكالوريا
+BA ,?,?
+BS ,?,?
+masters',majisteir,ماجستير
+doctorate,doctooraah,دكتوراه
+professor,ustaad,أستاذ
+professors,asaatida,اساتذة
+teacher,mudarris,مدرّس
+pupil,tilmiid,تلميذ
+pupils,talaamiid,تلاميذ
+student,Taalib,طالب
+students,Tullaab,طلاب
+major,taxaSSuS,تخصّص
+majors,taxaSSuSaat bi,تخصّصات بـ
+lesson,dars,درس
+lessons,duruus,دروس
+homework ,waajib,واجب
+homework s,waajibaat,واجبات
+exam,imtiHaan,امتحان
+exams,imtiHaanaat,امتحانات
+test,ixtibaar,اختبار
+tests,ixtibaaraat,اختبارات
+lecture,muHaaDara,محاضرة
+discussion,munaaqaša,مناقشة
+research,abHaat,أبحاث
+analysis,taHliil,تحليل
+analyses,taHaaliil,تحاليل
+ exercise,tamriin,تمرين
+ exercises,tamaariin/tamriinaat,تمارين | تمرينات
+ activity,našaaT,نشاط
+ activities,našaaTaat/anšiTa,نشاطات | أنشطة
+presentation,taqdiim,تقديم
+presentations,taqdiimaat,تقديمات
+textbook,kitaab madrasi,كتاب مدرسي
+textbooks,kutub madrasiyya,كتب مدرسية
+grade,Saff,صف
+grades,Sufuuf,صفوف
+class,faSl,فصل
+classes,fuSuul,فصول
+class period,HiSSa,حصّة
+class periods,HiSaS,حصص
+recess,ajaaza,اجازة
+recesses,ajaazaat,اجازات
+scholarship,minHa,منحة
+scholarships,minaH,منح
+financial aid,musaa3adaat maaliyya,مساعدات مالية
+student loan,qarD diraasii,قرض دراسي
+student loans,quruuD diraasiyya,قروض دراسية
+cost,kulfa,كلفة
+costs,kulaf,كلف
+funding,tamwiil,تمويل
+notebook,daftar,دفتر
+notebooks,dafaatir,دفاتر
+ notebook,kaškuul,كشكول
+ notebooks,kašakiil,كشاكيل
+pen,qalam,قلم
+pens,aqlaam,أقلام
+pencil,qalam raSaaS,قلم رصاص
+paper,waraqa,ورقة
+papers,awraaq,أوراق
+eraser,mimHaah,ممحاة
+erasers,asatiik,أساتيك
+blackboard,sabbuura,سبورة
+blackboards,sabbuuraat,سبورات
+chalk,Tabaašiir,طباشير
+calculator,aala Haasiba,آلة حاسبة
+calculators,aalaat Haasiba,آلات حاسبة
+ ruler,misTara,مسطرة
+ rulers,masaaTir,مساطر
+encyclopedia,mawsuu3a,موسوعة
+encyclopedias,mawsuu3aat,موسوعات
+dictionary,qaamuus,قاموس
+dictionaries,qawaamiis,قواميس
+grade,daraja,درجة
+grades,darajaat,درجات
+good grades,darajaat 3aaliya,درجات عالية
+right,SaHH,صح
+wrong,xaTa',خطأ
+__ plus __ is __,__ zaa'id __ yusaawi __,__ زائد __ يساوي __
+__ minus __ is __,__ naaqiS __ yusaawi __,__ ناقص __ يساوي __
+__ times __ is __,__ fi __ yusaawi __,__ في __ يساوي __
+__  by __ is __,__ 3ala __ yusaawi __,__ على __ يساوي __
+equation,mu3aadala,معادلة
+equations,mu3aadalaat,معادلات
+fraction,kasr,كسر
+fractions,kusuur,كسور
+ problem,mas'ala,مسألة
+ problems,masaa'il,مسائل
+shape,šakl,شكل
+shapes,aškaal,أشكال
+circle,daa'ira,دائرة
+circles,dawaa'ir,دوائر
+square,murabba3,مربع
+squares,murabba3aat,مربعات
+rectangle,mustaTiil,مستطيل
+rectangles,mustaTiilaat,مستطيلات
+triangle,mutallat,مثلث
+triangles,mutallataat,مثلثات
+side,Dil3,ضلع
+sides,Duluu3,ضلوع
+angle,zaawiya,زاوية
+angles,zawaaya,زوايا
+art,fann,فن
+arts,funuun,فنون
+science,3ilm,علم
+sciences,3uluum,علوم
+language,luġa,لغة
+languages,luġaat,لغات
+grammar,qawaa3id,قواعد
+vocabulary,mufradaat,مفردات
+synonym,muraadif,مرادف
+synonyms,muraadifaat,مرادفات
+spelling,tahji'a,تهجئة
+pronunciation,lafZ,لفظ
+pronunciations,alfaaZ,ألفاظ
+style ,usluub,أسلوب
+fluency,Talaaqa,طلاقة
+proficiency,kafaa'a,كفاءة
+skill,mahaara,مهارة
+skills,mahaaraat,مهارات
+ability,qudra,قدرة
+abilities,qudaraat,قدرات

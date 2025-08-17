@@ -1,0 +1,20 @@
+export const darija_sections = [
+  "maghrebi-arabic/numbers-6/",
+  "maghrebi-arabic/work-and-professions-4/",
+  "maghrebi-arabic/clothing-jewelry-and-accessories-5/",
+  "maghrebi-arabic/school-and-education-5/",
+  "maghrebi-arabic/the-human-body-and-describing-people-5/",
+  "maghrebi-arabic/food-and-drink-5/",
+  "maghrebi-arabic/family-5/",
+  "maghrebi-arabic/life-and-death-5/",
+  "maghrebi-arabic/recreation-and-relaxation-5/",
+  "maghrebi-arabic/verbs-5/",
+  "maghrebi-arabic/animals-5/",
+  "maghrebi-arabic/weather-5/",
+  "maghrebi-arabic/language-5/",
+  "maghrebi-arabic/cars-and-other-transportation-5/",
+  "maghrebi-arabic/health-and-medicine-5/",
+  "maghrebi-arabic/adverbs-5/",
+  "maghrebi-arabic/adjectives-5/",
+  "maghrebi-arabic/around-the-house-4/"
+]

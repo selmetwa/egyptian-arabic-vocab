@@ -1,0 +1,722 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "school",
+    "transliteration": "madrasa",
+    "arabic": "مدرسة"
+  },
+  {
+    "english": "schools",
+    "transliteration": "madaaris",
+    "arabic": "مدارس"
+  },
+  {
+    "english": "nursery school",
+    "transliteration": "HaDaana",
+    "arabic": "حضانة"
+  },
+  {
+    "english": "nursery schools",
+    "transliteration": "HaDanaat",
+    "arabic": "حضانات"
+  },
+  {
+    "english": "university",
+    "transliteration": "gam3a",
+    "arabic": "جامعة"
+  },
+  {
+    "english": "universities",
+    "transliteration": "gam3aat",
+    "arabic": "جامعات"
+  },
+  {
+    "english": "department",
+    "transliteration": "'ism",
+    "arabic": "قسم"
+  },
+  {
+    "english": "departments",
+    "transliteration": "a'saam",
+    "arabic": "اقسام"
+  },
+  {
+    "english": "program",
+    "transliteration": "barnaamag",
+    "arabic": "برنامج"
+  },
+  {
+    "english": "programs",
+    "transliteration": "baraamig",
+    "arabic": "برامج"
+  },
+  {
+    "english": "studies",
+    "transliteration": "dirasaat",
+    "arabic": "دراسات"
+  },
+  {
+    "english": "curriculum",
+    "transliteration": "manhag",
+    "arabic": "منهج"
+  },
+  {
+    "english": "curricula",
+    "transliteration": "manaahig",
+    "arabic": "مناهج"
+  },
+  {
+    "english": "school subject (or material",
+    "transliteration": "madda",
+    "arabic": "مادّة"
+  },
+  {
+    "english": "school subject (or materials",
+    "transliteration": "mawaadd",
+    "arabic": "موادّ"
+  },
+  {
+    "english": "college",
+    "transliteration": "kulliyya",
+    "arabic": "كلية"
+  },
+  {
+    "english": "colleges",
+    "transliteration": "kulliyyaat",
+    "arabic": "كليات"
+  },
+  {
+    "english": "institute",
+    "transliteration": "ma3had",
+    "arabic": "معهد"
+  },
+  {
+    "english": "institutes",
+    "transliteration": "ma3aahid",
+    "arabic": "معاهد"
+  },
+  {
+    "english": "diploma",
+    "transliteration": "šahaada",
+    "arabic": "شهادة"
+  },
+  {
+    "english": "with distinction",
+    "transliteration": "bimtiyaaz",
+    "arabic": "بامتياز"
+  },
+  {
+    "english": "baccalaureate",
+    "transliteration": "bakalooriyaa",
+    "arabic": "بكالوريا"
+  },
+  {
+    "english": "BA ",
+    "transliteration": "lesaans",
+    "arabic": "ليسانس"
+  },
+  {
+    "english": "BS ",
+    "transliteration": "bakaloriyoos",
+    "arabic": "بكالوريوس"
+  },
+  {
+    "english": "masters'",
+    "transliteration": "majisteir",
+    "arabic": "ماجستير"
+  },
+  {
+    "english": "doctorate",
+    "transliteration": "doctooraah",
+    "arabic": "دكتوراه"
+  },
+  {
+    "english": "professor",
+    "transliteration": "ustaaz",
+    "arabic": "أستاذ"
+  },
+  {
+    "english": "professors",
+    "transliteration": "asatza",
+    "arabic": "اساتذة"
+  },
+  {
+    "english": "teacher",
+    "transliteration": "mudarris",
+    "arabic": "مدرّس"
+  },
+  {
+    "english": "pupil",
+    "transliteration": "tilmiiz",
+    "arabic": "تلميذ"
+  },
+  {
+    "english": "pupils",
+    "transliteration": "talamiiz",
+    "arabic": "تلاميذ"
+  },
+  {
+    "english": "student",
+    "transliteration": "Taalib",
+    "arabic": "طالب"
+  },
+  {
+    "english": "students",
+    "transliteration": "Tullaab",
+    "arabic": "طلاب"
+  },
+  {
+    "english": "major",
+    "transliteration": "taxaSSuS",
+    "arabic": "تخصّص"
+  },
+  {
+    "english": "majors",
+    "transliteration": "taxaSSuSaat bi",
+    "arabic": "تخصّصات بـ"
+  },
+  {
+    "english": "lesson",
+    "transliteration": "dars",
+    "arabic": "درس"
+  },
+  {
+    "english": "lessons",
+    "transliteration": "duruus",
+    "arabic": "دروس"
+  },
+  {
+    "english": "homework ",
+    "transliteration": "waagib",
+    "arabic": "واجب"
+  },
+  {
+    "english": "homework s",
+    "transliteration": "wagibaat",
+    "arabic": "واجبات"
+  },
+  {
+    "english": "exam",
+    "transliteration": "imtiHaan",
+    "arabic": "امتحان"
+  },
+  {
+    "english": "exams",
+    "transliteration": "imtiHanaat",
+    "arabic": "امتحانات"
+  },
+  {
+    "english": "test",
+    "transliteration": "ixtibaar",
+    "arabic": "اختبار"
+  },
+  {
+    "english": "tests",
+    "transliteration": "ixtibaraat",
+    "arabic": "اختبارات"
+  },
+  {
+    "english": "lecture",
+    "transliteration": "muHaDra",
+    "arabic": "محاضرة"
+  },
+  {
+    "english": "discussion",
+    "transliteration": "muna'ša",
+    "arabic": "مناقشة"
+  },
+  {
+    "english": "research",
+    "transliteration": "abHaas",
+    "arabic": "أبحاث"
+  },
+  {
+    "english": "analysis",
+    "transliteration": "taHliil",
+    "arabic": "تحليل"
+  },
+  {
+    "english": "analyses",
+    "transliteration": "taHaliil",
+    "arabic": "تحاليل"
+  },
+  {
+    "english": " exercise",
+    "transliteration": "tamriin",
+    "arabic": "تمرين"
+  },
+  {
+    "english": " exercises",
+    "transliteration": "tamariin/tamrinaat",
+    "arabic": "تمارين | تمرينات"
+  },
+  {
+    "english": " activity",
+    "transliteration": "našaaT",
+    "arabic": "نشاط"
+  },
+  {
+    "english": " activities",
+    "transliteration": "našaTaat/anšiTa",
+    "arabic": "نشاطات | أنشطة"
+  },
+  {
+    "english": "presentation",
+    "transliteration": "ta'diim",
+    "arabic": "تقديم"
+  },
+  {
+    "english": "presentations",
+    "transliteration": "ta'dimaat",
+    "arabic": "تقديمات"
+  },
+  {
+    "english": "textbook",
+    "transliteration": "kitaab madrasi",
+    "arabic": "كتاب مدرسي"
+  },
+  {
+    "english": "textbooks",
+    "transliteration": "kutub madrasiyya",
+    "arabic": "كتب مدرسية"
+  },
+  {
+    "english": "grade",
+    "transliteration": "Saff",
+    "arabic": "صف"
+  },
+  {
+    "english": "grades",
+    "transliteration": "Sufuuf",
+    "arabic": "صفوف"
+  },
+  {
+    "english": "class",
+    "transliteration": "faSl",
+    "arabic": "فصل"
+  },
+  {
+    "english": "classes",
+    "transliteration": "fuSuul",
+    "arabic": "فصول"
+  },
+  {
+    "english": "class period",
+    "transliteration": "HiSSa",
+    "arabic": "حصّة"
+  },
+  {
+    "english": "class periods",
+    "transliteration": "HiSaS",
+    "arabic": "حصص"
+  },
+  {
+    "english": "recess",
+    "transliteration": "agaaza",
+    "arabic": "اجازة"
+  },
+  {
+    "english": "recesses",
+    "transliteration": "agazaat",
+    "arabic": "اجازات"
+  },
+  {
+    "english": "scholarship",
+    "transliteration": "minHa",
+    "arabic": "منحة"
+  },
+  {
+    "english": "scholarships",
+    "transliteration": "minaH",
+    "arabic": "منح"
+  },
+  {
+    "english": "financial aid",
+    "transliteration": "musaa3adaat maaliyya",
+    "arabic": "مساعدات مالية"
+  },
+  {
+    "english": "student loan",
+    "transliteration": "qarD diraasii",
+    "arabic": "قرض دراسي"
+  },
+  {
+    "english": "student loans",
+    "transliteration": "quruuD diraasiyya",
+    "arabic": "قروض دراسية"
+  },
+  {
+    "english": "cost",
+    "transliteration": "kulfa",
+    "arabic": "كلفة"
+  },
+  {
+    "english": "costs",
+    "transliteration": "kulaf",
+    "arabic": "كلف"
+  },
+  {
+    "english": "funding",
+    "transliteration": "tamwiil",
+    "arabic": "تمويل"
+  },
+  {
+    "english": "notebook",
+    "transliteration": "kurraasa",
+    "arabic": "كرّاسة"
+  },
+  {
+    "english": "notebooks",
+    "transliteration": "kurrasaat",
+    "arabic": "كرّاسات"
+  },
+  {
+    "english": " notebook",
+    "transliteration": "kaškuul",
+    "arabic": "كشكول"
+  },
+  {
+    "english": " notebooks",
+    "transliteration": "kašakiil",
+    "arabic": "كشاكيل"
+  },
+  {
+    "english": "pen",
+    "transliteration": "'alam",
+    "arabic": "قلم"
+  },
+  {
+    "english": "pens",
+    "transliteration": "a'laam",
+    "arabic": "أقلام"
+  },
+  {
+    "english": "pencil",
+    "transliteration": "'alam raSaaS",
+    "arabic": "قلم رصاص"
+  },
+  {
+    "english": "paper",
+    "transliteration": "wara'a",
+    "arabic": "ورقة"
+  },
+  {
+    "english": "papers",
+    "transliteration": "awraa'",
+    "arabic": "أوراق"
+  },
+  {
+    "english": "eraser",
+    "transliteration": "astiika",
+    "arabic": "أستيكة"
+  },
+  {
+    "english": "erasers",
+    "transliteration": "asatiik",
+    "arabic": "أساتيك"
+  },
+  {
+    "english": "blackboard",
+    "transliteration": "tuxta",
+    "arabic": "تختة"
+  },
+  {
+    "english": "blackboards",
+    "transliteration": "tuxat",
+    "arabic": "تخت"
+  },
+  {
+    "english": "chalk",
+    "transliteration": "Tabašiir",
+    "arabic": "طباشير"
+  },
+  {
+    "english": "calculator",
+    "transliteration": "aala Hasba",
+    "arabic": "آلة حاسبة"
+  },
+  {
+    "english": "calculators",
+    "transliteration": "alaat Hasba",
+    "arabic": "آلات حاسبة"
+  },
+  {
+    "english": " ruler",
+    "transliteration": "masTara",
+    "arabic": "مسطرة"
+  },
+  {
+    "english": " rulers",
+    "transliteration": "masaaTir",
+    "arabic": "مساطر"
+  },
+  {
+    "english": "encyclopedia",
+    "transliteration": "mawsuu3a",
+    "arabic": "موسوعة"
+  },
+  {
+    "english": "encyclopedias",
+    "transliteration": "mawsuu3aat",
+    "arabic": "موسوعات"
+  },
+  {
+    "english": "dictionary",
+    "transliteration": "qamuus",
+    "arabic": "قاموس"
+  },
+  {
+    "english": "dictionaries",
+    "transliteration": "qawamiis",
+    "arabic": "قواميس"
+  },
+  {
+    "english": "grade",
+    "transliteration": "daraga",
+    "arabic": "درجة"
+  },
+  {
+    "english": "grades",
+    "transliteration": "daragaat",
+    "arabic": "درجات"
+  },
+  {
+    "english": "good grades",
+    "transliteration": "daragaat 3alya",
+    "arabic": "درجات عالية"
+  },
+  {
+    "english": "right",
+    "transliteration": "SaHH",
+    "arabic": "صح"
+  },
+  {
+    "english": "wrong",
+    "transliteration": "ġalaT",
+    "arabic": "غلط"
+  },
+  {
+    "english": "__ plus __ is __",
+    "transliteration": "__ zaa'id __ yisaawi __",
+    "arabic": "__ زائد __ يساوي __"
+  },
+  {
+    "english": "__ minus __ is __",
+    "transliteration": "__ naa'iS __ yisaawi __",
+    "arabic": "__ ناقص __ يساوي __"
+  },
+  {
+    "english": "__ times __ is __",
+    "transliteration": "__ fi __ yisaawi __",
+    "arabic": "__ في __ يساوي __"
+  },
+  {
+    "english": "__  by __ is __",
+    "transliteration": "__ 3ala __ yisaawi __",
+    "arabic": "__ على __ يساوي __"
+  },
+  {
+    "english": "equation",
+    "transliteration": "mu3adla",
+    "arabic": "معادلة"
+  },
+  {
+    "english": "equations",
+    "transliteration": "mu3adlaat",
+    "arabic": "معادلات"
+  },
+  {
+    "english": "fraction",
+    "transliteration": "kasr",
+    "arabic": "كسر"
+  },
+  {
+    "english": "fractions",
+    "transliteration": "kusuur",
+    "arabic": "كسور"
+  },
+  {
+    "english": " problem",
+    "transliteration": "mas'ala",
+    "arabic": "مسألة"
+  },
+  {
+    "english": " problems",
+    "transliteration": "masaa'il",
+    "arabic": "مسائل"
+  },
+  {
+    "english": "shape",
+    "transliteration": "šakl",
+    "arabic": "شكل"
+  },
+  {
+    "english": "shapes",
+    "transliteration": "aškaal",
+    "arabic": "أشكال"
+  },
+  {
+    "english": "circle",
+    "transliteration": "deira",
+    "arabic": "ديرة"
+  },
+  {
+    "english": "circles",
+    "transliteration": "dawaayir",
+    "arabic": "دواير"
+  },
+  {
+    "english": "square",
+    "transliteration": "mirabba3",
+    "arabic": "مربع"
+  },
+  {
+    "english": "squares",
+    "transliteration": "mirabba3aat",
+    "arabic": "مربعات"
+  },
+  {
+    "english": "rectangle",
+    "transliteration": "mustaTiil",
+    "arabic": "مستطيل"
+  },
+  {
+    "english": "rectangles",
+    "transliteration": "mustaTiilaat",
+    "arabic": "مستطيلات"
+  },
+  {
+    "english": "triangle",
+    "transliteration": "musallas",
+    "arabic": "مثلث"
+  },
+  {
+    "english": "triangles",
+    "transliteration": "musallasaat",
+    "arabic": "مثلثات"
+  },
+  {
+    "english": "side",
+    "transliteration": "Dil3",
+    "arabic": "ضلع"
+  },
+  {
+    "english": "sides",
+    "transliteration": "Duluu3",
+    "arabic": "ضلوع"
+  },
+  {
+    "english": "angle",
+    "transliteration": "zawya",
+    "arabic": "زاوية"
+  },
+  {
+    "english": "angles",
+    "transliteration": "zawaaya",
+    "arabic": "زوايا"
+  },
+  {
+    "english": "art",
+    "transliteration": "fann",
+    "arabic": "فن"
+  },
+  {
+    "english": "arts",
+    "transliteration": "funuun",
+    "arabic": "فنون"
+  },
+  {
+    "english": "science",
+    "transliteration": "3ilm",
+    "arabic": "علم"
+  },
+  {
+    "english": "sciences",
+    "transliteration": "3uluum",
+    "arabic": "علوم"
+  },
+  {
+    "english": "language",
+    "transliteration": "luġa",
+    "arabic": "لغة"
+  },
+  {
+    "english": "languages",
+    "transliteration": "luġaat",
+    "arabic": "لغات"
+  },
+  {
+    "english": "grammar",
+    "transliteration": "qawaa3id",
+    "arabic": "قواعد"
+  },
+  {
+    "english": "vocabulary",
+    "transliteration": "mufradaat",
+    "arabic": "مفردات"
+  },
+  {
+    "english": "synonym",
+    "transliteration": "muraadif",
+    "arabic": "مرادف"
+  },
+  {
+    "english": "synonyms",
+    "transliteration": "muradifaat",
+    "arabic": "مرادفات"
+  },
+  {
+    "english": "spelling",
+    "transliteration": "tahgiyya",
+    "arabic": "تهجية"
+  },
+  {
+    "english": "pronunciation",
+    "transliteration": "lafZ",
+    "arabic": "لفظ"
+  },
+  {
+    "english": "pronunciations",
+    "transliteration": "alfaaZ",
+    "arabic": "ألفاظ"
+  },
+  {
+    "english": "style ",
+    "transliteration": "usluub",
+    "arabic": "أسلوب"
+  },
+  {
+    "english": "fluency",
+    "transliteration": "Talaaqa",
+    "arabic": "طلاقة"
+  },
+  {
+    "english": "proficiency",
+    "transliteration": "kafaa'a",
+    "arabic": "كفاءة"
+  },
+  {
+    "english": "skill",
+    "transliteration": "mahaara",
+    "arabic": "مهارة"
+  },
+  {
+    "english": "skills",
+    "transliteration": "maharaat",
+    "arabic": "مهارات"
+  },
+  {
+    "english": "ability",
+    "transliteration": "'udra",
+    "arabic": "قدرة"
+  },
+  {
+    "english": "abilities",
+    "transliteration": "'udaraat",
+    "arabic": "قدرات"
+  }
+]

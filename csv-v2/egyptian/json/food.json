@@ -1,0 +1,977 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "food",
+    "transliteration": "akl",
+    "arabic": "اكل"
+  },
+  {
+    "english": "foods",
+    "transliteration": "ma'kulaat",
+    "arabic": "مأكولات"
+  },
+  {
+    "english": "meal",
+    "transliteration": "akla",
+    "arabic": "اكلة"
+  },
+  {
+    "english": "meals",
+    "transliteration": "akalaat",
+    "arabic": "اكلات"
+  },
+  {
+    "english": "delivery",
+    "transliteration": "tawSiil",
+    "arabic": "توصيل"
+  },
+  {
+    "english": "restaurant",
+    "transliteration": "maT3am",
+    "arabic": "مطعم"
+  },
+  {
+    "english": "restaurants",
+    "transliteration": "maTaa3im",
+    "arabic": "مطاعم"
+  },
+  {
+    "english": "waiter",
+    "transliteration": "metre | garsoon",
+    "arabic": "متر | جرسون"
+  },
+  {
+    "english": "waiters",
+    "transliteration": "nudul",
+    "arabic": "ندل"
+  },
+  {
+    "english": "breakfast",
+    "transliteration": "fiTaar",
+    "arabic": "فطار"
+  },
+  {
+    "english": "lunch",
+    "transliteration": "ġada",
+    "arabic": "غدا"
+  },
+  {
+    "english": "dinner",
+    "transliteration": "3aša",
+    "arabic": "عشا"
+  },
+  {
+    "english": "recipe",
+    "transliteration": "waSfa",
+    "arabic": "وصفة"
+  },
+  {
+    "english": "recipes",
+    "transliteration": "waSafaat",
+    "arabic": "وصفات"
+  },
+  {
+    "english": "ingredient",
+    "transliteration": "muHtawiyaat",
+    "arabic": "محتويات"
+  },
+  {
+    "english": "ingredients",
+    "transliteration": "maqaadiir",
+    "arabic": "مقادير"
+  },
+  {
+    "english": "can",
+    "transliteration": "3elba",
+    "arabic": "علبة"
+  },
+  {
+    "english": "cans",
+    "transliteration": "3ilab",
+    "arabic": "علب"
+  },
+  {
+    "english": "jar",
+    "transliteration": "barTamaan",
+    "arabic": "برطمان"
+  },
+  {
+    "english": "jars",
+    "transliteration": "barTamaanaat",
+    "arabic": "برطمانات"
+  },
+  {
+    "english": "box",
+    "transliteration": "Sunduu'",
+    "arabic": "صندوق"
+  },
+  {
+    "english": "boxes",
+    "transliteration": "Sanadii'",
+    "arabic": "صناديق"
+  },
+  {
+    "english": "hungry ",
+    "transliteration": "ga3aan ",
+    "arabic": "جعان "
+  },
+  {
+    "english": "hungry s",
+    "transliteration": "jiyaa3 ",
+    "arabic": "جياع "
+  },
+  {
+    "english": "thirsty ",
+    "transliteration": "3aTšaan",
+    "arabic": "عطشان"
+  },
+  {
+    "english": "thirsty s",
+    "transliteration": "3iTaaš ",
+    "arabic": "عطاش "
+  },
+  {
+    "english": "full ",
+    "transliteration": "šab3aan",
+    "arabic": "شبعان"
+  },
+  {
+    "english": "full s",
+    "transliteration": "šabaa3a",
+    "arabic": "شباعى"
+  },
+  {
+    "english": "slice",
+    "transliteration": "xarTa",
+    "arabic": "خرطة"
+  },
+  {
+    "english": "slices",
+    "transliteration": "xuraT",
+    "arabic": "خرط"
+  },
+  {
+    "english": "piece",
+    "transliteration": "Hetta",
+    "arabic": "حتّة"
+  },
+  {
+    "english": "pieces",
+    "transliteration": "Hetat",
+    "arabic": "حتت"
+  },
+  {
+    "english": "drink",
+    "transliteration": "mašruub",
+    "arabic": "مشروب"
+  },
+  {
+    "english": "drinks",
+    "transliteration": "mašruubaat",
+    "arabic": "مشروبات"
+  },
+  {
+    "english": "juice",
+    "transliteration": "3aSiir",
+    "arabic": "عصير"
+  },
+  {
+    "english": "juices",
+    "transliteration": "3aSaayir",
+    "arabic": "عصائر"
+  },
+  {
+    "english": "water",
+    "transliteration": "mayya",
+    "arabic": "ميّة"
+  },
+  {
+    "english": "tea",
+    "transliteration": "šaay",
+    "arabic": "شاي"
+  },
+  {
+    "english": "coffee",
+    "transliteration": "'ahwa",
+    "arabic": "قهوة"
+  },
+  {
+    "english": "milk",
+    "transliteration": "laban",
+    "arabic": "لبن"
+  },
+  {
+    "english": "alcohol",
+    "transliteration": "xamr",
+    "arabic": "خمر"
+  },
+  {
+    "english": "wine",
+    "transliteration": "nibiit",
+    "arabic": "نبيت"
+  },
+  {
+    "english": "champagne",
+    "transliteration": "šampanya",
+    "arabic": "شامبنية"
+  },
+  {
+    "english": "beer",
+    "transliteration": "biira",
+    "arabic": "بيرة"
+  },
+  {
+    "english": "fruit",
+    "transliteration": "fakha",
+    "arabic": "فاكهة"
+  },
+  {
+    "english": "fruits",
+    "transliteration": "fawaakih",
+    "arabic": "فواكه"
+  },
+  {
+    "english": "apple",
+    "transliteration": "tuffaaH",
+    "arabic": "تفّاح"
+  },
+  {
+    "english": "orange",
+    "transliteration": "burtu'aan",
+    "arabic": "برتقان"
+  },
+  {
+    "english": "banana",
+    "transliteration": "mooz",
+    "arabic": "موز"
+  },
+  {
+    "english": "lemon",
+    "transliteration": "lamuun",
+    "arabic": "لمون"
+  },
+  {
+    "english": "lime",
+    "transliteration": "lamuun",
+    "arabic": "لمون"
+  },
+  {
+    "english": "watermelon",
+    "transliteration": "baTTiix",
+    "arabic": "بطّيخ"
+  },
+  {
+    "english": "cantaloupe",
+    "transliteration": "šammaam",
+    "arabic": "شمّام"
+  },
+  {
+    "english": "strawberry",
+    "transliteration": "farawla",
+    "arabic": "فراولة"
+  },
+  {
+    "english": "cherry",
+    "transliteration": "kireiz",
+    "arabic": "كريز"
+  },
+  {
+    "english": "grape",
+    "transliteration": "3inab",
+    "arabic": "عنب"
+  },
+  {
+    "english": "raisin",
+    "transliteration": "zibiib",
+    "arabic": "زبيب"
+  },
+  {
+    "english": "pear",
+    "transliteration": "kommetra",
+    "arabic": "كمترى"
+  },
+  {
+    "english": "peach",
+    "transliteration": "xoox",
+    "arabic": "خوخ"
+  },
+  {
+    "english": "plum",
+    "transliteration": "bar'uu'",
+    "arabic": "برقوق"
+  },
+  {
+    "english": "prune",
+    "transliteration": "bar'uu' naashif",
+    "arabic": "برقوق ناشف"
+  },
+  {
+    "english": "pomegranate",
+    "transliteration": "rummaan",
+    "arabic": "رمّان"
+  },
+  {
+    "english": "apricot",
+    "transliteration": "mišmiš",
+    "arabic": "مشمش"
+  },
+  {
+    "english": "guava",
+    "transliteration": "guwaafa",
+    "arabic": "جوافة"
+  },
+  {
+    "english": "dates ",
+    "transliteration": "balaH",
+    "arabic": "بلح"
+  },
+  {
+    "english": "dates ",
+    "transliteration": "tamr",
+    "arabic": "تمر"
+  },
+  {
+    "english": "pineapple",
+    "transliteration": "ananaas",
+    "arabic": "اناناس"
+  },
+  {
+    "english": "berry",
+    "transliteration": "tuut",
+    "arabic": "توت"
+  },
+  {
+    "english": "blueberry",
+    "transliteration": "tuut azra'",
+    "arabic": "توت أزرق"
+  },
+  {
+    "english": "mango",
+    "transliteration": "manga",
+    "arabic": "مانجة"
+  },
+  {
+    "english": "fig",
+    "transliteration": "tiin",
+    "arabic": "تين"
+  },
+  {
+    "english": "olive",
+    "transliteration": "zatuun",
+    "arabic": "زتون"
+  },
+  {
+    "english": "popcorn",
+    "transliteration": "fišaar",
+    "arabic": "فشار"
+  },
+  {
+    "english": "nuts",
+    "transliteration": "mikassaraat",
+    "arabic": "مكسّرات"
+  },
+  {
+    "english": "almonds",
+    "transliteration": "looz",
+    "arabic": "لوز"
+  },
+  {
+    "english": "hazelnuts",
+    "transliteration": "bondo'",
+    "arabic": "بندق"
+  },
+  {
+    "english": "peanuts",
+    "transliteration": "sudaani",
+    "arabic": "سوداني"
+  },
+  {
+    "english": "vegetables",
+    "transliteration": "xuDrawaat | xuDaar",
+    "arabic": "خضروات | خضار"
+  },
+  {
+    "english": "carrot",
+    "transliteration": "gazar",
+    "arabic": "جزر"
+  },
+  {
+    "english": "cauliflower",
+    "transliteration": "'arnabiiT",
+    "arabic": "قرنبيط"
+  },
+  {
+    "english": "lettuce",
+    "transliteration": "xass",
+    "arabic": "خسّ"
+  },
+  {
+    "english": "cucumber",
+    "transliteration": "xiyaar",
+    "arabic": "خيار"
+  },
+  {
+    "english": "zucchini",
+    "transliteration": "koosa",
+    "arabic": "كوسا"
+  },
+  {
+    "english": "cabbage",
+    "transliteration": "kurumb",
+    "arabic": "كرمب"
+  },
+  {
+    "english": "peas",
+    "transliteration": "bisilla",
+    "arabic": "بسلة"
+  },
+  {
+    "english": "radish",
+    "transliteration": "figl",
+    "arabic": "فجل"
+  },
+  {
+    "english": "radishes",
+    "transliteration": "fujuul",
+    "arabic": "فجول"
+  },
+  {
+    "english": "celery",
+    "transliteration": "karafs",
+    "arabic": "كرفس"
+  },
+  {
+    "english": "okra",
+    "transliteration": "bamya",
+    "arabic": "بامية"
+  },
+  {
+    "english": "eggplant",
+    "transliteration": "bidingaan",
+    "arabic": "بدنجان"
+  },
+  {
+    "english": "artichoke",
+    "transliteration": "xaršuuf",
+    "arabic": "خرشوف"
+  },
+  {
+    "english": "artichokes",
+    "transliteration": "xaraašiif",
+    "arabic": "خراشيف"
+  },
+  {
+    "english": "spinach",
+    "transliteration": "sabaanix",
+    "arabic": "سبانخ"
+  },
+  {
+    "english": "potato",
+    "transliteration": "baTaaTis",
+    "arabic": "بطاطس"
+  },
+  {
+    "english": "potatoes",
+    "transliteration": "baTaaTis",
+    "arabic": "بطاطس"
+  },
+  {
+    "english": "tomato",
+    "transliteration": "TamaaTim",
+    "arabic": "طماطم"
+  },
+  {
+    "english": "onion",
+    "transliteration": "baSal",
+    "arabic": "بصل"
+  },
+  {
+    "english": "garlic",
+    "transliteration": "toom",
+    "arabic": "توم"
+  },
+  {
+    "english": "clove",
+    "transliteration": "faSS",
+    "arabic": "فص"
+  },
+  {
+    "english": "cloves",
+    "transliteration": "fuSuuS",
+    "arabic": "فصوص"
+  },
+  {
+    "english": "corn",
+    "transliteration": "dura",
+    "arabic": "درة"
+  },
+  {
+    "english": "mushroom",
+    "transliteration": "šampinyoon",
+    "arabic": "شمبنيون"
+  },
+  {
+    "english": "pumpkin",
+    "transliteration": "3ar' 3asali",
+    "arabic": "عرق عسلي"
+  },
+  {
+    "english": "beans",
+    "transliteration": "fuul",
+    "arabic": "فول"
+  },
+  {
+    "english": "chickpeas",
+    "transliteration": "HommoS",
+    "arabic": "حمص"
+  },
+  {
+    "english": "lentils",
+    "transliteration": "3ads",
+    "arabic": "عدس"
+  },
+  {
+    "english": "soup",
+    "transliteration": "šurba",
+    "arabic": "شربة"
+  },
+  {
+    "english": "salad",
+    "transliteration": "salaTa",
+    "arabic": "سلطة"
+  },
+  {
+    "english": "meat",
+    "transliteration": "laHma",
+    "arabic": "لحمة"
+  },
+  {
+    "english": "meats",
+    "transliteration": "luHuum",
+    "arabic": "لحوم"
+  },
+  {
+    "english": "poultry",
+    "transliteration": "Zafar",
+    "arabic": "ظفر"
+  },
+  {
+    "english": "chicken",
+    "transliteration": "firaax",
+    "arabic": "فراخ"
+  },
+  {
+    "english": "turkey",
+    "transliteration": "diik ruumi",
+    "arabic": "ديك رومي"
+  },
+  {
+    "english": "fish",
+    "transliteration": "samak",
+    "arabic": "سمك"
+  },
+  {
+    "english": "shrimp",
+    "transliteration": "gambari",
+    "arabic": "جمبري"
+  },
+  {
+    "english": "crab",
+    "transliteration": "kaburiya",
+    "arabic": "كابوريا"
+  },
+  {
+    "english": "lobster",
+    "transliteration": "istakooza",
+    "arabic": "استاكوزا"
+  },
+  {
+    "english": "clam",
+    "transliteration": "gandofli",
+    "arabic": "جندوفلي"
+  },
+  {
+    "english": "oyster",
+    "transliteration": "maHaar",
+    "arabic": "محار"
+  },
+  {
+    "english": "octopus",
+    "transliteration": "uxTabuuT",
+    "arabic": "اخطبوط"
+  },
+  {
+    "english": "bread",
+    "transliteration": "3eiš",
+    "arabic": "عيش"
+  },
+  {
+    "english": "loaf of bread*",
+    "transliteration": "raġiif",
+    "arabic": "رغيف"
+  },
+  {
+    "english": "loaf of bread*s",
+    "transliteration": "arġifa",
+    "arabic": "أرغفة"
+  },
+  {
+    "english": "* Note that a رغيف refers to something different than what Americans would typically think of as a loaf of bread. A رغيف is a whole pita bread or عيش بلدي. Here's a photo of a boy carrying a bunch of أرغفة.",
+    "transliteration": "",
+    "arabic": ""
+  },
+  {
+    "english": "a long",
+    "transliteration": "3eiš fiinu",
+    "arabic": "عيش فينو"
+  },
+  {
+    "english": "a round bread roll ",
+    "transliteration": "3eiš kayzar",
+    "arabic": "عيش كيزر"
+  },
+  {
+    "english": "yeast",
+    "transliteration": "xamiira",
+    "arabic": "خميرة"
+  },
+  {
+    "english": "dough",
+    "transliteration": "3agiin",
+    "arabic": "عجين"
+  },
+  {
+    "english": "cheese",
+    "transliteration": "gibna",
+    "arabic": "جبنة"
+  },
+  {
+    "english": "butter",
+    "transliteration": "zibda",
+    "arabic": "زبدة"
+  },
+  {
+    "english": "jam",
+    "transliteration": "mirabba",
+    "arabic": "مربّى"
+  },
+  {
+    "english": "yogurt",
+    "transliteration": "zabaadi",
+    "arabic": "زبادي"
+  },
+  {
+    "english": "honey",
+    "transliteration": "3asal ",
+    "arabic": "عسل "
+  },
+  {
+    "english": "molasses",
+    "transliteration": "3asal iswid",
+    "arabic": "عسل اسود"
+  },
+  {
+    "english": "rice",
+    "transliteration": "ruzz",
+    "arabic": "رزّ"
+  },
+  {
+    "english": "pasta",
+    "transliteration": "makaroona",
+    "arabic": "مكرونة"
+  },
+  {
+    "english": "egg",
+    "transliteration": "beiD",
+    "arabic": "بيض"
+  },
+  {
+    "english": "desserts",
+    "transliteration": "Helawiyaat",
+    "arabic": "حلويات"
+  },
+  {
+    "english": "ice cream",
+    "transliteration": "aayis kriim",
+    "arabic": "آيس كريم"
+  },
+  {
+    "english": "scoop",
+    "transliteration": "boola",
+    "arabic": "بولة"
+  },
+  {
+    "english": "cake",
+    "transliteration": "gatooh",
+    "arabic": "جاتيه"
+  },
+  {
+    "english": "gum",
+    "transliteration": "libaan",
+    "arabic": "لبان"
+  },
+  {
+    "english": "sugar",
+    "transliteration": "sukkar",
+    "arabic": "سكّر"
+  },
+  {
+    "english": "salt",
+    "transliteration": "malH",
+    "arabic": "ملح"
+  },
+  {
+    "english": "pepper",
+    "transliteration": "filfil",
+    "arabic": "فلفل"
+  },
+  {
+    "english": "oil",
+    "transliteration": "zeit",
+    "arabic": "زيت"
+  },
+  {
+    "english": "olive oil",
+    "transliteration": "zeit zeituun",
+    "arabic": "زيت زيتون"
+  },
+  {
+    "english": "vinegar",
+    "transliteration": "xall",
+    "arabic": "خلّ"
+  },
+  {
+    "english": "spices",
+    "transliteration": "buharaat",
+    "arabic": "بهرات"
+  },
+  {
+    "english": "flour",
+    "transliteration": "di'ii'",
+    "arabic": "دقيق"
+  },
+  {
+    "english": "wheat",
+    "transliteration": "'amH",
+    "arabic": "قمح"
+  },
+  {
+    "english": "oats",
+    "transliteration": "šufaan",
+    "arabic": "شوفان"
+  },
+  {
+    "english": "barley",
+    "transliteration": "ša3iir",
+    "arabic": "شعير"
+  },
+  {
+    "english": "mint",
+    "transliteration": "ni3naa3",
+    "arabic": "نعناع"
+  },
+  {
+    "english": "parsley",
+    "transliteration": "ba'duunis",
+    "arabic": "بقدونس"
+  },
+  {
+    "english": "cinnamon",
+    "transliteration": "'irfa",
+    "arabic": "قرفة"
+  },
+  {
+    "english": "ginger",
+    "transliteration": "ganzabiil",
+    "arabic": "جنزبيل"
+  },
+  {
+    "english": "cumin",
+    "transliteration": "kammuun",
+    "arabic": "كمون"
+  },
+  {
+    "english": "turmeric",
+    "transliteration": "kurkum",
+    "arabic": "كركم"
+  },
+  {
+    "english": "coriander",
+    "transliteration": "kuzbara",
+    "arabic": "كزبرة"
+  },
+  {
+    "english": "cloves",
+    "transliteration": "'oronfil",
+    "arabic": "قرنفل"
+  },
+  {
+    "english": "saffron",
+    "transliteration": "za3faraan",
+    "arabic": "زعفران"
+  },
+  {
+    "english": "thyme",
+    "transliteration": "za3tar",
+    "arabic": "زعتر"
+  },
+  {
+    "english": "vegetarian",
+    "transliteration": "nabaati",
+    "arabic": "نباتي"
+  },
+  {
+    "english": "nutrition",
+    "transliteration": "ġiza",
+    "arabic": "غذاء"
+  },
+  {
+    "english": "appetite",
+    "transliteration": "nifs lil-akl",
+    "arabic": "نفس للأكل"
+  },
+  {
+    "english": "boiled",
+    "transliteration": "masluu'",
+    "arabic": "مسلوق"
+  },
+  {
+    "english": "fried",
+    "transliteration": "ma'li",
+    "arabic": "مقلي"
+  },
+  {
+    "english": "grilled",
+    "transliteration": "mešwi",
+    "arabic": "مشوي"
+  },
+  {
+    "english": "roasted",
+    "transliteration": "rosto",
+    "arabic": "رستو"
+  },
+  {
+    "english": "stuffed",
+    "transliteration": "maHši",
+    "arabic": "محشي"
+  },
+  {
+    "english": "minced",
+    "transliteration": "mafruum",
+    "arabic": "مفروم"
+  },
+  {
+    "english": "crunchy",
+    "transliteration": "mi'armiš",
+    "arabic": "مقرمش"
+  },
+  {
+    "english": "raw",
+    "transliteration": "nayy",
+    "arabic": "نيّ"
+  },
+  {
+    "english": "delicious",
+    "transliteration": "laziiz",
+    "arabic": "لذيذ"
+  },
+  {
+    "english": "delicious",
+    "transliteration": "šahi",
+    "arabic": "شهي"
+  },
+  {
+    "english": "fresh",
+    "transliteration": "Taaza",
+    "arabic": "طازة"
+  },
+  {
+    "english": "natural",
+    "transliteration": "Tabii3i",
+    "arabic": "طبيعي"
+  },
+  {
+    "english": "tender",
+    "transliteration": "Tari",
+    "arabic": "طري"
+  },
+  {
+    "english": "dry",
+    "transliteration": "naašif",
+    "arabic": "ناشف"
+  },
+  {
+    "english": "sweet",
+    "transliteration": "Helw",
+    "arabic": "حلو"
+  },
+  {
+    "english": "hot ",
+    "transliteration": "Haami | Harraa' | mešaTTa",
+    "arabic": "حامي | حرّاق | مشطّة"
+  },
+  {
+    "english": "hot ",
+    "transliteration": "suxn",
+    "arabic": "سخن"
+  },
+  {
+    "english": "cold",
+    "transliteration": "baarid",
+    "arabic": "بارد"
+  },
+  {
+    "english": "taste",
+    "transliteration": "Ta3m",
+    "arabic": "طعم"
+  },
+  {
+    "english": "tastes",
+    "transliteration": "Tu3uum",
+    "arabic": "طعوم"
+  },
+  {
+    "english": "flavor",
+    "transliteration": "nakha",
+    "arabic": "نكهة"
+  },
+  {
+    "english": "bitter",
+    "transliteration": "murr",
+    "arabic": "مرّ"
+  },
+  {
+    "english": "sour",
+    "transliteration": "miziz",
+    "arabic": "مزز"
+  },
+  {
+    "english": "spoiled",
+    "transliteration": "xasraan",
+    "arabic": "خسران"
+  },
+  {
+    "english": "to go sour ",
+    "transliteration": "HimiD - yiHmaD ",
+    "arabic": "حمض - يحمض "
+  },
+  {
+    "english": "rotten",
+    "transliteration": "mi3affin",
+    "arabic": "معفّن"
+  },
+  {
+    "english": "burned",
+    "transliteration": "maHruu'",
+    "arabic": "محروق"
+  },
+  {
+    "english": "undercooked",
+    "transliteration": "mi3aggin",
+    "arabic": "معجّن"
+  }
+]

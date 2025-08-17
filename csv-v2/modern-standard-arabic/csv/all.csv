@@ -1,0 +1,3878 @@
+english,transliteration,arabic,source
+English,Transliteration,Standard Arabic,animals
+animal,Hayawaan,حيوان,animals
+animals,Hayawaanaat,حيوانات,animals
+cat,qiTTa,قطّة,animals
+cats,qiTaT,قطط,animals
+dog,kalb,كلب,animals
+dogs,kilaab,كلاب,animals
+cow,baqara,بقرة,animals
+cows,baqaraat,بقرات,animals
+bull,toor,ثور,animals
+bulls,tiiraan,ثيران,animals
+calf,3ijl,عجل,animals
+calves,3ujuul,عجول,animals
+buffalo,jaamuus,جاموس,animals
+buffalo,jawaamiis,جواميس,animals
+cattle,bahiima,بهيمة,animals
+cattles,bahaa’im,بهائم,animals
+sheep,ġanam,غنم,animals
+sheep,aġnaam,أغنام,animals
+lamb,xaruuf,خروف,animals
+lambs,xiraaf,خراف,animals
+donkey,Himaar,حمار,animals
+donkeys,Hamiir,حمير,animals
+horse,HiSaan,حصان,animals
+horses,HuSun,حصن,animals
+camel,jamal,جمل,animals
+camels,jimaal,جمال,animals
+goat,maa3iz,ماعز,animals
+goats,mawaa3iz,مواعز,animals
+pig,xinziir,خنزير,animals
+pigs,xanaaziir,خنازير,animals
+rabbit,arnab,أرنب,animals
+rabbits,araanib,ارانب,animals
+mice,fa'r,فأر,animals
+mice,fi'raan,فئران,animals
+rat,jurad,جرذ,animals
+rats,jirdaan,جرذان,animals
+bird,Taa'ir,طائر,animals
+birds,Taa'iraat,طائرات,animals
+small bird,3uSfuur,عصفور,animals
+small birds,3aSaafiir,عصافير,animals
+parrot,babġaa',ببغاء,animals
+parrots,babġaawaat,ببغاوات,animals
+rooster,diik,ديك,animals
+roosters,duyuuk,ديوك,animals
+turkey,diik ruumi,ديك رومي,animals
+peacock,Taawuus,طاووس,animals
+peacocks,Tawaawiis,طواويس,animals
+stork,laqlaq,لقلق,animals
+storks,laqaaliq,لقالق,animals
+sparrow,3uSfuur duury,عصفور دوري,animals
+sparrows,3aSafiir,عصافير,animals
+crow,ġuraab,غراب,animals
+crows,ġirbaan,غربان,animals
+nightingale,bulbul,بلبل,animals
+nightingales,balaabil,بلابل,animals
+falcon,Saqr,صقر,animals
+falcons,Suquur,صقور,animals
+eagle,nasr,نسر,animals
+eagles,nusuur,نسور,animals
+reptile,zaaHif,زاحف,animals
+reptiles,zawaaHif,زواحف,animals
+amphibian,barmaa'iyya,برمائية,animals
+amphibians,barmaa'iyyaat,برمائيات,animals
+snake,tu3baan,ثعبان,animals
+snakes,ta3aabiin,ثعابين,animals
+Sarahan horned viper,Hayya qarnaa',حية قرناء,animals
+turtle,sulHufaah,سلحفاة,animals
+turtles,salaaHif,سلاحف,animals
+lizard,siHliyya,سحلية,animals
+lizards,saHaalin,سحال,animals
+frog,Difdi3,ضفدع,animals
+frogs,Dafaadi3,ضفادع,animals
+crocodile,timsaaH,تمساح,animals
+crocodiles,tamaasiiH,تماسيح,animals
+snail,Halazuun,حلزون,animals
+snails,Halazuunaat,حلزونات,animals
+lion,asad,أسد,animals
+lions,usuud,اسود,animals
+giraffe,zaraafa,زرافة,animals
+giraffes,zaraafaat,زرافات,animals
+zebra,Himaar waHši,حمار وحشي,animals
+kangaroo,kanġar,كنغر,animals
+hyena,Dab3,ضبع,animals
+hyenas,Dibaa3,ضباع,animals
+panther,fahd,فهد,animals
+panthers,fuhuud,فهود,animals
+wolf,di'b,ذئب,animals
+wolves,di'aab,ذئاب,animals
+bear,dubb,دبّ,animals
+bears,dibaba,دببة,animals
+tiger,namir,نمر,animals
+tigers,numuur,نمور,animals
+elephant,fiil,فيل,animals
+elephants,fiyala,فيلة,animals
+monkey,qird,قرد,animals
+monkeys,quruud,قرود,animals
+bat,xuffaaš,خفاش,animals
+bats,xafaafiiš,خفافيش,animals
+squirrel,sinjaab,سنجاب,animals
+fox,ta3lab,ثعلب,animals
+foxes,ta3aalib,ثعالب,animals
+deer,ġazaal,غزال,animals
+deer,ġizla,غزلة,animals
+fish,samak,سمك,animals
+fish,asmaak,أسماك,animals
+whale,Huut,حوت,animals
+whales,Hiitaan,حيتان,animals
+shark,qirš,قرش,animals
+dolphin,duxas,دخس,animals
+dolphins,darafiil,درافيل,animals
+octopus,uxTubuuT,أخطبوط,animals
+octopuses,uxTubuuTaat,اخطبوطات,animals
+squid,Habbaar,حبّار,animals
+swordfish,abu seif,أبو سيف,animals
+shrimp,ruubiyaan,روبيان,animals
+lobster,saraTaan baHri,سرطان بحري,animals
+crab,saraTaan,سرطان,animals
+crabs,saraTaanaat,سرطانات,animals
+walrus,faZZ,فظّ,animals
+walruses,afZaaZ,أفظاظ,animals
+salmon,salamuun,سالمون,animals
+catfish,qarmuuT,قرموط,animals
+catfish,qaraamiiT,قراميط,animals
+tuna,tunn,تنّ,animals
+oysters,maHaar,محار,animals
+insect,Hašara,حشرة,animals
+insects,Hašaraat,حشرات,animals
+cockroach,SurSuur,صرصور,animals
+cockroaches,SaraSiir,صراصير,animals
+flea,burġuut,برغوث,animals
+fleas,baraaġiit,براغيث,animals
+beetle,xunfusaa',خنفساء,animals
+beetles,xanaafis,خنافس,animals
+wasp,dabbuur,دبّور,animals
+wasps,dabaabiir,دبابير,animals
+spider,3ankabuut,عنكبوت,animals
+spiders,3anaakib,عناكب,animals
+scorpion,3aqraba,عقربة,animals
+scorpions,3aqaarib,عقارب,animals
+tail,deil,ذيل,animals
+tails,duyuul,ذيول,animals
+hoof,Haafir,حافر,animals
+hooves,Hawaafir,حوافر,animals
+claw,maxlab,مخلب,animals
+claws,maxaalib,مخالب,animals
+fur,farwa,فروة,animals
+furs,faraawi,فراوي,animals
+beak,minqaar,منقار,animals
+beaks,manaaqiir,مناقير,animals
+wing,jinaaH,جناح,animals
+wings,ajniHa,اجنحة,animals
+fin,za3nifa,زعنفة,animals
+fins,za3aanif,زعانف,animals
+city,madiina,مدينة,city_and_transportation
+cities,mudun,مدن,city_and_transportation
+street,šaari3,شارع,city_and_transportation
+streets,šawaari3,شوارع,city_and_transportation
+road,Tariiq,طريق,city_and_transportation
+roads,Turuq,طرق,city_and_transportation
+highway,Tariiq sarii3,طريق  سريع,city_and_transportation
+alley; lane,Haara,حارة,city_and_transportation
+alley; lanes,Haaraat,حارات,city_and_transportation
+corner ,naaSiya,ناصية,city_and_transportation
+corner s,nawaaSin,نواص,city_and_transportation
+corner ,rukn,ركن,city_and_transportation
+corner s,arkaan,أركان,city_and_transportation
+tunnel,nafaq,نفق,city_and_transportation
+tunnels,anfaaq,انفاق,city_and_transportation
+building,3imaara,عمارة,city_and_transportation
+buildings,3imaaraat,عمارات,city_and_transportation
+real estate,3aqaar,عقار,city_and_transportation
+real estates,3aqaaraat,عقارات,city_and_transportation
+house,beit,بيت,city_and_transportation
+houses,buyuut,بيوت,city_and_transportation
+apartment,šaqqa,شقة,city_and_transportation
+apartments,šiqaq,شقق,city_and_transportation
+bridge,jisr,جسر,city_and_transportation
+bridges,jusuur,جسور,city_and_transportation
+fence,suur,سور,city_and_transportation
+fences,aswaar,أسوار,city_and_transportation
+square,meidaan,ميدان,city_and_transportation
+squares,mayaadiin,ميادين,city_and_transportation
+company,šarika,شركة,city_and_transportation
+companies,šarikaat,شركات,city_and_transportation
+center,markaz,مركز,city_and_transportation
+centers,maraakiz,مراكز,city_and_transportation
+shop,maHall,محلّ,city_and_transportation
+shops,maHallaat,محلات,city_and_transportation
+small grocery shop,baqqaala,بقالة,city_and_transportation
+small grocery shops,baqqaalaat,بقالات,city_and_transportation
+cafe,maqha,مقهى,city_and_transportation
+cafes,maqhaah,مقهاة,city_and_transportation
+club,naadii,نادي,city_and_transportation
+clubs,nawaadii,نوادي,city_and_transportation
+bar,Haana,حانة,city_and_transportation
+bars,Haanaat,حانات,city_and_transportation
+movie theater,sinima,سينما,city_and_transportation
+movie theaters,sinimaat,سينمات,city_and_transportation
+theater,masraH,مسرح,city_and_transportation
+theaters,masaariH,مسارح,city_and_transportation
+gallery,ma3riD,معرض,city_and_transportation
+galleries,ma3aariD,معارض,city_and_transportation
+fair,mihrajaan,مهرجان,city_and_transportation
+fairs,mihrajaanaat,مهرجانات,city_and_transportation
+park,Hadiiqa,حديقة,city_and_transportation
+parks,Hadaa'iq,حدائق,city_and_transportation
+bench,maq3ad,مقعد,city_and_transportation
+benches,maqaa3id,مقاعد,city_and_transportation
+restaurant,maT3am,مطعم,city_and_transportation
+restaurants,maTaa3im,مطاعم,city_and_transportation
+school,madrasa,مدرسة,city_and_transportation
+schools,madaaris,مدارس,city_and_transportation
+university,jaami3a,جامعة,city_and_transportation
+universities,jaami3aat,جامعات,city_and_transportation
+mosque,jaami3,جامع,city_and_transportation
+mosques,jawaami3,جوامع,city_and_transportation
+church,kaniisa,كنيسة,city_and_transportation
+churches,kanaa'is,كنائس,city_and_transportation
+synagogue,kaniis,كنيس,city_and_transportation
+temple,ma3bad,معبد,city_and_transportation
+temples,ma3aabid,معابد,city_and_transportation
+tower,burj,برج,city_and_transportation
+towers,abraaj,أبراج,city_and_transportation
+graveyard,jabbaana,جبّانة,city_and_transportation
+graveyards,jabbaanaat,جبّانات,city_and_transportation
+brick,Tuub,طوب,city_and_transportation
+tin,SafiiH,صفيح,city_and_transportation
+tourism,siyaaHa,سياحة,city_and_transportation
+insurance,ta'miin,تأمين,city_and_transportation
+ exchange,Siraafa,صرافة,city_and_transportation
+bank,bank,بنك,city_and_transportation
+banks,bunuuk,بنوك,city_and_transportation
+ATM,Sarraaf aali,صرّاف آلي,city_and_transportation
+library; bookstore,maktaba,مكتبة,city_and_transportation
+library; bookstores,maktabaat,مكتبات,city_and_transportation
+station,maHaTTa,محطة,city_and_transportation
+stations,maHaTTaat,محطات,city_and_transportation
+airport,maTaar,مطار,city_and_transportation
+airports,maTaaraat,مطارات,city_and_transportation
+hotel,funduq,فندق,city_and_transportation
+hotels,fanaadiq,فنادق,city_and_transportation
+museum,matHaf,متحف,city_and_transportation
+museums,mataaHif,متاحف,city_and_transportation
+palace,qaSr,قصر,city_and_transportation
+palaces,quSuur,قصور,city_and_transportation
+citadel,qal3a,قلعة,city_and_transportation
+citadels,quluu3,قلوع,city_and_transportation
+hospital,mustašfa,مستشفى,city_and_transportation
+hospitals,mustašfayaat,مستشفيات,city_and_transportation
+clinic,3iyaada,عيادة,city_and_transportation
+clinics,3iyaadaat,عيادات,city_and_transportation
+bakery,maxbaz,مخبز,city_and_transportation
+bakeries,maxaabiz,مخابز,city_and_transportation
+pharmacy,Saydaliyya,صيدلية,city_and_transportation
+pharmacies,Saydaliyyaat,صيدليات,city_and_transportation
+fountain,yanbuu3,ينبوع,city_and_transportation
+fountains,yanaabii3,ينابيع,city_and_transportation
+auditorium,mudarraj,مدرّج,city_and_transportation
+auditoriums,mudarrajaat,مدرّجات,city_and_transportation
+sidewalk,raSiif,رصيف,city_and_transportation
+covered in asphalt,mitsaflit,متسفلت,city_and_transportation
+pothole; speed bump,maTabb,مطبّ,city_and_transportation
+pothole; speed bumps,maTabbaat,مطبّات,city_and_transportation
+sewer,ballaa3a,بلاعة,city_and_transportation
+sewers,ballaa3aat,بلاعات,city_and_transportation
+sewage,majaari,مجاري,city_and_transportation
+hole,Hufra,حفرة,city_and_transportation
+holes,Hufar,حفر,city_and_transportation
+sign,yaafiTa,يافطة,city_and_transportation
+signs,yaafiTaat,يافطات,city_and_transportation
+public transportation,muwaaSlaat,مواصلات,city_and_transportation
+traffic,muruur,مرور,city_and_transportation
+crowdedness,izdiHaam,ازدحام,city_and_transportation
+noise,Dajja,ضجّة,city_and_transportation
+pollution,tilawwat,تلوث,city_and_transportation
+mess,harjala,هرجلة,city_and_transportation
+trash,nufaaya,نفاية,city_and_transportation
+queue,Taabuur,طابور,city_and_transportation
+queues,Tawaabiir,طوابير,city_and_transportation
+car,sayyaara,سيارة,city_and_transportation
+cars,sayyaaraat,سيارات,city_and_transportation
+bus,Haafila,حافلة,city_and_transportation
+buses,Hawaafil,حوافل,city_and_transportation
+bicycle,darraaja,درّاجة,city_and_transportation
+bicycles,darraajaat,درّاجات,city_and_transportation
+motorcycle,darraaja naariyya,درّاجة نارية,city_and_transportation
+truck,šaaHina,شاحنة,city_and_transportation
+trucks,šaaHinaat,شاحنات,city_and_transportation
+taxi,taksi,تاكسي,city_and_transportation
+taxis,taksiyaat,تاكسيات,city_and_transportation
+meter,3addaad,عدّاد,city_and_transportation
+meters,3addaadaat,عدّادات,city_and_transportation
+tire,iTaar,اطار,city_and_transportation
+tires,iTaaraat,اطارات,city_and_transportation
+wheel,iTaar,اطار,city_and_transportation
+wheels,iTaaraat,اطارات,city_and_transportation
+brakes,faraamil,فرامل,city_and_transportation
+car hood,kabbuut,كبوت,city_and_transportation
+car hoods,kababiit,كبابيت,city_and_transportation
+clutch,dibriyaaž,دبرياج,city_and_transportation
+clutches,dibriyažaat,دبرياجات,city_and_transportation
+car trunk,šanTit il-3arabiyya,شنطة العربية,city_and_transportation
+workshop,warša,ورشة,city_and_transportation
+workshops,wiraš,ورش,city_and_transportation
+gas,binziin,بنزين,city_and_transportation
+driver's license,ruxSa,رخصة,city_and_transportation
+driver's licenses,ruxaS qiyaada,رخص قيادة,city_and_transportation
+car horn,buuq,بوق,city_and_transportation
+car horns,abwaaq,أبواق,city_and_transportation
+accident,Haadita,حادثة,city_and_transportation
+accidents,Hawaadit,حوادث,city_and_transportation
+driver,saa'iq,سائق,city_and_transportation
+drivers,saa'iquun,سائقون,city_and_transportation
+train,qiTaar,قطار,city_and_transportation
+trains,qiTaaraat,قطارات,city_and_transportation
+a train/metro pass for a month or several months,'aboneih,أبونيه,city_and_transportation
+boat,markab,مركب,city_and_transportation
+boats,maraakib,مراكب,city_and_transportation
+boat ,qaarib,قارب,city_and_transportation
+boat s,qawaarib,قوارب,city_and_transportation
+ship,safiina,سفينة,city_and_transportation
+ships,sufun,سفن,city_and_transportation
+liner,3abbaara,عبّارة,city_and_transportation
+liners,3abbaaraat,عبّارات,city_and_transportation
+plane,Taa'ira,طائرة,city_and_transportation
+planes,Taa'iraat,طائرات,city_and_transportation
+visa,ta'šiira,تأشيرة,city_and_transportation
+visas,ta'šiiraat,تأشيرات,city_and_transportation
+helicopter,marwaHiyya,مروحية,city_and_transportation
+trip,riHla,رحلة,city_and_transportation
+trips,riHalaat,رحلات,city_and_transportation
+to be cancelled ,itlaġa - yitliġi ,اتلغى - يتلغي ,city_and_transportation
+tour,jawla,جولة,city_and_transportation
+tours,jawlaat,جولات,city_and_transportation
+clothes,malaabis,ملابس,clothing
+stylish,aniiq ,أنيق  ,clothing
+chic,šiik ,شيك ,clothing
+overdressed,moHaflaT,محفلط,clothing
+shirt,qamiiS,قميص,clothing
+shirts,qumSaan,قمصان,clothing
+sleeve,kumm,كم,clothing
+sleeves,akmaam,أكمام,clothing
+blouse,baluuza,بلوزة,clothing
+blouses,baluuzaat,بلوزات,clothing
+coat,mi3Taf,معطف,clothing
+coats,ma3aaTif,معاطف,clothing
+jacket,sutra,سترة,clothing
+jackets,sutar,ستر,clothing
+pants,banTaloon,بنطلون,clothing
+pants,banTaloonaat,بنطلونات,clothing
+shorts,banTaloon qaSiir,بنطلون قصير,clothing
+shorts,šorTaat,شرطات,clothing
+skirt,tannuura,تنّورة,clothing
+skirts,tannuuraat,تنّورات,clothing
+dress,fustaan,فستان,clothing
+dresses,fasaatiin,فساتين,clothing
+suit,badla,بدلة,clothing
+suits,bidal,بدل,clothing
+pajamas,bižaama,بيجامة,clothing
+pajamas,bižamaat,بيجامات,clothing
+underwear,malaabis daaxiliyya,ملابس داخلية,clothing
+underpants,malaabis daaxiliyya,ملابس داخلية,clothing
+underpants,kilottaat,كلوتّات,clothing
+men's underwear,malaabis daaxiliyya rajaaliyya,ملابس داخلية رجالية,clothing
+men's underwears,libasaat/libisa,لباسات | لبسة,clothing
+bra,malaabis daaxiliyya Hariimi,ملابس داخلية حريمي,clothing
+bras,sutyanaat,ستيانات,clothing
+diaper,HifaaZ,حفاظ,clothing
+diapers,HifaaZaat aTfaal,حفاظات أطفال,clothing
+hat,qubba3a,قبعة,clothing
+hats,qubba3aat,قبعات,clothing
+gloves,quffaaz,قفّاز,clothing
+gloves,quffaazaat,قفّازات,clothing
+scarf,wišaaH,وشاح,clothing
+scarves,awšiHa,أوشحة,clothing
+belt,Hizaam,حزام,clothing
+belts,aHzima,أحزمة,clothing
+buckle,ibziim,ابزيم,clothing
+buckles,abaaziim,أبازيم,clothing
+tie,rabTa,ربطة,clothing
+ties,ribaaT 3unuq,رباط عنق,clothing
+sock,jawrab,جورب,clothing
+socks,jawaarib,جوارب,clothing
+shoe,aHdiya,أحذية,clothing
+shoes,Hidaa',حذاء,clothing
+slipper,xuff,خفّ,clothing
+slippers,xifaaf | axfaaf,خفاف | اخفاف,clothing
+collar,qabba,قبّة,clothing
+collars,qabbaat,قبّات,clothing
+button,zirr,زرّ,clothing
+buttons,azraar,ازرار,clothing
+pocket,jeib,جيب,clothing
+pockets,juyuub,جيوب,clothing
+zipper,saHHaab,سحاب,clothing
+thread,xeiT,خيط,clothing
+threads,xuyuuT,خيوط,clothing
+jewel,jawhara,جوهرة,clothing
+jewels,jawaahir,جواهر,clothing
+jewelry,mugawharaat,مجوهرات,clothing
+gold/silver/jewels,maSuughaat,مصوغات,clothing
+earring,Halaq,حلق,clothing
+earrings,Hilqaan,حلقان,clothing
+necklace,3iqd,عقد,clothing
+necklaces,3uquud,عقود,clothing
+necklace,kirdaan,كردان,clothing
+necklaces,karaadiin,كرادين,clothing
+bracelet,siwaar,سوار,clothing
+bracelets,aswira,أسورة,clothing
+ring,xaatim,خاتم,clothing
+rings,xawaatim,خواتم,clothing
+gold,dahab,ذهب,clothing
+silver,fiDDa,فضّة,clothing
+pearls,lu'lu',لؤلؤ,clothing
+glasses,naZZaara,نظّارة,clothing
+contact lenses,3adasaat laaSiqa,عدسات لاصقة,clothing
+sunglasses,naZZaara šamsiyya,نظّارة شمسية,clothing
+wristwatch,saa3at yad,ساعة يد,clothing
+wallet,maHfaZa,محفظة,clothing
+wallets,maHaafiZ,محافظ,clothing
+umbrella,miZalla,مظلّة,clothing
+umbrellas,miZallaat,مظلات,clothing
+fabric,aqmiša,أقمشة,clothing
+silk,Hariir,حرير,clothing
+silks,Haraa'ir,حرائر,clothing
+wool,Suuf,صوف,clothing
+wools,aSwaaf,اصواف,clothing
+velvet,muxmal,مخمل,clothing
+cotton,quTun,قطن,clothing
+cottons,aqTaan,اقطان,clothing
+lace,taxriima,تخريمة,clothing
+leather,jild,جلد,clothing
+dotted,munaqqaT,منقّط,clothing
+striped,muqallam,مقلّم,clothing
+plaid,karohaat,كروهات,clothing
+solid color,saada,سادة,clothing
+embroidered,muzayyan,مزيّن,clothing
+patterned,mušajjar,مشجّر,clothing
+tight,Dayyiq,ضيّق,clothing
+loose,waasi3,واسع,clothing
+wide,waasi3,واسع,clothing
+wides,3uraaD,عراض,clothing
+modest,muHtašim,محتشم,clothing
+torn,maqTuu3,مقطوع,clothing
+tailor,xayyaaT,خيّاط,clothing
+tailors,xayyaaTuun,خيّاطون,clothing
+ size,maqaas,مقاس,clothing
+ sizes,maqaasaat,مقاسات,clothing
+to fit,faSSal - yifaSSal ,فصّل - يفصّل,clothing
+color,loon,لون,colors
+colors,alwaan,ألوان,colors
+colored,mulawwan,ملوّن,colors
+light,faatiH,فاتح,colors
+dark,ġaamiq,غامق,colors
+bright,barraaq,براق,colors
+shiny,laami3,لامع,colors
+black,"aswad , sudaa' , suud",اسود – سوداء,colors
+blacks,suud,سود,colors
+navy blue,kuHli,كحلي,colors
+royal blue,zahri,زهري,colors
+sky blue,samaa'i,سمائي,colors
+baby blue,labani,لبني,colors
+indigo,niili,نيلي,colors
+turquoise,feiruuzi,فيروزي,colors
+bluish green,ginzaari,جنزاري,colors
+dark green,zeiti,زيتي,colors
+mustard  green,kammuuni,كموني,colors
+olive green,zeituuni,زيتوني,colors
+pastel green,kurumbi,كرمبي,colors
+purple,urjuwaani,ارجواني,colors
+scarlet,qrimzi,قرمزي,colors
+pink,zahri,زهري,colors
+shocking pink,bambi msaxsax,بمبي مسخسخ,colors
+rose-colored,wardi,وردي,colors
+orange,burtuqaali,برتقالي,colors
+canary yellow,kanaari,كناري,colors
+lemon yellow,lamuuni,لموني,colors
+brown,bunni,بني,colors
+light brown,baSali,بصلي,colors
+light brown ,3asali,عسلي,colors
+wheat-colored ,'amHi,قمحي,colors
+fair-skinned,abyaDaani - beiDa,أبيضاني - بيضا,colors
+fair-skinneds,biiD,بيض,colors
+pale,baahit,باهت,colors
+chestnut,kastanaa'i,كستنائي,colors
+cream,aSfar šaaHib,أصفر شاحب,colors
+grey,ramaadi,رمادي,colors
+gold,dahabi,ذهبي,colors
+silver,fiDDi,فضي,colors
+beige,beiž,بيج,colors
+off-white,samni,سمني,colors
+burgundy,nibiti,نبتي,colors
+maroon,zibiibi,زبيبي,colors
+crime ,ijraam,اجرام,crime_and_punishment
+crime,jariima,جريمة,crime_and_punishment
+crimes,jaraa'im,جرائم,crime_and_punishment
+criminal,mujrim,مجرم,crime_and_punishment
+criminals,mujrimuun,مجرمون,crime_and_punishment
+murderer,saffaaH,سفاح,crime_and_punishment
+victim,DaHiyya,ضحية,crime_and_punishment
+victims,DaHaaya,ضحايا,crime_and_punishment
+prisoner,asiir,أسير,crime_and_punishment
+prisoners,asra,أسرى,crime_and_punishment
+suspect in,muštaba fi,مشتبه في,crime_and_punishment
+accused of,muttaham bi,متهم بـ,crime_and_punishment
+involvement in,Dil3,ضلع,crime_and_punishment
+involvement ins,Duluu3 fi,ضلوع في,crime_and_punishment
+illegal,ġeir qaanuuni,غير قانوني,crime_and_punishment
+warrant,mudakkirat tawqiif,مذكرة توقيف,crime_and_punishment
+bail,kafaala,كفالة,crime_and_punishment
+trial,muHaakama,محاكمة,crime_and_punishment
+case,qaDiyya,قضية,crime_and_punishment
+cases,qaDaaya,قضايا,crime_and_punishment
+court or tribunal,maHkama,محكمة,crime_and_punishment
+court or tribunals,maHaakim,محاكم,crime_and_punishment
+judge,qaaDin,قاضٍ,crime_and_punishment
+judges,quDaah,قضاة,crime_and_punishment
+lawyer,muHaamin,محامٍ,crime_and_punishment
+lawyers,muHaamiyuun,محاميون,crime_and_punishment
+jury,hei'at muHallafiin,هيئة محلفين,crime_and_punishment
+juror,muHallaf,محلّف,crime_and_punishment
+jurors,muHallafuun,محلّفون,crime_and_punishment
+witness,šaahid,شاهد,crime_and_punishment
+witnesses,šuhuud,شهود,crime_and_punishment
+eyewitness,šaahid 3iyaan,شاهد عيان,crime_and_punishment
+prosecution,iddi3aa',ادعاء,crime_and_punishment
+defense,difaa3,دفاع,crime_and_punishment
+proof,daliil,دليل,crime_and_punishment
+proofs,adilla,أدلة,crime_and_punishment
+guilty,mudnib,مذنب,crime_and_punishment
+guilties,mudnibuun,مذنبون,crime_and_punishment
+innocent,bari',برئ,crime_and_punishment
+innocents,abriyaa',أبرياء,crime_and_punishment
+theft,sariqa,سرقة,crime_and_punishment
+robbery,nahb,نهب,crime_and_punishment
+burglary of,saTw 3ala,سطو على,crime_and_punishment
+drug possession,Hiyaazat muxaddiraat,حيازة مخدرات,crime_and_punishment
+drug trade,mutaajarat muxaddiraat,متاجرة مخدرات,crime_and_punishment
+smuggling,tahriib,تهريب,crime_and_punishment
+rape,iġtiSaab,اغتصاب,crime_and_punishment
+murder,qatl,قتل,crime_and_punishment
+bribery,irtišaa'/rašwa,ارتشاء | رشوة,crime_and_punishment
+embezzlement,ixtilaas,اختلاس,crime_and_punishment
+fraud,iHtiyaal,احتيال,crime_and_punishment
+blackmail,ibtizaaz,ابتزاز,crime_and_punishment
+punishment ,3iqaab,عقاب,crime_and_punishment
+ punishment,3uquuba,عقوبة,crime_and_punishment
+ punishments,3uquubaat,عقوبات,crime_and_punishment
+sentence,Hukm,حكم,crime_and_punishment
+sentences,aHkaam 3ala,أحكام على,crime_and_punishment
+sentenced to,maHkuum bi,محكوم بـ,crime_and_punishment
+fine,ġaraama,غرامة,crime_and_punishment
+fines,ġaraamaat,غرامات,crime_and_punishment
+prison,sijn,سجن,crime_and_punishment
+prisons,sujuun,سجون,crime_and_punishment
+prison cell,zinzaana,زنزانة,crime_and_punishment
+prison cells,zinzaanaat,زنزانات,crime_and_punishment
+imprisonment,Habs,حبس,crime_and_punishment
+hanging,šanq,شنق,crime_and_punishment
+gallows,mišnaqa,مشنقة,crime_and_punishment
+gallows,mašaaniq,مشانق,crime_and_punishment
+chained,mukabbal,مكبل,crime_and_punishment
+chains,salaasil  silsila,سلاسل    سلسلة,crime_and_punishment
+nursery school,HaDaana,حضانة,education
+nursery schools,HaDaanaat,حضانات,education
+department,qism,قسم,education
+departments,aqsaam,اقسام,education
+program,barnaamaj,برنامج,education
+programs,baraamij,برامج,education
+studies,diraasaat,دراسات,education
+curriculum,manhaj,منهج,education
+curricula,manaahij,مناهج,education
+school subject (or material,maadda,مادّة,education
+school subject (or materials,mawaadd,موادّ,education
+college,kulliyya,كلية,education
+colleges,kulliyyaat,كليات,education
+institute,ma3had,معهد,education
+institutes,ma3aahid,معاهد,education
+diploma,šahaada,شهادة,education
+with distinction,bimtiyaaz,بامتياز,education
+baccalaureate,bakalooriyaa,بكالوريا,education
+BA ,?,?,education
+BS ,?,?,education
+masters',majisteir,ماجستير,education
+doctorate,doctooraah,دكتوراه,education
+professor,ustaad,أستاذ,education
+professors,asaatida,اساتذة,education
+teacher,mudarris,مدرّس,education
+pupil,tilmiid,تلميذ,education
+pupils,talaamiid,تلاميذ,education
+student,Taalib,طالب,education
+students,Tullaab,طلاب,education
+major,taxaSSuS,تخصّص,education
+majors,taxaSSuSaat bi,تخصّصات بـ,education
+lesson,dars,درس,education
+lessons,duruus,دروس,education
+homework ,waajib,واجب,education
+homework s,waajibaat,واجبات,education
+exam,imtiHaan,امتحان,education
+exams,imtiHaanaat,امتحانات,education
+test,ixtibaar,اختبار,education
+tests,ixtibaaraat,اختبارات,education
+lecture,muHaaDara,محاضرة,education
+discussion,munaaqaša,مناقشة,education
+research,abHaat,أبحاث,education
+analysis,taHliil,تحليل,education
+analyses,taHaaliil,تحاليل,education
+ exercise,tamriin,تمرين,education
+ exercises,tamaariin/tamriinaat,تمارين | تمرينات,education
+ activity,našaaT,نشاط,education
+ activities,našaaTaat/anšiTa,نشاطات | أنشطة,education
+presentation,taqdiim,تقديم,education
+presentations,taqdiimaat,تقديمات,education
+textbook,kitaab madrasi,كتاب مدرسي,education
+textbooks,kutub madrasiyya,كتب مدرسية,education
+grade,Saff,صف,education
+grades,Sufuuf,صفوف,education
+class,faSl,فصل,education
+classes,fuSuul,فصول,education
+class period,HiSSa,حصّة,education
+class periods,HiSaS,حصص,education
+recess,ajaaza,اجازة,education
+recesses,ajaazaat,اجازات,education
+scholarship,minHa,منحة,education
+scholarships,minaH,منح,education
+financial aid,musaa3adaat maaliyya,مساعدات مالية,education
+student loan,qarD diraasii,قرض دراسي,education
+student loans,quruuD diraasiyya,قروض دراسية,education
+cost,kulfa,كلفة,education
+costs,kulaf,كلف,education
+funding,tamwiil,تمويل,education
+notebook,daftar,دفتر,education
+notebooks,dafaatir,دفاتر,education
+ notebook,kaškuul,كشكول,education
+ notebooks,kašakiil,كشاكيل,education
+pen,qalam,قلم,education
+pens,aqlaam,أقلام,education
+pencil,qalam raSaaS,قلم رصاص,education
+paper,waraqa,ورقة,education
+papers,awraaq,أوراق,education
+eraser,mimHaah,ممحاة,education
+erasers,asatiik,أساتيك,education
+blackboard,sabbuura,سبورة,education
+blackboards,sabbuuraat,سبورات,education
+chalk,Tabaašiir,طباشير,education
+calculator,aala Haasiba,آلة حاسبة,education
+calculators,aalaat Haasiba,آلات حاسبة,education
+ ruler,misTara,مسطرة,education
+ rulers,masaaTir,مساطر,education
+encyclopedia,mawsuu3a,موسوعة,education
+encyclopedias,mawsuu3aat,موسوعات,education
+dictionary,qaamuus,قاموس,education
+dictionaries,qawaamiis,قواميس,education
+grade,daraja,درجة,education
+grades,darajaat,درجات,education
+good grades,darajaat 3aaliya,درجات عالية,education
+right,SaHH,صح,education
+wrong,xaTa',خطأ,education
+__ plus __ is __,__ zaa'id __ yusaawi __,__ زائد __ يساوي __,education
+__ minus __ is __,__ naaqiS __ yusaawi __,__ ناقص __ يساوي __,education
+__ times __ is __,__ fi __ yusaawi __,__ في __ يساوي __,education
+__  by __ is __,__ 3ala __ yusaawi __,__ على __ يساوي __,education
+equation,mu3aadala,معادلة,education
+equations,mu3aadalaat,معادلات,education
+fraction,kasr,كسر,education
+fractions,kusuur,كسور,education
+ problem,mas'ala,مسألة,education
+ problems,masaa'il,مسائل,education
+shape,šakl,شكل,education
+shapes,aškaal,أشكال,education
+circle,daa'ira,دائرة,education
+circles,dawaa'ir,دوائر,education
+square,murabba3,مربع,education
+squares,murabba3aat,مربعات,education
+rectangle,mustaTiil,مستطيل,education
+rectangles,mustaTiilaat,مستطيلات,education
+triangle,mutallat,مثلث,education
+triangles,mutallataat,مثلثات,education
+side,Dil3,ضلع,education
+sides,Duluu3,ضلوع,education
+angle,zaawiya,زاوية,education
+angles,zawaaya,زوايا,education
+art,fann,فن,education
+arts,funuun,فنون,education
+science,3ilm,علم,education
+sciences,3uluum,علوم,education
+language,luġa,لغة,education
+languages,luġaat,لغات,education
+grammar,qawaa3id,قواعد,education
+vocabulary,mufradaat,مفردات,education
+synonym,muraadif,مرادف,education
+synonyms,muraadifaat,مرادفات,education
+spelling,tahji'a,تهجئة,education
+pronunciation,lafZ,لفظ,education
+pronunciations,alfaaZ,ألفاظ,education
+style ,usluub,أسلوب,education
+fluency,Talaaqa,طلاقة,education
+proficiency,kafaa'a,كفاءة,education
+skill,mahaara,مهارة,education
+skills,mahaaraat,مهارات,education
+ability,qudra,قدرة,education
+abilities,qudaraat,قدرات,education
+feeling,ša3r,شعر,emotions__and__personality_traits
+feelings,šu3uur,شعور,emotions__and__personality_traits
+emotion,3aaTif,عاطف,emotions__and__personality_traits
+emotions,3awaaTif,عواطف,emotions__and__personality_traits
+emotional or sentimental,3aaTifi,عاطفي,emotions__and__personality_traits
+to hide or repress one's feelings,katam - yiktim  fi nafsu,كتم - يكتم  في نفسه,emotions__and__personality_traits
+passion,3išq,عشق,emotions__and__personality_traits
+love,Hubb,حبّ,emotions__and__personality_traits
+hate,karaahiyya,كراهية,emotions__and__personality_traits
+yearning,Haniin,حنين,emotions__and__personality_traits
+longing,šooq,شوق,emotions__and__personality_traits
+despair,ya's,يأس,emotions__and__personality_traits
+bitterness,maraara,مرارة,emotions__and__personality_traits
+tear,dam3,دمع,emotions__and__personality_traits
+tears,dumuu3,دموع,emotions__and__personality_traits
+smiling ,bašuuš,بشوش,emotions__and__personality_traits
+frowning ,mikaššar,مكشّر,emotions__and__personality_traits
+to bellow at,ga3ar - yig3ar  fi,جعر - يجعر  في,emotions__and__personality_traits
+to yell at,šaxaT - yušxoT  fi,شخط - يشخط  في,emotions__and__personality_traits
+to belittle,hazza' - yihazza' ,هزّأ - يهزّأ ,emotions__and__personality_traits
+to speak rudely to s.o.,baggaH - yibaggaH  fi,بجّح - يبجّح  في,emotions__and__personality_traits
+to to break off relations with s.o. because of a dispute,xaaSim - yixaaSim ,خاصم - يخاصم ,emotions__and__personality_traits
+a public disgrace,jursa,جرسة,emotions__and__personality_traits
+a public disgraces,juras,جرس,emotions__and__personality_traits
+to spread scandal/gossip maliciously,namm - yinimm ,نم - ينم ,emotions__and__personality_traits
+scandal-monger,nammaam,نمام,emotions__and__personality_traits
+to excuse and sympathize with,3azar - yi3zur ,عزر - يعزر ,emotions__and__personality_traits
+ kiss,qubla,قبلة,emotions__and__personality_traits
+ kisses,qubalaat,قبلات,emotions__and__personality_traits
+ sigh,tanhiida,تنهيدة,emotions__and__personality_traits
+ sighs,tanaahiid,تناهيد,emotions__and__personality_traits
+personality,šaxSiyya,شخصية,emotions__and__personality_traits
+personalities,šaxSiyyaat,شخصيات,emotions__and__personality_traits
+happy ,sa3iid,سعيد,emotions__and__personality_traits
+happy s,su3adaa' ,سعداء ,emotions__and__personality_traits
+glad,farHaan ,فرحان,emotions__and__personality_traits
+delighted ,masruur ,مسرور ,emotions__and__personality_traits
+cheerful ,mariH ,مرح ,emotions__and__personality_traits
+content,raaDi,راضي,emotions__and__personality_traits
+very happy/pleased,munsagim,منسجم,emotions__and__personality_traits
+sad ,Haziin,حزين ,emotions__and__personality_traits
+sad s,Hazaana ,حزانة ,emotions__and__personality_traits
+depressed,mukta'ib,مكتئب,emotions__and__personality_traits
+miserable,ta3iis,تعيس,emotions__and__personality_traits
+miserables,tu3asaa',تعساء,emotions__and__personality_traits
+miserable,miskiin,مسكين,emotions__and__personality_traits
+miserables,masakiin,مساكين,emotions__and__personality_traits
+comfortable,murtaaH,مرتاح,emotions__and__personality_traits
+busy,mašġuul,مشغول,emotions__and__personality_traits
+hopeful ,3ašmaan ,عشمان ,emotions__and__personality_traits
+indifferent,miTanniš,مطنش,emotions__and__personality_traits
+tense,mutawattar,متوتر,emotions__and__personality_traits
+stressed,mašduud,مشدود,emotions__and__personality_traits
+upset,za3laan,زعلان,emotions__and__personality_traits
+to get upset,zi3il - yiz3al,زعل - يزعل,emotions__and__personality_traits
+annoyed,mutaDaayiq,متضايق,emotions__and__personality_traits
+to irritate s.o.,ġaaZ - yiġiiZ,غاظ - يغيظ,emotions__and__personality_traits
+troublemaker,mušaaġib,مشاغب,emotions__and__personality_traits
+frustrated,3andu iHbaaT,عنده احباط,emotions__and__personality_traits
+fed up with,maxnuu' min,مخنوق,emotions__and__personality_traits
+angry ,ġaaDib ,غاضب ,emotions__and__personality_traits
+furious ,maf'uu3 min,مفقوع من,emotions__and__personality_traits
+His blood boiled ,dammu itHara',دمه اتحرق,emotions__and__personality_traits
+embarrassed,xajlaan,خجلان,emotions__and__personality_traits
+bashful,xajuul,خجول,emotions__and__personality_traits
+sensitive,Hassaas,حساس,emotions__and__personality_traits
+quiet or calm,haadi',هادئ,emotions__and__personality_traits
+lonely,waHiid,وحيد,emotions__and__personality_traits
+loneliness,wiHda,وحدة,emotions__and__personality_traits
+sociable,ijtimaa3i,اجتماعي,emotions__and__personality_traits
+chatterbox ,raġġaay,رغاي,emotions__and__personality_traits
+naughty,šaqi,شقي,emotions__and__personality_traits
+naughties,ašqiyaa',اشقياء,emotions__and__personality_traits
+reckless,mutahawwir,متهوّر,emotions__and__personality_traits
+amazed,mundahiš,مندهش,emotions__and__personality_traits
+astonished,mustaġrib,مستغرب,emotions__and__personality_traits
+shocked,madhuul,مذهول,emotions__and__personality_traits
+confused ,Haa'ir ,حائر ,emotions__and__personality_traits
+hesitant,mutaraddid,متردّد,emotions__and__personality_traits
+firm,Haazim,حازم,emotions__and__personality_traits
+decisive,Haasim,حاسم,emotions__and__personality_traits
+panic,du3r,ذعر,emotions__and__personality_traits
+jealous ,ġayuur,غيور,emotions__and__personality_traits
+jealous s,ġuyur ,غير ,emotions__and__personality_traits
+envious ,Hasuud,حسود,emotions__and__personality_traits
+envious s,Husud ,حسد,emotions__and__personality_traits
+tired,mut3ab,متعب,emotions__and__personality_traits
+sleepy,na3saan,نعسان,emotions__and__personality_traits
+stubborn,3aniid,عنيد,emotions__and__personality_traits
+stubborns,3unud,عند,emotions__and__personality_traits
+hard-headed,raasu našfa,راسه ناشفة,emotions__and__personality_traits
+greedy,Tammaa3,طماع,emotions__and__personality_traits
+gluttonous,faj3aan,فجعان,emotions__and__personality_traits
+selfish,anaani,أناني,emotions__and__personality_traits
+selfless,ġeiri,غيري,emotions__and__personality_traits
+generous,kariim,كريم,emotions__and__personality_traits
+generous,karaam,كرام,emotions__and__personality_traits
+spendthrift,musrif,مسرف,emotions__and__personality_traits
+stingy,baxiil,بخيل,emotions__and__personality_traits
+frugal,muqtaSid,مقتصد,emotions__and__personality_traits
+careful,HariiS,حريص,emotions__and__personality_traits
+carefuls,HuraSa 3ala,حرصاء على,emotions__and__personality_traits
+careless,muhmil,مهمل,emotions__and__personality_traits
+affectionate ,Hanuun ,حنون,emotions__and__personality_traits
+loving,muHibb,محبّ,emotions__and__personality_traits
+kind,Tayyib ,طيّب ,emotions__and__personality_traits
+kind,šafuuq,شفوق,emotions__and__personality_traits
+kinds,šufa'a,شفقاء,emotions__and__personality_traits
+kind,samH,سمح,emotions__and__personality_traits
+nice,laTiif,لطيف,emotions__and__personality_traits
+nices,liTaaf ,لطاف ,emotions__and__personality_traits
+pleasant,Zariif,ظريف,emotions__and__personality_traits
+pleasants,Zurafaa' ,ظرفاء ,emotions__and__personality_traits
+tolerant,Haliim,حليم,emotions__and__personality_traits
+tolerants,Hulamaa',حلماء,emotions__and__personality_traits
+gentle,raqiiq,رقيق,emotions__and__personality_traits
+gentles,ruqaaq,رقاق,emotions__and__personality_traits
+polite,mu'addab,مؤدب,emotions__and__personality_traits
+lazy,kusuul,كسول,emotions__and__personality_traits
+hardworking,mujtahid,مجتهد,emotions__and__personality_traits
+determined,muSammim,مصمم,emotions__and__personality_traits
+alert,faa'iq,فائق,emotions__and__personality_traits
+active,našiiT,نشيط,emotions__and__personality_traits
+actives,nušaTaa',نشطاء,emotions__and__personality_traits
+picky,miwaswis,موسوس,emotions__and__personality_traits
+fussy,nimaki,نمكي,emotions__and__personality_traits
+irritable,3aSabi,عصبي,emotions__and__personality_traits
+brave,šujaa3,شجاع,emotions__and__personality_traits
+braves,šug3aan,,emotions__and__personality_traits
+bold,jari',جرئ,emotions__and__personality_traits
+bolds,gura'a,,emotions__and__personality_traits
+cowardly,jabaan,جبان,emotions__and__personality_traits
+cowardlies,jubanaa',جبناء,emotions__and__personality_traits
+curious,fuDuuli,فضولي,emotions__and__personality_traits
+egotistical,maġruur,مغرور,emotions__and__personality_traits
+conceited,'aliiT,قليط,emotions__and__personality_traits
+pompous,mutakabbir,متكبّر,emotions__and__personality_traits
+to make false boasts or claims,hagaS - yihguS ,هجص - يهجص ,emotions__and__personality_traits
+humble,mutawaaDi3,متواضع,emotions__and__personality_traits
+sensible,3aaqil,عاقل,emotions__and__personality_traits
+sensibles,3uqalaa',عقلاء,emotions__and__personality_traits
+insane,majnuun,مجنون,emotions__and__personality_traits
+insanes,majaaniin,مجانين,emotions__and__personality_traits
+crazy,mahwuus,مهووس,emotions__and__personality_traits
+crazies,mahawiis,مهاويس,emotions__and__personality_traits
+ignorant,jaahil,جاهل,emotions__and__personality_traits
+ignorants,juhalaa',جهلاء,emotions__and__personality_traits
+petty,haayif,هايف,emotions__and__personality_traits
+stupid,saxiif,سخيف,emotions__and__personality_traits
+stupids,suxafaa',سخفاء,emotions__and__personality_traits
+stupid,ġabi,غبي,emotions__and__personality_traits
+stupids,aġbiyaa',أغبياء,emotions__and__personality_traits
+smart,daki,ذكي,emotions__and__personality_traits
+smarts,adkiyaa',أذكياء,emotions__and__personality_traits
+clever,šaaTir,شاطر,emotions__and__personality_traits
+clevers,šaaTiruun,شاطرون,emotions__and__personality_traits
+smart,nabiih,نبيه,emotions__and__personality_traits
+smarts,nubahaa',نبهاء,emotions__and__personality_traits
+clever,naaSiH,ناصح,emotions__and__personality_traits
+clevers,nuSaHa,نصحاء,emotions__and__personality_traits
+wise ,Hakiim,حكيم,emotions__and__personality_traits
+wise s,Hukamaa' ,حكماء ,emotions__and__personality_traits
+genius,3abqari,عبقري,emotions__and__personality_traits
+geniuses,3abaaqira,عباقرة,emotions__and__personality_traits
+noble,nabiil,نبيل,emotions__and__personality_traits
+nobles,nubalaa',نبلاء,emotions__and__personality_traits
+honorable,šariif,شريف,emotions__and__personality_traits
+honorables,šurafaa',شرفاء,emotions__and__personality_traits
+honest,amiin,أمين,emotions__and__personality_traits
+honests,umanaa' ,أمناء ,emotions__and__personality_traits
+truthful,Saadiq,صادق,emotions__and__personality_traits
+honest,naziih,نزيه,emotions__and__personality_traits
+honests,nuzahaa',نزهاء,emotions__and__personality_traits
+straightfoward,doġri,دغري,emotions__and__personality_traits
+liar,kaddaab,كذاب,emotions__and__personality_traits
+treacherous,ġaddaar,غدار,emotions__and__personality_traits
+swindler,naSSaab,نصاب,emotions__and__personality_traits
+someone who tells tall tales,faššaar,فشار,emotions__and__personality_traits
+cunning,makkaar,مكّار,emotions__and__personality_traits
+cruel ,qaasin,قاس,emotions__and__personality_traits
+cruel s,qusaah ,قساة ,emotions__and__personality_traits
+sophisticated,midardaH,مدردح,emotions__and__personality_traits
+naive,saadij,ساذج,emotions__and__personality_traits
+naives,suddaaj,سذاج,emotions__and__personality_traits
+optimistic,mutafaa'il,متفائل,emotions__and__personality_traits
+pessimistic,mutašaa'im,متشائم,emotions__and__personality_traits
+unique,fariid,فريد,emotions__and__personality_traits
+fun to be around,dammu xafiif,دمه خفيف,emotions__and__personality_traits
+funny,muDaHHik,مضحّك,emotions__and__personality_traits
+dull,dammu ti'iil,دمه تقيل,emotions__and__personality_traits
+tedious,baayix/dammu baayix,بايخ \ دمه بايخ,emotions__and__personality_traits
+food,Ta3aam,طعام,food
+foods,ma'kuulaat,مأكولات,food
+meal,wajba,وجبة,food
+meals,wajabaat,وجبات,food
+delivery,tawSiil,توصيل,food
+waiter,naadil,نادل,food
+waiters,nudul,ندل,food
+breakfast,faTuur,فطور,food
+lunch,ġadaa',غداء,food
+dinner,3ašaa',عشاء,food
+recipe,waSfa,وصفة,food
+recipes,waSafaat,وصفات,food
+ingredient,miqdaar,مقدار,food
+ingredients,maqaadiir,مقادير,food
+can,3ulba,علبة,food
+cans,3ulab,علب,food
+jar,wi3aa',وعاء,food
+jars,aw3iya,اوعية,food
+box,Sunduuq,صندوق,food
+boxes,Sanaadiiq,صناديق,food
+hungry ,jaa'i3,جائع,food
+hungry s,jiyaa3 ,جياع ,food
+thirsty ,3aTšaan,عطشان,food
+thirsty s,3iTaaš ,عطاش ,food
+full ,šab3aan,شبعان,food
+full s,šabaa3a,شباعى,food
+slice,šariiHa,شريحة,food
+slices,šaraa'iH,شرائح,food
+piece,qitT3a,قطعة,food
+pieces,qiTa3,قطع,food
+drink,mašruub,مشروب,food
+drinks,mašruubaat,مشروبات,food
+juice,3aSiir,عصير,food
+juices,3aSaa'ir,عصائر,food
+water,maa',ماء,food
+tea,šaay,شاي,food
+coffee,qahwa,قهوة,food
+milk,Haliib,حليب,food
+alcohol,xamr,خمر,food
+wine,nabiid,نبيذ,food
+champagne,šampanya,شامبنية,food
+beer,biira,بيرة,food
+fruit,faakiha,فاكهة,food
+fruits,fawaakih,فواكه,food
+apple,tuffaaH,تفّاح,food
+orange,burtuqaal,برتقال,food
+banana,mooz,موز,food
+lemon,laymuun,ليمون,food
+lime,laymuun HaamiD,ليمون حامض,food
+watermelon,baTTiix,بطّيخ,food
+cantaloupe,baTTiix aSfar,بطّيخ أصفر,food
+strawberry,farawla,فراولة,food
+cherry,karaz,كرز,food
+grape,3inab,عنب,food
+raisin,zabiib,زبيب,food
+pear,kummatra,كمثرى,food
+peach,xoox,خوخ,food
+plum,barquuq,برقوق,food
+prune,barquuq naašif,برقوق ناشف,food
+pomegranate,rummaan,رمّان,food
+apricot,mišmiš,مشمش,food
+guava,guwaafa,جوافة,food
+dates ,balaH,بلح,food
+dates ,tamr,تمر,food
+pineapple,ananaas,اناناس,food
+berry,tuut,توت,food
+blueberry,tuut azraq,توت أزرق,food
+mango,mango,مانجو,food
+fig,tiin,تين,food
+olive,zeituun,زيتون,food
+popcorn,bušaar,بوشار,food
+nuts,mikassaraat,مكسّرات,food
+almonds,looz,لوز,food
+hazelnuts,bunduq,بندق,food
+peanuts,suudaani,سوداني,food
+vegetables,xaDrawaat,خضراوات,food
+carrot,jazar,جزر,food
+cauliflower,qarnabiiT,قرنبيط,food
+lettuce,xass,خسّ,food
+cucumber,xiyaar,خيار,food
+zucchini,kuusa,كوسا,food
+cabbage,krumb,كرمب,food
+peas,baazilaa',بازلاء,food
+radish,fujl,فجل,food
+radishes,fujuul,فجول,food
+celery,karafs,كرفس,food
+okra,baamiya,بامية,food
+eggplant,badinjaan,باذنجان,food
+artichoke,xuršuuf,خرشوف,food
+artichokes,xaraašiif,خراشيف,food
+spinach,sabaanix,سبانخ,food
+potato,baTaaTa,بطاطا,food
+potatoes,baTaaTis,بطاطس,food
+tomato,TamaaTim,طماطم,food
+onion,baSal,بصل,food
+garlic,tuum,ثوم,food
+clove,faSS,فص,food
+cloves,fuSuuS,فصوص,food
+corn,dura,ذرة,food
+mushroom,fuTr,فطر,food
+pumpkin,qar3a,قرعة,food
+beans,fuul,فول,food
+chickpeas,HummuS,حمص,food
+lentils,3adas,عدس,food
+soup,Hisaa',حساء,food
+salad,salaTa,سلطة,food
+meat,laHm,لحم,food
+meats,luHuum,لحوم,food
+poultry,Tuyuur,طيور,food
+chicken,dajaaj,دجاج,food
+shrimp,gambari,جمبري,food
+crab,abu galambo,أبو جلمبو,food
+lobster,karkand,كركند,food
+clam,Halazuun Sadafi,حلزون صدفي,food
+oyster,maHaar,محار,food
+octopus,ixTabuuT,اخطبوط,food
+bread,xubz,خبز,food
+loaf of bread*,raġiif,رغيف,food
+loaf of bread*s,arġifa,أرغفة,food
+* Note that a رغيف refers to something different than what Americans would typically think of as a loaf of bread. A رغيف is a whole pita bread or عيش بلدي. Here's a photo of a boy carrying a bunch of أرغفة.,,,food
+a long,3eiš fiinu,عيش فينو,food
+a round bread roll ,3eiš kayzar,عيش كيزر,food
+yeast,xamiira,خميرة,food
+dough,3ajiin,عجين,food
+cheese,jubn,جبن,food
+butter,zubda,زبدة,food
+jam,murabba,مربّى,food
+yogurt,laban zabaadi,لبن زبادي,food
+honey,3asal ,عسل ,food
+molasses,3asal aswad,عسل اسود,food
+rice,aruzz,أرزّ,food
+pasta,makaruuna,مكرونة,food
+egg,beiD,بيض,food
+desserts,Helawiyaat,حلويات,food
+ice cream,aayis kriim,آيس كريم,food
+scoop,boola,بولة,food
+cake,ka3k,كعك,food
+gum,3ilk,علك,food
+sugar,sukkar,سكّر,food
+salt,milH,ملح,food
+pepper,fulful,فلفل,food
+oil,zeit,زيت,food
+olive oil,zeit zeituun,زيت زيتون,food
+vinegar,xall,خلّ,food
+spices,bahaaraat,بهارات,food
+flour,daqiiq,دقيق,food
+wheat,qamH,قمح,food
+oats,šuufaan,شوفان,food
+barley,ša3iir,شعير,food
+mint,na3naa3,نعناع,food
+parsley,baqduunis,بقدونس,food
+cinnamon,qirfa,قرفة,food
+ginger,zanjabiil,زنجبيل,food
+cumin,kammuun,كمون,food
+turmeric,kurkum,كركم,food
+coriander,kuzbara,كزبرة,food
+cloves,qurunfil,قرنفل,food
+saffron,za3faraan,زعفران,food
+thyme,za3tar,زعتر,food
+vegetarian,nabaati,نباتي,food
+nutrition,ġidaa',غذاء,food
+appetite,šahiyya,شهية,food
+boiled,masluuq,مسلوق,food
+fried,maqli,مقلي,food
+grilled,šawiiy,شوي,food
+roasted,muHammar,محمّر,food
+stuffed,maHši,محشي,food
+minced,mafruum,مفروم,food
+crunchy,muqarmiš,مقرمش,food
+raw,nii',نئ,food
+delicious,ladiid,لذيذ,food
+delicious,šahi,شهي,food
+fresh,Taazaj,طازج,food
+natural,Tabii3i,طبيعي,food
+tender,layyin,ليّن,food
+dry,naašif,ناشف,food
+sweet,Helw,حلو,food
+hot ,Haarr,حارّ,food
+hot ,saaxin,ساخن,food
+cold,baarid,بارد,food
+taste,Ta3m,طعم,food
+tastes,Tu3uum,طعوم,food
+flavor,nakha,نكهة,food
+bitter,murr,مرّ,food
+sour,HaamiD,حامض,food
+spoiled,faasid,فاسد,food
+to go sour ,HimiD - yiHmaD ,حمض - يحمض ,food
+rotten,muta3affin,متعفّن,food
+burned,maHruuq,محروق,food
+undercooked,mi3aggin,معجّن,food
+north,šamaal,شمال,geography
+south,januub,جنوب,geography
+east,šarq,شرق,geography
+west,ġarb,غرب,geography
+direction,ittijaah,اتجاة,geography
+left,yasaar,يسار,geography
+right,yamiin,يمين,geography
+behind,waraa',وراء,geography
+in front of,amaam,أمام,geography
+next to,bijaanib,بجانب,geography
+above,fooqa,فوق,geography
+below,taHt,تحت,geography
+far ,ba3iid 3an,بعيد عن,geography
+near ,qariib min,قريب من,geography
+opposite,muqaabil,مقابل,geography
+between,beina,بين,geography
+inside,daaxil,داخل,geography
+outside,xaarij,خارج,geography
+here,huna,هنا,geography
+there,hunaaka,هناك,geography
+map,xariiTa,خريطة,geography
+maps,xaraa'iT,خرائط,geography
+compass,boSla,بوصلة,geography
+distance,masaafa,مسافة,geography
+area,misaaHa,مساحة,geography
+width,3arD,عرض,geography
+height,irtifaa3,ارتفاع,geography
+length,Tuul,طول,geography
+place; location,makaan,مكان,geography
+place; locations,amaakin,أماكن,geography
+location,mawqi3,موقع,geography
+locations,mawaaqi3,مواقع,geography
+capital,3aaSima,عاصمة,geography
+capitals,3awaaSim,عواصم,geography
+suburb,DaaHiya,ضاحية,geography
+suburbs,DawaaHin,ضواح,geography
+village,qarya,قرية,geography
+villages,qura,قرى,geography
+district,Hayy,حيّ,geography
+districts,aHyaa',أحياء,geography
+governorate,muHaafaZa,محافظة,geography
+region,minTaqa,منطقة,geography
+regions,manaaTiq,مناطق,geography
+region,iqliim,اقليم,geography
+regions,aqaaliim,أقاليم,geography
+country,balad ,بلد,geography
+countries,bilaad,بلاد,geography
+homeland,waTan,وطن,geography
+homelands,awTaan,أوطان,geography
+Europe,urubba,أوروبا,geography
+Africa,afriiqiya,أفريقيا,geography
+Asia,aasiya,أسيا,geography
+Australia,usturaaliya,أستراليا,geography
+the United States,amriika,أمريكا,geography
+England,inglitira,انجلترا,geography
+Austria,nimsa,نمسا,geography
+Germany,almaaniya,ألمانيا,geography
+Greece,yuunaan,يونان,geography
+Japan,yaabaan,يابان,geography
+North Africa,šamaal afriiqiya,شمال أفريقيا,geography
+Egypt,miSr,مصر,geography
+Aswan,aswaan,أسوان,geography
+Sinai,siinaa',سيناء,geography
+Fez,faas,فاس,geography
+Marrakesh,marraakeš,مراكش,geography
+Oran,wahraan,وهران,geography
+Tunisia,tuunis,تونس,geography
+Tunis,tuunis,تونس,geography
+Libya,liibiyaa,ليبيا,geography
+Tripoli,Taraabulus,طرابلس,geography
+Benghazi,benġaazi,بنغازي,geography
+Amman,3ammaan,عمّان,geography
+Palestine,filasTiin,فلسطين,geography
+Gaza Strip,qiTaa3 ġazza,قطاع غزة,geography
+Bethlehem,beitalaHm,بيت لحم,geography
+Jericho,ariiHa,أريحا,geography
+Jaffa,yaafa,يافة,geography
+Israel,israa'iil,إسرائيل,geography
+Lebanon,lubnaan ,لبنان,geography
+Beirut,beiruut,بيروت,geography
+Syria,suuriya,سوريا,geography
+Damascus,dimašq,دمشق,geography
+Baghdad,baġdaad,بغداد,geography
+Qatar,qaTar,قطر,geography
+Abu Dhabi,abu Zabi ,أبو ظبي,geography
+Dubai,dubayy,دبيّ,geography
+Oman,3umaan,عمان,geography
+Muscat,masqaT,مسقط,geography
+Sana'a,San3aa',صنعاء,geography
+government,Hukuuma,حكومة,government_and_politics
+governments,Hukuumaat,حكومات,government_and_politics
+political,siyaasi,سياسي,government_and_politics
+party,Hizb,حزب,government_and_politics
+parties,aHzaab,أحزاب,government_and_politics
+movement,Haraka,حركة,government_and_politics
+movements,Harakaat,حركات,government_and_politics
+faction,faSiila,فصيلة,government_and_politics
+factions,faSaa'il,فصائل,government_and_politics
+bloc,kutla,كتلة,government_and_politics
+blocs,kutal,كتل,government_and_politics
+liberal,liibiraali,ليبرالي,government_and_politics
+conservative,muHaafiZ,محافظ,government_and_politics
+neo-conservative,muHaafiZ jadiid,محافظ جديد,government_and_politics
+country,dawla,دولة,government_and_politics
+countries,duwal,دول,government_and_politics
+nation,waTan,وطن,government_and_politics
+nations,awTaan,أوطان,government_and_politics
+citizen,muwaaTin,مواطن,government_and_politics
+citizens,muwaaTinuun,مواطنون,government_and_politics
+immigrant,muhaajir,مهاجر,government_and_politics
+immigrants,muhaajiruun,مهاجرون,government_and_politics
+population,3adad sukkaan,عدد سكان,government_and_politics
+democracy,diimoqraaTiyya,ديموقراطية,government_and_politics
+republic,jumhuuriyya,جمهورية,government_and_politics
+kingdom,mamlaka,مملكة,government_and_politics
+kingdoms,mamaalik,ممالك,government_and_politics
+empire,imbraaTuuriyya,امبراطورية,government_and_politics
+empires,imbraaTuuriyyaat,امبراطوريات,government_and_politics
+mandate,intidaab,انتداب,government_and_politics
+colony,musta3mara,مستعمرة,government_and_politics
+colonies,musta3maraat,مستعمرات,government_and_politics
+dictatorship,diiktaatoriyya,ديكتاتورية,government_and_politics
+totalitarianism,šumuuliyya,شمولية,government_and_politics
+fascism,faašiyya,فاشية,government_and_politics
+communism,šuyuu3iyya,شيوعية,government_and_politics
+socialism,ištiraakiyya,اشتراكية,government_and_politics
+capitalism,ra'smaaliyya,رأسمالية,government_and_politics
+anarchism,fawDawiyya,فوضوية,government_and_politics
+patriotism,waTaniyya,وطنية,government_and_politics
+nationalism,qawmiyya,قومية,government_and_politics
+federal government,Hukuuma ittiHaadiyya,حكومة اتحادية,government_and_politics
+coalition government,Hukuuma i'tilaafiyya,حكومة ائتلافية,government_and_politics
+authority,sulTa,سلطة,government_and_politics
+authorities,sulaTaat,سلطات,government_and_politics
+legislative,tašrii3i,تشريعي,government_and_politics
+executive,tanfiidi,تنفيذي,government_and_politics
+judicial,qaDaa'i,قضائي,government_and_politics
+constitution,dustuur,دستور,government_and_politics
+constitutions,dasaatiir,دساتير,government_and_politics
+amendment,ta3diil,تعديل,government_and_politics
+amendments,ta3diilaat,تعديلات,government_and_politics
+veto,naqD,نقض,government_and_politics
+position,manSib,منصب,government_and_politics
+positions,manaaSib,مناصب,government_and_politics
+president; chairman,ra'iis,رئيس,government_and_politics
+president; chairmen,ru'asaa',رؤساء,government_and_politics
+governor; ruler,Haakim,حاكم,government_and_politics
+governor; rulers,Hukkaam,حكام,government_and_politics
+mayor,3umda,عمدة,government_and_politics
+mayors,3umad,عمد,government_and_politics
+monarch,3aahil,عاهل,government_and_politics
+monarches,3awaahil,عواهل,government_and_politics
+king,malik,ملك,government_and_politics
+kings,muluuk,ملوك,government_and_politics
+prince,amiir,أمير,government_and_politics
+princes,umaraa',أمراء,government_and_politics
+His Majesty,jalaalatuhu,جلالته,government_and_politics
+tyrant,mustabidd,مستبدّ,government_and_politics
+despot,Taaġiyya,طاغية,government_and_politics
+ambassador,safiir,سفير,government_and_politics
+ambassadors,sufaraa',سفراء,government_and_politics
+minister,waziir,وزير,government_and_politics
+ministers,wuzaraa',وزراء,government_and_politics
+deputy,naa'ib,نائب,government_and_politics
+deputies,nuwwaab,نواب,government_and_politics
+member,3uDw,عضو,government_and_politics
+members,a3Daa',أعضاء,government_and_politics
+official,mas'uul,مسؤول,government_and_politics
+officials,mas'uuluun,مسؤولون,government_and_politics
+representative,mumattil,ممثل,government_and_politics
+representatives,mumattiluun,ممثلون,government_and_politics
+spokesman,mutaHaddit bism,متحدث باسم,government_and_politics
+delegate,mab3uut,مبعوث,government_and_politics
+delegates,mab3uutuun,مبعوثون,government_and_politics
+deputy,wakiil,وكيل,government_and_politics
+deputies,wukalaa',وكلاء,government_and_politics
+councillor,mustašaar,مستشار,government_and_politics
+councillors,mustašaaruun,مستشارون,government_and_politics
+leader,za3iim,زعيم,government_and_politics
+leaders,zu3amaa',زعماء,government_and_politics
+embassy,safaara,سفارة,government_and_politics
+embassies,safaaraat,سفارات,government_and_politics
+committee,lajna,لجنة,government_and_politics
+committees,lijaan,لجان,government_and_politics
+delegation,wafd,وفد,government_and_politics
+delegations,wufuud,وفود,government_and_politics
+council,majlis,مجلس,government_and_politics
+councils,majaalis,مجالس,government_and_politics
+parliament,barlamaan,برلمان,government_and_politics
+agency,wakaala,وكالة,government_and_politics
+agencies,wakaalaat,وكالات,government_and_politics
+institution,mu'assasa,مؤسسة,government_and_politics
+institutions,mu'assasaat,مؤسسات,government_and_politics
+organization,munaZZama,منظمة,government_and_politics
+organizations,munaZZamaat,منظمات,government_and_politics
+group,jamaa3a,جماعة,government_and_politics
+groups,jamaa3aat,جماعات,government_and_politics
+resolution ,qaraar,قرار,government_and_politics
+resolution s,qaraaraat,قرارات,government_and_politics
+session,jalsa,جلسة,government_and_politics
+sessions,jalasaat,جلسات,government_and_politics
+Doctors Without Borders,munaZZamat aTibaa' bilaa Huduud,منظمة أطباء بلا حدود,government_and_politics
+Hezbollah,Hizb allaah,حزب الله,government_and_politics
+administration,idaara,ادارة,government_and_politics
+administrations,idaaraat,ادارات,government_and_politics
+govt. agency or authority,hei'a,هيئة,government_and_politics
+govt. agency or authorities,hei'aat Hukuumiyya,هيئات حكومية,government_and_politics
+intelligence,muxaabaraat,مخابرات,government_and_politics
+ministry,wizaara,وزارة,government_and_politics
+ministries,wizaaraat,وزارات,government_and_politics
+election,intixaab,انتخاب,government_and_politics
+elections,intixaabaat,انتخابات,government_and_politics
+campaign,Hamla,حملة,government_and_politics
+campaigns,Hamalaat,حملات,government_and_politics
+candidate,muraššaH,مرشح,government_and_politics
+candidates,muraššaHHuun,مرشحون,government_and_politics
+competitor,munaafis,منافس,government_and_politics
+competitors,munaafisuun,منافسون,government_and_politics
+voter,naaxib,ناخب,government_and_politics
+voters,naaxibuun,ناخبون,government_and_politics
+clean,naziih,نزيه,government_and_politics
+transparency,šaffaafiyya,شفافية,government_and_politics
+contribution,musaahama,مساهمة,government_and_politics
+contributions,musaahamaat,مساهمات,government_and_politics
+referendum,istiftaa',استفتاء,government_and_politics
+referendums,istiftaa'aat,استفتاءات,government_and_politics
+propaganda,da3aaya,دعاية,government_and_politics
+slogan,ša3aar,شعار,government_and_politics
+slogans,ša3aaraat,شعارات,government_and_politics
+empty slogan,ša3aar ajwaf,شعار أجوف,government_and_politics
+debate,munaaZara,مناظرة,government_and_politics
+debates,munaaZaraat,مناظرات,government_and_politics
+vote ,Soot,صوت,government_and_politics
+vote s,aSwaat,أصوات,government_and_politics
+poll,istiTlaa3,استطلاع,government_and_politics
+polls,istiTlaa3aat,استطلاعات,government_and_politics
+opinion,ra'i,رأي,government_and_politics
+opinions,aaraa',آراء,government_and_politics
+statistics,iHSaa'aat,احصاءات,government_and_politics
+result,natiija,نتيجة,government_and_politics
+results,nataa'ij,نتائج,government_and_politics
+half,naSf,نصف,government_and_politics
+percentage,nisba,نسبة,government_and_politics
+percentages,nisab,نسب,government_and_politics
+majority,aġlabiyya/aktariyya,أغلبية | أكثرية,government_and_politics
+with ,ma3a,مع,government_and_politics
+against,Didd,ضد,government_and_politics
+issue,qaDiyya,قضية,government_and_politics
+issues,qaDaaya,قضايا,government_and_politics
+affair,ša'n,شأن,government_and_politics
+affairs,šu'uun,شؤون,government_and_politics
+law,qaanuun,قانون,government_and_politics
+laws,qawaaniin,قوانين,government_and_politics
+policy,siyaasa,سياسة,government_and_politics
+policies,siyaasaat,سياسات,government_and_politics
+restrictions ,quyuud 3ala,قيود على,government_and_politics
+reform,iSlaaH,اصلاح,government_and_politics
+reforms,iSlaaHaat,اصلاحات,government_and_politics
+controversy ,jadal Hawla,جدل حول,government_and_politics
+scandal,faDiiHa,فضيحة,government_and_politics
+scandals,faDaa'iH,فضائح,government_and_politics
+negligence,ihmaal,اهمال,government_and_politics
+swindling,naSb,نصب,government_and_politics
+favoritism,muHaabaah,محاباة,government_and_politics
+nepotism,maHsuubiyya,محسوبية,government_and_politics
+connections,waasTa,واسطة,government_and_politics
+security,amn,أمن,government_and_politics
+safety,salaama,سلامة,government_and_politics
+peace,salaam,سلام,government_and_politics
+stability,istiqraar,استقرار,government_and_politics
+protection,Himaaya,حماية,government_and_politics
+unity,waHda,وحدة,government_and_politics
+equality,musaawaah,مساواة,government_and_politics
+independence,istiqlaal,استقلال,government_and_politics
+sovereignty,siyaada,سيادة,government_and_politics
+justice,3adl/3adaala,عدل/عدالة,government_and_politics
+tolerance,tasaamuH,تسامح,government_and_politics
+coexistence,ta3aayuš,تعايش,government_and_politics
+pluralism,ta3addud,تعدد/تعددية,government_and_politics
+diversity,tanawwu3,تنوّع,government_and_politics
+freedom,Hurriyya,حرية,government_and_politics
+dignity,karaama,كرامة,government_and_politics
+conscience,Damiir,ضمير,government_and_politics
+principle,mabda',مبدأ,government_and_politics
+principles,mabaadi',مبادئ,government_and_politics
+morals,axlaaq  xulq,أخلاق    خلق,government_and_politics
+standard,mi3yaar,معيار,government_and_politics
+standards,ma3aayiir,معايير,government_and_politics
+right,Haqq,حق,government_and_politics
+rights,Huquuq,حقوق,government_and_politics
+oppression,Zulm,ظلم,government_and_politics
+persecution,iDTihaad,اضطهاد,government_and_politics
+repression,qam3,قمع,government_and_politics
+tyranny,istibdaad,استبداد,government_and_politics
+prejudice,taHayyuz,تحيّز,government_and_politics
+discrimination,tamyiiz,تمييز,government_and_politics
+racism,3unSuriyya,عنصرية,government_and_politics
+torture,ta3diib,تعذيب,government_and_politics
+massacre,madbaHa,مذبحة,government_and_politics
+massacres,madaabiH,مذابح,government_and_politics
+genocide,ibaada ,ابادة ,government_and_politics
+ethnic cleansing,taThiir 3irqi,تطهير عرقي,government_and_politics
+honor crime,jariimat šaraf,جريمة,government_and_politics
+honor crimes,jaraa'im šaraf,جرائم شرف,government_and_politics
+prostitution,da3aara,دعارة,government_and_politics
+slavery,3ubuudiyya,عبودية,government_and_politics
+body,jism,جسم,human_body
+bodies,ajsaam,اجسام,human_body
+part,3uDw,عضو,human_body
+parts,a3Daa',اعضاء,human_body
+gland,ġudda,غدة,human_body
+glands,ġudad,غدد,human_body
+skin,jild,جلد,human_body
+skins,juluud,جلود,human_body
+head,ra's,رأس,human_body
+heads,ru'uus ,رؤوس,human_body
+skull,jumjuma,جمجمة,human_body
+skulls,jamaajim,جماجم,human_body
+brain,dimaaġ,دماغ,human_body
+brains,admiġa,ادمغة,human_body
+hair,ša3r,شَعر,human_body
+bangs,quSSa,قصّة,human_body
+straight ,naa3im,ناعم,human_body
+curly,muja33ad,مجعد,human_body
+wavy,mutamawwij,متموج,human_body
+dry,jaaf,جاف,human_body
+coarse,xašin,خشن,human_body
+greasy,duhni,دهني,human_body
+thick,samiik,سميك,human_body
+thinning ,xafiif,خفيف,human_body
+mustache,šaarib,شارب,human_body
+mustaches,šawaarib,شوارب,human_body
+beard,liHya,لحية,human_body
+beards,luHa,لحى,human_body
+bald,aSla3,أصلع,human_body
+completely bald,zalabaTTa,زلبطّة,human_body
+wig,ša3r musta3aar,شعر مستعار,human_body
+dandruff,qišra,قشرة,human_body
+face,wajh,وجه,human_body
+faces,wujuuh,وجوه,human_body
+forehead,jabiin,جبين,human_body
+foreheads,jubun,جبن,human_body
+temple,Sudġ,صدغ,human_body
+temples,aSdaaġ,اصداغ,human_body
+cheek,xudd,خد,human_body
+cheeks,xuduud,خدود,human_body
+pimple,dummal,دمّل,human_body
+pimples,damaamiil,دماميل,human_body
+acne,Habb iš-šabaab,حب الشباب,human_body
+mole,xaal,خال,human_body
+moles,xiilaan,خيلان,human_body
+freckles,namaš,نمش,human_body
+eye,3ein,عين,human_body
+eyes,3uyuun ,عيون,human_body
+eyelid,jafn,جفن,human_body
+eyelids,jufuun,جفون,human_body
+eyelash,rimš,رمش,human_body
+eyelashes,rumuuš,رموش,human_body
+pupil,bu'bu',بؤبؤ,human_body
+iris,quzaHiya,قزحية,human_body
+cornea,qarniya,قرنية,human_body
+ear,udun,اذن,human_body
+ears,aadaan,آذان,human_body
+nose,anf,أنف,human_body
+noses,unuuf,انوف,human_body
+nostril,minxaar,منخار,human_body
+nostrils,manaaxiir,مناخير,human_body
+mouth,fam,فم,human_body
+mouths,afwaah,افواه,human_body
+tonsils,loozataan,لوزتان,human_body
+saliva,lu3aab,لعاب,human_body
+lip,šafa,شفة,human_body
+lips,šifaah,شفاه,human_body
+upper,3ulwii,علوي,human_body
+lower,suflii,سفلي,human_body
+tongue,lisaan,لسان,human_body
+tongues,alsina,السنة,human_body
+tooth,sinn,سن,human_body
+teeth,asnaan,اسنان,human_body
+gums,litta,لثة,human_body
+chin,daqan,ذقن,human_body
+chins,duquun,ذقون,human_body
+jaw,fakk,فك,human_body
+jaws,fukuuk,فكوك,human_body
+neck,raqaba,رقبة,human_body
+necks,riqaab,رقاب,human_body
+nape of the neck,qafaa,قفا,human_body
+nape of the necks,aqfiya,اقفية,human_body
+throat,Hanjara,حنجرة,human_body
+throats,Hanaajir,حناجر,human_body
+esophagus,mari',مرئ,human_body
+esophaguses,amri'a | muruu',امرائة  |  مروء,human_body
+collarbone,tarquwa,ترقوة,human_body
+collarbones,taraaq,تراق,human_body
+shoulder,katif,كتف,human_body
+shoulders,aktaaf,اكتاف,human_body
+chest,Sadr,صدر,human_body
+chests,Suduur,صدور,human_body
+bust,tady,ثدي,human_body
+busts,atdaa',اثداء,human_body
+nipple,Halama,حلمة,human_body
+nipples,Halamaat,حلمات,human_body
+arm,diraa3,ذراع,human_body
+arms,adru3,اذرع,human_body
+armpit,ibT,ابط,human_body
+armpits,aabaaT,آباط,human_body
+elbow,mirfaq,مرفق,human_body
+elbows,maraafiq,مرافق,human_body
+forearm,saa3id,ساعد,human_body
+forearms,sawaa3id,سواعد,human_body
+hand,yad,يد,human_body
+hands,eid,ايد,human_body
+wrist,rusġ,رسغ,human_body
+wrists,arsaaġ,ارساغ,human_body
+finger/toe*,iSba3,اصبع,human_body
+finger/toe*s,aSaabi3,اصابع,human_body
+thumb/big toe,ibhaam,ابهام,human_body
+thumb/big toes,abaahiim,اباهيم,human_body
+index finger,sabbaaba,سبابة,human_body
+index fingers,sabbaabaat,سبابات,human_body
+middle finger,wusTa,وسطى,human_body
+middle fingers,wusaT,وسط,human_body
+ring finger,binSir,بنصر,human_body
+ring fingers,banaaSir,بناصر,human_body
+pinky finger,xinSir,خنصر,human_body
+pinky fingers,xanaaSir,خناصر,human_body
+knuckle,mafSil,مفصل,human_body
+knuckles,mafaaSil,مفاصل,human_body
+fingernail/toenail,Zufr,ظفر,human_body
+fingernail/toenails,aZfaar | aZaafir,اظفار  |  اظافر,human_body
+abdomen,baTn,بطن,human_body
+abdomen,buTuun,بطون,human_body
+stomach,ma3ida,معدة,human_body
+stomaches,mi3ad,معد,human_body
+navel,surra,سرة,human_body
+navels,surar,سرر,human_body
+waist,xaSr,خصر,human_body
+waists,xuSuur,خصور,human_body
+hip,ridf,ردف,human_body
+hips,ardaaf,ارداف,human_body
+leg,rijl,رجل,human_body
+legs,arjul,ارجل,human_body
+thigh,faxid,فخذ,human_body
+thighs,afxaad,افخاذ,human_body
+knee,rukba,ركبة,human_body
+knees,rukab,ركب,human_body
+ankle,kaaHil,كاحل,human_body
+ankles,kawaaHil,كواحل,human_body
+anklebone,bizz,بزّ,human_body
+anklebones,bizaaz ir-rigl,بزاز الرجل,human_body
+heel,3aqib,عقب,human_body
+heels,a3qaab,اعقاب,human_body
+foot,qadam,قدم,human_body
+feet,aqdaam,اقدام,human_body
+back,Zahr,ظهر,human_body
+backs,Zuhuur,ظهور,human_body
+buttocks,ridfaan,ردفان,human_body
+rear end,mo'axara,مؤخّرة,human_body
+lung,ri'a,رئه,human_body
+lungs,ri'aat,رئات,human_body
+heart,qalb,قلب,human_body
+hearts,quluub,قلوب,human_body
+rib,Dila3,ضلع,human_body
+ribs,Duluu3,ضلوع,human_body
+liver,kabd,كبد,human_body
+livers,kubuud,كبود,human_body
+kidney,kulya,كلية,human_body
+kidneys,kula,كلى,human_body
+colon,quuluun,قولون,human_body
+colons,quuluunaat,قولونات,human_body
+pancreas,bankriiaas,بنكرياس,human_body
+bladder,mataana,مثانة,human_body
+bladders,mataanaat,مثانات,human_body
+appendix,zaa'ida,زائدة,human_body
+appendices,zawaa'id duudiya,زوائد دودية,human_body
+blood,damm,دمّ,human_body
+blood,dimaa',دماء,human_body
+artery,širyaan,شريان,human_body
+arteries,šaraayiin,شرايين,human_body
+vein,3irq,عرق,human_body
+veins,3uruuq,عروق,human_body
+jugular vein,wariid,وريد,human_body
+jugular veins,wurud,ورد,human_body
+muscle,3aDala,عضلة,human_body
+muscles,3aDalaat,عضلات,human_body
+bone,3aZm,عظم,human_body
+bones,3iZaam,عظام,human_body
+hearing,sam3,سمع,human_body
+breath,nafas,نفس,human_body
+breaths,anfaas,أنفاس,human_body
+to tickle,zaġzaġ - yizaġzaġ ,زغزغ - يزغزغ ,human_body
+hiccups,fuwaaq,فواق,human_body
+to fart/break wind silently,fisi - yifsi ,فسي - يفسي ,human_body
+a silent fart,fasya,فسى,human_body
+a silent farts,fasyaat,فسيات,human_body
+a loud fart,DarTa,ضرطة,human_body
+a loud farts,ZarTaat,ظرطات,human_body
+fat,samiin,سمين,human_body
+thin,naHiif,نحيف,human_body
+tall,Tawiil,طويل,human_body
+talls,Tuwaal,طوال,human_body
+short,qaSiir,قصير,human_body
+shorts,quSaar,قصار,human_body
+beautiful ,jamiil ,جميل ,human_body
+handsome,wasiim,وسيم,human_body
+ugly,baši3,بشع,human_body
+uglies,weHšiin,وحشين,human_body
+dye,Sibġa,صبغة,human_body
+tattoo,wašm,وشم,human_body
+tattoos,wušuum,وشوم,human_body
+scar,nadba,ندبة,human_body
+scars,andaab,أنداب,human_body
+human,insaan,إنسان,mankind_and_kinship
+human being; mankind,bašar,بشر,mankind_and_kinship
+human being,bani aadam,بني آدم,mankind_and_kinship
+people,naas,ناس,mankind_and_kinship
+people ,ša3b,شعب,mankind_and_kinship
+people s,šu3uub,شعوب,mankind_and_kinship
+person,šaxS,شخص,mankind_and_kinship
+people,ašxaaS,أشخاص,mankind_and_kinship
+person (e.g. in a census,nasama,نسمة,mankind_and_kinship
+person (e.g. in a censuses,nasamaat,نسمات,mankind_and_kinship
+individual ,fard,فرد,mankind_and_kinship
+individual s,afraad,أفراد,mankind_and_kinship
+life,Hayaah,حياة,mankind_and_kinship
+lives,Hayawaat,حيوات,mankind_and_kinship
+young ,Saġiir,صغير,mankind_and_kinship
+young s,Suġaar,صغار,mankind_and_kinship
+age,3omr,عمر,mankind_and_kinship
+How old are you?,kam 3omrak?,كم عمرك؟,mankind_and_kinship
+baby,Tifl raDii3,طفل رضيع,mankind_and_kinship
+babies,aTfaal ruDaa3,أطفال رضاع,mankind_and_kinship
+child,Tifl,طفل,mankind_and_kinship
+children,aTfaal,أطفال,mankind_and_kinship
+boy or son,walad,ولد,mankind_and_kinship
+boy or sons,awlaad,أولاد,mankind_and_kinship
+boy,Sabi,صبي,mankind_and_kinship
+boys,Sibyaan,صبيان,mankind_and_kinship
+son,ibn,ابن,mankind_and_kinship
+sons,abnaa',أبناء,mankind_and_kinship
+girl or daughter,bint,بنت,mankind_and_kinship
+girl or daughters,banaat,بنات,mankind_and_kinship
+daughter,kariima,كريمة,mankind_and_kinship
+daughters,karaa'im,كرائم,mankind_and_kinship
+girl,Sabiyya,صبية,mankind_and_kinship
+girls,Sabaaya,صبايا,mankind_and_kinship
+kid,3ayyil,عيّل,mankind_and_kinship
+kids,3iyaal,عيال,mankind_and_kinship
+teenager,muraahiq,مراهق,mankind_and_kinship
+young boy/man,fatan,فتى,mankind_and_kinship
+young boy/men,fityaan,فتيان,mankind_and_kinship
+young girl/woman,fataah,فتاة,mankind_and_kinship
+young girl/women,fatayaat,فتيات,mankind_and_kinship
+young people,šabaab,شباب,mankind_and_kinship
+young man,šaabb,شاب,mankind_and_kinship
+young men,šubbaan,شبان,mankind_and_kinship
+young woman,šaabba,شابة,mankind_and_kinship
+young women,šaabbaat,شابات,mankind_and_kinship
+minor,qaaSir,قاصر,mankind_and_kinship
+adult,baaliġ,بالغ,mankind_and_kinship
+man,rajul,رجل,mankind_and_kinship
+men,rijaal,رجال,mankind_and_kinship
+woman,imra'a,امرأة*,mankind_and_kinship
+women,nisaa',نساء,mankind_and_kinship
+sex or  race,jins,جنس,mankind_and_kinship
+sex or  races,ajnaas,أجناس,mankind_and_kinship
+family,3aa'ila,عائلة,mankind_and_kinship
+families,3aa'ilaat,عائالات,mankind_and_kinship
+ family,usra,أسرة,mankind_and_kinship
+ families,usar,أسر,mankind_and_kinship
+family ,ahl,أهل,mankind_and_kinship
+relative,qariib,قريب,mankind_and_kinship
+relatives,aqribaa',أقرباء,mankind_and_kinship
+father,ab,أب,mankind_and_kinship
+fathers,aabaa',آباء,mankind_and_kinship
+dad,baaba,بابا,mankind_and_kinship
+mother,umm,أمّ,mankind_and_kinship
+mothers,ummahaat,أمهات,mankind_and_kinship
+mom,maama,ماما,mankind_and_kinship
+brother,ax,أخ,mankind_and_kinship
+brothers,ixwa,اخوة,mankind_and_kinship
+ brother,šaqiiq,شقيق,mankind_and_kinship
+ brothers,ašiqaa',أشقاء,mankind_and_kinship
+sister,uxt,أخت,mankind_and_kinship
+sisters,axawaat,اخوات,mankind_and_kinship
+twin,taw'am,تؤام,mankind_and_kinship
+twins,tawaa'im,توائم,mankind_and_kinship
+orphan,yatiim,يتيم,mankind_and_kinship
+orphans,yataama,يتامى,mankind_and_kinship
+paternal uncle,3amm,عمّ,mankind_and_kinship
+paternal uncles,3umuum,عموم,mankind_and_kinship
+paternal aunt,3amma,عمّة,mankind_and_kinship
+paternal aunts,3ammaat,عمّات,mankind_and_kinship
+maternal uncle,xaal,خال,mankind_and_kinship
+maternal uncles,axwaal,أخوال,mankind_and_kinship
+maternal aunt,xaala,خالة,mankind_and_kinship
+maternal aunts,xaalaat,خالات,mankind_and_kinship
+nephew/niece,ibn/bint ax/uxt,ابن/بنت اخ/اخت,mankind_and_kinship
+grandfather,jadd,جدّ,mankind_and_kinship
+grandfathers,juduud,جدود,mankind_and_kinship
+grandpa,giddu,جدو,mankind_and_kinship
+grandmother,jadda,جدة,mankind_and_kinship
+grandmothers,jaddaat,جدات,mankind_and_kinship
+grandma,teta,تيتا,mankind_and_kinship
+grandchild,Hafiid,حفيد,mankind_and_kinship
+grandchildren,aHfaad,أحفاد,mankind_and_kinship
+in-law,nasiib,نسيب,mankind_and_kinship
+in-laws,ansibaa',أنسباء,mankind_and_kinship
+father-in-law,Hamaah,حماه,mankind_and_kinship
+father-in-laws,aHmaa',احماء,mankind_and_kinship
+mother-in-law,Hamaah,حماة,mankind_and_kinship
+mother-in-laws,Hamawaat,حموات,mankind_and_kinship
+son-in-law,Sihr,صهر,mankind_and_kinship
+son-in-laws,aShaar,أصهار,mankind_and_kinship
+daughter-in-law,kanna,كنّة,mankind_and_kinship
+daughter-in-laws,kanaa'in,كنائن,mankind_and_kinship
+brother-in-law ,silf,سلف,mankind_and_kinship
+brother-in-law s,aslaaf,أسلاف,mankind_and_kinship
+brother-in-law ,3adiil,عديل,mankind_and_kinship
+brother-in-law s,3adaa'il,عدائل,mankind_and_kinship
+sister-in-law,silfa,سلفة,mankind_and_kinship
+sister-in-laws,salaayif,,mankind_and_kinship
+single,a3zab,أعزب,mankind_and_kinship
+marriage,zawaaj,زواج,mankind_and_kinship
+wedding,zifaaf,زفاف,mankind_and_kinship
+weddings,afraaH,أفراح,mankind_and_kinship
+* used by Christians in Egypt *,ikliil,إكليل,mankind_and_kinship
+honeymoon,šahr 3asal,شهر عسل,mankind_and_kinship
+dowry,mahr,مهر,mankind_and_kinship
+dowries,muhuur,مهور,mankind_and_kinship
+engaged,maxTuub,مخطوب,mankind_and_kinship
+engagement,xuTuuba,خطوبة,mankind_and_kinship
+* used by Christians in Egypt *,noSS ikliil,نص إكليل,mankind_and_kinship
+to break an engagement,fisix - yifsax  xuTuuba,فسخ - يفسخ  خطوبة,mankind_and_kinship
+bride,3aruus,عروس,mankind_and_kinship
+brides,3araa'is,عرائس,mankind_and_kinship
+bridegroom,3ariis,عريس,mankind_and_kinship
+bridegrooms,3irsaan,عرسان,mankind_and_kinship
+husband,zawj,زوج,mankind_and_kinship
+husbands,azwaaj,أزواج,mankind_and_kinship
+wife,zawja,زوجة,mankind_and_kinship
+wives,zawjaat,زوجات,mankind_and_kinship
+pregnant,Haamil,حامل,mankind_and_kinship
+divorce,Talaaq,طلاق,mankind_and_kinship
+society or community,mujtama3,مجتمع,mankind_and_kinship
+society or communities,mujtama3aat,مجتمعات,mankind_and_kinship
+culture,taqaafa,ثقافة,mankind_and_kinship
+cultures,taqaafaat,ثقافات,mankind_and_kinship
+civilization,HaDaara,حضارة,mankind_and_kinship
+civilizations,HaDaaraat,حضارات,mankind_and_kinship
+tradition,taqliid,تقليد,mankind_and_kinship
+traditions,taqaaliid,تقاليد,mankind_and_kinship
+custom,3aada,عادة,mankind_and_kinship
+customs,3aadaat,عادات,mankind_and_kinship
+dialect,lahaja,لهجة,mankind_and_kinship
+dialects,lahajaat,لهجات,mankind_and_kinship
+tribe,qabiila,قبيلة,mankind_and_kinship
+tribes,qabaa'il,قبائل,mankind_and_kinship
+news,xabar,خبر,media
+news,axbaar,أخبار,media
+current,Haali,حالي,media
+latest,aaxir,آخر,media
+development,taTawwur,تطوّر,media
+developments,taTawwuraat,تطوّرات,media
+event,Hadat,حدث,media
+events,aHdaat,أحداث,media
+situation,waD3,وضع,media
+situations,awDaa3,أوضاع,media
+state,Haal,حال,media
+states,aHwaal,أحوال,media
+circumstance,Zarf,ظرف,media
+circumstances,Zuruuf,ظروف,media
+topic,mawDuu3,موضوع,media
+topics,mawaaDii3,مواضيع,media
+phenomenon,Zaahira,ظاهرة,media
+phenomena,Zawaahir,ظواهر,media
+field,majaal,مجال,media
+fields,majaalaat,مجالات,media
+identity,hawiyya,هوية,media
+identities,hawiyyaat,هويات,media
+measure,ijraa',اجراء,media
+measures,ijraa'aat,اجراءات,media
+list,qaa'ima,قائمة,media
+lists,qawaa'im,قوائم,media
+guest,Deif,ضيف,media
+guests,Duyuuf,ضيوف,media
+summit,qimma,قمة,media
+summits,qimmaat,قمات,media
+meeting,ijtimaa3,اجتماع,media
+meetings,ijtimaa3aat,اجتماعات,media
+conference,mu'tamar,مؤتمر,media
+conferences,mu'tamaraat,مؤتمرات,media
+symposium,nadwa,ندوة,media
+symposia,nadawaat,ندوات,media
+session or round,doora,دورة,media
+session or rounds,dooraat,دورات,media
+to be held,"in3aqada, yan3aqidu ",انعقد – ينعقد ,media
+contact,ittiSaal,اتصال,media
+contacts,ittiSaalaat ma3a/bi,اتصالات مع | بـ,media
+relations with,3alaqaat ma3a,علاقات مع,media
+link,raabiT,رابط,media
+links,rawaabiT bi,روابط بـ,media
+number,3adad,عدد,media
+numbers,a3daad,أعداد,media
+common,muštarak,مشترك,media
+mutual,mutabaadal,متبادل,media
+means,sabiil,سبيل,media
+means,subul,سبل,media
+manner,Tariiqa,طريقة,media
+manners,Taraa'iq,طرائق,media
+beginning,bidaaya,بداية,media
+end,nihaaya,نهاية,media
+statement,taSriiH,تصريح,media
+statements,taSriiHaat,تصريحات,media
+announcement,i3laan,اعلان,media
+announcements,i3laanaat,اعلانات,media
+official ,rasmi,رسمي,media
+decision; resolution,qaraar,قرار,media
+decision; resolutions,qaraaraat,قرارات,media
+petition,3ariiDa,عريضة,media
+petitions,3araa'iD,عرائض,media
+initiative,mubaadara,مبادرة,media
+initiatives,mubaadaraat,مبادرات,media
+suggestion,iqtiraaH,اقتراح,media
+suggestions,iqtiraaHaat,اقتراحات,media
+hypothetical,iftiraaDi,افتراضي,media
+plan,xiTTa,خطة,media
+plans,xuTaT,خطط,media
+project,mašruu3,مشروع,media
+projects,mašaarii3,مشاريع,media
+speech,xiTaab,خطاب,media
+speeches,xiTaabaat,خطابات,media
+reply,radd,ردّ,media
+replies,ruduud,ردود,media
+reaction,radd fi3l,ردّ فعل,media
+development,tanmiyya,تنمية,media
+growth,numuww,نمو,media
+continuing,mustamirr,مستمر,media
+prepared,musta3idd,مستعد,media
+agenda,barnaamaj 3amal,برنامج عمل,media
+control,haymana,هيمنة,media
+interest,maSlaHa,مصلحة,media
+interests,maSaaliH,مصالح,media
+will,iraada,ارادة,media
+desire,raġba,رغبة,media
+desires,raġabaat fi,رغبات في,media
+observer,muraaqib,مراقب,media
+observers,muraaqibuun,مراقبون,media
+vision,ru'iya,رؤية,media
+visions,ru'a,رؤى,media
+comprehensive,šaamil,شامل,media
+complete,kaamil,كامل,media
+basis,asaas,أساس,media
+bases,usus,أسس,media
+accusation,ittihaam,اتّهام,media
+accusations,ittihaamaat,اتّهامات,media
+invalid,baaTil,باطل,media
+demonstration,muZaahara,مظاهرة,media
+demonstrations,muZaaharaat,مظاهرات,media
+crowded,Haašid,حاشد,media
+march,masiira,مسيرة,media
+marches,masiiraat,مسيرات,media
+parade,isti3raaD,استعراض,media
+parades,isti3raaDaat,استعراضات,media
+riot,šaġab,شغب,media
+popular demand,iqbaal ša3bi,اقبال شعبي,media
+sit-in,i3tiSaam,اعتصام,media
+sit-ins,i3tiSaamaat,اعتصامات,media
+strike,iDraab,اضراب,media
+strikes,iDraabaat,اضرابات,media
+protesting cry,hutaaf,هتاف,media
+protesting cries,hutaafaat,هتافات,media
+sign or leaflet,laafita,لافتة,media
+sign or leaflets,laafitaat,لافتات,media
+international,dawli,دولي,media
+regional,iqliimi,إقليمي,media
+local,maHalli,محلي,media
+bilateral,tanaa'i,تنائي,media
+choice,xiyaar,خيار,media
+choices,xiyaaraat,خيارات,media
+investigation,taHqiiq,تحقيق,media
+investigations,taHqiiqaat,تحقيقات,media
+position,mawqif,موقف,media
+positions,mawaaqif,مواقف,media
+operation; process,3amaliyya,عملية,media
+operation; processes,3amaliyyaat,عمليات,media
+pressure on,DaġT,ضغط,media
+pressure ons,DuġuuT 3ala,ضغوط على,media
+sudden,mufaaji',مفاجئ,media
+legitimate,mašruu3,مشروع,media
+borders ,Huduud  Hadd,حدود    حدّ,media
+wall,suur,سور,media
+walls,aswaar,أسوار,media
+letter,risaala,رسالة,media
+letters,rasaa'il,رسائل,media
+content,maDmuun,مضمون,media
+contents,maDaamiin,مضامين,media
+element ,3unSur,عنصر,media
+element s,3anaaSir,عناصر,media
+gang,3iSaaba,عصابة,media
+gangs,3iSaabaat,عصابات,media
+activist,naašiT,ناشط,media
+activists,naašiTuun,ناشطون,media
+volunteer,mutaTawwi3,متطوع,media
+volunteers,mutaTawwi3a,متطوعة,media
+charity (as a concept,xayriyya,خيرية,media
+hiding place,maxba',مخبأ,media
+hiding places,maxaabi',مخابئ,media
+unknown,majhuul,مجهول,media
+alert,istinfaar,استنفار,media
+chain,silsila,سلسلة,media
+chains,salaasil,سلاسل,media
+source,maSdar,مصدر,media
+sources,maSaadir,مصادر,media
+personal,šaxSi,شخصي,media
+area,saaHa,ساحة,media
+areas,saaHaat,ساحات,media
+framework,iTaar,اطار,media
+frameworks,iTaaraat,اطارات,media
+patrol,dawra,دورة,media
+patrols,dawriyaat,دوريات,media
+extensive,muwassa3,موسع,media
+level,mustawa,مستوى,media
+levels,mustawayaat,مستويات,media
+guaranteeing,kafiil bi,كفيل بـ,media
+character or stamp,Taabi3,طابع,media
+character or stamps,Tawaabi3,طوابع,media
+size,Hajm,حجم,media
+sizes,aHjaam,أحجام,media
+amount,HaSiila,حصيلة,media
+amounts,HaSaa'il,حصائل,media
+coming from,qaadiman min,قادما من,media
+going to,mutawajjihan ila,متوجها إلى,media
+extraordinary,istitnaa'i,استثنائي,media
+influence,ta'tiir 3ala,تأثير على,media
+checkpoint,nuqTat taftiiš,نقطة تفتيش,media
+settlement,mustawTina,مستوطنة,media
+settlements,mustawTinaat,مستوطنات,media
+refugee,laaji',لاجئ,media
+refugees,laaji'uun,لاجئون,media
+camp,muxayyam,مخيم,media
+camps,muxayyamaat,مخيمات,media
+total,ijmaali,اجمالي,media
+certainty,tiqqa,ثقة,media
+doubt,šakk,شك,media
+doubts,šukuuk,شكوك,media
+offer,3arD,عرض,media
+offers,3uruuD,عروض,media
+colonialism,isti3maar,استعمار,media
+entity,kiyaan,كيان,media
+renaissance,nahDa,نهضة,media
+trend,tayyaar,تيار,media
+trends,tayyaaraat,تيارات,media
+ideological,3aqaa'idi,عقائدي,media
+complementing,mukammil,مكمّل,media
+aiming at,raami ila,رامي إلى,media
+wealth,tarwa,ثروة,media
+wealth,tarawaat,ثروات,media
+effective,fa33aal,فعال,media
+useful,mufiid,مفيد,media
+flag,3alam,علم,media
+flags,a3laam,أعلام,media
+flag,raaya,راية,media
+flags,raayaat,رايات,media
+term ,fitra,فترة,media
+term s,fitaraat,فترات,media
+term  or state,wilaaya,ولاية,media
+term  or states,wilaayaat,ولايات,media
+oil,nafT,نفط,media
+crude ,xaam,خام,media
+blaze,Hariiq,حريق,media
+fire,naar,نار,media
+misunderstanding,suu' tafaahum,سوء تفاهم,media
+through,3abr,عبر,media
+by means of,min Tariiq,من طريق,media
+almost,naHw,نحو,media
+resulting from,jarraa',جراء,media
+in order to,min ajl,من أجل,media
+during,xilaal,خلال,media
+in the period of...,ibbaan,إبان,media
+while,fiima,فيما,media
+since,mundu,منذ,media
+at,lada,لدى,media
+within ,fi ġuDuun,في غضون,media
+until or in order to,Hatta,حتى,media
+immediately,fawran,فورا,media
+recently,mu'axxiran,مؤخرا,media
+previous,saabiq,سابق,media
+next,qaadim,قادم,media
+shortly before,qabiil,قبيل,media
+as a prelude to,tamhiidan li,تمهيدا لـ,media
+imminent,murtaqab,مرتقب,media
+after,fi a3qaab,في أعقاب,media
+immediately after,itra,إثر,media
+later on,laaHiqan,لاحقا,media
+accordingly,muqaabil daalik,مقابل ذلك,media
+aside from,faDlan 3an,فضلا عن,media
+either/whether __ or __,sawaa' __ am __,سواء __ أم __,media
+in view of; with respect to,min Haytu ,من حيث ,media
+where,Haytu,حيث,media
+ when,Hiin,حين,media
+considering,fi Doo',في ضوء,media
+considering ,3ala i3tibaar anna,على اعتبار أن,media
+especially,xaaSSatan,خاصة,media
+sooner or later,3aajilan am aajlan,عاجل أم آجلا,media
+on another hand,min jiha uxra,من جهة أخرى,media
+propaganda; advertising,di3aaya,دعاية,media_2
+brainwashing,ġasiil dimaaġ,غسيل دماغ,media_2
+blame,3itaab/loom,عتاب | لوم,media_2
+scapegoat,kabš fidaa',كبش فداء,media_2
+pretext,Hujja,حجّة,media_2
+pretexts,Hujaj,حجج,media_2
+excuse for,3udr,عذر,media_2
+excuse fors,a3daar li,أعذار لـ,media_2
+acceptable,maqbuul,مقبول,media_2
+reasonable,ma3quul,معقول,media_2
+appropriate,munaasib,مناسب,media_2
+fair,munSif,منصف,media_2
+allowed,masmuuH,مسموح,media_2
+permission,idn,اذن,media_2
+permit,tarxiiS,ترخيص,media_2
+permits,taraaxiiS,تراخيص,media_2
+forbidden,mamnuu3/maHZuur,ممنوع | محظور,media_2
+censorship of,raqaaba 3ala,رقابة على,media_2
+offensive,musi'/muhiin,مسئ | مهين,media_2
+limiting condition,taHaffuZ,تحفظ,media_2
+limiting conditions,taHaffuZaat,تحفظات,media_2
+limited,maHSuur 3ala,محصور على,media_2
+tragedy,ma'saah,مأساة,media_2
+tragedies,ma'aasin,مآس,media_2
+disaster,muSiiba,مصيبة,media_2
+disasters,muSiibaat,مصيبات,media_2
+step ,xaTwa,خطوة,media_2
+step s,xaTawaat ,خطوات ,media_2
+mission,mahamma,مهمة,media_2
+missions,mahaamm,مهام,media_2
+determined,mu3ayyan,معيّن,media_2
+accident,haaditha,حادثة,media_2
+accidents,hawaadit,حوادث,media_2
+proofs,adilla 3ala,أدلة على,media_2
+high treason,xiyaana 3uZma,خيانة عظمى,media_2
+agent; collaborator,3amiil,عميل,media_2
+agent; collaborators,3umalaa',عملاء,media_2
+collaborator,muta3aawin,متعاون,media_2
+collaborators,muta3aawinuun,متعاونون,media_2
+double agent,3amiil muzdawaj,عميل مزدوج,media_2
+spy,jaasuus,جاسوس,media_2
+spies,jawaasiis,جواسيس,media_2
+traitor,xaa'in,خائن,media_2
+traitors,xawana,خونة,media_2
+secretly,sirriyyan,سريا,media_2
+secret,sirr,سرّ,media_2
+secrets,asraar,أسرار,media_2
+privilege,imtiyaaz,امتياز,media_2
+privileges,imtiyaazaat,امتيازات,media_2
+special treatment,mu3aamala xaaSSa,معاملة خاصّة,media_2
+differentiation,tafriqa bein,تفرقة بين,media_2
+bias towards/against,inHiyaaz li/Didd,انحياز لـ | ضد,media_2
+biased,munHaaz,منحاز,media_2
+neutral,muHaayid,محايد,media_2
+sectarian,Taa'ifi,طائفي,media_2
+aid,3oon,عون,media_2
+human shield,dir3 bašari,درع بشري,media_2
+human shields,duruu3 bašariyya,دروع بشرية,media_2
+chance,furSa,فرصة,media_2
+chances,furaS,فرص,media_2
+intense,katiif,كثيف,media_2
+intenses,kitaaf,كثاف,media_2
+isolation from,3uzla 3an,عزلة عن,media_2
+terrorism,irhaab,ارهاب,media_2
+terrorist,irhaabi,ارهابي,media_2
+cell,xaliyya,خلية,media_2
+cells,xalaayaa,خلايا,media_2
+suicide bombing,3amaliyya intiHaariyya,عملية انتحارية,media_2
+extremist,mutaTarrif,متطرف,media_2
+fanatic,muta3aSSib,متعصب,media_2
+fundamentalist,uSuuli,أصولي,media_2
+moderate,mu3tadil,معتدل,media_2
+backwards,mutaxallif,متخلّف,media_2
+progressive,mutaqaddim,متقدّم,media_2
+modern,Hadiit,حديث,media_2
+moderns,Hudataa',حدثاء,media_2
+condition,šarT,شرط,media_2
+conditions,šuruuT,شروط,media_2
+requirements,mutaTallibaat,متطلّبات,media_2
+necessity,Daruura,ضرورة,media_2
+necessities,Daruuraat,ضرورات,media_2
+talent,mawhiba,موهبة,media_2
+talents,mawaahib,مواهب,media_2
+strong ,qawi,قوي,media_2
+strong s,aqwiyaa' ,أقوياء  ,media_2
+weak ,Da3iif,ضعيف,media_2
+weak s,Du3afaa' ,ضعفاء ,media_2
+firm,watiiq,وثيق,media_2
+harm,Darar,ضرر,media_2
+harms,aDraar,أضرار,media_2
+to no avail,hadran,هدرا,media_2
+headquarters,ma3qil,معقل,media_2
+headquarters,ma3aaqil,معاقل,media_2
+model,numuudaj,نموذج,media_2
+models,numuudajaat,نموذجات,media_2
+after the pattern of,3ala ġiraar,على غرار,media_2
+equally,3ala Haddin sawaa',على حدّ سواء,media_2
+nuclear program,barnaamaj nawawi,برنامج نووي,media_2
+reactor,munša'a,منشأة,media_2
+reactors,munša'aat,منشآت,media_2
+compound,mujamma3,مجمّع,media_2
+sanctions,3uquubaat,عقوبات,media_2
+hostage,rahiina,رهينة,media_2
+hostages,rahaa'in,رهائن,media_2
+to order,"amara, yu'muru ",أمر – يؤمر ,media_2
+order,amr,أمر,media_2
+orders,awaamir,أوامر,media_2
+dictation,imlaa',املاء,media_2
+dictations,imlaa'aat,املاءات,media_2
+nadir,tadannin,تدنٍ,media_2
+spread,tafaššin,تفشٍ,media_2
+presence,wujuud,وجود,media_2
+absence,ġiyaab,غياب,media_2
+lack of,3adam,عدم,media_2
+obstacle,3aa'iq,عائق,media_2
+obstacles,mu3awwaqaat,معوقات,media_2
+deterrent,raadi3,رادع,media_2
+deterrents,rawaadi3,روادع,media_2
+challenge,taHaddin,تحدٍ,media_2
+challenges,taHaddiyaat,تحديات,media_2
+difficulty,Su3uuba,صعوبة,media_2
+difficulties,Su3uubaat,صعوبات,media_2
+disintegration,tafakkuk,تفكك,media_2
+breakdown,inhiyaar,انهيار,media_2
+fall,inHidaar,انحدار,media_2
+deterioration,tadahuur,تدهور,media_2
+exacerbation,tafaaqum,تفاقم,media_2
+destabilization,za3za3a,زعزعة,media_2
+chaos,fawDa,فوضى,media_2
+crisis,azma,أزمة,media_2
+crises,azamaat,أزمات,media_2
+tension,tawattur,توتر,media_2
+tensions,tawatturaat,توترات,media_2
+problem,muškila,مشكلة,media_2
+problems,muškilaat/mišaakil,مشكلات | مشاكل,media_2
+commitment to,iltizaam,التزام,media_2
+commitment tos,iltizaamaat bi,التزامات بـ,media_2
+adherence to,tamassuk bi,تمسّك بـ,media_2
+competition,munaafasa,منافسة,media_2
+contest,musaabaqa,مسابقة,media_2
+side,Taraf,طرف,media_2
+sides,aTraaf,أطراف,media_2
+goal,hadaf,هدف,media_2
+goals,ahdaaf,أهداف,media_2
+aim,ġaraD,غرض,media_2
+aims,aġraaD,أغراض,media_2
+intention,niyya,نية,media_2
+intentions,nawaayaa,نوايا,media_2
+accomplishment,injaaz,انجاز,media_2
+accomplishments,injaazaat,انجازات,media_2
+plea,tawassul,توسّل,media_2
+pleas,tawassulaat,توسّلات,media_2
+danger ,xaTar ,خطر  ,media_2
+burden ,3ib',عبء,media_2
+burden s,a3baa' 3ala,أعباء على,media_2
+numerous,muta3addid,متعدّد,media_2
+different,muxtalif,مختلف,media_2
+miscellaneous,mutafarriq,متفرّق,media_2
+various,mutanawwi3,متنوّع,media_2
+difference,farq,فرق,media_2
+differences,furuuq,فروق,media_2
+to assassinate,"iġtaala, yaġtuulu ",اغتال – يغتول ,media_2
+effort,jahd,جهد,media_2
+efforts,juhuud,جهود,media_2
+welfare,rafaahiyya,رفاهية,media_2
+possibility ,imkaaniyya,امكانية,media_2
+possibility s,imkaaniyyaat ,امكانيات ,media_2
+probability ,iHtimaal,احتمال,media_2
+probability s,iHtimaalaat ,احتمالات ,media_2
+stage,marHala,مرحلة,media_2
+stages,maraaHil,مراحل,media_2
+behavior,taSarrufaat,تصرفات,media_2
+attitude,3aqliyya,عقلية,media_2
+attitudes,3aqliyyaat,عقليات,media_2
+occasion,munaasaba,مناسبة,media_2
+occasions,munaasabaat,مناسبات,media_2
+anniversary; memory,dikra,ذكرى,media_2
+anniversary; memories,dikrayaat,ذكريات,media_2
+economy,iqtiSaad,اقتصاد,media_2
+trade,tijaara,تجارة,media_2
+unemployment,baTaala,بطالة,media_2
+export,Saadir,صادر,media_2
+exports,Saadiraat,صادرات,media_2
+import,mustawrad,مستورد,media_2
+imports,mustawradaat,مستوردات,media_2
+resource,mawrid,مورد,media_2
+resources,mawaarid,موارد,media_2
+supply,tawriid,توريد,media_2
+market,suuq,سوق,media_2
+markets,aswaaq,أسواق,media_2
+stock market,borSa,بورصة,media_2
+price,si3r,سعر,media_2
+prices,as3aar,أسعار,media_2
+currency,3umla,عملة,media_2
+share,sahm,سهم,media_2
+shares,ashum,أسهم,media_2
+bond,sanad,سند,media_2
+bonds,sanadaat,سندات,media_2
+profit,ribH,ربح,media_2
+profits,arbaaH,أرباح,media_2
+budget,miizaaniyya,ميزانية,media_2
+industry,Sinaa3a,صناعة,media_2
+industries,Sinaa3aat,صناعات,media_2
+products,muntajaat,منتجات,media_2
+goods,baDaa'i3  biDaa3a,بضائع  بضاعة,media_2
+commodities,sil3a  sila3,سلعة    سلع,media_2
+monopoly,iHtikaar,احتكار,media_2
+rise in prices,ġalaa',غلاء,media_2
+inflation,taDaxxum,تضخم,media_2
+consumption,istihlaak,استهلاك,media_2
+surplus,faa'iD,فائض,media_2
+average,mu3addal,معدل,media_2
+tax,Dariiba,ضريبة,media_2
+taxes,Daraa'ib,ضرائب,media_2
+cost,takliif,تكليف,media_2
+costs,takaaliif,تكاليف,media_2
+expenditure,infaaq,انفاق,media_2
+prosperity,raxaa',رخاء,media_2
+recession,kasaad,كساد,media_2
+GDP,naatij maHalli ijmaali,ناتج محلي اجمالي,media_2
+containment,iHtiwaa',احتواء,media_3
+restiveness,iDTiraab,اضطراب,media_3
+restivenesses,iDTiraabaat,اضطرابات,media_3
+deficiency; defective,xalal,خلل,media_3
+panic,hala3 min,هلع من,media_3
+controversy,jadal,جدل,media_3
+debate,sijaal,سجال,media_3
+outcry,Dajja,ضجّة,media_3
+chaotic,hamaji,همجي,media_3
+opponent,xaSm,خصم,media_3
+opponents,xuSuum,خصوم,media_3
+legacy,tarika,تركة,media_3
+legacies,tarikaat,تركات,media_3
+legitimacy,šar3iyya,شرعية,media_3
+credibility,miSdaaqiyya,مصداقية,media_3
+reputation,sum3a,سمعة,media_3
+morale,ma3nawiyyaat,معنويات,media_3
+awareness,wa3y,وعي,media_3
+indifference,la mubaalaah,لا مبالاة,media_3
+distortion,tašwiih,تشويه,media_3
+positive point,iijaabiyya,إيجابية,media_3
+positive points,iijaabiyyaat,إيجابيات,media_3
+negative point,silbiyya,سلبية,media_3
+negative points,silbiyyaat,سلبيات,media_3
+benefit,maziyya,مزية,media_3
+benefits,mazaaya,مزايا,media_3
+benefit,faa'ida,فائدة,media_3
+benefits,fawaa'id,فوائد,media_3
+gain,3aa'ida,عائدة,media_3
+gains,3awaa'id,عوائد,media_3
+use,naf3,نفع,media_3
+value,qiima,قيمة,media_3
+quantity,kammiyya,كمية,media_3
+quantities,kammiyyaat,كميات,media_3
+terminology,muSTalaH,مصطلح,media_3
+terminologies,muSTalaHaat,مصطلحات,media_3
+conventional,muSTalaH,مصطلح,media_3
+normal,3aadi,عادي,media_3
+stalemate,jumuud siyaasi,جمود سياسي,media_3
+eligibility,liyaaqa,لياقة,media_3
+remainder,baqiyya,بقية,media_3
+remainders,baqaaya,بقايا,media_3
+fossil,uHfuur,أحفور,media_3
+fossils,aHaafiir,أحافير,media_3
+on the threshold of,3ala a3taab,على أعتاب,media_3
+on the verge of,3ala šafa,على شفا,media_3
+rift,Sad3,صدع,media_3
+rifts,Suduu3,صدوع,media_3
+trap,faxx,فخ,media_3
+traps,fuxuux,فخوخ,media_3
+a tight spot,mawqif Harij,موقف حرج,media_3
+predicament,ma'ziq,مأزق,media_3
+predicaments,ma'aaziq,مآزق,media_3
+claim,iddi3aa',ادعاء,media_3
+claims,iddi3aa'aat,ادعاءات,media_3
+deal,Safqa,صفقة,media_3
+deals,Safaqaat,صفقات,media_3
+cover-up,taġTiyya 3ala,تغطية على,media_3
+conspiracy,mu'aamara,مؤامرة,media_3
+conspiracies,mu'aamaraat,مؤامرات,media_3
+theory,naZariyya,نظرية,media_3
+theories,naZariyyaat,نظريات,media_3
+idea,fikra,فكرة,media_3
+ideas,afkaar,أفكار,media_3
+concept,mafhuum,مفهوم,media_3
+concepts,mafaahiim,مفاهيم,media_3
+generalization,ta3miim,تعميم,media_3
+stereotype,Suura namaTiyya,صورة نمطية,media_3
+mediation,wisaaTa,وساطة,media_3
+imagination,xayaal,خيال,media_3
+delusion,wahm,وهم,media_3
+delusions,awhaam,أوهام,media_3
+reality,waaqi3,واقع,media_3
+facts,Haqaa'iq  Haqiiqa,حقائق    حقيقة,media_3
+vital,Hayawi,حيوي,media_3
+fateful,maSiiri,مصيري,media_3
+substantial,jawhari,جوهري,media_3
+fundamental,asaasi,أساسي,media_3
+necessary,Daruuri,ضروري,media_3
+priority,awlawiyya,أولوية,media_3
+priorities,awlawiyyaat,أولويات,media_3
+breakthrough,ixtiraaq,اختراق,media_3
+axis or central point,miHwar,محور,media_3
+axis or central points,maHaawir,محاور,media_3
+proximity,muHaadaah,محاذاة,media_3
+neighboring,mujaawir,مجاور,media_3
+details,tafaaSiil,تفاصيل,media_3
+more of,muziid min,مزيد من,media_3
+loyalty,walaa',ولاء,media_3
+banquet,waliima,وليمة,media_3
+banquets,walaa'im,ولائم,media_3
+rostrum,minbar,منبر,media_3
+rostrums,manaabir,منابر,media_3
+developing countries,duwal naamiyya,دول نامية,media_3
+collective punishment,3iqaab jamaa3i,عقاب جماعي,media_3
+lame duck ,baTTa 3arjaa',بطة عرجاء,media_3
+prevailing,saa'id,سائد,media_3
+of historical dimensions,duu ab3aad taariixiyya,ذو أبعاد تاريخية,media_3
+egregious,Saarix,صارخ,media_3
+fierce,Daarin,ضارٍ,media_3
+harsh,qaasin,قاسٍ,media_3
+fake,mulaffaq,ملفق,media_3
+contradicting,mutaDaarib,متضارب,media_3
+disparate,mutabaayin,متباين,media_3
+great,jasiim,جسيم,media_3
+large,kabiir,كبير,media_3
+huge,Daxm,ضخم,media_3
+giant,3imlaaq,علاق,media_3
+giants,3amaaliqa,عمالقة,media_3
+prominent,baariz,بارز,media_3
+young,naaši',ناشئ,media_3
+growing,mutanaamin,متنامٍ,media_3
+mature,naaDij,ناضج,media_3
+existing,qaa'im,قائم,media_3
+glorious,majiid,مجيد,media_3
+clear,waaDiH,واضح,media_3
+obvious,malHuuZ,ملحوظ,media_3
+small,Da'iil,ضئيل,media_3
+knowledgeable,muTla3 3ala,مطلع على,media_3
+horrific,baši3,بشع,media_3
+complicated,mu3aqqad,معقد,media_3
+accurate ,daqiiq ,دقيق ,media_3
+extinct,munqariD,منقرض,media_3
+following ,taali,تالي,media_3
+conditional,manuuT bi,منوط بـ,media_3
+solidarity with,taDaamun ma3a,تضامن مع,media_3
+coordination,tansiiq,تنسيق,media_3
+activity,našaaT,نشاط,media_3
+activities,našaaTaat/anšiTa,نشاطات | أنشظة,media_3
+vice,radiila,رذيلة,media_3
+vices,radaa'il,رذائل,media_3
+conclusion,istintaaj,استنتاج,media_3
+involvement,inxiraaT fi,انخراط في,media_3
+deviation ,inHiraaf,انحراف,media_3
+counter-,muDaadd,مضادّ,media_3
+frustration,iHbaaT,احباط,media_3
+worry,qalaq,قلق,media_3
+failure,ixfaaq,اخفاق,media_3
+failures,ixfaaqaat,اخفاقات,media_3
+incentive ,Haafiz,حافز,media_3
+incentive s,Hawaafiz 3ala,حوافز على,media_3
+rank,jaah,جاه,media_3
+tone,watiira,وتيرة,media_3
+tones,wataa'ir,وتائر,media_3
+verbal,lafZi,لفظي,media_3
+oral,šafawi,شهوي,media_3
+captivity,asr,أسر,media_3
+to harp on,Daraba 3ala naġmat ___,ضرب على نغمة __,media_3
+form or application,istimaara,استمارة,media_3
+form or applications,istimaaraat,استمارات,media_3
+artist ,fannaan,فنان,media_and_the_arts
+drawing,rasm,رسم,media_and_the_arts
+drawings,rusuum,رسوم,media_and_the_arts
+painter,rassaam,رسام,media_and_the_arts
+paint,Tilaa',طلاء,media_and_the_arts
+paints,dihaanat,دهانات,media_and_the_arts
+charcoal,faHm,فحم,media_and_the_arts
+pottery,faxxaar,فخار,media_and_the_arts
+ceramics,xazaf,خزف,media_and_the_arts
+clay,SalSaal,صلصال,media_and_the_arts
+statue,timtaal,تمثال,media_and_the_arts
+statues,tamaatiil,تماثيل,media_and_the_arts
+mosaics,fuseifisaa',فسيفساء,media_and_the_arts
+weaving,nasiij,نسيج,media_and_the_arts
+bellydance,raqS šarqi,رقص شرقي,media_and_the_arts
+music,muusiiqa,موسيقى,media_and_the_arts
+singer,muġannin,مغنٍ,media_and_the_arts
+band,firqa,فرقة,media_and_the_arts
+bands,firaq,فرق,media_and_the_arts
+choir,jooqa,جوقة,media_and_the_arts
+choirs,jooqaat,جوقات,media_and_the_arts
+lead singer,muġannin ra'iisi,مغنٍ رئيسي,media_and_the_arts
+composer,mulaHHin,ملحن,media_and_the_arts
+song,uġniyya,أغنية,media_and_the_arts
+songs,aġaanin,أغان,media_and_the_arts
+verse,kobleih,كوبليه,media_and_the_arts
+verses,kobleihaat,كوبليهات,media_and_the_arts
+album,albuum,ألبوم,media_and_the_arts
+albums,albuumaat,ألبومات,media_and_the_arts
+tape,šariiT,شريط,media_and_the_arts
+tapes,šaraa'iT,شرائط,media_and_the_arts
+record,usTuwaana,اسطوانة,media_and_the_arts
+records,usTuwaanaat,اسطوانات,media_and_the_arts
+lyrics,kalimaat uġniyya/aġaanin,كلمات أغنية | أغان,media_and_the_arts
+melody,laHn,لحن,media_and_the_arts
+melodies,alHaan,ألحان,media_and_the_arts
+tune,naġm,نغم,media_and_the_arts
+tunes,anġaam,أنغام,media_and_the_arts
+music video,maqTa3,مقطع,media_and_the_arts
+music videos,maqaaTi3,مقاطع,media_and_the_arts
+screenshot,laqTa,لقطة,media_and_the_arts
+screenshots,laqaTaat,لقطات,media_and_the_arts
+tour,joola ġanaa'iyya,جولة غنائية,media_and_the_arts
+promotion,tarwiij,ترويج,media_and_the_arts
+concert,Hafla muusiiqiyya,حفلة موسيقية,media_and_the_arts
+fans,jumhuur,جمهور,media_and_the_arts
+musical instrument,aala,آلة,media_and_the_arts
+musical instruments,aalaat muusiiqiyya,آلات موسيقية,media_and_the_arts
+violin,kamaan,كمان,media_and_the_arts
+violins,kamangaat,كمنجات,media_and_the_arts
+drum,Tabla,طبلة,media_and_the_arts
+drums,Tubal,طبل,media_and_the_arts
+oud ,3uud,عود,media_and_the_arts
+oud s,a3waad,أعواد,media_and_the_arts
+bamboo flute,naay,ناي,media_and_the_arts
+bamboo flutes,naayaat,نايات,media_and_the_arts
+voice ,Soot,صوت,media_and_the_arts
+voice s,aSwaat,أصوات,media_and_the_arts
+movie,film,فيلم,media_and_the_arts
+movies,aflaam,أفلام,media_and_the_arts
+actor,mumattil,ممثل,media_and_the_arts
+star,najm,نجم,media_and_the_arts
+stars,nujuum,نجوم,media_and_the_arts
+famous ,mašhuur,مشهور,media_and_the_arts
+famous s,mašaahiir ,مشاهير ,media_and_the_arts
+supporting actor,mumattil musaa3id,ممثل مساعد,media_and_the_arts
+child star,najm Tifl,نجم طفل,media_and_the_arts
+director,muxrij,مخرج,media_and_the_arts
+producer,muntij,منتج,media_and_the_arts
+script,siinaariyo,سيناريو,media_and_the_arts
+scripts,siinaariyohaat,سيناريوهات,media_and_the_arts
+original screenplay,siinaariyo aSli,سيناريو أصلي,media_and_the_arts
+adapted screenplay,siinaariyo muqtabas,سيناريو مقتبس,media_and_the_arts
+special effects,mu'attiraat ,مؤثرات ,media_and_the_arts
+sound effects,mu'attiraat Sootiyya,مؤثرات صوتية,media_and_the_arts
+visual effects,mu'attiraat baSariyya,مؤثرات بصرية,media_and_the_arts
+makeup,makyaaž,مكياج,media_and_the_arts
+cinematography,taSwiir,تصوير,media_and_the_arts
+editing,taHriir,تحرير,media_and_the_arts
+critic,naaqid,ناقد,media_and_the_arts
+critics,nuqqaad,نقّاد,media_and_the_arts
+review,muraaja3a,مراجعة,media_and_the_arts
+reviews,muraaja3aat,مراجعات,media_and_the_arts
+positive,iijaabi,ايجابي,media_and_the_arts
+negative,silbi,سلبي,media_and_the_arts
+rating (G,taSniif,تصنيف,media_and_the_arts
+assessment; rating ,taqyiim,تقييم,media_and_the_arts
+Oscar award,jaa'izat oscar,جائزة,media_and_the_arts
+Oscar awards,jawaa'iz oscar,جوائز أوسكار,media_and_the_arts
+starring...,buTuula,بطولة,media_and_the_arts
+role,door,دور,media_and_the_arts
+roles,adwaar,أدوار,media_and_the_arts
+performance,adaa',أداء,media_and_the_arts
+performances,adaa'aat,أداءات,media_and_the_arts
+portrayal,tajsiid,تجسيد,media_and_the_arts
+showing,3arD,عرض,media_and_the_arts
+showings,3uruuD,عروض,media_and_the_arts
+character,šaxSiyya,شخصية,media_and_the_arts
+characters,šaxSiyyaat,شخصيات,media_and_the_arts
+hero,baTal,بطل,media_and_the_arts
+heroes,abTaal,أبطال,media_and_the_arts
+scene,mašhad,مشهد,media_and_the_arts
+scenes,mašaahid,مشاهد,media_and_the_arts
+revenue,iiraad,ايراد,media_and_the_arts
+revenues,iiraadaat,ايرادات,media_and_the_arts
+record,raqam qiyaasi,رقم قياسي,media_and_the_arts
+festival,mihrajaan,مهرجان,media_and_the_arts
+festivals,mihrajaanaat,مهرجانات,media_and_the_arts
+success,najaaH,نجاح,media_and_the_arts
+popular,ša3bi,شعبي,media_and_the_arts
+movie theater,siinima,سينما,media_and_the_arts
+poster,mulSaq,ملصق,media_and_the_arts
+posters,mulSaqaat,ملصقات,media_and_the_arts
+ticket,tadkara,تذكرة,media_and_the_arts
+tickets,tadaakir,تذاكر,media_and_the_arts
+screen,šaaša,شاشة,media_and_the_arts
+screens,šaašaat,شاشات,media_and_the_arts
+drama,draama,دراما,media_and_the_arts
+comedy,komedy,كوديدي,media_and_the_arts
+action,akšun,أكشن,media_and_the_arts
+adventure,muġaamara,مغامرة,media_and_the_arts
+crime,ijraam,اجرام,media_and_the_arts
+family,3aa'ili,عائلي,media_and_the_arts
+fantasy,xayaali,خيالي,media_and_the_arts
+science fiction,xayaali 3ilmi,خيالي علمي,media_and_the_arts
+horror,ru3b,رعب,media_and_the_arts
+mystery,luġz,لغز,media_and_the_arts
+thriller,tašwiiq/mušawwiq,مشوق | تشويق,media_and_the_arts
+romance,romaansi,رومانسي,media_and_the_arts
+musical,muusiiqi,موسيقي,media_and_the_arts
+war,Harbi,حربي,media_and_the_arts
+historical,taariixi,تاريخي,media_and_the_arts
+documentary,wataa'iqi,وثائقي,media_and_the_arts
+cartoon,kartuun,كرتون,media_and_the_arts
+dubbed,mudablaj,مدبلج,media_and_the_arts
+subtitled,mutarjam,مترجم,media_and_the_arts
+entertainment,tasliyya,تسلية,media_and_the_arts
+relaxation,tarfiih,ترفيه,media_and_the_arts
+epic,malHami,ملحمي,media_and_the_arts
+cinematic masterpiece,tuHfa,تحفة,media_and_the_arts
+cinematic masterpieces,tuHaf sinimaa'iyya,تحف سينمائية,media_and_the_arts
+devastating,mudammir,مدمر,media_and_the_arts
+exciting ,mutiir ,مثير ,media_and_the_arts
+full of,malii' bi,ملئ بـ,media_and_the_arts
+fun,maraH,مرح,media_and_the_arts
+enjoyable,mumti3,ممتع,media_and_the_arts
+entertaining,musallin,مسلٍ,media_and_the_arts
+excellent,raa'i3,رائع,media_and_the_arts
+distinguished,mumayyaz,مميز,media_and_the_arts
+special,mutamayyiz,متميز,media_and_the_arts
+great,mumtaaz,ممتاز,media_and_the_arts
+rare,naadir,نادر,media_and_the_arts
+marvellous,xaariq,خارق,media_and_the_arts
+astonishing,mudhil,مذهل,media_and_the_arts
+attractive,jaddaab,جذاب,media_and_the_arts
+funny,muDHik,مضحك,media_and_the_arts
+boring,mumill,مملّ,media_and_the_arts
+ordinary,3aadi,عادي,media_and_the_arts
+exaggerated,mubaaliġ,مبالغ,media_and_the_arts
+silly,saxiif,سخيف,media_and_the_arts
+realistic,waaqi3i,واقعي,media_and_the_arts
+mysterious,ġaamiD,غامض,media_and_the_arts
+terrifying,mufzi3,مفزع,media_and_the_arts
+disgusting,muqazziz,مقزز,media_and_the_arts
+literature,adab,أدب,media_and_the_arts
+literature,aadaab,آداب,media_and_the_arts
+novel,riwaaya,رواية,media_and_the_arts
+novels,riwaayaat,روايات,media_and_the_arts
+short story,qiSSa qaSiira,قصة,media_and_the_arts
+short stories,qiSaS qaSiira,قصص قصيرة,media_and_the_arts
+book,kitaab,كتاب,media_and_the_arts
+books,kutub,كتب,media_and_the_arts
+series,silsila,سلسلة,media_and_the_arts
+series,salaasil,سلاسل,media_and_the_arts
+writer,kaatib,كاتب,media_and_the_arts
+writers,kuttaab,كتاب,media_and_the_arts
+author,mu'allif,مؤلف,media_and_the_arts
+author,adiib,أديب,media_and_the_arts
+authors,udabaa',أدباء,media_and_the_arts
+introduction,muqaddima,مقدمة,media_and_the_arts
+introductions,muqaddimaat,مقدمات,media_and_the_arts
+preface,tamhiid,تمهيد,media_and_the_arts
+dedication to,ihdaa' li/ila,اهداء لـ | إلى,media_and_the_arts
+chapter,faSl,فصل,media_and_the_arts
+chapters,fuSuul,فصول,media_and_the_arts
+index,fihris,فهرس,media_and_the_arts
+indices,fahaaris,فهارس,media_and_the_arts
+page,SafHa,صفحة,media_and_the_arts
+pages,SafaHaat,صفحات,media_and_the_arts
+word,kalima,كلمة,media_and_the_arts
+words,kalimaat,كلمات,media_and_the_arts
+sentence,jumla,جملة,media_and_the_arts
+sentences,jumal,جمل,media_and_the_arts
+line,saTr,سطر,media_and_the_arts
+lines,suTuur,سطور,media_and_the_arts
+paragraph,fiqra,فقرة,media_and_the_arts
+paragraphs,fiqaraat,فقرات,media_and_the_arts
+passage,naSS,نص,media_and_the_arts
+passages,nuSuuS,نصوص,media_and_the_arts
+poetry,ši3r,شعر,media_and_the_arts
+poem,qaSiida,قصيدة,media_and_the_arts
+poems,qaSaa'id,قصائد,media_and_the_arts
+stanza,maqtuu3a,مقطوعة,media_and_the_arts
+stanzas,maqTuu3aat,مقطوعات,media_and_the_arts
+verse,bait,بيت,media_and_the_arts
+verses,abyaat,أبيات,media_and_the_arts
+collection of poetry,diiwaan,ديوان,media_and_the_arts
+collection of poetries,dawaawiin,دواوين,media_and_the_arts
+poet,šaa3ir,شاعر,media_and_the_arts
+poets,šu3araa',شعراء,media_and_the_arts
+complete works,a3maal kaamila,أعمال كاملة,media_and_the_arts
+play,masraHiyya,مسرحية,media_and_the_arts
+plays,masraHiyyaat,مسرحيات,media_and_the_arts
+act,faSl,فصل,media_and_the_arts
+acts,fuSuul,فصول,media_and_the_arts
+television,televizyoon,تلفزيون,media_and_the_arts
+televisions,televizyoonaat,تلفزيونات,media_and_the_arts
+TV show,musalsal,مسلسل,media_and_the_arts
+TV shows,musalsalaat,مسلسلات,media_and_the_arts
+episode,Halqa,حلقة,media_and_the_arts
+episodes,Halaqaat,حلقات,media_and_the_arts
+report,taqriir,تقرير,media_and_the_arts
+reports,taqaariir,تقارير,media_and_the_arts
+network,šabaka,شبكة,media_and_the_arts
+networks,šabakaat,شبكات,media_and_the_arts
+channel,qanaah,قناة,media_and_the_arts
+channels,qanaawaat,قناوات,media_and_the_arts
+satellite channels,faDaa'iyaat,فضائيات,media_and_the_arts
+advertisement ,i3laan,إعلان,media_and_the_arts
+advertisement s,i3laanaat,إعلانات,media_and_the_arts
+host,muqaddim,مقدّم,media_and_the_arts
+correspondent,muraasil,مراسل,media_and_the_arts
+broadcaster,mudii3,مذيع,media_and_the_arts
+live ,mubaašir,مباشر,media_and_the_arts
+breaking news,axbaar 3aajila,أخبار عاجلة,media_and_the_arts
+coming up,ba3d qaliil,بعد قليل,media_and_the_arts
+newspaper,jariida,جريدة,media_and_the_arts
+newspapers,jaraa'id,جرائد,media_and_the_arts
+magazine,majalla,مجلة,media_and_the_arts
+magazines,majallaat,مجلات,media_and_the_arts
+issue ,3adad,عدد,media_and_the_arts
+issue s,a3daad,أعداد,media_and_the_arts
+journalism,SiHaafa,صحافة,media_and_the_arts
+editor,ra'iis taHriir,رئيس تحرير,media_and_the_arts
+journalist,SuHufi,صحفي,media_and_the_arts
+photographer,muSawwir,مصور,media_and_the_arts
+photographers,muSawwaraatiyya,مصوراتية,media_and_the_arts
+photography,taSwiir,تصوير,media_and_the_arts
+picture,Suura,صورة,media_and_the_arts
+pictures,Suwar,صور,media_and_the_arts
+camera,kamira,كاميرا,media_and_the_arts
+cameras,kamiraat,كاميرات,media_and_the_arts
+interview,muqaabala,مقابلة,media_and_the_arts
+article,maqaala,مقالة,media_and_the_arts
+articles,maqaalaat,مقالات,media_and_the_arts
+column,3amuud,عمود,media_and_the_arts
+columns,a3mida,أعمدة,media_and_the_arts
+classified ads,i3laanaat mubawwaba,إعلانات مبوبة,media_and_the_arts
+doctor,Tabiib,طبيب,medicine
+doctors,aTibbaa',أطباء,medicine
+surgeon,jarraaH,جرّاح,medicine
+surgeons,jarraaHuun,جرّاحون,medicine
+nurse,mumarriD,ممرّض,medicine
+nurses,mumarriDuun,ممرّضون,medicine
+patient,mariiD,مريض,medicine
+patients,marDa,مرضى,medicine
+pharmacy,Saidaliyya,صيدلية,medicine
+pharmacies,Saidaliyyaat,صيدليات,medicine
+ambulance,is3aaf,اسعاف,medicine
+ambulances,is3aafaat,اسعافات,medicine
+disease,maraD,مرض,medicine
+diseases,amraaD,أمراض,medicine
+chronic,muzmin,مزمن,medicine
+infectious,saari,ساري,medicine
+contagious,mu3d,معد,medicine
+infection,3adwa,عدوى,medicine
+parasite,Tufaili,طفيلي,medicine
+parasites,Tufailiyaat,طفيليات,medicine
+asthma,rabw,ربو,medicine
+heart attack,azma qalbiyya,أزمة قلبية,medicine
+coma,ġaibuuba,غيبوبة,medicine
+clot,jalTa,جلطة,medicine
+clots,jalaTaat,جلطات,medicine
+stroke,jalTa dimaaġiyya,جلطة دماغية,medicine
+allergy ,Hassaasiyya min,حسّاسية من,medicine
+cold,baarida,باردة,medicine
+cirrhosis,talayyuf,تليف,medicine
+autism,tawaHHud,توحد,medicine
+leprosy,judaam,جذام,medicine
+tuberculosis,daran,درن,medicine
+epilepsy,Sara3,صرع,medicine
+symptom,3araD,عرض,medicine
+symptoms,a3raaD,أعراض,medicine
+headache,Sudaa3,صداع,medicine
+insomnia,araq,أرق,medicine
+heartburn,HumuuDa,حموضة,medicine
+diarrhea,ishaal,إسهال,medicine
+stomach cramping,maġaS,مغص,medicine
+constipation,imsaak,امساك,medicine
+indigestion,3usr haDm,عسر هضم,medicine
+bruise,kadma,كدمة,medicine
+bruises,kadamaat,كدمات,medicine
+burn,Harq,حرق,medicine
+burns,Huruuq,حروق,medicine
+laceration,tamazzuq,تمزّق,medicine
+scratch,xadš,خدش,medicine
+scratches,xuduuš,خدوش,medicine
+cut,qaT3,قطع,medicine
+cuts,quTuu3,قطوع,medicine
+wound,jarH,جرح,medicine
+wounds,juruuH,جروح,medicine
+boil,dummal,دمّل,medicine
+boils,damaamil,دمامل,medicine
+swelling; tumor,waram,ورم,medicine
+swelling; tumors,awraam,أورام,medicine
+inflammation; infection,tihaab,تهاب,medicine
+dizziness,dawxa,دوخة,medicine
+vomiting,qay'/taqayyu',قئ | تقيّؤ,medicine
+nausea,ġatayaan,غثيان,medicine
+shock,Sadma,صدمة,medicine
+shocks,Sadamaat,صدمات,medicine
+fever,Humma,حمّى,medicine
+fevers,Hummayaat,حمّيات,medicine
+degree,daraja,درجة,medicine
+degrees,darajaat,درجات,medicine
+broken , maksuur, مكسور,medicine
+stethoscope,sammaa3a,سمّاعة,medicine
+stethoscopes,sammaa3aat,سمّاعات,medicine
+X-ray,aši33a/aši33at iks,اشعّة ,medicine
+medicine,dawaa',دواء,medicine
+medicines,adwiya,أدوية,medicine
+pill,qurS,قرص,medicine
+pills,aqraaS,اقراص,medicine
+tablet,qurS,قرص,medicine
+tablets,aqraaS,اقراص,medicine
+syrup,šaraab,شراب,medicine
+syrups,ašriba,اشربة,medicine
+antibiotic,muDaadd Hayawi,مضاد حيوي,medicine
+dose ,jar3a,جرعة,medicine
+dose s,jar3aat,جرعات,medicine
+ointment,marham,مرهم,medicine
+ointments,maraahim,مراهم,medicine
+vaccine,laqaaH,لقاح,medicine
+gauze,šaaš,شاش,medicine
+bandage,Dimaad,ضماد,medicine
+bandages,arbiTa,اربطة,medicine
+band-aid,plastar,بلاستر,medicine
+stitches,ġuraz  ġurza,غرز    غرزة,medicine
+cast,jabiira,جبيرة,medicine
+casts,jabaa'ir,جبائر,medicine
+crutch,3ukkaaz,عكاز,medicine
+crutches,3ukkaazaat,عكازات,medicine
+disinfectant,muTahhir,مطهّر,medicine
+disinfectants,muTahhiraat,مطهّرات,medicine
+anesthesia,taxdiir,تخدير,medicine
+operation,3amaliyya,عملية,medicine
+operations,3amaliyyaat,عمليات,medicine
+surgery,jiraaHa,جراحة,medicine
+amputation,batr,بتر,medicine
+autopsy,tašriiH,تشريح,medicine
+abortion,ijhaaD,اجهاض,medicine
+chemotherapy,3ilaaj kiimiyaa'i,علاج كيميائي,medicine
+plastic surgery,3amaliyyat tajmiil,عملية تجميل,medicine
+health,SiHHa,صحة,medicine
+sick,mariid,مريض,medicine
+sicks,marDa,مرضى,medicine
+healthy,saliim,سليم,medicine
+healthies,sulamaa',سلماء,medicine
+weak,Da3iif,ضعيف,medicine
+weaks,Du3afaa',ضعفاء,medicine
+strong,qawi,قوي,medicine
+strongs,aqwiyaa',أقوياء,medicine
+paralyzed,mašluul,مشلول,medicine
+handicapped,ma3uuq,معوق,medicine
+disabled,malġi,ملغي,medicine
+mentally disabled,mutaxallif 3aqliyyan,متخلّف عقليا,medicine
+sting,qarSa,قرصة,medicine
+stings,qaraSaat,قرصات,medicine
+to throb ,na'aH - yin'aH ,نقح - ينقح ,medicine
+to be injured,it3awwar - yit3awwar ,اتعوّر - يتعوّر ,medicine
+pain,waja3,وجع,medicine
+pains,awjaa3,أوجاع,medicine
+ sneeze,3aTsa,عطسة,medicine
+ cough,su3la,سعلة,medicine
+stuffed-up nose,anf muzkam,أنف مزكم,medicine
+runny nose,manaxiir bitxorr/bitšorr,مناخير بتخرّ\بتشرّ,medicine
+prevention of,wiqaaya min,وقاية من,medicine
+medical examination,faHS,فحص,medicine
+medical examinations,fuHuuS,فحوص,medicine
+shot,Huqna,حقن,medicine
+shots,Huqan,حقن,medicine
+prescription,waSfa,وصفة,medicine
+prescriptions,waSafaat,وصفات,medicine
+environment,bii'a,بيئة,nature__and__weather
+environments,bii'aat,بيئات,nature__and__weather
+planet,kawkab,كوكب,nature__and__weather
+planets,kawaakib,كواكب,nature__and__weather
+world,3aalam,عالم,nature__and__weather
+worlds,3awaalim,عوالم,nature__and__weather
+continent,qaarra,قارّة,nature__and__weather
+continents,qaarraat,قارّات,nature__and__weather
+ocean,muHiiT,محيط,nature__and__weather
+oceans,muHiiTaat,محيطات,nature__and__weather
+sea,baHr,بحر,nature__and__weather
+seas,biHaar,بحار,nature__and__weather
+river,nahr,نهر,nature__and__weather
+rivers,anhaar,أنهار,nature__and__weather
+lake,buHeira,بحيرة,nature__and__weather
+lakes,buHeiraat,بحيرات,nature__and__weather
+pond,birka,بركة,nature__and__weather
+ponds,birak,برك,nature__and__weather
+canal,qanaah,قناة,nature__and__weather
+canals,qanawaat,قنوات,nature__and__weather
+port,miinaa',ميناء,nature__and__weather
+ports,mawaani',موانئ,nature__and__weather
+gulf,xaliij,خليج,nature__and__weather
+gulves,xuljaan,خلجان,nature__and__weather
+island,jaziira,جزيرة,nature__and__weather
+islands,jazaa'ir,جزائر,nature__and__weather
+coast,saaHil,ساحل,nature__and__weather
+coasts,sawaaHil,سواحل,nature__and__weather
+beach,šaaTi',شاطئ,nature__and__weather
+beaches,šawaaTi',شواطئ,nature__and__weather
+wave,mooj,موج,nature__and__weather
+waves,amwaaj,امواج,nature__and__weather
+tide,tayyaar,تيّار,nature__and__weather
+tides,tayyaaraat,تيّارات,nature__and__weather
+coral,murjaan,مرجان,nature__and__weather
+reef,ši3ba,شعبة,nature__and__weather
+reefs,ši3ab,شعب,nature__and__weather
+inlet,šarm,شرم,nature__and__weather
+inlets,šuruum,شروم,nature__and__weather
+peninsula,šibhu jaziira,شبة جزيرة,nature__and__weather
+waterfall,šallaal,شلال,nature__and__weather
+waterfalls,šallaalaat,شلالات,nature__and__weather
+mountain,jabal,جبل,nature__and__weather
+mountains,jibaal,جبال,nature__and__weather
+peak,qimma,قمة,nature__and__weather
+peaks,qimam,قمم,nature__and__weather
+Mt. Sinai,jabal muusa,جبل موسى,nature__and__weather
+mountain range,silsila jabaliyya,سلسلة جبلية,nature__and__weather
+hill,tall,تلّ,nature__and__weather
+hills,tilaal,تلال,nature__and__weather
+valley,waadi,وادي,nature__and__weather
+valleys,widyaan,وديان,nature__and__weather
+desert,SaHraa',صحراء,nature__and__weather
+deserts,SaHaaraa,صحارى,nature__and__weather
+jungle,ġaaba,غابة,nature__and__weather
+jungles,ġaabaat,غابات,nature__and__weather
+field,Haql,حقل,nature__and__weather
+fields,Huquul,حقول,nature__and__weather
+plain,sahl,سهل,nature__and__weather
+plains,suhuul,سهول,nature__and__weather
+depression,munxafaD,منخفض,nature__and__weather
+depressions,munxafaDaat,منخفضات,nature__and__weather
+cave,maġaara,مغارة,nature__and__weather
+caves,maġaaraat,مغارات,nature__and__weather
+oasis,waaHa,واحة,nature__and__weather
+oases,waaHaat,واحات,nature__and__weather
+well,bi'r,بئر,nature__and__weather
+wells,aabaar | bi'aar,آبار | بئار,nature__and__weather
+bush,daġal,دغل,nature__and__weather
+bushes,adġaal,أدغال,nature__and__weather
+tree,šajara,شجرة,nature__and__weather
+trees,ašjaar,أشجار,nature__and__weather
+leaf; petal,waraq,ورق,nature__and__weather
+leaf; petals,awraaq,أوراق,nature__and__weather
+branch,far3,فرع,nature__and__weather
+branches,furuu3,فروع,nature__and__weather
+root,jadr,جذر,nature__and__weather
+roots,juduur,جذور,nature__and__weather
+wood,xašab,خشب,nature__and__weather
+flower,zahra,زهرة,nature__and__weather
+flowers,zuhuur,زهور,nature__and__weather
+rose,warda,وردة,nature__and__weather
+roses,wuruud,ورود,nature__and__weather
+thorn,šook,شوك,nature__and__weather
+thorns,ašwaak,أشواك,nature__and__weather
+grass,3ušb,عشب,nature__and__weather
+rock,Saxra,صخرة,nature__and__weather
+rocks,Suxuur,صخور,nature__and__weather
+sand,raml,رمل,nature__and__weather
+sands,rimaal,رمال,nature__and__weather
+dust,turaab,تراب,nature__and__weather
+ash,ramaad,رماد,nature__and__weather
+soil,turba,تربة,nature__and__weather
+mud,Tiin,طين,nature__and__weather
+mud,aTyaan,أطيان,nature__and__weather
+plant,nabaat,نبات,nature__and__weather
+plants,nabaataat,نباتات,nature__and__weather
+garden,Hadiiqa,حديقة,nature__and__weather
+gardens,Hadaa'iq,حدائق,nature__and__weather
+swamp,mustanqa3,مستنقع,nature__and__weather
+swamps,mustanqa3aat,مستنقعات,nature__and__weather
+volcano,burkaan,بركان,nature__and__weather
+volcanoes,baraakiin,براكين,nature__and__weather
+fires,niiraan ,نيران,nature__and__weather
+sky,samaa',سماء,nature__and__weather
+skies,samaawaat ,سماوات,nature__and__weather
+earth,arD,أرض,nature__and__weather
+earths,araaDin ,أراض,nature__and__weather
+horizon,ufuq,افق,nature__and__weather
+horizons,aafaaq,آفاق,nature__and__weather
+weather forecast,našra jawwiyya,نشرة جوية,nature__and__weather
+climate,manaax,مناخ,nature__and__weather
+hot ,Haar ,حار    حرارة,nature__and__weather
+cold - adj. ,baarid ,بارد ,nature__and__weather
+warm ,daafi' ,دافئ ,nature__and__weather
+clear,SaHw,صحو,nature__and__weather
+rainy,mumTir,ممطر,nature__and__weather
+cloudy,ġaa'im,غائم,nature__and__weather
+sunny,mušmis,مشمس,nature__and__weather
+snowy,mutallaj,مثلّج,nature__and__weather
+humid,raTb,رطب,nature__and__weather
+stormy,3aaSif,عاصف,nature__and__weather
+dusty,turaabi,ترابي,nature__and__weather
+cloud,ġeima,غيمة,nature__and__weather
+clouds,ġuyuum,غيوم,nature__and__weather
+sun,šams,شمس,nature__and__weather
+suns,šumuus ,شموس,nature__and__weather
+moon,qamar,قمر,nature__and__weather
+moons,aqmaar,أقمار,nature__and__weather
+rain,maTar,مطر,nature__and__weather
+rain,amTaar,أمطار,nature__and__weather
+snow,talj,ثلج,nature__and__weather
+frost,Saqii3,صقيع,nature__and__weather
+wind,riiH,ريح,nature__and__weather
+winds,riyaaH ,رياح,nature__and__weather
+humidity,ruTuuba,رطوبة,nature__and__weather
+fog,Dabaab,ضباب,nature__and__weather
+hail ,barad ,برد ,nature__and__weather
+storm,3aaSifa,عاصفة,nature__and__weather
+storms,3awaaSif,عواصف,nature__and__weather
+thunder,ra3d,رعد,nature__and__weather
+thunders,ru3uud,رعود,nature__and__weather
+lightning,barq,برق,nature__and__weather
+lightnings,buruuq,بروق,nature__and__weather
+hurricane,i3Saar,اعصار,nature__and__weather
+hurricanes,a3aaSiir,أعاصير,nature__and__weather
+tornado,zawba3a,زوبعة,nature__and__weather
+tornadoes,zawaabi3,زوابع,nature__and__weather
+earthquake,zilzaal,زلزال,nature__and__weather
+earthquakes,zalaazil,زلازل,nature__and__weather
+flood,fayaDaan,فيضان,nature__and__weather
+floods,fayaDaanaat,فيضانات,nature__and__weather
+dust storm,3aaSifa turaabiyya,عاصفة ترابية,nature__and__weather
+dust storms,za3abiib,زعابيب,nature__and__weather
+rainbow,qoos quzaH,قوس قزج,nature__and__weather
+season,faSl,فصل,nature__and__weather
+seasons,fuSuul,فصول,nature__and__weather
+spring,rabii3,ربيع,nature__and__weather
+summer,Seif,صيف,nature__and__weather
+fall,xariif,خريف,nature__and__weather
+winter,šitaa',شتاء,nature__and__weather
+religion,diin,دين,religion
+religions,adyaan,أديان,religion
+sect,Taa'ifa,طائفة,religion
+sects,Tawaa'if,طوائف,religion
+denomination,madhab,مذهب,religion
+denominations,madaahib,مذاهب,religion
+Muslim,muslim,مسلم,religion
+Sunni,sunni,سنّي,religion
+Sunnis,sunna,سنّة,religion
+Shi'ite,šii3i,شيعي,religion
+Shi'ites,šii3a,شيعة,religion
+Alawite,3alawi,علوي,religion
+Christian,masiiHi,مسيحي,religion
+Copt,qibTi,قبطي,religion
+Copts,aqbaaT,أقباط,religion
+Maronite,maaruuni,ماروني,religion
+Maronites,mawaarina,موارنة,religion
+Orthodox,ortodoks,أورثودوكس,religion
+Catholic,katoliik,كاثوليك,religion
+Protestant,brotestaant,بروتستانت,religion
+Jew,yahuudi,يهودي,religion
+Jews,yahuud,يهود,religion
+Druze,druuzi,دروزي,religion
+Druzes,druuz,دروز,religion
+paganism ,wataniyya ,وثنية ,religion
+secularism,3ilmaaniyya,علمانية,religion
+monotheism,tawHiidiyya,توحيدية,religion
+infidel,kaafir,كافر,religion
+infidels,kuffaar,كفار,religion
+creed,3aqiida,عقيدة,religion
+creeds,3aqaa'id diiniyya,عقائد دينية,religion
+ god,ilaah,اله,religion
+ gods,aaliha,آلهة,religion
+God*,allaah,الله,religion
+lord,rabb,رب,religion
+lords,arbaab,أرباب,religion
+messiah,masiiH,مسيح,religion
+savior,muxalliS,مخلّص,religion
+Jesus,yasuu3 ; 3iisa ,يسوع | عيسى,religion
+angel,malaak,ملاك,religion
+angels,malaa'ika,ملائكة,religion
+cross,Saliib,صليب,religion
+crosses,Sulbaan,صلبان,religion
+crescent,halaal,هلال,religion
+star of David,najmat daawuud,نجمة داوود,religion
+prayer niche in mosques,miHraab,محراب,religion
+prayer niche in mosques,maHaariib,محاريب,religion
+minaret,ma'dana,مأذنة,religion
+minarets,ma'aadin,مآذن,religion
+call to prayer,adaan,اذان,religion
+muezzin,mu'addin,مؤذن,religion
+minbar ,minbar,منبر,religion
+minbar s,manaabir,منابر,religion
+Friday sermon,xuTba,خطبة,religion
+imam,imaam,امام,religion
+imams,a'ima,أئمة,religion
+shrine,mazaar,مزار,religion
+shrines,mazaaraat,مزارات,religion
+altar,madbaH,مذبح,religion
+altars,madaabiH,مذابح,religion
+sanctuary,heikal,هيكل,religion
+sanctuaries,hayaakil,هياكل,religion
+monastery,deir,دير,religion
+monasteries,adyaar,أديار,religion
+monk,raahib,راهب,religion
+monks,ruhbaan,رهبان,religion
+nun,raahiba,راهبة,religion
+priest,qassiis,قسيس,religion
+priests,qusus,قسس,religion
+bishop,usquf,أسقف,religion
+bishops,asaaqif,أساقف,religion
+rabbi,Haaxaam,حاخام,religion
+rabbis,Haaxaamaat,حاخامات,religion
+prophet,nabi,نبي,religion
+prophets,anbiyaa',أنبياء,religion
+chapter from the Qur'an,suura,سورة,religion
+chapter from the Qur'ans,suwar,سور,religion
+verse from the Qur'an,aaya,آية,religion
+verse from the Qur'ans,aayaat,آيات,religion
+profession of faith,šahaada,شهادة,religion
+prayer,Salaah,صلاة,religion
+fasting,Soom,صوم,religion
+alms-giving,zakaah,زكاة,religion
+pilgrimage to Mecca,Hajj,حج,religion
+minor pilgrimage,3umra,عمرة,religion
+permitted by Islam,Halaal,حلال,religion
+forbidden by Islam,Haraam,حرام,religion
+mass,quddaas,قداس,religion
+masses,qadaadiis,قداديس,religion
+ saint,qiddiis,قديس,religion
+psalm,mazmuur,مزمور,religion
+psalms,mazaamiir,مزامير,religion
+hymn,tarniima,ترنيمة,religion
+hymns,taraaniim,ترانيم,religion
+rosary,misbaHa,مسبحة,religion
+rosaries,masaabiH,مسابح,religion
+ sermon,wa3Za,وعظة,religion
+feast,3iid,عيد,religion
+feasts,a3yaad,أعياد,religion
+blessing,baraka,بركة,religion
+blessings,barakaat,بركات,religion
+repentance,tooba,توبة,religion
+forgiveness,ġufraan,غفران,religion
+mercy,raHma,رحمة,religion
+fate,qadr,قدر,religion
+fates,aqdaar,أقدار,religion
+morals,axlaaq,أخلاق,religion
+soul,ruuH,روح,religion
+souls,arwaaH ,أرواح,religion
+holy,muqaddas,مقدس,religion
+missionary,daa3iya,داعية,religion
+prosyletization,da3wa,دعوى,religion
+sacrifice ,DaHiya,ضحية,religion
+sacrifice s,DaHaaya,ضحايا,religion
+good,xeir,خير,religion
+evil,šarr,شر,religion
+blasphemy,tajdiif,تجديف,religion
+resurrection,qiyaama,قيامة,religion
+religious,mutadayyin,متدين,religion
+sin ,danb,ذنب,religion
+sin s,dunuub,ذنوب,religion
+sin,xaTii'a,خطيئة,religion
+sins,xaTaaya,خطايا,religion
+miracle,mu3jiza,معجزة,religion
+miracles,mu3jizaat,معجزات,religion
+hobby,hawaaya,هواية,sports__and__hobbies
+hobbies,hawaayaat,هوايات,sports__and__hobbies
+sport,riyaaDa,رياضة,sports__and__hobbies
+sports,riyaaDaat,رياضات,sports__and__hobbies
+game,la3ba,لعبة,sports__and__hobbies
+games,al3aab,ألعاب,sports__and__hobbies
+crafts,Hirf  Hirfa,حرف    حرفة,sports__and__hobbies
+ball,kura,كرة,sports__and__hobbies
+balls,kuwar,كور,sports__and__hobbies
+team,fariiq,فريق,sports__and__hobbies
+national team,muntaxab,منتخب,sports__and__hobbies
+match,mubaaraah,مباراة,sports__and__hobbies
+matches,mubaaraat,مبارات,sports__and__hobbies
+stadium,istaad,استاد,sports__and__hobbies
+field,mal3ab,ملعب,sports__and__hobbies
+off-side,tasallul,تسلل,sports__and__hobbies
+goal post,qaa'im,قائم,sports__and__hobbies
+goal posts,'awaayim,,sports__and__hobbies
+crossbar,3aariDa,عارضة,sports__and__hobbies
+ consecutive goals,hadafaan mutataaliyaan,هدفان متتاليان,sports__and__hobbies
+player,laa3ib,لاعب,sports__and__hobbies
+players,laa3ibuun,لاعبون,sports__and__hobbies
+midfielder,laa3ib wasaT,لاعب الوسط,sports__and__hobbies
+attacker,muhaajim,مهاجم,sports__and__hobbies
+defender,mudaafi3,مدافع,sports__and__hobbies
+forward,amaami,أمامي,sports__and__hobbies
+striker,Daarib,ضارب,sports__and__hobbies
+winger,laa3ib jinaaH,لاعب جناح,sports__and__hobbies
+referee,Hakam,حكم,sports__and__hobbies
+trainer or coach,mudarrib,مدرّب,sports__and__hobbies
+ kick,Daraba,ضربة,sports__and__hobbies
+free kick,Darba Hurra,ضربة حرة,sports__and__hobbies
+direct free kick,Darba Hurra  mubaašira,ضربة حرة  مباشرة,sports__and__hobbies
+penalty kick,Darabat jazaa'/tarjiiH,ضربة جزاء |  ترجيح,sports__and__hobbies
+corner kick,Daraba rukniyya,ضربة ركنية,sports__and__hobbies
+goal kick,Darabat marma,ضربة مرمى,sports__and__hobbies
+header,Darabat ra's,ضربة رأس,sports__and__hobbies
+victory,fawz,فوز,sports__and__hobbies
+ pass,tamriira,تمريرة,sports__and__hobbies
+foul,xaTaa',خطاء,sports__and__hobbies
+fouls,axTaa',أخطاء,sports__and__hobbies
+a tie,ta3aadul,تعادل,sports__and__hobbies
+a scoreless tie,ta3aadul silbi,تعادل سلبي,sports__and__hobbies
+yellow card,biTaaqa Safraa',بطاقة صفراء,sports__and__hobbies
+red card,biTaaqa Hamraa',بطاقة حمراء,sports__and__hobbies
+amateur,haawi,هاوي,sports__and__hobbies
+professional,muHtarif,محترف,sports__and__hobbies
+baseball,beisbool,بيسبول,sports__and__hobbies
+hockey,hoki,هوكي,sports__and__hobbies
+skiing,tazalluj,تزلج,sports__and__hobbies
+golf,ġolf,غولف,sports__and__hobbies
+gymnastics,jumbaaz,جمباز,sports__and__hobbies
+archery,rimaaya,رماية,sports__and__hobbies
+skating,tazalluj,تزلج,sports__and__hobbies
+running,3adw,عدو,sports__and__hobbies
+cricket,kirikit,كريكت,sports__and__hobbies
+polo,bolo,بولو,sports__and__hobbies
+boxing,mulaakama,ملاكمة,sports__and__hobbies
+wrestling,muSaara3a,مصارعة,sports__and__hobbies
+swimming,sibaaHa,سباحة,sports__and__hobbies
+diving,ġaTs,غطس,sports__and__hobbies
+rowing,tajdiif,تجديف,sports__and__hobbies
+backgammon,Taawila,طاولة,sports__and__hobbies
+chess,šaTranj,شطرنج,sports__and__hobbies
+king ,malik,ملك,sports__and__hobbies
+queen ,malika,ملكة,sports__and__hobbies
+pawn ,jundi,جندي,sports__and__hobbies
+pawn s,junuud,جنود,sports__and__hobbies
+knight ,HiSaan,حصان,sports__and__hobbies
+rook,qal3a,قلعة,sports__and__hobbies
+bishop ,fiil,فيل,sports__and__hobbies
+Check,kišš,كش,sports__and__hobbies
+Checkmate,kišš malik,كش ملك,sports__and__hobbies
+gardening,bastana,بستنة,sports__and__hobbies
+gambling,qimaar,قمار,sports__and__hobbies
+fishing rod,Sinnaara,صنارة,sports__and__hobbies
+fishing rods,Sanaaniir,صنانير,sports__and__hobbies
+hunting,Seid,صيد,sports__and__hobbies
+sewing,xiyaaTa,خياطة,sports__and__hobbies
+spades,bastuuni,بستوني,sports__and__hobbies
+diamonds,diinaari,ديناري,sports__and__hobbies
+clubs,sbaati,سباتي,sports__and__hobbies
+hearts,kubba,كبة,sports__and__hobbies
+ace,aaS,آص,sports__and__hobbies
+queen,malika,ملكة,sports__and__hobbies
+jack,walad,ولد,sports__and__hobbies
+joker,žookir,جوكر,sports__and__hobbies
+ cheat,ġaššaaš,غشاش,sports__and__hobbies
+to stay up late,sihir - yishar ,سهر - يسهر ,sports__and__hobbies
+to frequent ,itraddad - yitraddid ,اتردد - يتردد ,sports__and__hobbies
+to pass the time,itsalla - yitsalla ,اتسلى - يتسلى ,sports__and__hobbies
+to go for a stroll or outing,itfassaH - yitfassaH,اتفسح - يتفسح,sports__and__hobbies
+ joke,nukta,نكتة,sports__and__hobbies
+ jokes,nukat,نكت,sports__and__hobbies
+to keep  company,winnis - yiwannis ,ونس - يونس ,sports__and__hobbies
+to become cheerful/happy,farfiš - yifarfiš ,فرفش - يفرش ,sports__and__hobbies
+to relax,irtaaH - yirtaaH,ارتاح - يرتاح,sports__and__hobbies
+together,sawaa',سواء,sports__and__hobbies
+together,ma3an,معا,sports__and__hobbies
+appointment,maw3id,موعد,sports__and__hobbies
+appointments,mawaa3iid,مواعيد,sports__and__hobbies
+party,Hafla,حفلة,sports__and__hobbies
+parties,Hafalaat,حفلات,sports__and__hobbies
+costume party,Hafla tanakkuriyya,حفلة تنكرية,sports__and__hobbies
+mask,qinaa3,قناع,sports__and__hobbies
+masks,aqni3a,أقنعة,sports__and__hobbies
+friend,Sadiiq,صديق,sports__and__hobbies
+friends,aSdiqaa',أصدقاء,sports__and__hobbies
+gift,hadiyya,هدية,sports__and__hobbies
+gifts,hadaaya,هدايا,sports__and__hobbies
+a  occassion,munaasaba,مناسبة,sports__and__hobbies
+a  occassions,munaasabaat ,مناسبات خاصة,sports__and__hobbies
+drunk,sakraan,سكران,sports__and__hobbies
+a drunk,sikkiir,سكير,sports__and__hobbies
+a drunks,sukariyya,سكرية,sports__and__hobbies
+drunk,masTuul,مسطول,sports__and__hobbies
+drunks,masaTiil,مساطيل,sports__and__hobbies
+a gambler,muqaamir,مقامر,sports__and__hobbies
+a gamblers,'omartiyya,قمرتية,sports__and__hobbies
+ exercises,tamaariin,تمارين,sports__and__hobbies
+exercise,tamaariin riyaaDiyya,تمارين رياضية,sports__and__hobbies
+warm-up,tasxiin,تسخين,sports__and__hobbies
+race,musaabaqa,مسابقة,sports__and__hobbies
+lap ,laffa,لفة,sports__and__hobbies
+lap s,laffaat,لفات,sports__and__hobbies
+championship,buTuula,بطولة,sports__and__hobbies
+champion,baTal,بطل,sports__and__hobbies
+champions,abTaal,أبطال,sports__and__hobbies
+point,nuqTa,نقطة,sports__and__hobbies
+points,nuqaaT,نقاط,sports__and__hobbies
+computer,Haasuub,حاسوب,technology
+computers,Hawaasiib,حواسيب,technology
+laptop,Haasuub maHmuul,حاسوب محمول,technology
+hard disk,qurS Sulb,قرص صلب,technology
+hard drive,muHarrik Sulb,محرك صلب,technology
+motherboard,lawHat umm,لوحة أم,technology
+memory card,biTaaqat daakira,بطاقة ذاكرة,technology
+processor,mu3aalij,معالج,technology
+key,zirr,زر,technology
+keys,azraar,أزرار,technology
+monitor,šaaša,شاشة,technology
+flatscreen monitor,šaašat 3arD,شاشة عرض,technology
+mouse,fa'ra,فأرة,technology
+scanner,maasiH Doo'i,ماسح ضوئي,technology
+printer,Tabbaa3a,طباعة,technology
+speakers,sammaa3aat,سماعات,technology
+multimedia,wasaa'iT muta3addida,وسائط متعددة,technology
+streaming media,batt Hayy,بث حي,technology
+digital,raqami,رقمي,technology
+virtual,wahmi,وهمي,technology
+wireless,la silki,لا سلكي,technology
+CD,qurS maDġuuT,قرص مضغوط,technology
+DVD,qurS viidiyo raqami,قرص فيديو رقمي,technology
+data,bayanaat,بيانات,technology
+software,barmijiyaat,برمجيات,technology
+forum,muntuda,منتدى,technology
+forums,muntudiyaat,منتديات,technology
+blog,mudawwana,مدوّنة,technology
+blogs,mudawwanaat,مدوّنات,technology
+chat,dardaša,دردشة,technology
+links,rawaabiT,روابط,technology
+email,bariid elektroni,بريد الكتروني,technology
+account,Haasib,حاسب,technology
+accounts,Haasibaat,حاسبات,technology
+profile,milaff šaxSi,ملفّ شخصي,technology
+private message,risaala xaaSSa,رسالة خاصة,technology
+comment,ta3liiq,تعليق,technology
+comments,ta3liiqaat,تعليقات,technology
+design,taSmiim,تصميم,technology
+browser,mutaSaffiH,متصفح,technology
+firewall,jidaar naari,جدار ناري,technology
+host,muDiif,مضيف,technology
+server,muzawwid,مزود,technology
+frequently asked questions,as'ila šaa'i3a/mutakarrira,أسئلة شائعة |متكررّة,technology
+code ,rumuuz,رموز,technology
+smilie,ibtisaama,ابتسامة,technology
+smilies,ibtisaamaat,ابتسامات,technology
+folder,mujallad,مجلّد,technology
+folders,mujalladaat,مجلّدات,technology
+file,milaff,ملف,technology
+files,milaffaat,ملفات,technology
+sizes,Hujuum/aHjaam,حجوم | أحجام,technology
+high-quality,jawda 3aaliya,جودة عالية,technology
+re-upload,i3aadat raf3,إعادة رفع,technology
+original uploader,raafi3 aSli,رافع أصلي,technology
+font,xaTT,خط,technology
+fonts,xuTuuT,خطوط,technology
+Click here,iDġaT hona,اضغط هنا,technology
+Contact us,ittaSil bina,اتصل بنا,technology
+An error has occurred,HaSala xaTa',حصل خطأ,technology
+cell phone,haatif maHmuul/xalawi,هاتف محمول | خلوي,technology
+SMS/text message,risaala,رسالة,technology
+SMS/text messages,rasaa'il,رسائل,technology
+balance,raSiid,رصيد,technology
+balances,arSida,أرصدة,technology
+shredder,farraama,فرّامة,technology
+xerox machine,jihaaz taSwiir mustanadaat,جهاز تصوير مستندات,technology
+copy,nusxa,نسخة,technology
+copies,nusax,نسخ,technology
+time,waqt,وقت,time
+times,awqaat,أوقات,time
+"time (countable unit; as in ""three times",marra,مرة,time
+"time (countable unit; as in ""three times",marraat,مرات,time
+century,qarn,قرن,time
+centuries,quruun,قرون,time
+decade,Hiqba,حقبة,time
+decades,Hiqabaat,حقبات,time
+year,sana,سنة,time
+years,sanawaat,سنوات,time
+week,usbuu3,أسبوع,time
+weeks,asaabii3,أسابيع,time
+day,yawm,يوم,time
+days,ayyaam,أيّام,time
+hour,saa3a,ساعة,time
+hours,saa3aat,ساعات,time
+minute,daqiiqa,دقيقة,time
+minutes,daqaa'iq,دقائق,time
+second,taanya,ثانية,time
+seconds,tawaani,ثواني,time
+moment,laHZa,لحظة,time
+moments,laHaZaat,لحظات,time
+dawn,fajr,فجر,time
+morning,SabaaH,صباح,time
+noon,Zuhr,ظهر,time
+evening,masaa',مساء,time
+night,leila,ليلة,time
+nights,layaali,ليالي,time
+before,qabl,قبل,time
+after,ba3d,بعد,time
+then,tumma,ثم,time
+until,Hatta,حتى,time
+now,al'aan,الآن,time
+the day before yesterday,awwal ams,أول أمس,time
+yesterday,ams,أمس,time
+last night,leilat ams,ليلة أمس,time
+tomorrow,ġadan,غدا,time
+every day,kull yawm,كل يوم,time
+every other day,kull yawmein,كل يومين,time
+day after day,yawman ba3d yawm,يوما بعد يوم,time
+early,mubakkir,مبكر,time
+late,muta'axxir,متأخر,time
+after a while,ba3d qaliil,بعد قليل,time
+always,daa'iman,دائما,time
+usually,3aadatan,عادةً,time
+sometimes,aHyaanan,أحيانا,time
+rarely,naadiran,نادرا,time
+holiday,3iid,عيد,time
+holidays,a3yaad,أعياد,time
+birthday,3iid miilaad,عيد ميلاد,time
+anniversary ,dikra,ذكرى,time
+anniversary s,dikrayaat,ذكريات,time
+gifts,hidaaya,هدايا,time
+calendar,taqwiim,تقويم,time
+calendars,taqaawiim,تقاويم,time
+* The following names are used in most of the Mashriq,,,time
+January,yanaayir,يناير,time
+February,fibraayir,فبراير,time
+March,maaris,مارس,time
+April,abriil,أبريل,time
+May,maayo,مايو,time
+June,yuuniyo,يونيو,time
+July,yuuliyo,يوليو,time
+August,aġusTus,أغسطس,time
+September,sibtimbir,سمتمبر,time
+October,uktoobar,أكتوبر,time
+November,nuvimbir,نوفمبر,time
+December,disimbir,ديسيمبر,time
+* The following names are used in the Levant. *,,,time
+February,šubaaT,شباط,time
+March,aadaar,آذار,time
+April,niisaan,نيسان,time
+May,ayyaar,أيار,time
+June,Huzeiraan,حزيران,time
+July,tammuuz,تموز,time
+August,aab,آب,time
+September,ayluul,أيلول,time
+Muharram,muHarram,محرم,time
+Safar,Safar,صفر,time
+Rajab,rajab,رجب,time
+Shaban,ša3abaan,شعبان,time
+Ramadan,ramaDaan,رمضان,time
+Shawwal,šawwaal,شوال,time
+Thout ,tuut,توت,time
+Paopi ,baaba,بابة,time
+Hathor ,haatuur,هاتور,time
+Koiak ,kiyaahk,كياهك,time
+Tobi ,Tuuba,طوبة,time
+Meshir ,amšiir,أمشير,time
+Paremhat ,baramhaat,برمهات,time
+Paremoude ,baramuuda,برمودة,time
+Pashons ,bašans,بشنس,time
+Paoni ,ba'uuna,بؤونة,time
+Epip ,abiib,أبيب,time
+Mesori ,misra,مسرى,time
+Pi Kogi Enavot ,nasii',نسئ,time
+house,bayt,بيت,vocabulary_from_around_the_house
+building,mabna,مبنى,vocabulary_from_around_the_house
+buildings,mabaani',مبانئ,vocabulary_from_around_the_house
+apartment building,3imaara,عمارة,vocabulary_from_around_the_house
+apartment buildings,3imaaraat,عمارات,vocabulary_from_around_the_house
+floor ,Taabiq,طابق,vocabulary_from_around_the_house
+floor s,Tawaabiq,طوابق,vocabulary_from_around_the_house
+courtyard,baaHa,باحة,vocabulary_from_around_the_house
+courtyards,aHwaaš,أحواش,vocabulary_from_around_the_house
+gate,bawwaaba,بوّابة,vocabulary_from_around_the_house
+gates,bawwaabaat,بوّابات,vocabulary_from_around_the_house
+door,baab,باب,vocabulary_from_around_the_house
+doors,abwaab,أبواب,vocabulary_from_around_the_house
+key,miftaaH,مفتاح,vocabulary_from_around_the_house
+keys,mafaatiiH,مفاتيح,vocabulary_from_around_the_house
+wall ,jidaar,جدار,vocabulary_from_around_the_house
+wall s,judur,جدر,vocabulary_from_around_the_house
+ceiling,saqf,سقف,vocabulary_from_around_the_house
+ceilings,suquuf,سقوف,vocabulary_from_around_the_house
+floor,arDiyya,أرضية,vocabulary_from_around_the_house
+floors,arDiyyaat,أرضيات,vocabulary_from_around_the_house
+roof,saTH,سطح,vocabulary_from_around_the_house
+roofs,suTuuH,سطوح,vocabulary_from_around_the_house
+electricity,kahrabaa',كهرباء,vocabulary_from_around_the_house
+pipe,maasuura,ماسورة,vocabulary_from_around_the_house
+pipes,mawaasiir,مواسير,vocabulary_from_around_the_house
+valve,miHbas,محبس,vocabulary_from_around_the_house
+electrical outlet,maxraj kahrabaa',مخرج كهرباء,vocabulary_from_around_the_house
+electrical outlets,fiišaat,فيشات,vocabulary_from_around_the_house
+electrical plug,qaabis,قابس,vocabulary_from_around_the_house
+electrical plugs,ikbaas,اكباس,vocabulary_from_around_the_house
+cord,silk,سلك,vocabulary_from_around_the_house
+cords,aslaak,أسلاك,vocabulary_from_around_the_house
+elevator,miS3ad,مصعد,vocabulary_from_around_the_house
+elevators,aSanSeiraat,اصنصيرات,vocabulary_from_around_the_house
+stairs,salaalim,سلالم,vocabulary_from_around_the_house
+balcony,šurfa,شرفة,vocabulary_from_around_the_house
+balconies,šuraf,شرف,vocabulary_from_around_the_house
+neighbor,jaar,جار,vocabulary_from_around_the_house
+neighbors,jiiraan,جيران,vocabulary_from_around_the_house
+rent or lease,iijaar,ايجار,vocabulary_from_around_the_house
+vacant,faariġ,فارغ,vocabulary_from_around_the_house
+furnished,mafruuš,مفروش,vocabulary_from_around_the_house
+room,ġurfa,غرفة,vocabulary_from_around_the_house
+rooms,ġuraf,غرف,vocabulary_from_around_the_house
+hall,mamarr,ممرّ,vocabulary_from_around_the_house
+halls,mamarraat,ممرّات,vocabulary_from_around_the_house
+living room,ġurfat juluus,غرفة جلوس,vocabulary_from_around_the_house
+living rooms,Saloonaat,صلونات,vocabulary_from_around_the_house
+furniture,ataat,أثاث,vocabulary_from_around_the_house
+upholstery,tanjiid,تنجيد,vocabulary_from_around_the_house
+chair,kursi,كرسي,vocabulary_from_around_the_house
+chairs,karaasi,كراسي,vocabulary_from_around_the_house
+armchair,foteyy,فتيّ,vocabulary_from_around_the_house
+armchairs,foteyyaat,فتيّات,vocabulary_from_around_the_house
+sofa,ariika,اريكة,vocabulary_from_around_the_house
+sofas,araa'ik,ارائك,vocabulary_from_around_the_house
+table,Taawula,طاولة,vocabulary_from_around_the_house
+tables,Taawulaat,طاولات,vocabulary_from_around_the_house
+window,šubbaak,شبّاك,vocabulary_from_around_the_house
+windows,šabaabiik,شبابيك,vocabulary_from_around_the_house
+curtain/blinds,sitaara,ستارة,vocabulary_from_around_the_house
+curtain/blinds,sataa'ir,ستائر,vocabulary_from_around_the_house
+remote control,Haakim 3an bo3d,حاكم عن بعد,vocabulary_from_around_the_house
+telephone,tilifoon,تلفون,vocabulary_from_around_the_house
+telephones,tilifoonaat,تلفونات,vocabulary_from_around_the_house
+lamp,miSbaaH,مصباح,vocabulary_from_around_the_house
+lamps,maSaabiiH,مصابيح,vocabulary_from_around_the_house
+light,nuur,نور,vocabulary_from_around_the_house
+lights,anwaar,انوار,vocabulary_from_around_the_house
+candle,šam3a,شمعة,vocabulary_from_around_the_house
+candles,šam3aat,شمعات,vocabulary_from_around_the_house
+chandelier,turayya,ثرية,vocabulary_from_around_the_house
+chandeliers,turayyaat,ثريات,vocabulary_from_around_the_house
+carpet,sajjaada,سجّادة,vocabulary_from_around_the_house
+carpets,sajjaad,سجّاد,vocabulary_from_around_the_house
+carpet ,moket,موكيت,vocabulary_from_around_the_house
+tile ,balaaT,بلاط,vocabulary_from_around_the_house
+tile ,'išaani,قيشاني,vocabulary_from_around_the_house
+fan,mirwaHa,مروحة,vocabulary_from_around_the_house
+fans,maraawiH,مراوح,vocabulary_from_around_the_house
+heater,daffaaya,دفّاية,vocabulary_from_around_the_house
+heaters,daffaayaat,دفّايات,vocabulary_from_around_the_house
+cigarette lighter,qaddaaHa,قداحة,vocabulary_from_around_the_house
+broom,miqašša,مقشّة,vocabulary_from_around_the_house
+brooms,miqaššaat,مقشّات,vocabulary_from_around_the_house
+mop,mimsaHa,ممسحة,vocabulary_from_around_the_house
+mops,mamaasiH,مماسح,vocabulary_from_around_the_house
+sponge,safanj,سفنج,vocabulary_from_around_the_house
+sponges,sifingaat,سفنجات,vocabulary_from_around_the_house
+clothes pin,mišbak,مشبك,vocabulary_from_around_the_house
+clothes pins,mašaabiik,بشابيك,vocabulary_from_around_the_house
+clothes drying rack,manšafa,منشفة,vocabulary_from_around_the_house
+clothes drying racks,manaašif,مناشف,vocabulary_from_around_the_house
+scissors,miqaSS,مقصّ,vocabulary_from_around_the_house
+scissors,maqaaSS,مقاصّ,vocabulary_from_around_the_house
+bedroom,ġurfat noom,غرفة نوم,vocabulary_from_around_the_house
+bed,sariir,سرير,vocabulary_from_around_the_house
+beds,saraa'ir,سرائر,vocabulary_from_around_the_house
+mattress,martaba,مرتبة,vocabulary_from_around_the_house
+mattresses,maraatib,مراتب,vocabulary_from_around_the_house
+bedsheet,milaa'a,ملائة,vocabulary_from_around_the_house
+bedsheets,milaa'iaat,ملائات,vocabulary_from_around_the_house
+blanket,baTTaniyya,بطّانية,vocabulary_from_around_the_house
+blankets,baTaaTiin,بطاطين,vocabulary_from_around_the_house
+quilt,liHaaf,لحاف,vocabulary_from_around_the_house
+quilts,luHuf,لحف,vocabulary_from_around_the_house
+pillow,mixadda,مخدّة,vocabulary_from_around_the_house
+pillows,maxaadd,مخادّ,vocabulary_from_around_the_house
+ clock,saa3a ,ساعة ,vocabulary_from_around_the_house
+closet,xizaana,خزانة,vocabulary_from_around_the_house
+closets,xazaa’in milaabis,خزائن ملابس,vocabulary_from_around_the_house
+closet,duulaab,دولاب,vocabulary_from_around_the_house
+closets,dawaaliib,دواليب,vocabulary_from_around_the_house
+clothes hanger,3allaaqa,علاقة,vocabulary_from_around_the_house
+clothes hangers,3allaaqaat tiyaab,علاقات ثياب,vocabulary_from_around_the_house
+mirror,miraah,مرآة,vocabulary_from_around_the_house
+mirrors,miraaya,مرايا,vocabulary_from_around_the_house
+desk,maktab,مكتب,vocabulary_from_around_the_house
+desks,makaatib,مكاتب,vocabulary_from_around_the_house
+drawer,durj,درج,vocabulary_from_around_the_house
+drawers,adraaj,أدراج,vocabulary_from_around_the_house
+shelf,raff,رفّ,vocabulary_from_around_the_house
+shelves,rufuuf,رفوف,vocabulary_from_around_the_house
+nightstand,kumudiinu,كمدينو,vocabulary_from_around_the_house
+nightstands,kumudiinuhaat,كمدينوهات,vocabulary_from_around_the_house
+dresser,tasriiHa,تسريحة,vocabulary_from_around_the_house
+dressers,tasriiHaat,تسريحات,vocabulary_from_around_the_house
+nightlight,lamba sahhaari,لمبة سهّاري,vocabulary_from_around_the_house
+comb,mušT,مشط,vocabulary_from_around_the_house
+combs,amšaaT,امشاط,vocabulary_from_around_the_house
+brush,furšaah,فرشاة,vocabulary_from_around_the_house
+brushes,furaš,فرش,vocabulary_from_around_the_house
+bathroom,Hammaam,حمّام,vocabulary_from_around_the_house
+bathrooms,Hammaamaat,حمّامات,vocabulary_from_around_the_house
+shower,duuš,دوش,vocabulary_from_around_the_house
+showers,duušaat,دوشات,vocabulary_from_around_the_house
+toilet paper,waraq tuwalitt,مرق تواليت,vocabulary_from_around_the_house
+sink,maġsala,مغسلة,vocabulary_from_around_the_house
+sinks,maġaasil,مغاسل,vocabulary_from_around_the_house
+faucet,Sunbuur,صنبور,vocabulary_from_around_the_house
+faucets,Sanaabiir,صنابير,vocabulary_from_around_the_house
+towel,minšafa,منشفة,vocabulary_from_around_the_house
+towels,manaašif,مناشف,vocabulary_from_around_the_house
+ towel,baškiir,بشكير,vocabulary_from_around_the_house
+ towels,bašaakiir,بشاكير,vocabulary_from_around_the_house
+shampoo,šaambuu,شامبو,vocabulary_from_around_the_house
+sponge,luufa,لوفة,vocabulary_from_around_the_house
+toothbrush,furšaat asnaan,فرشاة اسنان,vocabulary_from_around_the_house
+toothpaste,ma3juun asnaan,معجون اسنان,vocabulary_from_around_the_house
+razor,šafra,شفرة,vocabulary_from_around_the_house
+razors,šafaraat Hilaaqa,شفرات حلاقة,vocabulary_from_around_the_house
+shaving cream,Sabuun Hilaaqa,صابون حلاقة,vocabulary_from_around_the_house
+washing machine,ġassaala,غسّالة,vocabulary_from_around_the_house
+washing machines,ġassaalaat,غسّالات,vocabulary_from_around_the_house
+iron,mikwaah,مكواة,vocabulary_from_around_the_house
+irons,makaawin,مكاوٍ,vocabulary_from_around_the_house
+makeup,maakiyaaž,ماكياج,vocabulary_from_around_the_house
+powder,buudra,بودرة,vocabulary_from_around_the_house
+eyeshadow,Zill,ظلّ,vocabulary_from_around_the_house
+dining room,ġurfat Ta3aam,غرفة طعام,vocabulary_from_around_the_house
+dining table,maa'ida,مائدة,vocabulary_from_around_the_house
+dish,Tabaq,طبق,vocabulary_from_around_the_house
+dishes,aTbaaq,أطباق,vocabulary_from_around_the_house
+bowl,zabdiya,زبدية,vocabulary_from_around_the_house
+bowls,zabaadiy,زبادي,vocabulary_from_around_the_house
+fork,šooka,شوكة,vocabulary_from_around_the_house
+forks,šuwak,شوك,vocabulary_from_around_the_house
+spoon,mil3aqa,ملعقة,vocabulary_from_around_the_house
+spoons,malaa3iq,ملاعق,vocabulary_from_around_the_house
+knife,sikkiin,سكّين,vocabulary_from_around_the_house
+knives,sakaakiin,سكاكين,vocabulary_from_around_the_house
+cup,kuub,كوب,vocabulary_from_around_the_house
+cups,akwaab,اكواب,vocabulary_from_around_the_house
+coffee cup,finjaan,فنجان,vocabulary_from_around_the_house
+coffee cups,fanaajiin,فناجين,vocabulary_from_around_the_house
+straw,šaffaaTa,شفّاطة,vocabulary_from_around_the_house
+straws,šaffaaTaat,شفّاطاتّ,vocabulary_from_around_the_house
+jug,ibriiq,إبريق,vocabulary_from_around_the_house
+jugs,abaariiq,اباريق,vocabulary_from_around_the_house
+bottle,zujaaja,زجاجة,vocabulary_from_around_the_house
+bottles,zujaajaat,زجاجات,vocabulary_from_around_the_house
+ napkin,mandiil,منديل,vocabulary_from_around_the_house
+ napkins,manaadiil waraq,مناديل ورق,vocabulary_from_around_the_house
+toothpick,3uud asnaan,عود أسنان,vocabulary_from_around_the_house
+kitchen,maTbax,مطبخ,vocabulary_from_around_the_house
+kitchens,maTaabix,مطابخ,vocabulary_from_around_the_house
+dishwasher,ġassaalat SuHuun,غسّالة صحون,vocabulary_from_around_the_house
+fridge,tallaaja,ثلاجة,vocabulary_from_around_the_house
+fridges,tallaajaat,ثلاجات,vocabulary_from_around_the_house
+oven,furn,فرن,vocabulary_from_around_the_house
+ovens,afraan,افران,vocabulary_from_around_the_house
+stove,mawqid,موقد,vocabulary_from_around_the_house
+stoves,mawaaqid,مواقد,vocabulary_from_around_the_house
+flame ,šu3la,شعلة,vocabulary_from_around_the_house
+flame s,šu3alaat,شعلات,vocabulary_from_around_the_house
+matches,tiqaab,ثقاب,vocabulary_from_around_the_house
+pot,qidra,قدرة,vocabulary_from_around_the_house
+pots,quduur,قدور,vocabulary_from_around_the_house
+frying pan,qallaaya,قلاية,vocabulary_from_around_the_house
+mixer/blender,xallaaT,خلاط,vocabulary_from_around_the_house
+mixer/blenders,xallaaTaat,خلاطات,vocabulary_from_around_the_house
+strainer,miSfaah,مصفاة,vocabulary_from_around_the_house
+strainers,maSaafin,مصاف,vocabulary_from_around_the_house
+tool,adaah,أداة,vocabulary_from_around_the_house
+tools,adawaat,أدوات,vocabulary_from_around_the_house
+hammer,miTraqa,مطرقة,vocabulary_from_around_the_house
+hammers,maTaariq,مطارق,vocabulary_from_around_the_house
+nail,mismaar,مسمار,vocabulary_from_around_the_house
+nails,masaamiir,مسامير,vocabulary_from_around_the_house
+screw,burġi,برغي,vocabulary_from_around_the_house
+screws,baraaġi,براغي,vocabulary_from_around_the_house
+pliers,zaradiyya,زردية,vocabulary_from_around_the_house
+pliers,kammaašaat,كمّاشات,vocabulary_from_around_the_house
+screwdriver,mifakk,مفك,vocabulary_from_around_the_house
+screwdrivers,mifakkaat,مفكات,vocabulary_from_around_the_house
+spanner,miftaaH,مفتاح,vocabulary_from_around_the_house
+spanners,mafaatiiH,مفاتيح,vocabulary_from_around_the_house
+saw,minšaar,منشار,vocabulary_from_around_the_house
+saws,manaašiir,مناشير,vocabulary_from_around_the_house
+pump,Tulumba,طلمبة,vocabulary_from_around_the_house
+pumps,Tulumbaat,طلمبات,vocabulary_from_around_the_house
+paint,dihaan,دهان,vocabulary_from_around_the_house
+paints,dihaanaat,دهانات,vocabulary_from_around_the_house
+glue ,ġiraa',غراء,vocabulary_from_around_the_house
+glue,Samġ,صمغ,vocabulary_from_around_the_house
+tape,šariiT laSq,شريط لصق,vocabulary_from_around_the_house
+ladder,sullam,سلّم,vocabulary_from_around_the_house
+ladders,salaalim,سلالم,vocabulary_from_around_the_house
+metal,ma3din,معدن,vocabulary_from_around_the_house
+metals,ma3aadin,معادن,vocabulary_from_around_the_house
+material,maadda,مادة,vocabulary_from_around_the_house
+materials,mawaadd,مواد,vocabulary_from_around_the_house
+copper,nuHaas,نحاس,vocabulary_from_around_the_house
+iron,Hadiid,حديد,vocabulary_from_around_the_house
+steel,Sulb,صلب,vocabulary_from_around_the_house
+marble,ruxaam,رخام,vocabulary_from_around_the_house
+to turn on (a light,walla3 - yiwalla3 ,ولّع - يولّع ,vocabulary_from_around_the_house
+to turn off,Tafa - yiTfi ,طفى - يطفي,vocabulary_from_around_the_house
+war,Harb,حرب,war
+wars,Huruub ,حروب,war
+civil war,Harb ahliyya,حرب أهلية,war
+revolution,tawra,ثورة,war
+revolutions,tawraat,ثورات,war
+coup,inqilaab,انقلاب,war
+bloodless coup,inqilaab abyaD,انقلاب أبيض,war
+conflict,Siraa3,صراع,war
+strife,nizaa3,نزاع,war
+fight,niDaal,نضال,war
+resistance,muqaawama,مقاومة,war
+insurrection,3iSyaan,عصيان,war
+rebellion,tamarrud,تمرّد,war
+military ,3askari,عسكري,war
+alliance,Hilf,حلف,war
+alliances,aHlaaf,أحلاف,war
+ally,Haliif,حليف,war
+allies,Hulafaa',حلفاء,war
+defense ,difaa3 3an,دفاع عن,war
+pre-emptive strike,Darba wiqaa'iyya,ضربة وقائية,war
+occupation,iHtilaal,احتلال,war
+weapon,silaaH,سلاح,war
+weapons,asliHa,أسلحة,war
+machine gun,raššaaš,رشاش,war
+machine guns,raššaašaat,رشاشات,war
+heavy,taqiil,ثقيل,war
+light,xafiif,خفيف,war
+rifle,bunduqiyya,بندقية,war
+rifles,banaadiq,بنادق,war
+sniper rifle,bunduqiyya qannaaSa,بندقية قناصة,war
+pistol,musaddas,مسدس,war
+pistols,musaddasaat,مسدسات,war
+sword,seif,سيف,war
+swords,suyuuf,سيوف,war
+spear,rumH,رمح,war
+spears,rimaaH,رماح,war
+bullet,raSaaSa,رصاصة,war
+bullets,ruSuuS,رصوص,war
+rubber bullets,raSaaS maTTaaTi,رصاص مطاطي,war
+live ammunition,raSaaS Hayy,رصاص حي,war
+weapons that are not firearms (e.g. knives,asliHa beiDaa' ,أسلحة بيضاء,war
+baton,hiraawa,هراوة,war
+batons,hiraawaat,هراوات,war
+firearm,silaaH naari,سلاح ناري,war
+medium-range weapons,asliHa mutawassiTa,أسلحة متوسطة,war
+nuclear weapons,asliHa nawawiyya,أسلحة نووية,war
+chemical weapons,asliHa kiimaawiyya,أسلحة كيماوية,war
+atomic bomb,qunbula darriyya,قنبلة ذرية,war
+smart bomb,qunbula dakiyya,قنبلة ذكية,war
+cluster bomb,qunbula 3unquudiyya,قنبلة عنقودية,war
+land mine,laġam arDi,لغم أرضي,war
+land mines,alġaam arDiyya,ألغام أرضية,war
+mortar,haawun,هاون,war
+mortars,hawaawiin,هواوين,war
+bomb,qunbula,قنبلة,war
+bombs,qanaabil,قنابل,war
+Molotov cocktail,3ubuuwa naasifa,عبوة ناسفة,war
+car bomb,sayyaara mufaxxaxa,سيارة مفخخة,war
+missile,qadiifa,قذيفة,war
+missiles,qadaa'if,قذائف,war
+missile,Saaruux,صاروخ,war
+missiles,Sawaariix,صواريخ,war
+bombing,qaSf,قصف,war
+explosion,infijaar,انفجار,war
+explosions,infijaaraat,انفجارات,war
+explosive ,mutafajjir,متفجر,war
+explosive,mufarqi3a,مفرقعة,war
+explosives,mufarqi3aat,مفرقعات,war
+battle,ma3raka,معركة,war
+battles,ma3aarik,معارك,war
+clash,ištibaak,اشتباك,war
+clashes,ištibaakaat,اشتباكات,war
+attack,hujuum,هجوم,war
+attack,i3tidaa',اعتداء,war
+attacks,i3tidaa'aat,اعتداءات,war
+ambush,kamiin,كمين,war
+ambushes,kumanaa',كمناء,war
+raid,ġaara,غارة,war
+raids,ġaaraat 3ala,غارات على,war
+aggression,3udwaan 3ala,عدوان على,war
+siege,HiSaar,حصار,war
+invasion,ġazw,غزو,war
+incursion,tawaġġul fi,توغل في,war
+injury,jurH,جرح,war
+injuries,jiraaH,جراح,war
+injured,jariiH,جريح,war
+injureds,jarHa,جرحى,war
+killed,qatiil,قتيل,war
+killeds,qatla,قتلى,war
+to meet one's death,laqiya Hatfahu/maSra3ahu,لقى حتفه | مصرعه,war
+death,wafaah/moot/Hatf/maSra3,وفاة | موت | حتف | مصرع,war
+martyr,šahiid,شهيد,war
+martyrs,šuhadaa',شهداء,war
+civilian,madani,مدني,war
+civilians,madaniyuun,مدنيون,war
+unarmed,a3zal,أعزل,war
+unarmeds,3uzl,عزل,war
+corpse,jutta,جثة,war
+corpses,jutat,جثث,war
+funeral,janaaza,جنازة,war
+funerals,janaazaat,جنازات,war
+graveyard,jabbaana,جبانة,war
+graveyards,jabbaanaat,جبانات,war
+grave,qabr,قبر,war
+graves,qubuur,قبور,war
+deceased,marHuum,مرحوم,war
+late lamented,ma'suuf,مأسوف,war
+departed ,raaHil,راحل,war
+army,jeiš,جيش,war
+armies,juyuuš,جيوش,war
+ forces,quwwaat musallaHa,قوات ,war
+air force,quwwaat jawwiyya,قوات جوية,war
+regiment,fawj,فوج,war
+regiments,afwaaj,أفواج,war
+tank,dabbaaba,دبابة,war
+tanks,dabbaabaat,دبابات,war
+armored car,mudarra3a,مدرّعة,war
+armored cars,mudarra3aat,مدرّعات,war
+gunman,musallaH,مسلح,war
+gunmen,musallaHuun,مسلحون,war
+rank,rutba,رتبة,war
+ranks,rutab,رتب,war
+soldier,jundi,جندي,war
+soldiers,junuud,جنود,war
+officer,DaabiT,ضابط,war
+officers,DubbaaT,ضباط,war
+sniper,qannaaS,قناص,war
+snipers,qanaaSa,قناصة,war
+commando,miġwaar,مغوار,war
+commandos,maġaawiir,مغاوير,war
+private,3askari,عسكري,war
+corporal,3ariif,عريف,war
+sergeant,raqiib,رقيب,war
+lieutenant,mulaazim,ملازم,war
+major,raa'id,رائد,war
+colonel,3aqiid,عقيد,war
+brigadier general,3amiid,عميد,war
+general,liwaa',لواء,war
+enemy,3aduuww,عدو,war
+enemies,a3daa',أعداء,war
+defeat,haziima,هزيمة,war
+defeats,hazaa'im,هزائم,war
+loss,xusaara,خسارة,war
+victory,naSr,نصر,war
+victory,intiSaar,انتصار,war
+victories,intiSaaraat,انتصارات,war
+treaty; charter,miitaaq,ميثاق,war
+treaty; charters,mawaatiiq,مواثيق,war
+treaty,mu3aahada,معاهدة,war
+treaties,mu3aahadaat,معاهدات,war
+treaty; agreement,ittifaaqiyya,اتفاقية,war
+treaty; agreements,ittifaaqiyyaat,اتفاقيات,war
+agreement,ittifaaq,اتفاق,war
+agreements,ittifaaqaat,اتفاقات,war
+armistice,hudna,هدنة,war
+armistices,hudanaat,هدنات,war
+solution,Hall,حل,war
+solutions,Huluul,حلول,war
+compromise,Hall wasaT,حل وسط,war
+negotiations,mufaawaDaat,مفاوضات,war
+talks,muHaadataat,محادثات,war
+dialogue,Hiwaar,حوار,war
+mediator,wasiiT,وسيط,war
+mediators,wusaTaa',وسطاء,war
+job,waZiifa,وظيفة,work_and_money
+jobs,waZaa'if,وظائف,work_and_money
+profession,mihna,مهنة,work_and_money
+professions,mihan,مهن,work_and_money
+work,3amal,عمل,work_and_money
+employment,tawZiif,توظيف,work_and_money
+resume,siira daatiyya,سيرة,work_and_money
+resumes,siyar daatiyya,سير ذاتية,work_and_money
+qualifications,mu'ahhilaat,مؤهلات,work_and_money
+experience,xibra,خبرة,work_and_money
+job vacancy,waZiifa šaaġira/xaaliya,وظيفة شاغرة/خالية,work_and_money
+interview,muqaabala šaxSiyya,مقابلة شخصية,work_and_money
+promotion,tarqiyya,ترقية,work_and_money
+raise,3elaawa,علاوة,work_and_money
+raises,3elaawaat,علاوات,work_and_money
+salary,murattab,مرتب,work_and_money
+salaries,murattabaat,مرتبات,work_and_money
+income,daxl,دخل,work_and_money
+ salary,mahiyya,ماهية,work_and_money
+ salaries,mahiyyaat,ماهيات,work_and_money
+living,rizq,رزق,work_and_money
+livings,arzaaq,أرزاق,work_and_money
+pension,ma3aaš,معاش,work_and_money
+time to leave work,mii3aad/wa't il-inSiraaf,ميعاد | وقت الانصراف,work_and_money
+boss,mudiir,مدير,work_and_money
+colleague,zamiil,زميل,work_and_money
+colleagues,zumalaa',زملاء,work_and_money
+office; desk,maktab,مكتب,work_and_money
+office; desks,makaatib,مكاتب,work_and_money
+shredder,farraaama,فرامة,work_and_money
+shredders,farraamaat,فرامات,work_and_money
+money,maal,مال,work_and_money
+monies,amwaal,أموال,work_and_money
+counterfeit,muzayyaf,مزيّف,work_and_money
+cash,naqd,نقد,work_and_money
+cash,nuquud,نقود,work_and_money
+check,šek,شيك,work_and_money
+checks,šekaat,شيكات,work_and_money
+account,Hisaab,حساب,work_and_money
+accounts,Hisaabaat,حسابات,work_and_money
+savings account,Hisaab tawfiir,حساب توفير,work_and_money
+checking account,Hisaab jaari,حساب جاري,work_and_money
+to save (accumulate money,Hawwiš - yiHawwiš ,حوّش - يحوّش ,work_and_money
+loan,qarD,قرض,work_and_money
+loans,quruuD,قروض,work_and_money
+debt,dein,دين,work_and_money
+debts,duyuun,ديون,work_and_money
+credit card,biTaaqat i'timaan,بطاقة ائتمان,work_and_money
+allowance,3elaawa,علاوة,work_and_money
+allowances,3elaawaat,ملاوات,work_and_money
+accountant,muHaasib,محاسب,work_and_money
+administrator,idaari,اداري,work_and_money
+agent,wakiil,وكيل,work_and_money
+agents,wukalaa',وكلاء,work_and_money
+air stewardess,muDiif jawwi,مضيف جوي,work_and_money
+analyst,muHallil,محلل,work_and_money
+architect,mi3maar,معمار,work_and_money
+artist,fannaan,فنان,work_and_money
+assistant,musaa3id,مساعد,work_and_money
+astrologer,munajjim,منجم,work_and_money
+astronaut,raa'id faDaa',رائد فضاء,work_and_money
+athlete,riyaaDi,رياضي,work_and_money
+baker,xabbaaz,خباز,work_and_money
+barber,Hallaaq,حلاق,work_and_money
+blacksmith,Haddaad,حداد,work_and_money
+businessman,rajul a3maal,رجل أعمال,work_and_money
+businessmen,rijaal a3maal,رجال أعمال,work_and_money
+butcher,jazzaar,جزار,work_and_money
+carpenter,najjaar,نجار,work_and_money
+cashier; bank teller,Seirafi,صيرفي,work_and_money
+cashier; bank tellers,Sayaarifa,صيارفة,work_and_money
+chemist,kiimiyaa'i,كيميائي,work_and_money
+coach,mudarrib,مدرب,work_and_money
+computer programmer,mubarmij Haasuubaat,مبرمج حاسوبات,work_and_money
+contractor,muqaawil,مقاول,work_and_money
+cook,Tabbaax,طباخ,work_and_money
+critics,nuqqaad,نقاد,work_and_money
+dancer,raqqaaS,رقاص,work_and_money
+dentist,Tabiib asnaan,طبيب اسنان,work_and_money
+designer,muSammim,مصمم,work_and_money
+diplomat,dibloomaasi,دبلوماسي,work_and_money
+director,mudiir,مدير,work_and_money
+directors,mudaraa',مدراء,work_and_money
+director ,muxrij,مخرج,work_and_money
+doctors,aTibaa',أطباء,work_and_money
+doorman,bawwaab,بواب,work_and_money
+editor,muHarrir,محرر,work_and_money
+electrician,kahrubaa'i,كهربائي,work_and_money
+electricians,kahrubaa'iyya,كهربائية,work_and_money
+employee,muwaZZaf,موظف,work_and_money
+engineer,muhandis,مهندس,work_and_money
+expert,xabiir,خبير,work_and_money
+experts,xubaraa',خبراء,work_and_money
+farmer,muzaari3,مزارع,work_and_money
+financial advisor,mustašaar maali,مستشار مالي,work_and_money
+fireman,rajul maTaafi',رجل مطافئ,work_and_money
+guard,Haaris,حارس,work_and_money
+guards,Hurraas,حراس,work_and_money
+hairdresser,muSaffif ša3r,مصفف شعر,work_and_money
+historian,mu'arrix,مؤرخ,work_and_money
+inspector,mufattiš,مفتش,work_and_money
+inventor,muxtari3,مخترع,work_and_money
+jeweler,jawharji,جوهرجي,work_and_money
+jewelers,gawahirgiyya,جوهرجية,work_and_money
+journalist,SuHafi,صحفي,work_and_money
+librarian,amiin maktaba,أمين مكتبة,work_and_money
+maid,xaddaama,خدامة,work_and_money
+marketer,musawwiq,مسوق,work_and_money
+mechanic,miikaaniki,ميكانيكي,work_and_money
+mechanics,mikaniikiyya,ميكانيكية,work_and_money
+merchant,taajir,تاجر,work_and_money
+merchants,tujjaar,تجار,work_and_money
+model,3aariD azyaa',عارض أزياء,work_and_money
+musician,muusiiqaar,موسيقار,work_and_money
+nanny,murabbiyyat aTfaal,مربية أطفال,work_and_money
+nurse,mumarriD,ممرض,work_and_money
+officer,ZaabiT,ضابط,work_and_money
+officers,ZubbaaT,ضباط,work_and_money
+pharmacist,Saydali,صيدلي,work_and_money
+pharmacists,Sayadla,صيدلة,work_and_money
+pilot,Tayyaar,طيار,work_and_money
+plumber,sabbaak,سباك,work_and_money
+policeman,šurTi,شرطي,work_and_money
+politician,siyaasi,سياسي,work_and_money
+psychologist,3aalim nafsaani,عالم نفساني,work_and_money
+professor,ustaad,استاذ,work_and_money
+professors,asaatida,أساتذة,work_and_money
+sailor,baHHaar,بحار,work_and_money
+sailors,baHHaara,بحارة,work_and_money
+salesman,baa'i3,بائع,work_and_money
+scientist,3aalim,عالم,work_and_money
+scientists,3ulamaa',علماء,work_and_money
+servant,xaddaam,خدام,work_and_money
+social worker,mušrif ijtimaa3i,مشرف اجتماعي,work_and_money
+supervisor,muraaqib,مراقب,work_and_money
+surgeon,jarraaH,جراح,work_and_money
+tailor,xayyaaT,خياط,work_and_money
+teacher,mudarris,مدرس,work_and_money
+veterinarian,Tabiib beTari,طبيب بيطري,work_and_money
+worker,3aamil,عامل,work_and_money
+workers,3ummaal,عمال,work_and_money

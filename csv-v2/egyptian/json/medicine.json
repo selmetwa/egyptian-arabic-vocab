@@ -1,0 +1,702 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "doctor",
+    "transliteration": "doktoor",
+    "arabic": "دكتور"
+  },
+  {
+    "english": "doctors",
+    "transliteration": "dakatra",
+    "arabic": "دكترة"
+  },
+  {
+    "english": "surgeon",
+    "transliteration": "garraaH",
+    "arabic": "جرّاح"
+  },
+  {
+    "english": "surgeons",
+    "transliteration": "garraaHiin",
+    "arabic": "جرّاحون"
+  },
+  {
+    "english": "nurse",
+    "transliteration": "mumarriD",
+    "arabic": "ممرّض"
+  },
+  {
+    "english": "nurses",
+    "transliteration": "mumarriDiin",
+    "arabic": "ممرّضون"
+  },
+  {
+    "english": "patient",
+    "transliteration": "mariiD",
+    "arabic": "مريض"
+  },
+  {
+    "english": "patients",
+    "transliteration": "marDa",
+    "arabic": "مرضى"
+  },
+  {
+    "english": "hospital",
+    "transliteration": "mustašfa",
+    "arabic": "مستشفى"
+  },
+  {
+    "english": "hospitals",
+    "transliteration": "mustašfayaat",
+    "arabic": "مستشفيات"
+  },
+  {
+    "english": "clinic",
+    "transliteration": "3iyaada",
+    "arabic": "عيادة"
+  },
+  {
+    "english": "clinics",
+    "transliteration": "3iyaadaat",
+    "arabic": "عيادات"
+  },
+  {
+    "english": "pharmacy",
+    "transliteration": "Saidaliyya",
+    "arabic": "صيدلية"
+  },
+  {
+    "english": "pharmacies",
+    "transliteration": "Saidaliyyaat",
+    "arabic": "صيدليات"
+  },
+  {
+    "english": "ambulance",
+    "transliteration": "is3aaf",
+    "arabic": "اسعاف"
+  },
+  {
+    "english": "ambulances",
+    "transliteration": "is3aafaat",
+    "arabic": "اسعافات"
+  },
+  {
+    "english": "disease",
+    "transliteration": "maraD",
+    "arabic": "مرض"
+  },
+  {
+    "english": "diseases",
+    "transliteration": "amraaD",
+    "arabic": "أمراض"
+  },
+  {
+    "english": "chronic",
+    "transliteration": "muzmin",
+    "arabic": "مزمن"
+  },
+  {
+    "english": "infectious",
+    "transliteration": "saari",
+    "arabic": "ساري"
+  },
+  {
+    "english": "contagious",
+    "transliteration": "mu3d",
+    "arabic": "معد"
+  },
+  {
+    "english": "infection",
+    "transliteration": "3adwa",
+    "arabic": "عدوى"
+  },
+  {
+    "english": "parasite",
+    "transliteration": "Tufaili",
+    "arabic": "طفيلي"
+  },
+  {
+    "english": "parasites",
+    "transliteration": "Tufailiyaat",
+    "arabic": "طفيليات"
+  },
+  {
+    "english": "asthma",
+    "transliteration": "azma",
+    "arabic": "ازمة"
+  },
+  {
+    "english": "heart attack",
+    "transliteration": "azma qalbiyya",
+    "arabic": "أزمة قلبية"
+  },
+  {
+    "english": "coma",
+    "transliteration": "ġaibuuba",
+    "arabic": "غيبوبة"
+  },
+  {
+    "english": "clot",
+    "transliteration": "galTa",
+    "arabic": "جلطة"
+  },
+  {
+    "english": "clots",
+    "transliteration": "galaTaat",
+    "arabic": "جلطات"
+  },
+  {
+    "english": "stroke",
+    "transliteration": "galTa fil-moxx",
+    "arabic": "جلطة في المخ"
+  },
+  {
+    "english": "allergy ",
+    "transliteration": "Hassaasiyya min",
+    "arabic": "حسّاسية من"
+  },
+  {
+    "english": "cold",
+    "transliteration": "bard",
+    "arabic": "برد"
+  },
+  {
+    "english": "cirrhosis",
+    "transliteration": "talayyuf",
+    "arabic": "تليف"
+  },
+  {
+    "english": "autism",
+    "transliteration": "tawaHHud",
+    "arabic": "توحد"
+  },
+  {
+    "english": "leprosy",
+    "transliteration": "guzaam",
+    "arabic": "جذام"
+  },
+  {
+    "english": "tuberculosis",
+    "transliteration": "sull",
+    "arabic": "سل"
+  },
+  {
+    "english": "epilepsy",
+    "transliteration": "Sara3",
+    "arabic": "صرع"
+  },
+  {
+    "english": "symptom",
+    "transliteration": "3araD",
+    "arabic": "عرض"
+  },
+  {
+    "english": "symptoms",
+    "transliteration": "a3raaD",
+    "arabic": "أعراض"
+  },
+  {
+    "english": "headache",
+    "transliteration": "SuDaa3",
+    "arabic": "صداع"
+  },
+  {
+    "english": "insomnia",
+    "transliteration": "araq",
+    "arabic": "أرق"
+  },
+  {
+    "english": "heartburn",
+    "transliteration": "HumuuDa",
+    "arabic": "حموضة"
+  },
+  {
+    "english": "diarrhea",
+    "transliteration": "ishaal",
+    "arabic": "إسهال"
+  },
+  {
+    "english": "stomach cramping",
+    "transliteration": "maġaS",
+    "arabic": "مغص"
+  },
+  {
+    "english": "constipation",
+    "transliteration": "imsaak",
+    "arabic": "امساك"
+  },
+  {
+    "english": "indigestion",
+    "transliteration": "3usr haDm",
+    "arabic": "عسر هضم"
+  },
+  {
+    "english": "bruise",
+    "transliteration": "kadma",
+    "arabic": "كدمة"
+  },
+  {
+    "english": "bruises",
+    "transliteration": "kadamaat",
+    "arabic": "كدمات"
+  },
+  {
+    "english": "burn",
+    "transliteration": "Har'",
+    "arabic": "حرق"
+  },
+  {
+    "english": "burns",
+    "transliteration": "Huruu'",
+    "arabic": "حروق"
+  },
+  {
+    "english": "laceration",
+    "transliteration": "tamazzu'",
+    "arabic": "تمزّق"
+  },
+  {
+    "english": "scratch",
+    "transliteration": "xadš",
+    "arabic": "خدش"
+  },
+  {
+    "english": "scratches",
+    "transliteration": "xuduuš",
+    "arabic": "خدوش"
+  },
+  {
+    "english": "cut",
+    "transliteration": "'aT3",
+    "arabic": "قطع"
+  },
+  {
+    "english": "cuts",
+    "transliteration": "'uTuu3",
+    "arabic": "قطوع"
+  },
+  {
+    "english": "wound",
+    "transliteration": "garH",
+    "arabic": "جرح"
+  },
+  {
+    "english": "wounds",
+    "transliteration": "guruuH",
+    "arabic": "جروح"
+  },
+  {
+    "english": "boil",
+    "transliteration": "dimmil",
+    "arabic": "دمّل"
+  },
+  {
+    "english": "boils",
+    "transliteration": "damaamil",
+    "arabic": "دمامل"
+  },
+  {
+    "english": "swelling; tumor",
+    "transliteration": "waram",
+    "arabic": "ورم"
+  },
+  {
+    "english": "swelling; tumors",
+    "transliteration": "awraam",
+    "arabic": "أورام"
+  },
+  {
+    "english": "inflammation; infection",
+    "transliteration": "tihaab",
+    "arabic": "تهاب"
+  },
+  {
+    "english": "dizziness",
+    "transliteration": "dawxa",
+    "arabic": "دوخة"
+  },
+  {
+    "english": "vomiting",
+    "transliteration": "Turaaš",
+    "arabic": "طراش"
+  },
+  {
+    "english": "nausea",
+    "transliteration": "gaza3",
+    "arabic": "جزع"
+  },
+  {
+    "english": "shock",
+    "transliteration": "Sadma",
+    "arabic": "صدمة"
+  },
+  {
+    "english": "shocks",
+    "transliteration": "Sadamaat",
+    "arabic": "صدمات"
+  },
+  {
+    "english": "fever",
+    "transliteration": "Humma",
+    "arabic": "حمّى"
+  },
+  {
+    "english": "fevers",
+    "transliteration": "Hummiyyaat",
+    "arabic": "حمّيات"
+  },
+  {
+    "english": "degree",
+    "transliteration": "daraga",
+    "arabic": "درجة"
+  },
+  {
+    "english": "degrees",
+    "transliteration": "daragaat",
+    "arabic": "درجات"
+  },
+  {
+    "english": "broken ",
+    "transliteration": "diraa3 maksuur",
+    "arabic": " مكسور"
+  },
+  {
+    "english": "stethoscope",
+    "transliteration": "sammaa3a",
+    "arabic": "سمّاعة"
+  },
+  {
+    "english": "stethoscopes",
+    "transliteration": "sammaa3aat",
+    "arabic": "سمّاعات"
+  },
+  {
+    "english": "X-ray",
+    "transliteration": "aši33a/aši33at iks",
+    "arabic": "اشعّة "
+  },
+  {
+    "english": "medicine",
+    "transliteration": "dawa",
+    "arabic": "دوا"
+  },
+  {
+    "english": "medicines",
+    "transliteration": "adwiya",
+    "arabic": "ادوية"
+  },
+  {
+    "english": "pill",
+    "transliteration": "Habba",
+    "arabic": "حبّة"
+  },
+  {
+    "english": "pills",
+    "transliteration": "Habbaat/ Hubuub",
+    "arabic": "حبّات | حبوب"
+  },
+  {
+    "english": "tablet",
+    "transliteration": "buršaama",
+    "arabic": "برشامة"
+  },
+  {
+    "english": "tablets",
+    "transliteration": "buršaam",
+    "arabic": "برشام"
+  },
+  {
+    "english": "syrup",
+    "transliteration": "dawa šurb",
+    "arabic": "دوا شرب"
+  },
+  {
+    "english": "syrups",
+    "transliteration": "ašriba",
+    "arabic": "اشربة"
+  },
+  {
+    "english": "antibiotic",
+    "transliteration": "muDadd Hayawi",
+    "arabic": "مضاد حيوي"
+  },
+  {
+    "english": "dose ",
+    "transliteration": "gur3a",
+    "arabic": "جرعة"
+  },
+  {
+    "english": "dose s",
+    "transliteration": "gur3aat",
+    "arabic": "جرعات"
+  },
+  {
+    "english": "ointment",
+    "transliteration": "marham",
+    "arabic": "مرهم"
+  },
+  {
+    "english": "ointments",
+    "transliteration": "maraahim",
+    "arabic": "مراهم"
+  },
+  {
+    "english": "vaccine",
+    "transliteration": "taT3iim",
+    "arabic": "تطعيم"
+  },
+  {
+    "english": "gauze",
+    "transliteration": "šaaš",
+    "arabic": "شاش"
+  },
+  {
+    "english": "bandage",
+    "transliteration": "rubaaT",
+    "arabic": "رباط"
+  },
+  {
+    "english": "bandages",
+    "transliteration": "arbiTa",
+    "arabic": "اربطة"
+  },
+  {
+    "english": "band-aid",
+    "transliteration": "plastar",
+    "arabic": "بلاستر"
+  },
+  {
+    "english": "stitches",
+    "transliteration": "ġuraz  ġurza",
+    "arabic": "غرز    غرزة"
+  },
+  {
+    "english": "cast",
+    "transliteration": "gibiira  gabaayir",
+    "arabic": "جبيرة"
+  },
+  {
+    "english": "casts",
+    "transliteration": "jabaa'ir",
+    "arabic": "جباير"
+  },
+  {
+    "english": "crutch",
+    "transliteration": "3ukkaaz",
+    "arabic": "عكاز"
+  },
+  {
+    "english": "crutches",
+    "transliteration": "3ukkaazaat",
+    "arabic": "عكازات"
+  },
+  {
+    "english": "disinfectant",
+    "transliteration": "muTahhir",
+    "arabic": "مطهّر"
+  },
+  {
+    "english": "disinfectants",
+    "transliteration": "muTahhiraat",
+    "arabic": "مطهّرات"
+  },
+  {
+    "english": "anesthesia",
+    "transliteration": "bing",
+    "arabic": "بنج"
+  },
+  {
+    "english": "operation",
+    "transliteration": "3amaliyya",
+    "arabic": "عملية"
+  },
+  {
+    "english": "operations",
+    "transliteration": "3amaliyyaat",
+    "arabic": "عمليات"
+  },
+  {
+    "english": "surgery",
+    "transliteration": "giraaHa",
+    "arabic": "جراحة"
+  },
+  {
+    "english": "amputation",
+    "transliteration": "batr",
+    "arabic": "بتر"
+  },
+  {
+    "english": "autopsy",
+    "transliteration": "tašriiH",
+    "arabic": "تشريح"
+  },
+  {
+    "english": "abortion",
+    "transliteration": "ighaaD",
+    "arabic": "اجهاض"
+  },
+  {
+    "english": "chemotherapy",
+    "transliteration": "3ilaag kimyaa'i",
+    "arabic": "علاج كيميائي"
+  },
+  {
+    "english": "plastic surgery",
+    "transliteration": "3amaliyyit tagmiil",
+    "arabic": "عملية تجميل"
+  },
+  {
+    "english": "health",
+    "transliteration": "SiHHa",
+    "arabic": "صحة"
+  },
+  {
+    "english": "sick",
+    "transliteration": "mariid",
+    "arabic": "مريض"
+  },
+  {
+    "english": "sicks",
+    "transliteration": "marDa",
+    "arabic": "مرضى"
+  },
+  {
+    "english": "healthy",
+    "transliteration": "saliim",
+    "arabic": "سليم"
+  },
+  {
+    "english": "healthies",
+    "transliteration": "sulamaa'",
+    "arabic": "سلماء"
+  },
+  {
+    "english": "weak",
+    "transliteration": "Da3iif",
+    "arabic": "ضعيف"
+  },
+  {
+    "english": "weaks",
+    "transliteration": "Du3afa",
+    "arabic": "ضعفاء"
+  },
+  {
+    "english": "strong",
+    "transliteration": "'awi",
+    "arabic": "قوي"
+  },
+  {
+    "english": "strongs",
+    "transliteration": "a'wiya",
+    "arabic": "أقوياء"
+  },
+  {
+    "english": "paralyzed",
+    "transliteration": "mašluul",
+    "arabic": "مشلول"
+  },
+  {
+    "english": "handicapped",
+    "transliteration": "ma3uuq",
+    "arabic": "معوق"
+  },
+  {
+    "english": "disabled",
+    "transliteration": "malġi",
+    "arabic": "ملغي"
+  },
+  {
+    "english": "mentally disabled",
+    "transliteration": "mutaxallif 3aqliyyan",
+    "arabic": "متخلّف عقليا"
+  },
+  {
+    "english": "sting",
+    "transliteration": "'arSa",
+    "arabic": "قرصة"
+  },
+  {
+    "english": "stings",
+    "transliteration": "'araSaat",
+    "arabic": "قرصات"
+  },
+  {
+    "english": "to throb ",
+    "transliteration": "na'aH - yin'aH ",
+    "arabic": "نقح - ينقح "
+  },
+  {
+    "english": "to be injured",
+    "transliteration": "it3awwar - yit3awwar ",
+    "arabic": "اتعوّر - يتعوّر "
+  },
+  {
+    "english": "pain",
+    "transliteration": "waga3",
+    "arabic": "وجع"
+  },
+  {
+    "english": "pains",
+    "transliteration": "awgaa3",
+    "arabic": "أوجاع"
+  },
+  {
+    "english": " sneeze",
+    "transliteration": "3aTsa",
+    "arabic": "عطسة"
+  },
+  {
+    "english": " cough",
+    "transliteration": "kuHHa",
+    "arabic": "كحّة"
+  },
+  {
+    "english": "stuffed-up nose",
+    "transliteration": "manaxiir masduuda",
+    "arabic": "مناخير مسدودة"
+  },
+  {
+    "english": "runny nose",
+    "transliteration": "manaxiir bitxorr/bitšorr",
+    "arabic": "مناخير بتخرّ\\بتشرّ"
+  },
+  {
+    "english": "prevention of",
+    "transliteration": "wiqaaya min",
+    "arabic": "وقاية من"
+  },
+  {
+    "english": "medical examination",
+    "transliteration": "faHS",
+    "arabic": "فحص"
+  },
+  {
+    "english": "medical examinations",
+    "transliteration": "fuHuuS",
+    "arabic": "فحوص"
+  },
+  {
+    "english": "shot",
+    "transliteration": "Hu'na",
+    "arabic": "حقن"
+  },
+  {
+    "english": "shots",
+    "transliteration": "Hu'an",
+    "arabic": "حقن"
+  },
+  {
+    "english": "prescription",
+    "transliteration": "rušitta",
+    "arabic": "رشتّة"
+  },
+  {
+    "english": "prescriptions",
+    "transliteration": "rušittaat",
+    "arabic": "رشتّات"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "english": "health",
+    "transliteration": "",
+    "arabic": "صِحّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-01.mp3"
+  },
+  {
+    "english": "healthy, in good health",
+    "transliteration": "",
+    "arabic": "لاباس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-02.mp3"
+  },
+  {
+    "english": "sickness, illness, disease",
+    "transliteration": "",
+    "arabic": "مرْض (أمْراض)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-03.mp3"
+  },
+  {
+    "english": "sick, ill",
+    "transliteration": "",
+    "arabic": "مْريض (مْراض)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-04.mp3"
+  },
+  {
+    "english": "to be in poor health",
+    "transliteration": "",
+    "arabic": "عِيّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-05.mp3"
+  },
+  {
+    "english": "to be handicapped",
+    "transliteration": "",
+    "arabic": "مُعاق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-06.mp3"
+  },
+  {
+    "english": "wheelchair",
+    "transliteration": "",
+    "arabic": "كُرْسي مُتحرِّك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-07.mp3"
+  },
+  {
+    "english": "doctor",
+    "transliteration": "",
+    "arabic": "طْبيب (طُبّه)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-08.mp3"
+  },
+  {
+    "english": "I don’t feel well. I think I need to go see a doctor.",
+    "transliteration": "",
+    "arabic": "حاسّ بْراسي مْشي مزْيان، واقيلا خاصْني نمْشي عنْد الطّْبيب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-09.mp3"
+  },
+  {
+    "english": "specialist",
+    "transliteration": "",
+    "arabic": "أخِصّائي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-10.mp3"
+  },
+  {
+    "english": "cardiologist",
+    "transliteration": "",
+    "arabic": "طْبيب قلْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-11.mp3"
+  },
+  {
+    "english": "eye doctor, ophthalmologist",
+    "transliteration": "",
+    "arabic": "طْبيب العيْنين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-12.mp3"
+  },
+  {
+    "english": "to make an appointment with",
+    "transliteration": "",
+    "arabic": "خْدا رونْديڤو مْع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-13.mp3"
+  },
+  {
+    "english": "hospital",
+    "transliteration": "",
+    "arabic": "سْبيطار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-14.mp3"
+  },
+  {
+    "english": "doctor’s office, clinic",
+    "transliteration": "",
+    "arabic": "عِيادة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-15.mp3"
+  },
+  {
+    "english": "nurse (male)",
+    "transliteration": "",
+    "arabic": "فرْمْلي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-16.mp3"
+  },
+  {
+    "english": "nurse (female)",
+    "transliteration": "",
+    "arabic": "فرْمْلية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-17.mp3"
+  },
+  {
+    "english": "patient",
+    "transliteration": "",
+    "arabic": "مْريض (مرْضى)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-18.mp3"
+  },
+  {
+    "english": "to get a (medical) check-up",
+    "transliteration": "",
+    "arabic": "دار كونْتْرول عنْد طْبيب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-19.mp3"
+  },
+  {
+    "english": "to diagnose",
+    "transliteration": "",
+    "arabic": "دار دياڭْنوسْتيك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-20.mp3"
+  },
+  {
+    "english": "diagnosis",
+    "transliteration": "",
+    "arabic": "دياڭْنوسْتيك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-21.mp3"
+  },
+  {
+    "english": "to examine",
+    "transliteration": "",
+    "arabic": "شاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-22.mp3"
+  },
+  {
+    "english": "examination",
+    "transliteration": "",
+    "arabic": "كوْنْتْروْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-23.mp3"
+  },
+  {
+    "english": "The doctor examined him and diagnosed him with the flu.",
+    "transliteration": "",
+    "arabic": "شافو الطّْبيب و لقا عنْدو ڭْريپ.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-24.mp3"
+  },
+  {
+    "english": "problem",
+    "transliteration": "",
+    "arabic": "مُشْكِلة (مشاكِل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-25.mp3"
+  },
+  {
+    "english": "What’s wrong?",
+    "transliteration": "",
+    "arabic": "شْنو المُشْكِل؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-26.mp3"
+  },
+  {
+    "english": "I’m sick.",
+    "transliteration": "",
+    "arabic": "آنا مْريض.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-27.mp3"
+  },
+  {
+    "english": "pain",
+    "transliteration": "",
+    "arabic": "وْجع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-28.mp3"
+  },
+  {
+    "english": "pain",
+    "transliteration": "",
+    "arabic": "ألم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-29.mp3"
+  },
+  {
+    "english": "My __ hurts.",
+    "transliteration": "",
+    "arabic": "كيضرّْني  __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-30.mp3"
+  },
+  {
+    "english": "My shoulder has been hurting for ages.",
+    "transliteration": "",
+    "arabic": "كتْفي ضارْني من شْحال هاذي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-31.mp3"
+  },
+  {
+    "english": "It hurts here.",
+    "transliteration": "",
+    "arabic": "كيضرْني هْنا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-32.mp3"
+  },
+  {
+    "english": "to have a backache",
+    "transliteration": "",
+    "arabic": "كيضرّو ظهْرو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-33.mp3"
+  },
+  {
+    "english": "to have a headache",
+    "transliteration": "",
+    "arabic": "كيضرّو راسو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-34.mp3"
+  },
+  {
+    "english": "I have a really bad headache.",
+    "transliteration": "",
+    "arabic": "كيضرّْني راسي بزّاف.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-35.mp3"
+  },
+  {
+    "english": "migraine",
+    "transliteration": "",
+    "arabic": "ميڭْران",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-36.mp3"
+  },
+  {
+    "english": "dizziness",
+    "transliteration": "",
+    "arabic": "دوخة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-37.mp3"
+  },
+  {
+    "english": "dizzy",
+    "transliteration": "",
+    "arabic": "دايِخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-38.mp3"
+  },
+  {
+    "english": "to faint",
+    "transliteration": "",
+    "arabic": "داخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-39.mp3"
+  },
+  {
+    "english": "to have a cold",
+    "transliteration": "",
+    "arabic": "ضرْبو البرْد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-40.mp3"
+  },
+  {
+    "english": "to be congested, have nasal congestion",
+    "transliteration": "",
+    "arabic": "نيفو مسْدود",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-41.mp3"
+  },
+  {
+    "english": "to have the flu",
+    "transliteration": "",
+    "arabic": "عنْدو ڭْريپ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-42.mp3"
+  },
+  {
+    "english": "to have a fever",
+    "transliteration": "",
+    "arabic": "عنْدو سْخانة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-43.mp3"
+  },
+  {
+    "english": "to have a stomachache",
+    "transliteration": "",
+    "arabic": "ضارّاه كُرْشو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-44.mp3"
+  },
+  {
+    "english": "to have a sore throat",
+    "transliteration": "",
+    "arabic": "ضارّاه قرْجوتّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-45.mp3"
+  },
+  {
+    "english": "to cough",
+    "transliteration": "",
+    "arabic": "كْحب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-46.mp3"
+  },
+  {
+    "english": "to have a cough",
+    "transliteration": "",
+    "arabic": "عنْدو كُحْبة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-47.mp3"
+  },
+  {
+    "english": "to vomit, throw up",
+    "transliteration": "",
+    "arabic": "ردّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-48.mp3"
+  },
+  {
+    "english": "to experience nausea, be nauseous",
+    "transliteration": "",
+    "arabic": "فيه الرّدّان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-49.mp3"
+  },
+  {
+    "english": "to have diarrhea",
+    "transliteration": "",
+    "arabic": "جاه الإسْهال",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-50.mp3"
+  },
+  {
+    "english": "to be constipated",
+    "transliteration": "",
+    "arabic": "مقْبوط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-51.mp3"
+  },
+  {
+    "english": "to have indigestion",
+    "transliteration": "",
+    "arabic": "عنْدو سوء الهضْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-52.mp3"
+  },
+  {
+    "english": "diabetes",
+    "transliteration": "",
+    "arabic": "السُّكّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-53.mp3"
+  },
+  {
+    "english": "to be diabetic",
+    "transliteration": "",
+    "arabic": "عنْدو السُّكّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-54.mp3"
+  },
+  {
+    "english": "to have asthma",
+    "transliteration": "",
+    "arabic": "عنْدو الرّبْو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-55.mp3"
+  },
+  {
+    "english": "to have high blood pressure",
+    "transliteration": "",
+    "arabic": "عنْدو الطّونْسْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-56.mp3"
+  },
+  {
+    "english": "AIDS",
+    "transliteration": "",
+    "arabic": "السّيدا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-57.mp3"
+  },
+  {
+    "english": "cancer",
+    "transliteration": "",
+    "arabic": "كوْنْصيْر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-58.mp3"
+  },
+  {
+    "english": "to get injured",
+    "transliteration": "",
+    "arabic": "تْوعّت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-59.mp3"
+  },
+  {
+    "english": "to have a bruise",
+    "transliteration": "",
+    "arabic": "عنْدو زْروڭية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-60.mp3"
+  },
+  {
+    "english": "wound, cut",
+    "transliteration": "",
+    "arabic": "جرْحة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-61.mp3"
+  },
+  {
+    "english": "to get stitches",
+    "transliteration": "",
+    "arabic": "غرّز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-62.mp3"
+  },
+  {
+    "english": "stitch",
+    "transliteration": "",
+    "arabic": "غُرْزة (غْرازي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-63.mp3"
+  },
+  {
+    "english": "burn",
+    "transliteration": "",
+    "arabic": "حرْقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-64.mp3"
+  },
+  {
+    "english": "to get burned",
+    "transliteration": "",
+    "arabic": "تّحْرق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-65.mp3"
+  },
+  {
+    "english": "bandage, Band-Aid",
+    "transliteration": "",
+    "arabic": "فاصْمة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-66.mp3"
+  },
+  {
+    "english": "to have a sprained ankle",
+    "transliteration": "",
+    "arabic": "لْوا الشّوڤية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-67.mp3"
+  },
+  {
+    "english": "to break a bone",
+    "transliteration": "",
+    "arabic": "هرّس العْظم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-68.mp3"
+  },
+  {
+    "english": "a broken bone",
+    "transliteration": "",
+    "arabic": "عْظم مْهرّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-69.mp3"
+  },
+  {
+    "english": "cast (UK: plaster); splint",
+    "transliteration": "",
+    "arabic": "جْبيرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-70.mp3"
+  },
+  {
+    "english": "cast (UK: plaster); splint",
+    "transliteration": "",
+    "arabic": "ڭبْص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-71.mp3"
+  },
+  {
+    "english": "He broke his arm and has to wear a cast now.",
+    "transliteration": "",
+    "arabic": "هرّس إيدّو و دابا خاصّو يْدير الڭبْص.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-72.mp3"
+  },
+  {
+    "english": "x-ray",
+    "transliteration": "",
+    "arabic": "رادْيوْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-73.mp3"
+  },
+  {
+    "english": "to x-ray",
+    "transliteration": "",
+    "arabic": "دار رادْيوْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-74.mp3"
+  },
+  {
+    "english": "medicine",
+    "transliteration": "",
+    "arabic": "دْوا (دْوايات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-75.mp3"
+  },
+  {
+    "english": "prescription",
+    "transliteration": "",
+    "arabic": "أوْرْدونوْنْس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-76.mp3"
+  },
+  {
+    "english": "aspirin",
+    "transliteration": "",
+    "arabic": "أسْپيرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-77.mp3"
+  },
+  {
+    "english": "pill",
+    "transliteration": "",
+    "arabic": "فانيدة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-78.mp3"
+  },
+  {
+    "english": "antibiotics",
+    "transliteration": "",
+    "arabic": "أونْتيبْيِوتيك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-79.mp3"
+  },
+  {
+    "english": "injection, shot",
+    "transliteration": "",
+    "arabic": "بْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-80.mp3"
+  },
+  {
+    "english": "to get a shot",
+    "transliteration": "",
+    "arabic": "دار بْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-81.mp3"
+  },
+  {
+    "english": "to draw blood",
+    "transliteration": "",
+    "arabic": "جْبد الدّمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-82.mp3"
+  },
+  {
+    "english": "to run a blood test",
+    "transliteration": "",
+    "arabic": "دار تحْليلة الدّمّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-83.mp3"
+  },
+  {
+    "english": "to cure, heal",
+    "transliteration": "",
+    "arabic": "بْرا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-84.mp3"
+  },
+  {
+    "english": "recovery, healing",
+    "transliteration": "",
+    "arabic": "الشّْفا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-85.mp3"
+  },
+  {
+    "english": "to treat",
+    "transliteration": "",
+    "arabic": "داوا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-86.mp3"
+  },
+  {
+    "english": "treatment",
+    "transliteration": "",
+    "arabic": "دْوا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-87.mp3"
+  },
+  {
+    "english": "treatment",
+    "transliteration": "",
+    "arabic": "طْريطْمون",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-88.mp3"
+  },
+  {
+    "english": "infection",
+    "transliteration": "",
+    "arabic": "آنْفيكْسْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-89.mp3"
+  },
+  {
+    "english": "contagious",
+    "transliteration": "",
+    "arabic": "كتْعادي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-90.mp3"
+  },
+  {
+    "english": "Are you contagious?",
+    "transliteration": "",
+    "arabic": "واش مرْضك كيْعادي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-91.mp3"
+  },
+  {
+    "english": "surgeon",
+    "transliteration": "",
+    "arabic": "جرّاح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-92.mp3"
+  },
+  {
+    "english": "surgery",
+    "transliteration": "",
+    "arabic": "عملية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-93.mp3"
+  },
+  {
+    "english": "to perform surgery on, operate on",
+    "transliteration": "",
+    "arabic": "دار عملية عْلى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-94.mp3"
+  },
+  {
+    "english": "to undergo surgery, have an operation",
+    "transliteration": "",
+    "arabic": "دار عملية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-95.mp3"
+  },
+  {
+    "english": "to have an abortion",
+    "transliteration": "",
+    "arabic": "دارت إجْهاض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-96.mp3"
+  },
+  {
+    "english": "plastic surgeon",
+    "transliteration": "",
+    "arabic": "جرّاح تجْميلي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-97.mp3"
+  },
+  {
+    "english": "plastic surgery",
+    "transliteration": "",
+    "arabic": "عملية تجْميل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-98.mp3"
+  },
+  {
+    "english": "pregnancy",
+    "transliteration": "",
+    "arabic": "حْمل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-99.mp3"
+  },
+  {
+    "english": "to get pregnant by",
+    "transliteration": "",
+    "arabic": "حمْلات من",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-100.mp3"
+  },
+  {
+    "english": "pregnant",
+    "transliteration": "",
+    "arabic": "حامْلة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-101.mp3"
+  },
+  {
+    "english": "to give birth",
+    "transliteration": "",
+    "arabic": "وُلْدات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-102.mp3"
+  },
+  {
+    "english": "When are you due?",
+    "transliteration": "",
+    "arabic": "إمْتى غتْولْدي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-103.mp3"
+  },
+  {
+    "english": "I’m due in early December.",
+    "transliteration": "",
+    "arabic": "غنْوْلد فْ البدْية دْيال ديصّومْبر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-104.mp3"
+  },
+  {
+    "english": "How far along is she?",
+    "transliteration": "",
+    "arabic": "فْإينا شْهر هِيّ؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-105.mp3"
+  },
+  {
+    "english": "She’s six-months pregnant.",
+    "transliteration": "",
+    "arabic": "هِيّ فْ الشّْهر السّادس.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-106.mp3"
+  },
+  {
+    "english": "to use birth control",
+    "transliteration": "",
+    "arabic": "خْدات حُبوب منْع الحمْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-107.mp3"
+  },
+  {
+    "english": "condom",
+    "transliteration": "",
+    "arabic": "پْريْزيْرْڤاتيف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-108.mp3"
+  },
+  {
+    "english": "dentist",
+    "transliteration": "",
+    "arabic": "دونْتيسْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-109.mp3"
+  },
+  {
+    "english": "to have a cavity",
+    "transliteration": "",
+    "arabic": "عنْدو السّوسة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-110.mp3"
+  },
+  {
+    "english": "to have a toothache",
+    "transliteration": "",
+    "arabic": "ضارّاه سنْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-111.mp3"
+  },
+  {
+    "english": "to have a chipped tooth",
+    "transliteration": "",
+    "arabic": "عنْدو سنّة مْهرْسة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-112.mp3"
+  },
+  {
+    "english": "to get a filling",
+    "transliteration": "",
+    "arabic": "حْشى السّنّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-113.mp3"
+  },
+  {
+    "english": "to get a tooth pulled",
+    "transliteration": "",
+    "arabic": "حيّد سنّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-114.mp3"
+  },
+  {
+    "english": "to get a cleaning",
+    "transliteration": "",
+    "arabic": "دار ديطارْطْراج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-115.mp3"
+  },
+  {
+    "english": "I’m going to the dentist’s to get a check-up and a cleaning.",
+    "transliteration": "",
+    "arabic": "غنْمْشي عنْد الدّونْتيسْت يْشوف لِيّا سْناني و نْدير ديطارْطْراج.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-116.mp3"
+  },
+  {
+    "english": "to get one’s teeth whitened",
+    "transliteration": "",
+    "arabic": "بيّض سْنانو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/mcav/mcav11-117.mp3"
+  }
+]

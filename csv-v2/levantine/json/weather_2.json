@@ -1,0 +1,506 @@
+[
+  {
+    "english": "weather",
+    "transliteration": "jaww",
+    "arabic": "جَوّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-1.mp3"
+  },
+  {
+    "english": "weather",
+    "transliteration": "ʈáʔis",
+    "arabic": "طقِس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-2.mp3"
+  },
+  {
+    "english": "What’s the weather like today?",
+    "transliteration": "kīf ijjaww ilyōm?",
+    "arabic": "كيف الجوّ اليوْم؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-3.mp3"
+  },
+  {
+    "english": "The weather is __.",
+    "transliteration": "ʈʈáʔis __.",
+    "arabic": "الطّقِس __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-4.mp3"
+  },
+  {
+    "english": "good, nice, fair",
+    "transliteration": "ɧílu",
+    "arabic": "حِلو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-5.mp3"
+  },
+  {
+    "english": "bad, miserable",
+    "transliteration": "bíši3",
+    "arabic": "بِشِع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-6.mp3"
+  },
+  {
+    "english": "What a nice day!",
+    "transliteration": "šū ha-nnhār ilɧílu!",
+    "arabic": "شو هالنّْهار الحِلو!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-7.mp3"
+  },
+  {
+    "english": "temperature",
+    "transliteration": "dárajit ɧarāra",
+    "arabic": "درجِة حرارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-8.mp3"
+  },
+  {
+    "english": "What’s the temperature?",
+    "transliteration": "ʔidē dárajit ilɧarāra?",
+    "arabic": "قدّيْ درجِة الحرارة؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-9.mp3"
+  },
+  {
+    "english": "(It’s) 25 degrees.",
+    "transliteration": "xámsi u 3išrīn dáraji.",
+    "arabic": "خمْسِة وعِشْرين درجِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-10.mp3"
+  },
+  {
+    "english": "It’s in the low twenties.",
+    "transliteration": "dárajit ilɧarāra b-áwwal il3išrīn.",
+    "arabic": "درجِة الحرارة بْأوّل العِشْرين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-11.mp3"
+  },
+  {
+    "english": "in the mid-twenties",
+    "transliteration": "b-nuʂʂ il3išrīn",
+    "arabic": "بْنُصّ العِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-12.mp3"
+  },
+  {
+    "english": "in the high twenties",
+    "transliteration": "b-ēxir il3išrīn",
+    "arabic": "بْآخِر العِشْرين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-13.mp3"
+  },
+  {
+    "english": "It’s around 30 degrees.",
+    "transliteration": "taʔrīban tlētīn dáraji.",
+    "arabic": "تقْريباً تْلاتين درجِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-14.mp3"
+  },
+  {
+    "english": "It’s over 30 degrees.",
+    "transliteration": "áktar min tlētīn dáraji.",
+    "arabic": "أكْتر مِن تْلاتين درجِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-15.mp3"
+  },
+  {
+    "english": "It’s below zero. It’s below freezing.",
+    "transliteration": "dárajit ilɧarāra taɧt iʂʂífir.",
+    "arabic": "درجِة الحرارة تحْت الصِّفِر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-16.mp3"
+  },
+  {
+    "english": "the maximum temperature, the high",
+    "transliteration": "áqʂa dárajit ilɧarāra",
+    "arabic": "أقْصى درجِة الحرارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-17.mp3"
+  },
+  {
+    "english": "the minimum temperature, the low",
+    "transliteration": "aʔáll dárajit ilɧarāra",
+    "arabic": "أقلّ درجِة الحرارة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-18.mp3"
+  },
+  {
+    "english": "It’s __. / The weather is __.",
+    "transliteration": "jjaww __.",
+    "arabic": "الجَّوّ __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-19.mp3"
+  },
+  {
+    "english": "It’s __. / The weather is __.",
+    "transliteration": "ddínyi __.",
+    "arabic": "الدِّنْيِا __.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-20.mp3"
+  },
+  {
+    "english": "heat",
+    "transliteration": "šōb",
+    "arabic": "شوْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-21.mp3"
+  },
+  {
+    "english": "It’s very hot.",
+    "transliteration": "ktīr šōb.",
+    "arabic": "كْتير شوْب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-22.mp3"
+  },
+  {
+    "english": "warmth",
+    "transliteration": "dáfa",
+    "arabic": "دفا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-23.mp3"
+  },
+  {
+    "english": "coolness, coldness",
+    "transliteration": "bárid",
+    "arabic": "برِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-24.mp3"
+  },
+  {
+    "english": "It’s really cold.",
+    "transliteration": "ktīr bárid.",
+    "arabic": "كْتير برِد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-25.mp3"
+  },
+  {
+    "english": "It’s freezing outside.",
+    "transliteration": "jjaww tálij bárra.",
+    "arabic": "الجَّوّ تلِج برّا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-26.mp3"
+  },
+  {
+    "english": "heat wave",
+    "transliteration": "máwjit šōb",
+    "arabic": "موجِة شوْب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-27.mp3"
+  },
+  {
+    "english": "How hot does it get where you’re from?",
+    "transliteration": "ʔaddē fī šōb b-báladkun?",
+    "arabic": "قدّيْ في شوْب بْبلدْكُن؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-28.mp3"
+  },
+  {
+    "english": "Where I’m from, it doesn’t usually get over 30 degrees in the summer.",
+    "transliteration": "máʈraɧ ma b3īš, lɧarāra mā btúʈla3 fōʔ ittlētīn.",
+    "arabic": "مطْرح ما بْعيش، الحرارة ما بْتِطْلع فوْق التّْلاتين.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-29.mp3"
+  },
+  {
+    "english": "It’s hotter than it was yesterday.",
+    "transliteration": "ʈʈáʔis ášwab min mbēriɧ.",
+    "arabic": "الطقِس أشْوب مِن مْبارِح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-30.mp3"
+  },
+  {
+    "english": "I don’t like hot weather.",
+    "transliteration": "mā bɧibb iššōb.",
+    "arabic": "ما بْحِبّ الشّوب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-31.mp3"
+  },
+  {
+    "english": "sky",
+    "transliteration": "sáma (samawēt)",
+    "arabic": "سما (سمَوات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-32.mp3"
+  },
+  {
+    "english": "The sky is clear.",
+    "transliteration": "ssáma ʂāfyi.",
+    "arabic": "السّما صافْيِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-34.mp3"
+  },
+  {
+    "english": "It’s sunny.",
+    "transliteration": "jjaww míšmis.",
+    "arabic": "الجَوّ مِشْمِس.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-35.mp3"
+  },
+  {
+    "english": "sun",
+    "transliteration": "šámis (šmūs)",
+    "arabic": "شمِس (شْموس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-36.mp3"
+  },
+  {
+    "english": "The sun has come out.",
+    "transliteration": "ʈíl3it iššámis.",
+    "arabic": "طِلْعِت الشمِس.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-37.mp3"
+  },
+  {
+    "english": "The sun is shining.",
+    "transliteration": "ššámis míšrʔa.",
+    "arabic": "الشمِس مِشْرْقة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-38.mp3"
+  },
+  {
+    "english": "darkness",
+    "transliteration": "3átmi",
+    "arabic": "عتْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-39.mp3"
+  },
+  {
+    "english": "It’s dark.",
+    "transliteration": "3átamit iddínyi.",
+    "arabic": "عتمِت الدِّنْيِا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-40.mp3"
+  },
+  {
+    "english": "cloud",
+    "transliteration": "ɣēmi",
+    "arabic": "غيْمِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-41.mp3"
+  },
+  {
+    "english": "It’s cloudy. It’s overcast.",
+    "transliteration": "jjaww mɣáyyam.",
+    "arabic": "الجَّوّ مْغيّم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-42.mp3"
+  },
+  {
+    "english": "rain",
+    "transliteration": "šíta",
+    "arabic": "شِتا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-43.mp3"
+  },
+  {
+    "english": "It is raining. It’s rainy.",
+    "transliteration": "3am tšáti.",
+    "arabic": "عم تْشتي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-44.mp3"
+  },
+  {
+    "english": "It’s started to rain.",
+    "transliteration": "bállašit tšáti.",
+    "arabic": "بلّشِت تْشتي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-45.mp3"
+  },
+  {
+    "english": "It’s stopped raining.",
+    "transliteration": "wáʔʔafit šíta.",
+    "arabic": "وَقّفِت شِتا.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-46.mp3"
+  },
+  {
+    "english": "It is pouring.",
+    "transliteration": "bitnáddi.",
+    "arabic": "بِتْندّي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-47.mp3"
+  },
+  {
+    "english": "rainbow",
+    "transliteration": "qōs qúzaɧ (aqwās qúzaɧ)",
+    "arabic": "قوْس قُزح (أقْواس قُزح)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-48.mp3"
+  },
+  {
+    "english": "wind",
+    "transliteration": "háwa",
+    "arabic": "هَوا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-49.mp3"
+  },
+  {
+    "english": "It’s windy.",
+    "transliteration": "háwa ʔáwi.",
+    "arabic": "هَوا قَوي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-50.mp3"
+  },
+  {
+    "english": "to blow",
+    "transliteration": "habb, yhíbb",
+    "arabic": "هبّ، يْهبّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-51.mp3"
+  },
+  {
+    "english": "snow",
+    "transliteration": "tálij",
+    "arabic": "تلِج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-52.mp3"
+  },
+  {
+    "english": "It’s snowing.",
+    "transliteration": "3am títluj.",
+    "arabic": "عم تِتْلُج.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-53.mp3"
+  },
+  {
+    "english": "Does it snow where you’re from?",
+    "transliteration": "3am títluj 3índkun?",
+    "arabic": "عم تِتْلُج عِنْدْكُن؟",
+    "audioUrl": ""
+  },
+  {
+    "english": "Where I’m from, it snows a lot in the winter.",
+    "transliteration": "btítluj 3ínna b-iššiti ktīr.",
+    "arabic": "بْتِتْلُج عِنّا بِالشِّتي كْتير.",
+    "audioUrl": ""
+  },
+  {
+    "english": "hail",
+    "transliteration": "bárad",
+    "arabic": "برد",
+    "audioUrl": ""
+  },
+  {
+    "english": "It’s hailing.",
+    "transliteration": "3am tšáti bárad.",
+    "arabic": "عم تْشتي برد.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-57.mp3"
+  },
+  {
+    "english": "fog",
+    "transliteration": "ɖabāb",
+    "arabic": "ضباب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-58.mp3"
+  },
+  {
+    "english": "It’s foggy.",
+    "transliteration": "fī ɖabāb.",
+    "arabic": "في ضباب.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-59.mp3"
+  },
+  {
+    "english": "storm",
+    "transliteration": "3āʂfi (3awāʂif)",
+    "arabic": "عاصْفِة (عواصِف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-60.mp3"
+  },
+  {
+    "english": "There’s a windstorm. It’s stormy.",
+    "transliteration": "jjaww 3āʂif.",
+    "arabic": "الجَّوّ عاصِف.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-61.mp3"
+  },
+  {
+    "english": "There’s a rainstorm.",
+    "transliteration": "fī 3āʂfi múmʈira.",
+    "arabic": "فيِه عاصْفِة مُمْطِرة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-62.mp3"
+  },
+  {
+    "english": "sandstorm, dust storm",
+    "transliteration": "3āʂfi turābíyyi",
+    "arabic": "عاصْفِة تُرابية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-63.mp3"
+  },
+  {
+    "english": "hurricane, typhoon, cyclone",
+    "transliteration": "i3ʂār (a3āʂīr)",
+    "arabic": "إعْصار (أعاصير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-64.mp3"
+  },
+  {
+    "english": "tornado",
+    "transliteration": "i3ʂār qám3i",
+    "arabic": "إعْصار قمْعي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-65.mp3"
+  },
+  {
+    "english": "dust devil",
+    "transliteration": "zūb3a (zawēbi3)",
+    "arabic": "زَوْبْعة (زَوابِع)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-66.mp3"
+  },
+  {
+    "english": "the eye of the storm",
+    "transliteration": "márkaz ilʔi3ʂār",
+    "arabic": "مرْكز الاِعْصار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-67.mp3"
+  },
+  {
+    "english": "lightning",
+    "transliteration": "báriʔ",
+    "arabic": "برِق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-68.mp3"
+  },
+  {
+    "english": "There was a flash of lightning.",
+    "transliteration": "kēn fī báriʔ.",
+    "arabic": "كان في برِق.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-69.mp3"
+  },
+  {
+    "english": "Lightning struck the tree.",
+    "transliteration": "ilbáriʔ ɖárab iššájra.",
+    "arabic": "البرِق ضرب الشّجْرة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-70.mp3"
+  },
+  {
+    "english": "thunder",
+    "transliteration": "rá3id",
+    "arabic": "رعِد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-71.mp3"
+  },
+  {
+    "english": "The thunder woke me up last night.",
+    "transliteration": "ʂōt irrá3id fayyáʔni mbēriɧ b-illēl.",
+    "arabic": "صوْت الرّعِد فيّقْني مْبارِح بِاللّيْل.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-72.mp3"
+  },
+  {
+    "english": "weather forecast",
+    "transliteration": "tawaʔʔu3āt ijjaww",
+    "arabic": "توقُّعات الجّوّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-73.mp3"
+  },
+  {
+    "english": "What’s the forecast for tomorrow?",
+    "transliteration": "šū tawaʔʔu3āt ijjaww búkra?",
+    "arabic": "شو توقُّعات الجّوّ بُكْرا؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-74.mp3"
+  },
+  {
+    "english": "Do you think it’s going to rain?",
+    "transliteration": "áwlak ɧatšáti?",
+    "arabic": "أَوْلك حتْشتي؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-75.mp3"
+  },
+  {
+    "english": "It looks like (it’s going to) rain.",
+    "transliteration": "šákla ɧatšáti.",
+    "arabic": "شكْلا حتْشتي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-76.mp3"
+  },
+  {
+    "english": "We’re expecting a storm.",
+    "transliteration": "níɧna mitwaʔʔ3īn 3āʂfi.",
+    "arabic": "نِحْنا مِتْوقّْعين عاصْفِة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-77.mp3"
+  },
+  {
+    "english": "climate",
+    "transliteration": "munēx",
+    "arabic": "مُناخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-78.mp3"
+  },
+  {
+    "english": "arid, dry",
+    "transliteration": "jēff",
+    "arabic": "جافّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-79.mp3"
+  },
+  {
+    "english": "arid, dry",
+    "transliteration": "nēšif",
+    "arabic": "ناشِف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-80.mp3"
+  },
+  {
+    "english": "humid",
+    "transliteration": "rúʈib",
+    "arabic": "رُطِب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-81.mp3"
+  },
+  {
+    "english": "tropical",
+    "transliteration": "istiwāʔi",
+    "arabic": "اِسْتِوائي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-82.mp3"
+  },
+  {
+    "english": "The weather is quite changeable.",
+    "transliteration": "jjaww byitɣáyyar.",
+    "arabic": "الجَّوّ بْيِتْغيّر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-83.mp3"
+  },
+  {
+    "english": "drought",
+    "transliteration": "jafēf",
+    "arabic": "جفاف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-84.mp3"
+  },
+  {
+    "english": "flood",
+    "transliteration": "fayaɖān",
+    "arabic": "فَيَضان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav42-85.mp3"
+  }
+]

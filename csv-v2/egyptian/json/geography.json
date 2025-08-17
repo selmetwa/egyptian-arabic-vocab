@@ -1,0 +1,452 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "north",
+    "transliteration": "šamaal",
+    "arabic": "شمال"
+  },
+  {
+    "english": "south",
+    "transliteration": "ganuub",
+    "arabic": "جنوب"
+  },
+  {
+    "english": "east",
+    "transliteration": "šar'",
+    "arabic": "شرق"
+  },
+  {
+    "english": "west",
+    "transliteration": "ġarb",
+    "arabic": "غرب"
+  },
+  {
+    "english": "direction",
+    "transliteration": "ittigaah",
+    "arabic": "اتجاة"
+  },
+  {
+    "english": "left",
+    "transliteration": "šimaal",
+    "arabic": "شمال"
+  },
+  {
+    "english": "right",
+    "transliteration": "yimiin",
+    "arabic": "يمين"
+  },
+  {
+    "english": "behind",
+    "transliteration": "wara",
+    "arabic": "ورا"
+  },
+  {
+    "english": "in front of",
+    "transliteration": "'uddaam",
+    "arabic": "قدّام"
+  },
+  {
+    "english": "next to",
+    "transliteration": "gamb",
+    "arabic": "جنب"
+  },
+  {
+    "english": "above",
+    "transliteration": "foo'",
+    "arabic": "فوق"
+  },
+  {
+    "english": "below",
+    "transliteration": "taHt",
+    "arabic": "تحت"
+  },
+  {
+    "english": "far ",
+    "transliteration": "ba3iid 3an",
+    "arabic": "بعيد عن"
+  },
+  {
+    "english": "near ",
+    "transliteration": "'ariib/'urayyib min",
+    "arabic": "قريب من"
+  },
+  {
+    "english": "opposite",
+    "transliteration": "'uSaad",
+    "arabic": "قصاد"
+  },
+  {
+    "english": "between",
+    "transliteration": "bein",
+    "arabic": "بين"
+  },
+  {
+    "english": "inside",
+    "transliteration": "guwwa",
+    "arabic": "جوة"
+  },
+  {
+    "english": "outside",
+    "transliteration": "barra",
+    "arabic": "برّة"
+  },
+  {
+    "english": "here",
+    "transliteration": "hina",
+    "arabic": "هنا"
+  },
+  {
+    "english": "there",
+    "transliteration": "hinaak",
+    "arabic": "هناك"
+  },
+  {
+    "english": "map",
+    "transliteration": "xariiTa",
+    "arabic": "خريطة"
+  },
+  {
+    "english": "maps",
+    "transliteration": "xaraayiT",
+    "arabic": "خرائط"
+  },
+  {
+    "english": "compass",
+    "transliteration": "boSla",
+    "arabic": "بوصلة"
+  },
+  {
+    "english": "distance",
+    "transliteration": "masaafa",
+    "arabic": "مسافة"
+  },
+  {
+    "english": "area",
+    "transliteration": "misaaHa",
+    "arabic": "مساحة"
+  },
+  {
+    "english": "width",
+    "transliteration": "3arD",
+    "arabic": "عرض"
+  },
+  {
+    "english": "height",
+    "transliteration": "irtifaa3",
+    "arabic": "ارتفاع"
+  },
+  {
+    "english": "length",
+    "transliteration": "Tuul",
+    "arabic": "طول"
+  },
+  {
+    "english": "place; location",
+    "transliteration": "makaan",
+    "arabic": "مكان"
+  },
+  {
+    "english": "place; locations",
+    "transliteration": "amaakin",
+    "arabic": "أماكن"
+  },
+  {
+    "english": "location",
+    "transliteration": "mawqi3",
+    "arabic": "موقع"
+  },
+  {
+    "english": "locations",
+    "transliteration": "mawaaqi3",
+    "arabic": "مواقع"
+  },
+  {
+    "english": "capital",
+    "transliteration": "3aaSima",
+    "arabic": "عاصمة"
+  },
+  {
+    "english": "capitals",
+    "transliteration": "3awaaSim",
+    "arabic": "عواصم"
+  },
+  {
+    "english": "suburb",
+    "transliteration": "DaHya",
+    "arabic": "ضاحية"
+  },
+  {
+    "english": "suburbs",
+    "transliteration": "DawaaHi",
+    "arabic": "ضواحي"
+  },
+  {
+    "english": "village",
+    "transliteration": "qarya",
+    "arabic": "قرية"
+  },
+  {
+    "english": "villages",
+    "transliteration": "qura",
+    "arabic": "قرى"
+  },
+  {
+    "english": "district",
+    "transliteration": "Hayy",
+    "arabic": "حيّ"
+  },
+  {
+    "english": "districts",
+    "transliteration": "aHyaa'",
+    "arabic": "أحياء"
+  },
+  {
+    "english": "governorate",
+    "transliteration": "muHaafaZa",
+    "arabic": "محافظة"
+  },
+  {
+    "english": "region",
+    "transliteration": "minTa'a",
+    "arabic": "منطقة"
+  },
+  {
+    "english": "regions",
+    "transliteration": "manaaTi'",
+    "arabic": "مناطق"
+  },
+  {
+    "english": "region",
+    "transliteration": "iqliim",
+    "arabic": "اقليم"
+  },
+  {
+    "english": "regions",
+    "transliteration": "aqaaliim",
+    "arabic": "أقاليم"
+  },
+  {
+    "english": "country",
+    "transliteration": "balad ",
+    "arabic": "بلد"
+  },
+  {
+    "english": "countries",
+    "transliteration": "bilaad",
+    "arabic": "بلاد"
+  },
+  {
+    "english": "homeland",
+    "transliteration": "waTan",
+    "arabic": "وطن"
+  },
+  {
+    "english": "homelands",
+    "transliteration": "awTaan",
+    "arabic": "أوطان"
+  },
+  {
+    "english": "Europe",
+    "transliteration": "uruppa",
+    "arabic": "أوروبا"
+  },
+  {
+    "english": "Africa",
+    "transliteration": "afriqya",
+    "arabic": "أفريقيا"
+  },
+  {
+    "english": "Asia",
+    "transliteration": "asya",
+    "arabic": "أسيا"
+  },
+  {
+    "english": "Australia",
+    "transliteration": "usturalya",
+    "arabic": "أستراليا"
+  },
+  {
+    "english": "the United States",
+    "transliteration": "amriika",
+    "arabic": "أمريكا"
+  },
+  {
+    "english": "England",
+    "transliteration": "inglitira",
+    "arabic": "انجلترا"
+  },
+  {
+    "english": "Austria",
+    "transliteration": "nimsa",
+    "arabic": "نمسا"
+  },
+  {
+    "english": "Germany",
+    "transliteration": "almanya",
+    "arabic": "ألمانيا"
+  },
+  {
+    "english": "Greece",
+    "transliteration": "yunaan",
+    "arabic": "يونان"
+  },
+  {
+    "english": "Japan",
+    "transliteration": "yabaan",
+    "arabic": "يابان"
+  },
+  {
+    "english": "North Africa",
+    "transliteration": "šamaal afriqya",
+    "arabic": "شمال أفريقيا"
+  },
+  {
+    "english": "Egypt",
+    "transliteration": "maSr",
+    "arabic": "مصر"
+  },
+  {
+    "english": "Aswan",
+    "transliteration": "aswaan",
+    "arabic": "أسوان"
+  },
+  {
+    "english": "Sinai",
+    "transliteration": "siina",
+    "arabic": "سيناء"
+  },
+  {
+    "english": "Fez",
+    "transliteration": "faas",
+    "arabic": "فاس"
+  },
+  {
+    "english": "Marrakesh",
+    "transliteration": "marraakeš",
+    "arabic": "مراكش"
+  },
+  {
+    "english": "Oran",
+    "transliteration": "wahraan",
+    "arabic": "وهران"
+  },
+  {
+    "english": "Tunisia",
+    "transliteration": "tuunis",
+    "arabic": "تونس"
+  },
+  {
+    "english": "Tunis",
+    "transliteration": "tuunis",
+    "arabic": "تونس"
+  },
+  {
+    "english": "Libya",
+    "transliteration": "liibiyaa",
+    "arabic": "ليبيا"
+  },
+  {
+    "english": "Tripoli",
+    "transliteration": "Taraabulus",
+    "arabic": "طرابلس"
+  },
+  {
+    "english": "Benghazi",
+    "transliteration": "benġaazi",
+    "arabic": "بنغازي"
+  },
+  {
+    "english": "Amman",
+    "transliteration": "3ammaan",
+    "arabic": "عمّان"
+  },
+  {
+    "english": "Palestine",
+    "transliteration": "filisTiin",
+    "arabic": "فلسطين"
+  },
+  {
+    "english": "Gaza Strip",
+    "transliteration": "qiTaa3 ġazza",
+    "arabic": "قطاع غزة"
+  },
+  {
+    "english": "Bethlehem",
+    "transliteration": "beitalaHm",
+    "arabic": "بيت لحم"
+  },
+  {
+    "english": "Jericho",
+    "transliteration": "ariiHa",
+    "arabic": "أريحا"
+  },
+  {
+    "english": "Jaffa",
+    "transliteration": "yaafa",
+    "arabic": "يافة"
+  },
+  {
+    "english": "Israel",
+    "transliteration": "isra'iil",
+    "arabic": "إسرائيل"
+  },
+  {
+    "english": "Lebanon",
+    "transliteration": "libnaan",
+    "arabic": "لبنان"
+  },
+  {
+    "english": "Beirut",
+    "transliteration": "beiruut",
+    "arabic": "بيروت"
+  },
+  {
+    "english": "Syria",
+    "transliteration": "surya",
+    "arabic": "سوريا"
+  },
+  {
+    "english": "Damascus",
+    "transliteration": "dimaš' | dimiš'",
+    "arabic": "دمشق"
+  },
+  {
+    "english": "Baghdad",
+    "transliteration": "baġdaad",
+    "arabic": "بغداد"
+  },
+  {
+    "english": "Qatar",
+    "transliteration": "qaTar",
+    "arabic": "قطر"
+  },
+  {
+    "english": "Abu Dhabi",
+    "transliteration": "abu Zabi ",
+    "arabic": "أبو ظبي"
+  },
+  {
+    "english": "Dubai",
+    "transliteration": "dubayy",
+    "arabic": "دبيّ"
+  },
+  {
+    "english": "Oman",
+    "transliteration": "3umaan",
+    "arabic": "عمان"
+  },
+  {
+    "english": "Muscat",
+    "transliteration": "masqaT",
+    "arabic": "مسقط"
+  },
+  {
+    "english": "Sana'a",
+    "transliteration": "San3a",
+    "arabic": "صنعاء"
+  }
+]

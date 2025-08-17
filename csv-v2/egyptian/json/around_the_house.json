@@ -1,0 +1,1526 @@
+[
+  {
+    "english": "house",
+    "transliteration": "bēt (byūt)",
+    "arabic": "بيْت (بْيوت)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-1.mp3"
+  },
+  {
+    "english": "apartment",
+    "transliteration": "šíʔʔa (šíʔaʔ)",
+    "arabic": "شِقّة (شِقق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-2.mp3"
+  },
+  {
+    "english": "two-story apartment",
+    "transliteration": "vílla (vílal)",
+    "arabic": "فيلّا (فِلل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-3.mp3"
+  },
+  {
+    "english": "penthouse apartment",
+    "transliteration": "šíʔʔa fōʔ issáʈiɧ",
+    "arabic": "شِقّة فوْق السّطِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-4.mp3"
+  },
+  {
+    "english": "story, floor",
+    "transliteration": "ʈābiʔ (ʈawābiʔ)",
+    "arabic": "طابِق (طَوابِق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-5.mp3"
+  },
+  {
+    "english": "The apartment is on the fourth floor.",
+    "transliteration": "ššíʔʔa b-iʈʈābiʔ irrābi3.",
+    "arabic": "الشِّقة بِالطّابِق الرّابِع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-6.mp3"
+  },
+  {
+    "english": "to rent an apartment",
+    "transliteration": "stáʔjar šíʔʔa, yistáʔjir šíʔʔa",
+    "arabic": "سْتأْجر شِقّة، يِسْتأْجِر شِقّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-7.mp3"
+  },
+  {
+    "english": "rent",
+    "transliteration": "ajār",
+    "arabic": "أجار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-8.mp3"
+  },
+  {
+    "english": "How much is your rent?",
+    "transliteration": "ʔaddē lʔajār 3índak?",
+    "arabic": "قدّيْ الأجار عِنْدك؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-9.mp3"
+  },
+  {
+    "english": "How much do you pay in rent?",
+    "transliteration": "ʔaddē btídfa3 la-lʔajār?",
+    "arabic": "قدّيْ بْتِدْفع للْأجار؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-10.mp3"
+  },
+  {
+    "english": "tenant, renter",
+    "transliteration": "mʔájjar",
+    "arabic": "مْأجّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-11.mp3"
+  },
+  {
+    "english": "landlord",
+    "transliteration": "ʂāɧib ilʔáruɖ",
+    "arabic": "صاحِب الأرُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-12.mp3"
+  },
+  {
+    "english": "landlady",
+    "transliteration": "ʂāɧbit ilʔáruɖ",
+    "arabic": "صاحْبِة الأرُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-13.mp3"
+  },
+  {
+    "english": "to rent an apartment to",
+    "transliteration": "ájjar šíʔʔa, yʔájjir šíʔʔa",
+    "arabic": "أجّر شِقّة، يْأجِّر شِقّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-14.mp3"
+  },
+  {
+    "english": "roof",
+    "transliteration": "sáʈiɧ (sʈūɧ)",
+    "arabic": "سطِح (سْطُوح)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-15.mp3"
+  },
+  {
+    "english": "roof",
+    "transliteration": "rūf",
+    "arabic": "روف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-16.mp3"
+  },
+  {
+    "english": "fence",
+    "transliteration": "sūr (aswār)",
+    "arabic": "سور (أسْوار)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-17.mp3"
+  },
+  {
+    "english": "fence",
+    "transliteration": "syēj",
+    "arabic": "سْياج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-18.mp3"
+  },
+  {
+    "english": "gate",
+    "transliteration": "buwwēbi",
+    "arabic": "بُوّابِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-19.mp3"
+  },
+  {
+    "english": "gardener",
+    "transliteration": "bistēni",
+    "arabic": "بِسْتاني",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-20.mp3"
+  },
+  {
+    "english": "The gardener comes once a week.",
+    "transliteration": "lbistēni byīji márra b-ilʔusbū3.",
+    "arabic": "البِسْتاني بْيِجي مرّة بِالأُسْبوع.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-21.mp3"
+  },
+  {
+    "english": "housekeeper, maid",
+    "transliteration": "šiɣāli",
+    "arabic": "شِغالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-22.mp3"
+  },
+  {
+    "english": "doorman",
+    "transliteration": "buwwēb",
+    "arabic": "بُوّاب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-23.mp3"
+  },
+  {
+    "english": "doorman",
+    "transliteration": "naʈūr (nawaʈīr)",
+    "arabic": "ناطور، نواطير",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-24.mp3"
+  },
+  {
+    "english": "Ask the doorman to wash our car this afternoon.",
+    "transliteration": "xálli lbuwwēb yɣássil issayyāra ba3d iɖɖúhur.",
+    "arabic": "خلّي البُوّاب يْغسِّل السِّيّارة بعْد الضُّهُر.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-25.mp3"
+  },
+  {
+    "english": "room",
+    "transliteration": "ɣúrfi (ɣúraf)",
+    "arabic": "غُرْفِة (غُرف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-26.mp3"
+  },
+  {
+    "english": "furniture",
+    "transliteration": "3áfiš",
+    "arabic": "عفِشْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-27.mp3"
+  },
+  {
+    "english": "furniture",
+    "transliteration": "asēs",
+    "arabic": "أساس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-28.mp3"
+  },
+  {
+    "english": "furnished",
+    "transliteration": "mafrūš",
+    "arabic": "مفْروش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-29.mp3"
+  },
+  {
+    "english": "chair",
+    "transliteration": "kírsi (karāsi)",
+    "arabic": "كِرْسي (كراسي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-30.mp3"
+  },
+  {
+    "english": "table",
+    "transliteration": "ʈáwli",
+    "arabic": "طاوْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-31.mp3"
+  },
+  {
+    "english": "door",
+    "transliteration": "bēb (bwēb)",
+    "arabic": "باب (بْواب)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-32.mp3"
+  },
+  {
+    "english": "front door",
+    "transliteration": "bēb ammēāmi",
+    "arabic": "باب أمّامي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-33.mp3"
+  },
+  {
+    "english": "key",
+    "transliteration": "miftēɧ (mafatīɧ)",
+    "arabic": "مِفْتاح (مفاتيح)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-34.mp3"
+  },
+  {
+    "english": "floor",
+    "transliteration": "áruɖ",
+    "arabic": "أرُض",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-35.mp3"
+  },
+  {
+    "english": "ceiling",
+    "transliteration": "sáʔif (sʔūf)",
+    "arabic": "سقِف (سْقوف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-36.mp3"
+  },
+  {
+    "english": "carpet",
+    "transliteration": "sijjēdi (sijjēd)",
+    "arabic": "سِجّادِة (سِجّاد)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-37.mp3"
+  },
+  {
+    "english": "tiles",
+    "transliteration": "blāʈ",
+    "arabic": "بلْأط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-38.mp3"
+  },
+  {
+    "english": "hardwood floor",
+    "transliteration": "áruɖ min xášab",
+    "arabic": "أرُض مِن خشب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-39.mp3"
+  },
+  {
+    "english": "window",
+    "transliteration": "šibbēk (šababīk)",
+    "arabic": "شِبّاك (شبابيك)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-40.mp3"
+  },
+  {
+    "english": "curtain, blinds",
+    "transliteration": "birdēyi (barādi)",
+    "arabic": "بِرْدايِة (برادي)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-41.mp3"
+  },
+  {
+    "english": "shutters",
+    "transliteration": "abājūr",
+    "arabic": "أباجور",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-42.mp3"
+  },
+  {
+    "english": "shelf",
+    "transliteration": "raff (rfūf)",
+    "arabic": "رفّ (رْفوف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-43.mp3"
+  },
+  {
+    "english": "wall",
+    "transliteration": "ɧēʈ (ɧēʈān)",
+    "arabic": "حيْط (حيْطان)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-44.mp3"
+  },
+  {
+    "english": "wall clock",
+    "transliteration": "sē3it ɧēʈ",
+    "arabic": "ساعِة حيْط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-45.mp3"
+  },
+  {
+    "english": "painting, picture",
+    "transliteration": "ʂūra (ʂúwar)",
+    "arabic": "صورة (صُوَر)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-46.mp3"
+  },
+  {
+    "english": "painting, picture",
+    "transliteration": "láwɧa",
+    "arabic": "لَوْحة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-47.mp3"
+  },
+  {
+    "english": "to hang a picture on the wall",
+    "transliteration": "3állaʔ ʂūra 3ála lɧēʈ, y3álliʔ ʂūra 3ála lɧēʈ",
+    "arabic": "علّق صورة على الحيْط، يْعلِّق صورة على الحيْط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-48.mp3"
+  },
+  {
+    "english": "I love that painting hanging over the sofa.",
+    "transliteration": "ktīr ɧabbēt iʂʂūra lm3állʔa fōʔ iʂʂōfa.",
+    "arabic": "كْتير حبّيْت الصّورة المْعلّْقة فوْق الصّوفة.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-49.mp3"
+  },
+  {
+    "english": "poster",
+    "transliteration": "pōstir",
+    "arabic": "بوْسْتِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-50.mp3"
+  },
+  {
+    "english": "to do housework",
+    "transliteration": "štáɣal ilbēt, yištíɣil ilbēt",
+    "arabic": "شْتغل البيْت، يِشْتِغِل البيْت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-51.mp3"
+  },
+  {
+    "english": "to clean, tidy up",
+    "transliteration": "náɖɖaf, ynáɖɖif",
+    "arabic": "نضّف، ينضِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-52.mp3"
+  },
+  {
+    "english": "to wash the windows",
+    "transliteration": "ɣással [55] iššababīk",
+    "arabic": "غسّل الشّبابيك",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-53.mp3"
+  },
+  {
+    "english": "broom",
+    "transliteration": "míkinsi",
+    "arabic": "مِكِنْسِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-54.mp3"
+  },
+  {
+    "english": "to sweep",
+    "transliteration": "kánnas, ykánnis",
+    "arabic": "كنّس، يْكنِّس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-55.mp3"
+  },
+  {
+    "english": "mop",
+    "transliteration": "mámsɧa",
+    "arabic": "ممْسْحة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-56.mp3"
+  },
+  {
+    "english": "to mop",
+    "transliteration": "mássaɧ, ymássiɧ",
+    "arabic": "مسّح، يْمسِّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-57.mp3"
+  },
+  {
+    "english": "vacuum cleaner",
+    "transliteration": "míkinsi kahrubāʔíyyi",
+    "arabic": "مكِنْسِة كهْرُبائية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-58.mp3"
+  },
+  {
+    "english": "to vacuum the carpet",
+    "transliteration": "hūvir issijjēdi, yháwvir issijēdi",
+    "arabic": "هوفِر السِّجّادِة، يْهوْفِر السِّجادِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-59.mp3"
+  },
+  {
+    "english": "dust",
+    "transliteration": "ɣábra",
+    "arabic": "غبْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-60.mp3"
+  },
+  {
+    "english": "to dust",
+    "transliteration": "náɖɖaf ilɣábra",
+    "arabic": "نضّف الغبْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-61.mp3"
+  },
+  {
+    "english": "dusty",
+    "transliteration": "mɣábbar",
+    "arabic": "مْغبّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-62.mp3"
+  },
+  {
+    "english": "to beat the dust out of a carpet",
+    "transliteration": "náffaɖ issijjēdi min ilɣábra, ynáffiɖ issijjēdi min ilɣábra",
+    "arabic": "نفّض السِّجّادِة مِن الغبْرة، يْنفِّض السِّجّادِة مِن الغبْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-63.mp3"
+  },
+  {
+    "english": "light",
+    "transliteration": "ɖaww (aɖwāʔ)",
+    "arabic": "ضَوّ (أضْواء)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-64.mp3"
+  },
+  {
+    "english": "lamp",
+    "transliteration": "lámba",
+    "arabic": "لمْبة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-65.mp3"
+  },
+  {
+    "english": "to turn on the light",
+    "transliteration": "ɖáwwa ɖɖaww, yɖáwwi ɖɖaww",
+    "arabic": "ضوّى الضَّوّ، يْضّوي الضَّوّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-66.mp3"
+  },
+  {
+    "english": "to turn off the light",
+    "transliteration": "ʈáffa ɖɖaww, yʈáffi ɖɖaww",
+    "arabic": "طفّى الضَّوّ، يْطفّي الضَّوّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-67.mp3"
+  },
+  {
+    "english": "Could you turn off the light in the kitchen, please?",
+    "transliteration": "fīk tʈáffi llámba b-ilmáʈbax law samáɧt?",
+    "arabic": "فيك تْطفّي اللمْبة بِالمطْبخ لوْ سمحْت؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-68.mp3"
+  },
+  {
+    "english": "light switch",
+    "transliteration": "fáʔsi ɖaww",
+    "arabic": "فقْسِة ضَوّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-69.mp3"
+  },
+  {
+    "english": "electrical outlet, socket",
+    "transliteration": "brīz",
+    "arabic": "بْريز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-70.mp3"
+  },
+  {
+    "english": "plug",
+    "transliteration": "fīš",
+    "arabic": "فيش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-71.mp3"
+  },
+  {
+    "english": "to plug in",
+    "transliteration": "ɧaʈʈ [55] ilfīš",
+    "arabic": "حطّ الفيش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-72.mp3"
+  },
+  {
+    "english": "to unplug",
+    "transliteration": "šēl ilfīš, yšīl ilfīš",
+    "arabic": "شال الفيش، يْشيل الفيش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-73.mp3"
+  },
+  {
+    "english": "extension cord, adapter",
+    "transliteration": "šarjēr",
+    "arabic": "شارْجيْر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-74.mp3"
+  },
+  {
+    "english": "fuse box",
+    "transliteration": "tāblō káhraba",
+    "arabic": "تابْلوْه كهْربا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-75.mp3"
+  },
+  {
+    "english": "fuse",
+    "transliteration": "fyūz",
+    "arabic": "فْيوز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-76.mp3"
+  },
+  {
+    "english": "A fuse has blown.",
+    "transliteration": "fyūz ɧtáraʔ",
+    "arabic": "فْيوز حْترق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-77.mp3"
+  },
+  {
+    "english": "the power went out",
+    "transliteration": "nʔáʈa3it ilkáhraba",
+    "arabic": "نْقطعِت الكهْربا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-78.mp3"
+  },
+  {
+    "english": "The power went out for an hour this afternoon.",
+    "transliteration": "lkáhraba -nʔáʈa3it la-sē3a lyōm.",
+    "arabic": "الكهْربا نْقطعِت لساعة اليوْم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-79.mp3"
+  },
+  {
+    "english": "candle",
+    "transliteration": "šám3a",
+    "arabic": "شمْعة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-80.mp3"
+  },
+  {
+    "english": "heater",
+    "transliteration": "daffēyi",
+    "arabic": "دفّايِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-81.mp3"
+  },
+  {
+    "english": "air-conditioner",
+    "transliteration": "mukáyyif",
+    "arabic": "مُكيِّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-82.mp3"
+  },
+  {
+    "english": "living room",
+    "transliteration": "ɣúrfit máʔ3ad",
+    "arabic": "غُرْفِة مقْعد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-83.mp3"
+  },
+  {
+    "english": "living room",
+    "transliteration": "ɣúrfit ʔá3di",
+    "arabic": "غُرْفِة قعْدِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-84.mp3"
+  },
+  {
+    "english": "formal sitting room (for entertaining guests)",
+    "transliteration": "ʂālōn",
+    "arabic": "صالوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-85.mp3"
+  },
+  {
+    "english": "sofa, couch",
+    "transliteration": "ʂōfa",
+    "arabic": "صوْفا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-86.mp3"
+  },
+  {
+    "english": "television",
+    "transliteration": "tilfizyōn",
+    "arabic": "تِلْفِزْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-87.mp3"
+  },
+  {
+    "english": "to watch TV",
+    "transliteration": "ɧúɖir [55] tilfizyōn",
+    "arabic": "حُضِر تِلْفِزْيوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-88.mp3"
+  },
+  {
+    "english": "The only thing I want to do this evening is watch TV.",
+    "transliteration": "-šši ilwaɧīd yálli báddi á3mlu ha-llēli húwwi innū áɧɖar tilfizyōn.",
+    "arabic": "الشّي الوَحيد يَلّي بدّي أعْمْلو هالْليْلِة هُوِّ إنّو إحْضر تِلْفِزْيوْن.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-89.mp3"
+  },
+  {
+    "english": "dining room",
+    "transliteration": "ōɖit súfra (úwaɖ súfra)",
+    "arabic": "أوْضِة سُفْرة (أُوَض سُفْرة)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-90.mp3"
+  },
+  {
+    "english": "dining table",
+    "transliteration": "ʈāwlit súfra",
+    "arabic": "طاوْلِة سُفْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-91.mp3"
+  },
+  {
+    "english": "to set the table",
+    "transliteration": "jáhhaz iʈʈāwli, yjáhhiz iʈʈāwli",
+    "arabic": "جهّز الطّاوْلِة، يْجهِّز الطّاوْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-92.mp3"
+  },
+  {
+    "english": "to clear a table",
+    "transliteration": "náɖɖaf ʈāwli",
+    "arabic": "نضّف طاوْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-93.mp3"
+  },
+  {
+    "english": "to sit at the table",
+    "transliteration": "ʔá3ad [55] 3a-ʈʈāwli",
+    "arabic": "قعد عالطّاوْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-94.mp3"
+  },
+  {
+    "english": "Dinner's ready! Come to the table!",
+    "transliteration": "l3áša jēhiz! tfáɖɖlu 3a-ʈʈāwli!",
+    "arabic": "العشا جاهِز! تْفضّْلْوا عالطّاوْلِة!",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-95.mp3"
+  },
+  {
+    "english": "(flower) vase",
+    "transliteration": "vāzi",
+    "arabic": "فازِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-96.mp3"
+  },
+  {
+    "english": "plate, dish",
+    "transliteration": "ʂáɧun (ʂɧūn)",
+    "arabic": "صحُن (صْحون)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-97.mp3"
+  },
+  {
+    "english": "spoon",
+    "transliteration": "má3lʔa (m3āliʔ)",
+    "arabic": "معْلْقة (مْعالِق)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-98.mp3"
+  },
+  {
+    "english": "fork",
+    "transliteration": "šáwki (šúwak)",
+    "arabic": "شوْكِة (شُوك)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-99.mp3"
+  },
+  {
+    "english": "knife",
+    "transliteration": "sikkīni (sakakīn)",
+    "arabic": "سِكّينِة (سكاكين)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-100.mp3"
+  },
+  {
+    "english": "bowl",
+    "transliteration": "jāʈ",
+    "arabic": "جاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-101.mp3"
+  },
+  {
+    "english": "napkin",
+    "transliteration": "mandīl (manadīl)",
+    "arabic": "منْديل (مناديِل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-102.mp3"
+  },
+  {
+    "english": "kitchen",
+    "transliteration": "máʈbax (maʈābix)",
+    "arabic": "مطْبخ (مطابِخ)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-103.mp3"
+  },
+  {
+    "english": "cupboard, cabinet",
+    "transliteration": "xzēni",
+    "arabic": "خْزانِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-104.mp3"
+  },
+  {
+    "english": "refrigerator",
+    "transliteration": "talēji",
+    "arabic": "تلاجِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-105.mp3"
+  },
+  {
+    "english": "freezer",
+    "transliteration": "frīzir",
+    "arabic": "فْريزِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-106.mp3"
+  },
+  {
+    "english": "stove",
+    "transliteration": "máwʔad",
+    "arabic": "مَوْقد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-107.mp3"
+  },
+  {
+    "english": "oven",
+    "transliteration": "fúrun (afrān)",
+    "arabic": "فُرُن (أفْران)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-108.mp3"
+  },
+  {
+    "english": "microwave (oven)",
+    "transliteration": "māykrōwēv",
+    "arabic": "ميكْرووايْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-109.mp3"
+  },
+  {
+    "english": "to microwave",
+    "transliteration": "ʈábax b-ilmāykrōwēv",
+    "arabic": "طبخ بِلْميْكْرووايْف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-110.mp3"
+  },
+  {
+    "english": "Just put it in the microwave for two minutes.",
+    "transliteration": "bass ɧúʈʈu b-ilmāykrōwēv la-daʔiʔtēn",
+    "arabic": "بسّ حُطّو بِالميْكْروايْف لدقيقْتيْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-111.mp3"
+  },
+  {
+    "english": "to heat up",
+    "transliteration": "sáxxan, ysáxxin",
+    "arabic": "سخّن، يْسخِّن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-112.mp3"
+  },
+  {
+    "english": "I heated up the soup in the microwave.",
+    "transliteration": "ána saxxánt iššūrba b-ilmāykrōwēv.",
+    "arabic": "أنا سخّنْت الشّورْبة بِالميكْرووايْف.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-113.mp3"
+  },
+  {
+    "english": "cooking",
+    "transliteration": "ʈábux",
+    "arabic": "طبُخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-114.mp3"
+  },
+  {
+    "english": "to make dinner",
+    "transliteration": "3ímil [55] il3áša",
+    "arabic": "عِمِل الْعشا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-115.mp3"
+  },
+  {
+    "english": "to cut",
+    "transliteration": "ʔáʈʈa3, yʔáʈʈi3",
+    "arabic": "قطّع، يْقطِّع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-116.mp3"
+  },
+  {
+    "english": "to dice",
+    "transliteration": "ʔáʈʈa3 ʔúʈ3a ʂɣīri",
+    "arabic": "قطّع قُطْعة صْغيرِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-117.mp3"
+  },
+  {
+    "english": "to slice",
+    "transliteration": "ʔáʈʈa3 šarāyiɧ",
+    "arabic": "قطّع شرايِح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-118.mp3"
+  },
+  {
+    "english": "to chop (up)",
+    "transliteration": "xárraʈ, yxárriʈ",
+    "arabic": "خرّط، يْخرِّط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-119.mp3"
+  },
+  {
+    "english": "to cut in half",
+    "transliteration": "ʔáʈʈa3 b-innúʂʂ",
+    "arabic": "قطّع بِالنُّصّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-120.mp3"
+  },
+  {
+    "english": "to cook (on the stove)",
+    "transliteration": "ʈábax, yúʈbux",
+    "arabic": "طبخ، يُطْبُخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-121.mp3"
+  },
+  {
+    "english": "to bake (bread)",
+    "transliteration": "xábaz, yíxbuz",
+    "arabic": "خبز، يِخْبُز",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-122.mp3"
+  },
+  {
+    "english": "to boil",
+    "transliteration": "sálaʔ, yísluʔ",
+    "arabic": "سلق، يِسْلُق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-123.mp3"
+  },
+  {
+    "english": "to fry",
+    "transliteration": "ʔála, yíʔli",
+    "arabic": "قلى، يِقْلِي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-124.mp3"
+  },
+  {
+    "english": "pot",
+    "transliteration": "ʈánjra",
+    "arabic": "طنْجْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-125.mp3"
+  },
+  {
+    "english": "pan",
+    "transliteration": "máʔli",
+    "arabic": "مقْلِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-126.mp3"
+  },
+  {
+    "english": "tray, casserole dish",
+    "transliteration": "ʂayníyyi (ʂawāni)",
+    "arabic": "صيْنية (صَواني)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-127.mp3"
+  },
+  {
+    "english": "recipe",
+    "transliteration": "wáʂfi",
+    "arabic": "وَصْفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-128.mp3"
+  },
+  {
+    "english": "to follow a recipe",
+    "transliteration": "tába3 wáʂfi, yítba3 wáʂfi",
+    "arabic": "تبع وصْفِة، يِتْبع وصْفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-129.mp3"
+  },
+  {
+    "english": "cook book",
+    "transliteration": "kitēb ʈábux",
+    "arabic": "كِتاب طبُخ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-130.mp3"
+  },
+  {
+    "english": "blender; mixer",
+    "transliteration": "xallāʈ",
+    "arabic": "خلّاط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-131.mp3"
+  },
+  {
+    "english": "toaster",
+    "transliteration": "ɧammāʂ",
+    "arabic": "حمّاص",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-132.mp3"
+  },
+  {
+    "english": "sink",
+    "transliteration": "máɣsali (maɣāsil)",
+    "arabic": "مغْسلِة (مغاسِل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-133.mp3"
+  },
+  {
+    "english": "faucet",
+    "transliteration": "ɧanafíyyi",
+    "arabic": "حنفية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-134.mp3"
+  },
+  {
+    "english": "to do the dishes",
+    "transliteration": "jála jjalyēt, yíjli jjalyēt",
+    "arabic": "جلى الجّلْيات، يِجْلي الجّلْيات",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-135.mp3"
+  },
+  {
+    "english": "dishwashing liquid",
+    "transliteration": "dáwa jali",
+    "arabic": "دوا جلي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-136.mp3"
+  },
+  {
+    "english": "to make tea",
+    "transliteration": "3ímil [55] šāy",
+    "arabic": "عِمِل شاي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-137.mp3"
+  },
+  {
+    "english": "kettle",
+    "transliteration": "rákwi",
+    "arabic": "ركْوِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-138.mp3"
+  },
+  {
+    "english": "to make coffee",
+    "transliteration": "3ímil [55] ʔáhwi",
+    "arabic": "عِمِل قهْوِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-139.mp3"
+  },
+  {
+    "english": "coffee maker",
+    "transliteration": "mákinit ʔáhwi",
+    "arabic": "مكِنِة قهْوِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-140.mp3"
+  },
+  {
+    "english": "garbage",
+    "transliteration": "zbēli",
+    "arabic": "زْبالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-141.mp3"
+  },
+  {
+    "english": "garbage can",
+    "transliteration": "sáʈul zbēli",
+    "arabic": "سطُل زْبالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-142.mp3"
+  },
+  {
+    "english": "to throw away",
+    "transliteration": "zatt, yzitt",
+    "arabic": "زتّ، يْزِتّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-143.mp3"
+  },
+  {
+    "english": "to throw away",
+    "transliteration": "ráma [55]",
+    "arabic": "رمى",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-144.mp3"
+  },
+  {
+    "english": "to take out the garbage",
+    "transliteration": "ʈálla3 [55] izzbēli",
+    "arabic": "طلّع الزّْبالِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-145.mp3"
+  },
+  {
+    "english": "bedroom",
+    "transliteration": "ɣúrfit nōm",
+    "arabic": "غُرْفِة نوْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-146.mp3"
+  },
+  {
+    "english": "bed",
+    "transliteration": "táxit (txūt)",
+    "arabic": "تخِت (تْخوت)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-147.mp3"
+  },
+  {
+    "english": "single bed, twin bed",
+    "transliteration": "táxit múfrad",
+    "arabic": "تخِت مُفْرد",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-148.mp3"
+  },
+  {
+    "english": "double bed, queen bed, king bed",
+    "transliteration": "táxit múzdawij",
+    "arabic": "تخِت مُزْدوِج",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-149.mp3"
+  },
+  {
+    "english": "headboard",
+    "transliteration": "rās táxit",
+    "arabic": "راس تخِت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-150.mp3"
+  },
+  {
+    "english": "mattress",
+    "transliteration": "mrátbi",
+    "arabic": "مْرتْبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-151.mp3"
+  },
+  {
+    "english": "blanket, duvet, quilt",
+    "transliteration": "ɧrēm",
+    "arabic": "حْرام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-152.mp3"
+  },
+  {
+    "english": "bedsheet",
+    "transliteration": "šáršaf",
+    "arabic": "شرْشف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-153.mp3"
+  },
+  {
+    "english": "pillow, cushion",
+    "transliteration": "mxáddi",
+    "arabic": "مْخدِّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-154.mp3"
+  },
+  {
+    "english": "pillow case",
+    "transliteration": "wišš mxáddi",
+    "arabic": "وِشّ مْخدِّة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-155.mp3"
+  },
+  {
+    "english": "to make one's bed",
+    "transliteration": "ráttab ittaxit, yráttib ittáxit",
+    "arabic": "رتّب التّخِت، يْرتِّب التّخِت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-156.mp3"
+  },
+  {
+    "english": "sleep",
+    "transliteration": "nōm",
+    "arabic": "نوْم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-157.mp3"
+  },
+  {
+    "english": "to sleep, fall asleep, go to sleep, go to bed",
+    "transliteration": "nēm, ynēm",
+    "arabic": "نام، يْنام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-158.mp3"
+  },
+  {
+    "english": "I only got four or five hours’ sleep last night.",
+    "transliteration": "mbēriɧ nímit bass šī árba3 aw xámas sē3āt.",
+    "arabic": "مْبارِح نِمِت بس شي أرْبع أوْ خمس ساعات.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-159.mp3"
+  },
+  {
+    "english": "What time did you go to bed?",
+    "transliteration": "áyya sē3a nímit?",
+    "arabic": "أيّا ساعة نِمِت؟",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-160.mp3"
+  },
+  {
+    "english": "asleep",
+    "transliteration": "nēyim",
+    "arabic": "نايِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-161.mp3"
+  },
+  {
+    "english": "sleepy, drowsy",
+    "transliteration": "na3sēn",
+    "arabic": "نعْسان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-162.mp3"
+  },
+  {
+    "english": "to be sleepy",
+    "transliteration": "miš ʔādir yfáttiɧ 3yūnu",
+    "arabic": "مِش قادِر يْفتِّح عْيونو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-163.mp3"
+  },
+  {
+    "english": "to doze off",
+    "transliteration": "ʈabb rāsu u nēm, yʈubb rāsu u ynēm",
+    "arabic": "طبّ راسو ونام، يْطُبّ راسو ويْنام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-164.mp3"
+  },
+  {
+    "english": "to take a nap",
+    "transliteration": "áxad [55] ʔēlūli",
+    "arabic": "أخد قيْلولِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-165.mp3"
+  },
+  {
+    "english": "to take a nap",
+    "transliteration": "tʂáʈʈaɧ, yítʂaʈʈaɧ",
+    "arabic": "تْصطّح، يِتْصطّح",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-166.mp3"
+  },
+  {
+    "english": "I was feeling sleepy, so I took a short nap.",
+    "transliteration": "kint na3sān, ʔímit tʂaʈʈáɧtili šwayy.",
+    "arabic": "كِنْت نعْسان، قِمْت تْصطّحْتِلي شْوّي.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-167.mp3"
+  },
+  {
+    "english": "to dream",
+    "transliteration": "ɧílim, yíɧlam",
+    "arabic": "حِلِم، يِحْلم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-168.mp3"
+  },
+  {
+    "english": "a dream",
+    "transliteration": "ɧílim (aɧlēm)",
+    "arabic": "حِلِم، (أحْلام)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-169.mp3"
+  },
+  {
+    "english": "a nightmare",
+    "transliteration": "kēbūs (kwabīs)",
+    "arabic": "كابوس (كْوابيس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-170.mp3"
+  },
+  {
+    "english": "to have a nightmare",
+    "transliteration": "ɧílim b-ikēbūs",
+    "arabic": "حِلِم بِكابوس",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-171.mp3"
+  },
+  {
+    "english": "to snore",
+    "transliteration": "šáxxar, yšáxxir",
+    "arabic": "شخّر، يشخِّر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-172.mp3"
+  },
+  {
+    "english": "to talk in one’s sleep",
+    "transliteration": "ɧíki [55] u húwwi nēyim",
+    "arabic": "حِكي وهُوِّ نايِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-173.mp3"
+  },
+  {
+    "english": "to sleepwalk",
+    "transliteration": "míši [55] u húwwi nēyim",
+    "arabic": "مِشي وهُوِّ نايِم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-174.mp3"
+  },
+  {
+    "english": "unable to get to sleep, have a restless night’s sleep",
+    "transliteration": "ʔilʔān u miš ʔadrān ynēm",
+    "arabic": "قِلْقان ومِش قدْران يْنام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-175.mp3"
+  },
+  {
+    "english": "You don’t look like you slept well.",
+    "transliteration": "šáklak mā nēyim mnīɧ.",
+    "arabic": "شكْلك ما نايِم مْنيح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-176.mp3"
+  },
+  {
+    "english": "to have insomnia",
+    "transliteration": "3índu ʔálaʔ",
+    "arabic": "عِنْدو قلق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-177.mp3"
+  },
+  {
+    "english": "to be a light sleeper",
+    "transliteration": "nōmu xafīf",
+    "arabic": "نوْمو خفيف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-178.mp3"
+  },
+  {
+    "english": "in a deep sleep",
+    "transliteration": "b-nuʂʂ nōmtu",
+    "arabic": "بْنُصّ نومْتو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-179.mp3"
+  },
+  {
+    "english": "to be a deep sleeper",
+    "transliteration": "nōmu tʔīl",
+    "arabic": "نومو تْقيِل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-180.mp3"
+  },
+  {
+    "english": "to stay up late",
+    "transliteration": "síhir illēl, yíshar illēl",
+    "arabic": "سِهِر اللّيْل، يِسْهر اللّيْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-181.mp3"
+  },
+  {
+    "english": "to stay up all night",
+    "transliteration": "síhir kill illēl",
+    "arabic": "سِهِر كِلّ اللّيْل",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-182.mp3"
+  },
+  {
+    "english": "to wake (up), rouse",
+    "transliteration": "fáyyaʔ, yfáyyiʔ",
+    "arabic": "فيّق، يْفيِّق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-183.mp3"
+  },
+  {
+    "english": "to wake (up), rouse",
+    "transliteration": "wá33a, ywá33i",
+    "arabic": "وَعّى، يْوَعّي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-184.mp3"
+  },
+  {
+    "english": "My mom woke me up.",
+    "transliteration": "māmā fayyʔítni.",
+    "arabic": "ماما فيّْقِتْني.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-185.mp3"
+  },
+  {
+    "english": "My mom woke me up.",
+    "transliteration": "māmā wa33yítni min innōm.",
+    "arabic": "ماما وعّْيِتْني مِن النّوْم.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-186.mp3"
+  },
+  {
+    "english": "to wake up",
+    "transliteration": "fēʔ, yfīʔ",
+    "arabic": "فاق، يْفيق",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-187.mp3"
+  },
+  {
+    "english": "to wake up",
+    "transliteration": "wí3i, yū3a",
+    "arabic": "وِعي، يِوْعا",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-188.mp3"
+  },
+  {
+    "english": "I woke up at six o’clock in the morning.",
+    "transliteration": "fíʔit sē3a sítti ʂʂúbuɧ.",
+    "arabic": "فِقِت ساعة سِتِّة الصُّبُح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-189.mp3"
+  },
+  {
+    "english": "I woke up at six o’clock in the morning.",
+    "transliteration": "wi3īt 3a-lsítti ʂʂúbuɧ.",
+    "arabic": "وِعيت علْسِتِّة الصُّبُح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-190.mp3"
+  },
+  {
+    "english": "A loud noise woke me up.",
+    "transliteration": "fiʔít min wára ʂōt ʔáwi u múz3ij.",
+    "arabic": "فِقِت مِن وَرا صوْت قَوي ومُزْعِج.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-191.mp3"
+  },
+  {
+    "english": "to get up, get out of bed",
+    "transliteration": "ʔām min ittáxit, yʔūm min ittáxit",
+    "arabic": "قام مِن التّخِت، يْقوم مِن التّخِت",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-192.mp3"
+  },
+  {
+    "english": "wardrobe",
+    "transliteration": "xzēni",
+    "arabic": "خْزانِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-193.mp3"
+  },
+  {
+    "english": "hanger",
+    "transliteration": "3illēʔa",
+    "arabic": "عِلّاقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-194.mp3"
+  },
+  {
+    "english": "dresser, bedside table (furniture for clothing)",
+    "transliteration": "xzēni kōmōdīn",
+    "arabic": "خْزانِة كوْموْدين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-195.mp3"
+  },
+  {
+    "english": "dresser, bedside table (furniture for clothing)",
+    "transliteration": "dreswār",
+    "arabic": "دْريسْوار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-196.mp3"
+  },
+  {
+    "english": "drawer",
+    "transliteration": "jārūr (jawarīr)",
+    "arabic": "جارور (جوارير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-197.mp3"
+  },
+  {
+    "english": "drawer",
+    "transliteration": "dírij (drūj)",
+    "arabic": "دِرِج (دْروج)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-198.mp3"
+  },
+  {
+    "english": "bedside table",
+    "transliteration": "kōmōdīn",
+    "arabic": "كوْموْدين",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-199.mp3"
+  },
+  {
+    "english": "alarm clock",
+    "transliteration": "mnábbih",
+    "arabic": "مْنبِّه",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-200.mp3"
+  },
+  {
+    "english": "I set my alarm for six in the morning.",
+    "transliteration": "ʐabbáʈit limnábbih 3a-ssítti ʂʂúbuɧ.",
+    "arabic": "ظبّطِت الِمْنبِّه عالسِّتِّة الصُّبُح.",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-201.mp3"
+  },
+  {
+    "english": "bookcase",
+    "transliteration": "máktabi",
+    "arabic": "مكْتبِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-202.mp3"
+  },
+  {
+    "english": "desk",
+    "transliteration": "ʈábʔa",
+    "arabic": "طبْقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-203.mp3"
+  },
+  {
+    "english": "bathroom",
+    "transliteration": "ɧammēm",
+    "arabic": "حمّام",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-204.mp3"
+  },
+  {
+    "english": "bath tub",
+    "transliteration": "bānyō (bānyuwēt)",
+    "arabic": "بانْيوْ (بانْيُوات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-205.mp3"
+  },
+  {
+    "english": "to take a bath",
+    "transliteration": "tɧámmam, yítɧammam",
+    "arabic": "تْحمّم، يِتْحمّم",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-206.mp3"
+  },
+  {
+    "english": "shower",
+    "transliteration": "šāwir",
+    "arabic": "شاوِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-207.mp3"
+  },
+  {
+    "english": "to take a shower",
+    "transliteration": "áxad [55] šāwir",
+    "arabic": "أخد شاوِر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-208.mp3"
+  },
+  {
+    "english": "sponge, loofah",
+    "transliteration": "līfi",
+    "arabic": "ليفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-209.mp3"
+  },
+  {
+    "english": "shampoo",
+    "transliteration": "šāmpū",
+    "arabic": "شامْبو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-210.mp3"
+  },
+  {
+    "english": "to dry off, towel oneself off",
+    "transliteration": "náššaf [6]ɧālu",
+    "arabic": "نشّف حالو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-211.mp3"
+  },
+  {
+    "english": "towel",
+    "transliteration": "mánšafi (manēšif)",
+    "arabic": "منْشفِة (مناشِف)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-212.mp3"
+  },
+  {
+    "english": "towel rack",
+    "transliteration": "īd mánšafi",
+    "arabic": "إيد منْشفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-213.mp3"
+  },
+  {
+    "english": "towel rack",
+    "transliteration": "ti3līʔit mánšafi",
+    "arabic": "تِعْليقِة منْشفِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-214.mp3"
+  },
+  {
+    "english": "hair dryer",
+    "transliteration": "sišwār",
+    "arabic": "سِشْوار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-215.mp3"
+  },
+  {
+    "english": "toilet (bowl)",
+    "transliteration": "twālētt",
+    "arabic": "تْواليْتّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-216.mp3"
+  },
+  {
+    "english": "toilet seat",
+    "transliteration": "bīdē",
+    "arabic": "بيديْ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-217.mp3"
+  },
+  {
+    "english": "to flush the toilet",
+    "transliteration": "šadd issīfōn, yšidd issīfōn",
+    "arabic": "شدّ السّيفوْن، يْشِدّ السّيفوْن",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-218.mp3"
+  },
+  {
+    "english": "toilet paper",
+    "transliteration": "klīniks la-ttwālētt",
+    "arabic": "كْلينِكْس للتّْواليْتّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-219.mp3"
+  },
+  {
+    "english": "toilet paper",
+    "transliteration": "mɧārim litwālētt",
+    "arabic": "مْحارِم الِتْواليْتّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-220.mp3"
+  },
+  {
+    "english": "sink",
+    "transliteration": "máɣsali (maɣāsil)",
+    "arabic": "مغْسلِة (مغاسِل)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-221.mp3"
+  },
+  {
+    "english": "hot water",
+    "transliteration": "māy súxni",
+    "arabic": "ماي سُخْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-222.mp3"
+  },
+  {
+    "english": "cold water",
+    "transliteration": "māy bērdi",
+    "arabic": "ماي بارْدِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-223.mp3"
+  },
+  {
+    "english": "(gas) water heater",
+    "transliteration": "saxxān ilmāy",
+    "arabic": "سخّان الماي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-224.mp3"
+  },
+  {
+    "english": "mirror",
+    "transliteration": "mrēyi",
+    "arabic": "مْراية",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-225.mp3"
+  },
+  {
+    "english": "to brush one's teeth",
+    "transliteration": "fárša snēnu, yfárši snēnu",
+    "arabic": "فرْشى سْنانو، يْفرْشي سْنانو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-226.mp3"
+  },
+  {
+    "english": "toothbrush",
+    "transliteration": "firšēyit snēn",
+    "arabic": "فِرْشايِة سْنان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-227.mp3"
+  },
+  {
+    "english": "tooth paste",
+    "transliteration": "ma3jūn snēn",
+    "arabic": "معْجون سْنان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-228.mp3"
+  },
+  {
+    "english": "dental floss",
+    "transliteration": "xēʈ snēn",
+    "arabic": "خيْط سْنان",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-229.mp3"
+  },
+  {
+    "english": "to floss one’s teeth",
+    "transliteration": "náɖɖaf [7] snānu b-ilxēʈ",
+    "arabic": "نضّف سْنانو بِالخيْط",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-230.mp3"
+  },
+  {
+    "english": "to wash one's face",
+    "transliteration": "ɣással [55] wíššu",
+    "arabic": "غسّل وِشّو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-231.mp3"
+  },
+  {
+    "english": "(bar of) soap",
+    "transliteration": "ʂābūni",
+    "arabic": "صابونِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-232.mp3"
+  },
+  {
+    "english": "to shave",
+    "transliteration": "ɧálaʔ ɖáʔnu, yíɧluʔ ɖáʔnu",
+    "arabic": "حلق ضقْنو، يِحْلُق ضقْنو",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-233.mp3"
+  },
+  {
+    "english": "razor (blade)",
+    "transliteration": "šáfra",
+    "arabic": "شفْرة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-234.mp3"
+  },
+  {
+    "english": "electric razor",
+    "transliteration": "mákant ɧlēʔa",
+    "arabic": "مكنْة حْلاقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-235.mp3"
+  },
+  {
+    "english": "shaving cream",
+    "transliteration": "dáwa ɧlēāʔa",
+    "arabic": "دوا حْلاقة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-236.mp3"
+  },
+  {
+    "english": "lawn",
+    "transliteration": "ɧašīš",
+    "arabic": "حشيش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-237.mp3"
+  },
+  {
+    "english": "to mow the lawn",
+    "transliteration": "ʔaʂʂ [55] ilɧašīš",
+    "arabic": "قصّ الحشيش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-238.mp3"
+  },
+  {
+    "english": "courtyard",
+    "transliteration": "ʔáʈʈaf",
+    "arabic": "قطّف",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-239.mp3"
+  },
+  {
+    "english": "garden, yard",
+    "transliteration": "jnēni",
+    "arabic": "جْنيْنِة",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-240.mp3"
+  },
+  {
+    "english": "to garden",
+    "transliteration": "zára3, yízra3",
+    "arabic": "زرع، يِزْرع",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-241.mp3"
+  },
+  {
+    "english": "shovel",
+    "transliteration": "ráfiš (rfūš)",
+    "arabic": "رفِش (رْفوش)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-242.mp3"
+  },
+  {
+    "english": "to dig",
+    "transliteration": "ɧáfar, yíɧfur",
+    "arabic": "حفر، يِحْفُر",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-243.mp3"
+  },
+  {
+    "english": "(garden) hose",
+    "transliteration": "nabrīš",
+    "arabic": "نبْريش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-244.mp3"
+  },
+  {
+    "english": "tool",
+    "transliteration": "3íddi (ma3idēt)",
+    "arabic": "عِدِّة (معِدات)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-245.mp3"
+  },
+  {
+    "english": "saw",
+    "transliteration": "minšār (manašīr)",
+    "arabic": "مِنْشار (مناشير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-246.mp3"
+  },
+  {
+    "english": "to saw",
+    "transliteration": "ʔaʂʂ [55] b-ilminšār",
+    "arabic": "قصّ بِالمِنْشار",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-247.mp3"
+  },
+  {
+    "english": "hammer",
+    "transliteration": "šākūš (šawākīš)",
+    "arabic": "شاكوش (شَواكيش)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-248.mp3"
+  },
+  {
+    "english": "to hammer",
+    "transliteration": "daʔʔ [5] b-iššākūš",
+    "arabic": "دقّ بِالشّاكوش",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-249.mp3"
+  },
+  {
+    "english": "nail, screw",
+    "transliteration": "mismār (masamīr)",
+    "arabic": "مِسْمار (مسامير)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-250.mp3"
+  },
+  {
+    "english": "screwdriver",
+    "transliteration": "mfakk",
+    "arabic": "مْفكّ",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-251.mp3"
+  },
+  {
+    "english": "axe",
+    "transliteration": "fáʔis (fʔūs)",
+    "arabic": "فقِس (فْقوس)",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-252.mp3"
+  },
+  {
+    "english": "to chop wood",
+    "transliteration": "ʔaʂʂ [55] xášab",
+    "arabic": "قصّ خشب",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-253.mp3"
+  },
+  {
+    "english": "wrench (UK: spanner)",
+    "transliteration": "miftēɧ inglīzi",
+    "arabic": "مِفْتاح إنْكْليزي",
+    "audioUrl": "http://media.lingualism.com/wp-content/uploads/vocab/lcav/lcav07-254.mp3"
+  }
+]

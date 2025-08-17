@@ -1,0 +1,367 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Standard Arabic"
+  },
+  {
+    "english": "crime ",
+    "transliteration": "ijraam",
+    "arabic": "اجرام"
+  },
+  {
+    "english": "crime",
+    "transliteration": "jariima",
+    "arabic": "جريمة"
+  },
+  {
+    "english": "crimes",
+    "transliteration": "jaraa'im",
+    "arabic": "جرائم"
+  },
+  {
+    "english": "criminal",
+    "transliteration": "mujrim",
+    "arabic": "مجرم"
+  },
+  {
+    "english": "criminals",
+    "transliteration": "mujrimuun",
+    "arabic": "مجرمون"
+  },
+  {
+    "english": "murderer",
+    "transliteration": "saffaaH",
+    "arabic": "سفاح"
+  },
+  {
+    "english": "victim",
+    "transliteration": "DaHiyya",
+    "arabic": "ضحية"
+  },
+  {
+    "english": "victims",
+    "transliteration": "DaHaaya",
+    "arabic": "ضحايا"
+  },
+  {
+    "english": "prisoner",
+    "transliteration": "asiir",
+    "arabic": "أسير"
+  },
+  {
+    "english": "prisoners",
+    "transliteration": "asra",
+    "arabic": "أسرى"
+  },
+  {
+    "english": "suspect in",
+    "transliteration": "muštaba fi",
+    "arabic": "مشتبه في"
+  },
+  {
+    "english": "accused of",
+    "transliteration": "muttaham bi",
+    "arabic": "متهم بـ"
+  },
+  {
+    "english": "involvement in",
+    "transliteration": "Dil3",
+    "arabic": "ضلع"
+  },
+  {
+    "english": "involvement ins",
+    "transliteration": "Duluu3 fi",
+    "arabic": "ضلوع في"
+  },
+  {
+    "english": "illegal",
+    "transliteration": "ġeir qaanuuni",
+    "arabic": "غير قانوني"
+  },
+  {
+    "english": "warrant",
+    "transliteration": "mudakkirat tawqiif",
+    "arabic": "مذكرة توقيف"
+  },
+  {
+    "english": "bail",
+    "transliteration": "kafaala",
+    "arabic": "كفالة"
+  },
+  {
+    "english": "trial",
+    "transliteration": "muHaakama",
+    "arabic": "محاكمة"
+  },
+  {
+    "english": "case",
+    "transliteration": "qaDiyya",
+    "arabic": "قضية"
+  },
+  {
+    "english": "cases",
+    "transliteration": "qaDaaya",
+    "arabic": "قضايا"
+  },
+  {
+    "english": "court or tribunal",
+    "transliteration": "maHkama",
+    "arabic": "محكمة"
+  },
+  {
+    "english": "court or tribunals",
+    "transliteration": "maHaakim",
+    "arabic": "محاكم"
+  },
+  {
+    "english": "judge",
+    "transliteration": "qaaDin",
+    "arabic": "قاضٍ"
+  },
+  {
+    "english": "judges",
+    "transliteration": "quDaah",
+    "arabic": "قضاة"
+  },
+  {
+    "english": "lawyer",
+    "transliteration": "muHaamin",
+    "arabic": "محامٍ"
+  },
+  {
+    "english": "lawyers",
+    "transliteration": "muHaamiyuun",
+    "arabic": "محاميون"
+  },
+  {
+    "english": "jury",
+    "transliteration": "hei'at muHallafiin",
+    "arabic": "هيئة محلفين"
+  },
+  {
+    "english": "juror",
+    "transliteration": "muHallaf",
+    "arabic": "محلّف"
+  },
+  {
+    "english": "jurors",
+    "transliteration": "muHallafuun",
+    "arabic": "محلّفون"
+  },
+  {
+    "english": "witness",
+    "transliteration": "šaahid",
+    "arabic": "شاهد"
+  },
+  {
+    "english": "witnesses",
+    "transliteration": "šuhuud",
+    "arabic": "شهود"
+  },
+  {
+    "english": "eyewitness",
+    "transliteration": "šaahid 3iyaan",
+    "arabic": "شاهد عيان"
+  },
+  {
+    "english": "prosecution",
+    "transliteration": "iddi3aa'",
+    "arabic": "ادعاء"
+  },
+  {
+    "english": "defense",
+    "transliteration": "difaa3",
+    "arabic": "دفاع"
+  },
+  {
+    "english": "case",
+    "transliteration": "qaDiyya",
+    "arabic": "قضية"
+  },
+  {
+    "english": "cases",
+    "transliteration": "qaDaaya",
+    "arabic": "قضايا"
+  },
+  {
+    "english": "proof",
+    "transliteration": "daliil",
+    "arabic": "دليل"
+  },
+  {
+    "english": "proofs",
+    "transliteration": "adilla",
+    "arabic": "أدلة"
+  },
+  {
+    "english": "guilty",
+    "transliteration": "mudnib",
+    "arabic": "مذنب"
+  },
+  {
+    "english": "guilties",
+    "transliteration": "mudnibuun",
+    "arabic": "مذنبون"
+  },
+  {
+    "english": "innocent",
+    "transliteration": "bari'",
+    "arabic": "برئ"
+  },
+  {
+    "english": "innocents",
+    "transliteration": "abriyaa'",
+    "arabic": "أبرياء"
+  },
+  {
+    "english": "theft",
+    "transliteration": "sariqa",
+    "arabic": "سرقة"
+  },
+  {
+    "english": "robbery",
+    "transliteration": "nahb",
+    "arabic": "نهب"
+  },
+  {
+    "english": "burglary of",
+    "transliteration": "saTw 3ala",
+    "arabic": "سطو على"
+  },
+  {
+    "english": "drug possession",
+    "transliteration": "Hiyaazat muxaddiraat",
+    "arabic": "حيازة مخدرات"
+  },
+  {
+    "english": "drug trade",
+    "transliteration": "mutaajarat muxaddiraat",
+    "arabic": "متاجرة مخدرات"
+  },
+  {
+    "english": "smuggling",
+    "transliteration": "tahriib",
+    "arabic": "تهريب"
+  },
+  {
+    "english": "rape",
+    "transliteration": "iġtiSaab",
+    "arabic": "اغتصاب"
+  },
+  {
+    "english": "murder",
+    "transliteration": "qatl",
+    "arabic": "قتل"
+  },
+  {
+    "english": "bribery",
+    "transliteration": "irtišaa'/rašwa",
+    "arabic": "ارتشاء | رشوة"
+  },
+  {
+    "english": "embezzlement",
+    "transliteration": "ixtilaas",
+    "arabic": "اختلاس"
+  },
+  {
+    "english": "fraud",
+    "transliteration": "iHtiyaal",
+    "arabic": "احتيال"
+  },
+  {
+    "english": "blackmail",
+    "transliteration": "ibtizaaz",
+    "arabic": "ابتزاز"
+  },
+  {
+    "english": "punishment ",
+    "transliteration": "3iqaab",
+    "arabic": "عقاب"
+  },
+  {
+    "english": " punishment",
+    "transliteration": "3uquuba",
+    "arabic": "عقوبة"
+  },
+  {
+    "english": " punishments",
+    "transliteration": "3uquubaat",
+    "arabic": "عقوبات"
+  },
+  {
+    "english": "sentence",
+    "transliteration": "Hukm",
+    "arabic": "حكم"
+  },
+  {
+    "english": "sentences",
+    "transliteration": "aHkaam 3ala",
+    "arabic": "أحكام على"
+  },
+  {
+    "english": "sentenced to",
+    "transliteration": "maHkuum bi",
+    "arabic": "محكوم بـ"
+  },
+  {
+    "english": "fine",
+    "transliteration": "ġaraama",
+    "arabic": "غرامة"
+  },
+  {
+    "english": "fines",
+    "transliteration": "ġaraamaat",
+    "arabic": "غرامات"
+  },
+  {
+    "english": "prison",
+    "transliteration": "sijn",
+    "arabic": "سجن"
+  },
+  {
+    "english": "prisons",
+    "transliteration": "sujuun",
+    "arabic": "سجون"
+  },
+  {
+    "english": "prison cell",
+    "transliteration": "zinzaana",
+    "arabic": "زنزانة"
+  },
+  {
+    "english": "prison cells",
+    "transliteration": "zinzaanaat",
+    "arabic": "زنزانات"
+  },
+  {
+    "english": "imprisonment",
+    "transliteration": "Habs",
+    "arabic": "حبس"
+  },
+  {
+    "english": "hanging",
+    "transliteration": "šanq",
+    "arabic": "شنق"
+  },
+  {
+    "english": "gallows",
+    "transliteration": "mišnaqa",
+    "arabic": "مشنقة"
+  },
+  {
+    "english": "gallows",
+    "transliteration": "mašaaniq",
+    "arabic": "مشانق"
+  },
+  {
+    "english": "chained",
+    "transliteration": "mukabbal",
+    "arabic": "مكبل"
+  },
+  {
+    "english": "chains",
+    "transliteration": "salaasil  silsila",
+    "arabic": "سلاسل    سلسلة"
+  }
+]

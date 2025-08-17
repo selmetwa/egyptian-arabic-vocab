@@ -1,0 +1,682 @@
+[
+  {
+    "english": "English",
+    "transliteration": "Transliteration",
+    "arabic": "Egyptian Arabic"
+  },
+  {
+    "english": "hobby",
+    "transliteration": "hawaaya",
+    "arabic": "هواية"
+  },
+  {
+    "english": "hobbies",
+    "transliteration": "hawaayaat",
+    "arabic": "هوايات"
+  },
+  {
+    "english": "sport",
+    "transliteration": "riyaaDa",
+    "arabic": "رياضة"
+  },
+  {
+    "english": "sports",
+    "transliteration": "riyaaDaat",
+    "arabic": "رياضات"
+  },
+  {
+    "english": "game",
+    "transliteration": "li3ba",
+    "arabic": "لعبة"
+  },
+  {
+    "english": "games",
+    "transliteration": "al3aab",
+    "arabic": "ألعاب"
+  },
+  {
+    "english": "crafts",
+    "transliteration": "Hirf  Hirfa",
+    "arabic": "حرف    حرفة"
+  },
+  {
+    "english": "ball",
+    "transliteration": "koora",
+    "arabic": "كورة"
+  },
+  {
+    "english": "balls",
+    "transliteration": "kowar",
+    "arabic": "كور"
+  },
+  {
+    "english": "team",
+    "transliteration": "farii'",
+    "arabic": "فريق"
+  },
+  {
+    "english": "national team",
+    "transliteration": "muntaxab",
+    "arabic": "منتخب"
+  },
+  {
+    "english": "match",
+    "transliteration": "matš",
+    "arabic": "ماتش"
+  },
+  {
+    "english": "matches",
+    "transliteration": "matšaat",
+    "arabic": "ماتشات"
+  },
+  {
+    "english": "stadium",
+    "transliteration": "istaad",
+    "arabic": "استاد"
+  },
+  {
+    "english": "field",
+    "transliteration": "mal3ab",
+    "arabic": "ملعب"
+  },
+  {
+    "english": "off-side",
+    "transliteration": "tasallul",
+    "arabic": "تسلل"
+  },
+  {
+    "english": "goal post",
+    "transliteration": "'ayma",
+    "arabic": "قائم"
+  },
+  {
+    "english": "goal posts",
+    "transliteration": "'awaayim",
+    "arabic": ""
+  },
+  {
+    "english": "crossbar",
+    "transliteration": "3arDa",
+    "arabic": "عارضة"
+  },
+  {
+    "english": "goal",
+    "transliteration": "gool",
+    "arabic": "جول"
+  },
+  {
+    "english": "goals",
+    "transliteration": "goolaat",
+    "arabic": "جولات"
+  },
+  {
+    "english": " consecutive goals",
+    "transliteration": "hadafaan mutataaliyaan",
+    "arabic": "هدفان متتاليان"
+  },
+  {
+    "english": "player",
+    "transliteration": "laa3ib",
+    "arabic": "لاعب"
+  },
+  {
+    "english": "players",
+    "transliteration": "laa3ibiin",
+    "arabic": "لاعبين"
+  },
+  {
+    "english": "midfielder",
+    "transliteration": "laa3ib il-wisiT",
+    "arabic": "لاعب الوسط"
+  },
+  {
+    "english": "attacker",
+    "transliteration": "muhaagim",
+    "arabic": "مهاجم"
+  },
+  {
+    "english": "defender",
+    "transliteration": "mudaafi3",
+    "arabic": "مدافع"
+  },
+  {
+    "english": "forward",
+    "transliteration": "muhaagim",
+    "arabic": "مهاجم"
+  },
+  {
+    "english": "striker",
+    "transliteration": "muhaagim",
+    "arabic": "مهاجم"
+  },
+  {
+    "english": "winger",
+    "transliteration": "laa3ib ginaaH",
+    "arabic": "لاعب جناح"
+  },
+  {
+    "english": "referee",
+    "transliteration": "Hakam",
+    "arabic": "حكم"
+  },
+  {
+    "english": "trainer or coach",
+    "transliteration": "mudarrib",
+    "arabic": "مدرّب"
+  },
+  {
+    "english": " kick",
+    "transliteration": "šooTa",
+    "arabic": "شوطة"
+  },
+  {
+    "english": "free kick",
+    "transliteration": "Darba Hurra",
+    "arabic": "ضربة حرة"
+  },
+  {
+    "english": "direct free kick",
+    "transliteration": "Darba Hurra  mubaašira",
+    "arabic": "ضربة حرة  مباشرة"
+  },
+  {
+    "english": "penalty kick",
+    "transliteration": "Darbit gazaa'",
+    "arabic": "ضربة جزاء"
+  },
+  {
+    "english": "corner kick",
+    "transliteration": "Daraba rukniyya",
+    "arabic": "ضربة ركنية"
+  },
+  {
+    "english": "goal kick",
+    "transliteration": "Darbit marma",
+    "arabic": "ضربة مرمى"
+  },
+  {
+    "english": "header",
+    "transliteration": "Darbit raas",
+    "arabic": "ضربة رأس"
+  },
+  {
+    "english": "victory",
+    "transliteration": "fooz",
+    "arabic": "فوز"
+  },
+  {
+    "english": " pass",
+    "transliteration": "tamriira",
+    "arabic": "تمريرة"
+  },
+  {
+    "english": "foul",
+    "transliteration": "faawil",
+    "arabic": "فاول"
+  },
+  {
+    "english": "fouls",
+    "transliteration": "fawlaat",
+    "arabic": "فاولات"
+  },
+  {
+    "english": "a tie",
+    "transliteration": "ta3aadul",
+    "arabic": "تعادل"
+  },
+  {
+    "english": "a scoreless tie",
+    "transliteration": "ta3aadul silbi",
+    "arabic": "تعادل سلبي"
+  },
+  {
+    "english": "yellow card",
+    "transliteration": "kart aSfar",
+    "arabic": "كرت أصفر"
+  },
+  {
+    "english": "red card",
+    "transliteration": "kart aHmar",
+    "arabic": "كرت أحمر"
+  },
+  {
+    "english": "amateur",
+    "transliteration": "haawi",
+    "arabic": "هاوي"
+  },
+  {
+    "english": "professional",
+    "transliteration": "muHtarif",
+    "arabic": "محترف"
+  },
+  {
+    "english": "baseball",
+    "transliteration": "beisbool",
+    "arabic": "بيسبول"
+  },
+  {
+    "english": "hockey",
+    "transliteration": "hoki",
+    "arabic": "هوكي"
+  },
+  {
+    "english": "skiing",
+    "transliteration": "tazallug",
+    "arabic": "تزلج"
+  },
+  {
+    "english": "golf",
+    "transliteration": "golf",
+    "arabic": "جولف"
+  },
+  {
+    "english": "gymnastics",
+    "transliteration": "žimnastik",
+    "arabic": "جيمناستيك"
+  },
+  {
+    "english": "archery",
+    "transliteration": "rimaaya",
+    "arabic": "رماية"
+  },
+  {
+    "english": "skating",
+    "transliteration": "batinaaž",
+    "arabic": "باتيناج"
+  },
+  {
+    "english": "running",
+    "transliteration": "ig-gari",
+    "arabic": "الجري"
+  },
+  {
+    "english": "cricket",
+    "transliteration": "kirikit",
+    "arabic": "كريكت"
+  },
+  {
+    "english": "polo",
+    "transliteration": "bolo",
+    "arabic": "بولو"
+  },
+  {
+    "english": "boxing",
+    "transliteration": "mulakma",
+    "arabic": "ملاكمة"
+  },
+  {
+    "english": "wrestling",
+    "transliteration": "muSar3a",
+    "arabic": "مصارعة"
+  },
+  {
+    "english": "swimming",
+    "transliteration": "sibaaHa",
+    "arabic": "سباحة"
+  },
+  {
+    "english": "diving",
+    "transliteration": "ġaTs",
+    "arabic": "غطس"
+  },
+  {
+    "english": "rowing",
+    "transliteration": "tagdiif",
+    "arabic": "تجديف"
+  },
+  {
+    "english": "backgammon",
+    "transliteration": "Tawla",
+    "arabic": "طاولة"
+  },
+  {
+    "english": "chess",
+    "transliteration": "šaTarang",
+    "arabic": "شطرنج"
+  },
+  {
+    "english": "king ",
+    "transliteration": "malik",
+    "arabic": "ملك"
+  },
+  {
+    "english": "queen ",
+    "transliteration": "waziir",
+    "arabic": "وزير"
+  },
+  {
+    "english": "pawn ",
+    "transliteration": "3askari",
+    "arabic": "عسكري"
+  },
+  {
+    "english": "pawn s",
+    "transliteration": "3asaakir",
+    "arabic": "عساكر"
+  },
+  {
+    "english": "knight ",
+    "transliteration": "HuSaan",
+    "arabic": "حصان"
+  },
+  {
+    "english": "rook",
+    "transliteration": "Tabya",
+    "arabic": "طابية"
+  },
+  {
+    "english": "bishop ",
+    "transliteration": "fiil",
+    "arabic": "فيل"
+  },
+  {
+    "english": "Check",
+    "transliteration": "kišš",
+    "arabic": "كش"
+  },
+  {
+    "english": "Checkmate",
+    "transliteration": "kišš maat",
+    "arabic": "كش مات"
+  },
+  {
+    "english": "gardening",
+    "transliteration": "bastana",
+    "arabic": "بستنة"
+  },
+  {
+    "english": "gambling",
+    "transliteration": "'umaar",
+    "arabic": "قمار"
+  },
+  {
+    "english": "fishing rod",
+    "transliteration": "Sinnaara",
+    "arabic": "صنارة"
+  },
+  {
+    "english": "fishing rods",
+    "transliteration": "Sananiir",
+    "arabic": "صنانير"
+  },
+  {
+    "english": "hunting",
+    "transliteration": "Seid",
+    "arabic": "صيد"
+  },
+  {
+    "english": "sewing",
+    "transliteration": "xiyaaTa",
+    "arabic": "خياطة"
+  },
+  {
+    "english": "spades",
+    "transliteration": "sibaads",
+    "arabic": "سبادس"
+  },
+  {
+    "english": "diamonds",
+    "transliteration": "sambuksa",
+    "arabic": "سمبكسة"
+  },
+  {
+    "english": "clubs",
+    "transliteration": "warda",
+    "arabic": "وردة"
+  },
+  {
+    "english": "hearts",
+    "transliteration": "'alb",
+    "arabic": "قلب"
+  },
+  {
+    "english": "ace",
+    "transliteration": "ays",
+    "arabic": "أيس"
+  },
+  {
+    "english": "king",
+    "transliteration": "šaayib",
+    "arabic": "شايب"
+  },
+  {
+    "english": "queen",
+    "transliteration": "bint",
+    "arabic": "بنت"
+  },
+  {
+    "english": "jack",
+    "transliteration": "walad",
+    "arabic": "ولد"
+  },
+  {
+    "english": "joker",
+    "transliteration": "žookir",
+    "arabic": "جوكر"
+  },
+  {
+    "english": " cheat",
+    "transliteration": "ġaššaaš",
+    "arabic": "غشاش"
+  },
+  {
+    "english": "to stay up late",
+    "transliteration": "sihir - yishar ",
+    "arabic": "سهر - يسهر "
+  },
+  {
+    "english": "to frequent ",
+    "transliteration": "itraddad - yitraddid ",
+    "arabic": "اتردد - يتردد "
+  },
+  {
+    "english": "to pass the time",
+    "transliteration": "itsalla - yitsalla ",
+    "arabic": "اتسلى - يتسلى "
+  },
+  {
+    "english": "to go for a stroll or outing",
+    "transliteration": "itfassaH - yitfassaH",
+    "arabic": "اتفسح - يتفسح"
+  },
+  {
+    "english": " joke",
+    "transliteration": "nukta",
+    "arabic": "نكتة"
+  },
+  {
+    "english": " jokes",
+    "transliteration": "nukat",
+    "arabic": "نكت"
+  },
+  {
+    "english": "to keep  company",
+    "transliteration": "winnis - yiwannis ",
+    "arabic": "ونس - يونس "
+  },
+  {
+    "english": "to become cheerful/happy",
+    "transliteration": "farfiš - yifarfiš ",
+    "arabic": "فرفش - يفرش "
+  },
+  {
+    "english": "to relax",
+    "transliteration": "irtaaH - yirtaaH",
+    "arabic": "ارتاح - يرتاح"
+  },
+  {
+    "english": "together",
+    "transliteration": "sawa",
+    "arabic": "سواء"
+  },
+  {
+    "english": "together",
+    "transliteration": "ma3a ba3D",
+    "arabic": "مع بعض"
+  },
+  {
+    "english": "appointment",
+    "transliteration": "maw3id",
+    "arabic": "موعد"
+  },
+  {
+    "english": "appointments",
+    "transliteration": "mawa3iid",
+    "arabic": "مواعيد"
+  },
+  {
+    "english": "party",
+    "transliteration": "Hafla",
+    "arabic": "حفلة"
+  },
+  {
+    "english": "parties",
+    "transliteration": "Hafalaat",
+    "arabic": "حفلات"
+  },
+  {
+    "english": "costume party",
+    "transliteration": "Hafla tanakkuriyya",
+    "arabic": "حفلة تنكرية"
+  },
+  {
+    "english": "mask",
+    "transliteration": "'inaa3",
+    "arabic": "قناع"
+  },
+  {
+    "english": "masks",
+    "transliteration": "aqni3a",
+    "arabic": "أقنعة"
+  },
+  {
+    "english": "friend",
+    "transliteration": "SaaHib",
+    "arabic": "صاحب"
+  },
+  {
+    "english": "friends",
+    "transliteration": "aSHaab",
+    "arabic": "أصحاب"
+  },
+  {
+    "english": "gift",
+    "transliteration": "hidiyya",
+    "arabic": "هدية"
+  },
+  {
+    "english": "gifts",
+    "transliteration": "hadaaya",
+    "arabic": "هدايا"
+  },
+  {
+    "english": "a  occassion",
+    "transliteration": "munasba",
+    "arabic": "مناسبة"
+  },
+  {
+    "english": "a  occassions",
+    "transliteration": "munasbaat ",
+    "arabic": "مناسبات خاصة"
+  },
+  {
+    "english": "drunk",
+    "transliteration": "sakraan",
+    "arabic": "سكران"
+  },
+  {
+    "english": "a drunk",
+    "transliteration": "sukari",
+    "arabic": "سكري"
+  },
+  {
+    "english": "a drunks",
+    "transliteration": "sukariyya",
+    "arabic": "سكرية"
+  },
+  {
+    "english": "drunk",
+    "transliteration": "masTuul",
+    "arabic": "مسطول"
+  },
+  {
+    "english": "drunks",
+    "transliteration": "masaTiil",
+    "arabic": "مساطيل"
+  },
+  {
+    "english": "a gambler",
+    "transliteration": "'omarti",
+    "arabic": "قمرتي"
+  },
+  {
+    "english": "a gamblers",
+    "transliteration": "'omartiyya",
+    "arabic": "قمرتية"
+  },
+  {
+    "english": " exercise",
+    "transliteration": "tamriin",
+    "arabic": "تمرين"
+  },
+  {
+    "english": " exercises",
+    "transliteration": "tamaariin",
+    "arabic": "تمارين"
+  },
+  {
+    "english": "exercise",
+    "transliteration": "tamaariin riyaaDiyya",
+    "arabic": "تمارين رياضية"
+  },
+  {
+    "english": "warm-up",
+    "transliteration": "tasxiin",
+    "arabic": "تسخين"
+  },
+  {
+    "english": "competition",
+    "transliteration": "munafsa",
+    "arabic": "منافسة"
+  },
+  {
+    "english": "race",
+    "transliteration": "musab'a",
+    "arabic": "مسابقة"
+  },
+  {
+    "english": "lap ",
+    "transliteration": "laffa",
+    "arabic": "لفة"
+  },
+  {
+    "english": "lap s",
+    "transliteration": "laffaat",
+    "arabic": "لفات"
+  },
+  {
+    "english": "championship",
+    "transliteration": "buTuula",
+    "arabic": "بطولة"
+  },
+  {
+    "english": "champion",
+    "transliteration": "baTal",
+    "arabic": "بطل"
+  },
+  {
+    "english": "champions",
+    "transliteration": "abTaal",
+    "arabic": "أبطال"
+  },
+  {
+    "english": "point",
+    "transliteration": "no'Ta",
+    "arabic": "نقطة"
+  },
+  {
+    "english": "points",
+    "transliteration": "no'aT",
+    "arabic": "نقاط"
+  }
+]
